@@ -1,0 +1,1373 @@
+1176	n-pr-postp n pref-v-suf-suf
+1178	n-suf n-suf
+1180	n-v-suf
+1194	prop-suf n-v-suf
+1222	n-suf n-suf v-suf
+1229	n-pron n-suf v-suf-suf
+1233	n pref-v-suf
+1244	n-n-suf n v-suf
+1245	n-n-suf n v-suf
+1246	n-n-suf n v-suf
+1247	n-pr-suf n-n-suf n-pr v-suf
+1248	n-pron-suf n-n-suf n-pron v-suf
+1249	n-suf n-suf n v-suf
+1250	n-suf n-n-suf n v-suf
+1251	n-suf n-suf n-suf v-suf
+1254	n-pr-suf n-suf n-suf v-suf
+1255	n-suf n-suf n-suf
+1257	n-suf n-n-suf-suf
+1258	n-suf n-n-suf-suf
+1259	pron n-suf dem-suf
+1264	n-n-suf n-suf-suf
+1268	dom dem-n-suf n-suf
+1274	n-suf n-n v-suf
+1275	n-n-suf n-adv-suf v-suf
+1276	n-pr-postp adv-v-suf n c-suf
+1280	dem-n n-suf-suf
+1281	pr-suf n-n-v-suf
+1286	dem-n-n-suf-suf v-suf-suf
+1291	n-n-suf dem-suf
+1296	n-pr-suf n-suf dem-suf v-suf
+1297	dem-n-suf pron-n-suf
+1299	dem-suf n v-suf
+1302	dem-n-suf-suf pron-n-suf
+1305	***-suf v-*** n-suf dem-n-suf-suf-suf
+1308	dem-n-suf pron-n-suf
+1311	dem n-pr-suf n-suf
+1312	n-n-suf dem-suf-suf
+1319	n num-clf v-suf
+1320	dem-n n-suf
+1322	n num-clf-suf n num-clf v-suf
+1323	n-suf n-n-suf n num-clf-suf n num-clf v-suf
+1326	dem-suf n num-clf v-suf-suf
+1330	n num-n v-suf
+1333	n num-n num-n v-suf-suf
+1334	num-n num-num-num-n-suf
+1335	n n-n n-n-suf
+1341	n-suf n-n-suf v-suf
+1348	n n v n v-suf
+1349	n-suf n v-suf
+1350	n-pr-suf n-suf n-v-suf pron-suf-postp n-suf-postp v-suf
+1356	n-n-suf pron n-v-suf
+1367	n-v-suf
+1369	interj pref-v-suf
+1371	n-pr n v-suf
+1378	n-pr-n-suf n-v-suf
+1379	n-pr-suf n-v-suf
+1380	n-pr-suf n v-suf
+1382	n-pr-n-suf n-v-suf
+1386	n-n-suf n v-suf
+1388	pron num-n-suf-suf n-v-suf
+1389	num-num-n-suf v-suf
+1392	n-suf n-v-suf
+1393	n n v-suf-suf
+1396	n v-suf-suf
+1397	pron n-v-n-suf n-v-suf
+1398	n-pr-suf n v-suf n-v-suf
+1401	pron-n-suf-n-suf v-suf
+1402	n-n-suf-n-suf n pref-v-suf
+1403	n pref-v-suf
+1408	pr-suf-n-suf-suf v-suf-suf
+1409	interj pref-v-suf-suf
+1410	n-suf v-suf
+1414	pr-n-suf-suf dem-n n-v-suf-suf
+1418	dem-n-suf n-adv v-suf-suf-suf
+1419	n-suf-n-suf v-suf pref-v-suf
+1423	n-suf-n dem-n-v-suf
+1426	pron-n-suf v pref-v-suf
+1427	adv v-suf
+1428	v pref-v-suf-suf
+1431	dem-n-suf n pref-adv-suf pref-v-suf
+1433	n-n-suf n-suf-n-v-suf v-suf
+1434	dem-n-suf adv v-suf n-suf
+1435	n-suf-suf v-suf-suf
+1446	n-pr-suf n-v-suf
+1449	pron n-n-suf n v-v-suf
+1450	n-v-suf
+1451	interj pref-v-suf
+1454	dem-n-suf n-v-suf
+1455	dem-n-suf n v-suf
+1457	pron n-v v-suf
+1459	n-pr-suf n-suf adv n-v-suf
+1460	n-pr-suf n-suf n-suf
+1473	n v-suf pref-n-suf-suf-suf
+1474	dem-suf n-v-suf v-suf
+1476	dem-n-suf n-n v-suf v-suf
+1477	dem n-suf v-suf-suf n-suf
+1478	n pref-v-suf-suf-suf n-v-v-suf
+1481	n-pr-suf n-n-suf v-v-suf
+1482	n-n-suf v-v-suf
+1484	n-v-v-suf n-v-suf
+1485	n-v-suf
+1491	n n-pr n-suf n v-v-suf
+1492	n-pr n n v-v-suf
+1494	dem-n-n-suf n-suf v-v-suf-suf
+1495	n-n-suf v-v-suf
+1501	n v-v-suf
+1507	dem-n-suf v-v-suf
+1512	n v-v-suf
+1513	n v-v-v-suf
+1515	n-suf n-num-num-suf v-v-suf
+1520	n v-v-suf
+1527	n-n-suf n-suf n v-suf
+1528	n n-suf n-suf-suf n-n v-suf
+1530	n-suf n-suf-suf n-v-suf
+1531	n-suf n-suf n-suf n-suf-suf n v-suf
+1532	n-suf n-n-suf v-suf
+1533	pron-suf n-suf n-suf n-suf n-suf v-suf
+1534	n-n-n-suf pron-n-suf
+1535	v-suf v-suf n-suf v-suf
+1537	dem-n-suf v-suf v-suf
+1542	dem-n-suf v-suf n-v-suf
+1544	dem-n-suf n-suf v-suf v-suf
+1545	n adv v-suf n pref-v-suf-suf
+1546	pron n-v-n-suf n-v-v n-v-v v-suf
+1547	n v n-suf-suf n v-v n v-v v-suf
+1548	n-suf n-n-n n v-v n-v-n v-v v-suf
+1549	n-suf proppernoun-suf pr-suf v-v-n-v v-suf
+1551	pron n n-suf n-suf v-suf pron-suf n n v-suf
+1553	n num-n-suf n-v-suf
+1556	n-n-suf dem-n-suf v-v-***
+1557	pron n-suf n-suf n-v-v-suf
+1558	n n-v-suf n v-suf
+1562	n-suf v-suf n-suf v-aux-suf
+1586	n-suf-v n-n adv-v-suf
+1588	n-suf n-v-suf
+1592	n-suf v-suf
+1599	pron n v-suf-suf
+1601	num-n-suf n-suf v-suf
+1605	n pref-v-suf
+1609	n-postp v-v-suf
+1614	n-suf n v-suf
+1619	n v-suf
+1625	n-pr-suf n v-suf
+1630	n-suf n-n pref-v-suf
+1634	n-suf v-suf
+1636	n-n-suf n-suf v-suf
+1637	num-n-suf n-suf v-suf
+1638	dem-n num-n num-num-n-n-suf pr-suf n-suf
+1640	n v-v-suf
+1645	n-suf n-n-suf v-v-suf
+1646	num-n num-n-suf-v num-n num-num-n-n-suf n-v-n-suf
+1647	n-num-suf-v n-num-num-n-n-suf v-aux-suf
+1650	n-suf v-suf
+1654	n-suf n v-v-suf-suf
+1660	n-suf n v-suf
+1667	n-suf n-v-suf
+1668	n-suf n-v-suf
+1671	v-pref-v-suf n-pref-v-suf
+1672	n-suf n n-v-suf
+1675	n num-suf-suf n-v-v-suf
+1679	n-num-n v num-n v-suf
+1682	n-suf-n-suf-suf n-v-suf-suf
+1683	dem-n-suf-postp n-n-n v-suf
+1692	dem-n-suf pron-n-suf n-postp
+1693	dem-n-suf pron-n-suf pref-v-suf
+1694	n n-v-suf-n *** part v-suf
+1696	dem-n-suf ***-part v-suf
+1710	n num-suf v-suf
+1714	v-v v-suf
+1715	*** n-v-suf-suf
+1720	n-suf v-suf
+1727	interj v-suf-suf
+1728	dem-n-n-suf n-n v-v-suf v-suf
+1734	n-v-suf v-suf-suf
+1738	n-suf n pref-v-suf-suf
+1745	n n-pref-v-suf-suf
+1748	n v-v-suf n pref-v-aux-suf-suf
+1768	n n-suf n v-***-suf
+1778	n-v-n v-***-suf
+1794	dem-n-suf pron v-v-suf
+1799	dem-n-suf pron v-suf-suf
+1801	n-suf n-v-suf-part v-v-suf n pref-v-suf
+1810	n-v-suf n v-suf-part n-v-v-suf
+1811	n-suf-suf n-n v-suf n-v-v-suf
+1813	dem-n dem-suf pref-v-aux-suf
+1817	pr-n-suf n-v-aux-suf
+1818	n v-aux-suf
+1824	*** v-suf-suf
+1826	proppernoun-suf-n-suf v-aux-suf
+1831	pron n n v-aux-suf
+1836	n v-aux-suf-suf-suf
+1837	dem-part dem-part v-aux-suf-suf
+1848	pron n-suf v-suf
+1849	pron n n-pref-v-suf
+1860	n-n n-suf-suf
+1862	pron n v-suf-suf v-suf
+1879	interj pref-v-suf
+1881	n-pr-suf n-v-aux-suf
+1883	dem-n-suf n-suf n-v-suf v-suf-suf
+1885	pron n v-aux-suf
+1900	dem-suf n-num-suf v-suf-suf dem-n-suf pron-suf
+1919	dem-n adv n-v-suf v-suf
+1921	n num-n v-suf n v-v-aux-suf
+1928	dem-n-suf num-suf-suf v-v-suf-n-postp
+1931	n-v-suf-n-postp
+1935	n-n-suf n pref-v-suf n n-v-v-suf-v-suf
+1942	n-suf-n-suf n-n n-suf-part v-suf
+1947	n-n-suf v-suf n-suf v-suf n-v n-suf-v-postp
+1965	dem-n-suf v-suf n-suf pron-suf n v-pref-v-suf
+1967	n v-suf n-suf adv v-suf v-suf
+1971	n v-v-suf n-suf v-aux-suf
+1974	n-n-suf n-pr n-v-v-suf v-aux-suf
+1990	n-pr v-v-suf-suf v-aux-suf
+1993	n v-suf n-suf n-pr-suf
+2004	n v-aux-suf-suf v-v-suf-suf
+2005	n n pref-v-suf n-pref-v-suf
+2007	*** pron-n-n v-v-suf-suf
+2011	n-suf
+2017	n n-v-suf-suf
+2018	n-v-suf n-suf pref-v-suf-suf
+2019	n n v-pref-v-suf n pref-v-suf
+2023	n-pr-suf n v-v-suf n-postp v-v-suf
+2024	n n v-suf n v-suf
+2030	pron-suf proppernoun-suf v-suf n-suf-suf-postp pr-suf v-suf
+2041	dem-n-suf v-suf v-suf n-suf n-v-suf
+2042	n n n-v-suf n v-suf
+2043	dem-n-suf v-suf n v-suf
+2047	n-v-suf v-suf
+2055	v-suf v-suf adv-v-suf-suf
+2056	pref-v-aux-suf pref-v-suf v-suf
+2060	n v-aux-suf n v-v-suf
+2061	n v-v-suf dem pref-v v-suf-suf
+2064	n-suf v-suf dem-n v-suf-suf-suf
+2065	n-suf n v-suf v-aux-suf
+2068	n v-suf n-v-suf
+2069	v-suf-suf n-v-suf
+2079	n-pr-suf n-suf-suf n v-suf
+2086	pron n-suf n v-suf
+2088	pron n-n-suf n v-suf-suf
+2090	pron n-pr-suf n v-aux-suf
+2092	n-pr-n-suf n v-suf-suf
+2093	pron n-suf-suf n v-aux-suf
+2097	n-suf-suf n-suf n-n v-v-suf
+2099	pron n-suf-suf n-suf v-v-suf
+2100	n-pr-suf pron-suf n-suf v-v-v-suf
+2104	n-v-n-suf n-n-suf v-v-suf
+2115	n-n n-v-v-suf
+2120	n-n dem-suf v-suf v-suf v-v-suf
+2123	n n-suf n v-n-suf
+2130	***-suf v-*** dem-n v-v-suf v-suf-suf
+2153	pron n-suf
+2154	n-suf v-suf-suf n adv n-v-v-suf v-suf
+2158	pron-suf n-suf n-suf-postp n-n-suf
+2170	n n-n v-suf-suf
+2178	pron n-v-n-n n n v-n-suf
+2179	n-n-suf-n n-suf v-v-suf
+2180	pr-suf n-n-suf n-suf n-v-suf-suf
+2187	n-suf v-n-suf n-v-suf
+2189	n-n-suf v adv n-v-suf
+2192	n-v-suf n-v-suf
+2205	dem-n-n-v-n-suf n-suf-suf v-v-suf n-suf v-v-suf
+2206	n-n-suf n-v-suf n v-aux-suf
+2213	v-suf-n-suf v-***-suf
+2220	n-n v-n-suf v-pref-n-aux-suf
+2227	pron n-suf n-suf v-suf
+2229	n v-aux-suf
+2232	n pron-suf pref-n-suf
+2234	n adv n-v-suf-postp-suf
+2247	v-suf-n-suf v-aux-suf-suf
+2249	n v-pref-n-suf n-suf n-suf v-suf v-suf
+2332	*** v-suf-suf v-suf
+2369	v-suf-suf v-suf
+2383	n v-suf n pref-v-suf n-v-v-suf
+2391	n-v-suf-suf
+2396	v-suf
+2409	n-suf
+2415	dem-v-suf v-v-suf
+2429	n-suf pr-suf n-v-suf-suf-part n-v-v-suf
+2495	dem-n-suf n-n-suf v-suf
+2497	n-n-suf dem-n v-suf-suf-suf
+2498	dem-suf n v-suf
+2520	interj n-suf-suf
+2548	interj
+2562	dem-postp-suf n-suf v-suf
+2599	n-suf
+2637	interj v-suf
+2651	n v-suf n-suf v-v-suf v-suf-suf
+2672	***-aux v-***
+2734	n-suf n-v-suf n-v-v-suf
+2744	n dem pron-suf n-suf
+2751	n-v-v-suf n-v-suf
+2753	n-suf n v-aux-suf
+2754	n-v-v-suf n-v-suf
+2755	n-pr-suf n adv v-suf
+2756	n-suf n-n-suf v-suf
+2757	n n v-suf
+2758	n-suf n-suf v-aux-suf
+2759	n-suf n-suf v-aux-suf
+2761	n-suf n-suf n v-suf
+2762	n-suf adv v-suf n-v-v-suf
+2763	n-v-suf n adv v-suf
+2764	n-v-suf n v-suf
+2766	n-v-suf n-suf pref-v-suf-suf
+2767	n-suf v-suf n-v-suf
+2769	n-n-suf n-suf pref-v-suf
+2771	n-suf n n-v-suf
+2772	n-suf n-suf n-suf n-v-suf v-suf
+2774	n-propern-suf n v-v-suf
+2775	n-n n -suf n-n v-v-suf
+2776	n-n-suf n-suf-suf n-v-suf
+2777	n-n-suf n v-v-suf
+2778	n-v-suf n v-suf adv n-v-suf
+2779	n-v-suf n-v-suf v-suf
+2780	dem-n-suf n-suf
+2781	n-suf-v n-suf v-suf n v-suf
+2782	n-n-suf n-suf v-suf adv n-v-suf
+2783	n-propern-suf n-n-suf v-v-suf
+2784	v-suf n v n v-suf n-v-suf
+2785	n-n-suf n-suf v-suf
+2786	n-n-suf n n-v-suf-suf
+2787	n-suf n-n-n v-aux-suf
+2788	dem n v-v-suf n-suf n-propern-suf
+2789	n-n-suf n-suf v-suf
+2790	dem-n-suf n-n-suf
+2791	n-propern-n-suf n v-suf
+2792	n-suf n v-suf
+2793	n num-clf v-suf
+2794	n num-clf v-aux-suf
+2795	n-v-n-suf n-num-n-suf-v n-num-n-n-suf
+2796	n-propern-suf n v-v-suf
+2797	n-suf n v-v-suf
+2798	n v-suf n-suf v-suf
+2800	n-suf-v n-num-num-n v-suf
+2801	dem-n-suf n-num-num-num-suf
+2802	n-num-num-suf n v-aux-suf
+2803	dem-n-suf n-suf n-v-suf
+2805	n n-suf n v-suf
+2806	pr-suf-n-suf-suf v-suf v-suf n-v-suf
+2807	pron n-suf n-suf n-suf
+2808	dem-n n-suf n-suf n-v-suf
+2809	n n-n n v-suf-part n-v-v-suf
+2810	n-suf pr-n-suf
+2811	pron n v pref-v-suf
+2812	n-suf n-n-suf n v-suf
+2813	n v-suf n n-suf v-suf
+2814	pr-n-suf n-suf n-suf v-suf v-suf
+2815	n-v-suf n pref-v-suf-suf
+2817	n-v-n-suf v-suf
+2818	pron n-suf n v-suf
+2819	n-v-suf n-suf n-n-suf v v-suf
+2820	pron n-suf n v-suf
+2821	pron n-n v-suf v-n-suf
+2822	pron n pref-n-suf v pref-v-suf
+2823	n v-v-suf n n-v-v-suf v-suf
+2824	v-v-suf n-suf v-suf v-suf
+2825	n-n-suf n v-v-suf v-suf-suf
+2826	pron n-suf n v-v-suf
+2828	n-n-n-suf n v-suf
+2829	n-propern-suf pron-suf n v-v-suf
+2830	dem-n-suf proppernoun-suf v-suf
+2831	n-n-n-suf n-v-suf adv-n-v-suf
+2832	n-v-suf-n n v-suf
+2833	n pref-v-suf n-suf v-suf
+2834	n-suf num-n-suf v-suf
+2835	n-suf v-n-suf n n-suf v-suf
+2836	n-suf n-suf n-suf v-suf
+2837	dem-n-suf-v v-suf n-suf pref-v-suf-suf v-suf
+2838	n v-suf v-suf n-n-suf v-suf-suf
+2839	n-n n-pref-v-suf n v-suf
+2840	n v-v-suf n-pref-v-suf-suf-suf
+2841	n-suf v-pref-v-suf
+2842	pron-suf n-propern-suf-suf n n-postp
+2843	n-suf n-suf n v-suf
+2844	n-suf n-suf-suf n-v-suf
+2845	pron n-suf v n-pref-v-suf
+2846	n-n-suf n-v-suf n-pref-v-suf-suf
+2847	dem-suf v-suf n-suf n num-n-suf-suf n-suf-suf
+2848	n-v-n-n n-suf n-suf n-v-suf
+2851	n-n pron n-suf proppernoun v-v-suf
+2852	n-suf num-n-suf n-v-aux-suf n-postp v-suf
+2853	n n v-suf dem-n n-v-suf
+2854	pron n-propern v-suf n-suf v-suf
+2855	n n-n n v-suf
+2856	n pref-v-suf n-suf v-v-suf-suf
+2857	dem-n-suf adv v-suf
+2858	n-suf n-suf n-n v-suf
+2860	v-v-v-suf-pr-v-n-suf
+2861	n-suf-n-suf v-suf
+2862	pron n-n-suf-suf n v-v-v-suf
+2863	n v-suf pref-v-suf-suf
+2864	n-suf n-v-suf n v-suf
+2865	n-n n-suf n v-v-suf-suf n-v-v-suf
+2866	pron n-n-n-suf n-suf v-suf
+2867	n-suf-n v-suf n-n-suf v-suf
+2868	pron-n-suf n-propern v-suf
+2869	pron-n-suf n-suf n v-v-suf
+2870	n dem-n-suf-postp v-v-suf v-suf-v-v-suf
+2871	n-suf n-suf suf-clf v-suf
+2873	pron-n-suf n v-suf n v-suf
+2874	v-suf v-suf n-v-suf
+2875	n-suf-n-suf n v-suf-suf
+2876	n-suf n-suf n-suf v-v-suf
+2877	n-suf n-suf n-postp
+2878	n-suf pron-suf n v-suf
+2879	n-suf n-n n-v-v-suf
+2880	n pref-v-suf n-suf v-suf
+2881	n-suf n-n-suf n-v n-suf
+2882	n-propern-n-suf dem-n v-suf n-suf n-n-suf v-v-suf
+2884	dem-n-suf n-n-suf v-aux-suf n v-suf
+2885	n-v-suf dem-suf pref-v-suf-suf
+2886	n adv n-v-suf-suf num-suf-suf v-suf-suf n-v-suf
+2887	n-v-n-suf n-n-suf-n-suf n-pref-v-suf-suf
+2888	dem-n-n-suf n-n-suf n-n-suf v-suf
+2889	n-propern-suf n-suf pron-n-suf n-suf v-suf
+2890	pron-n-suf v-v-suf n-suf n-propern-suf v-aux-suf
+2891	n-n v-v-suf n-suf v-suf
+2892	n-propern-n-suf v-n-suf n v-v-suf
+2893	n n-suf-*** n-suf n-v-suf
+2894	dem-n-suf n pref-v-suf
+2895	n-n-suf n v-v-suf
+2896	n-suf-v n-n-n-n-suf v-suf
+2898	n-v-suf n-suf v-suf
+2899	n-suf v-v-suf adv v-v-v-suf
+2900	n pref-v-suf n-n-suf v-aux-suf
+2901	n-n v-suf n-v-suf
+2902	n-n-suf n v-v-suf
+2906	dem-n-suf adv-v-suf n-v-suf
+2907	dem-n-suf v-suf n-n-suf v-suf
+2908	pr-n-suf n-v-suf v-suf
+2909	n-suf pr-n-suf v-v-suf
+2910	dem n-n
+2911	n-suf-v n-suf n v-v-suf
+2912	n-suf n-v-suf
+2913	n-suf n-n-suf-v v-v-suf
+2914	n-v-suf n-suf v-suf
+2915	n-suf n-suf n-suf v-v-suf
+2916	n-suf dem-n-suf num-suf-suf v-suf
+2917	n-suf v-suf adv n v-suf
+2918	pron n-suf n-v v-suf
+2919	pron n-suf n-v-suf
+2920	n-v-suf n-suf-suf-v v-***
+2921	n-dem-n-suf v-aux-suf n-suf v-suf
+2923	v-suf n-v-n-suf n-v-suf
+2924	n-v v-suf pref-v-v-suf-suf v-v-suf
+2925	n-suf-suf n-v v-suf pron-n-suf v-v-suf
+2926	n-propern-suf n-v v-suf
+2927	pron n v-suf v-suf
+2928	n-n v n-n-v-suf n-suf v-v-suf-part v-suf
+2929	n-propern-suf pref-v-v-suf
+2931	pron n-v-suf adv v-suf
+2933	n v-suf pref-v-suf-aux-suf
+2934	dem-n-suf-n-suf n-suf v-v-suf
+2935	pref-n v-suf n-n-v-*** n-v-v-suf
+2936	pron pr-n v-aux-suf
+2937	n v-suf n v-suf
+2939	n n-n-n-suf v-suf
+2940	dem-n-suf-v n-n-suf v-suf n-suf v-suf
+2941	pron n n-suf v-suf
+2943	pr-suf v-suf n v-suf
+2944	dem-n-suf-n-suf-suf adv v-suf
+2946	n-propern-suf n-suf num-n v-suf-suf
+2947	n-n v-suf n-suf n-v-suf-suf-part n-v-v-suf
+2948	n-n-suf-v n-v-n-v-n v-n-suf
+2949	n dem-n-suf n n-v-suf
+2950	dem-suf n-suf n v-v-suf-postp
+2951	pron n-n-suf n-suf-suf n-n-suf v-suf
+2952	n-n v-suf n-suf n-v-suf
+2953	n-n-suf-n-suf n-n-suf-suf
+2954	pron n-n n-suf v-n-suf
+2955	n-suf n-suf-n-suf n-pref-v-suf-postp
+2956	pron n pref-v-suf-suf
+2957	n-suf n-v-suf n-suf v-v-suf-v-suf
+2958	n-suf v-suf n-suf-num-suf-suf v-suf v-suf
+2959	n-n-suf n-suf n-n v-suf
+2960	n-suf-suf v-suf v-suf
+2961	pron n-suf n-suf n-n v-suf
+2962	n-suf n-v-suf n-v-suf
+2965	n-suf-v n num-clf v-suf-suf
+2966	n-suf n-num-n-suf-v n-num-n-n v-suf-suf
+2967	n-suf n-n-suf n v-v-suf
+2968	n dem-suf-n-n-suf v-suf
+2969	n-suf n-suf v-suf suf-v-suf
+2970	dem-n-suf v-suf v-suf
+2971	dem n-n-suf
+2973	dem-suf n num-clf v-suf
+2974	n-suf v-suf n v-suf
+2975	n-suf n-suf n v-suf-suf
+2976	n-suf n-suf n-n v-aux-suf
+2977	n-pr-suf n-n-suf n-v-suf
+2978	n n adv v-suf
+2979	v-n-suf n-suf n-v-suf
+2981	dem pr-suf-n-suf
+2982	dem-n-suf n v-suf suf-v-suf
+2983	n-suf n-v-suf v n-pref-v-suf-suf
+2984	n-suf v-suf n-v-suf v-suf
+2986	n-num-clf v-n-suf n-suf pref-v-suf
+2987	pron n-n-suf n-v-v-suf
+2988	pron n v-suf
+2989	n v-suf v-suf v-suf
+2991	pref-v v-suf n n-pref-v-suf
+2992	pron n-suf n-v-suf
+2993	n-suf num-n-suf num-n n-v-suf
+2994	dem-n-n-suf n-suf n v-v-suf
+2995	n n v-suf n pref-v-suf pref-v-suf
+2996	v-suf n-v-suf n-v-suf
+2997	n-suf n-v-v-suf v-suf
+2998	n-v-v-suf n-v-suf-part n-v-suf
+2999	n n v-suf n v-suf-suf
+3000	n n n-suf v-suf-suf-suf n-v-suf
+3001	n-suf dem-suf pref-v-suf
+3002	dem-n-suf n-suf v-suf v-suf
+3005	n-propern-suf n v-aux-suf
+3006	pron n-suf n v-suf
+3007	dem-n-suf n-v-suf n-v-suf
+3008	n-n v-aux-suf
+3009	dem pr-n-n v-suf-suf
+3010	n-suf-suf n v-suf
+3011	n-propern-suf n pref-n-suf pref-v-suf
+3012	pron n-suf n-v-suf-suf-suf v-suf-suf v-suf
+3013	pron n-suf v-suf-suf pr-n-suf
+3014	n-suf n-v n-v-suf
+3015	n v-suf n dem-n v-suf
+3016	pron n-n-v-n-suf n-v-suf
+3017	n-v-n-suf n-suf n v-suf-suf
+3018	pron n n-suf v-suf
+3019	n v-v-suf v-suf
+3021	pref-v-suf n-suf v-suf
+3022	n-suf n-suf n-suf v-suf
+3023	n-suf n-n-suf-postp n-v-suf-suf
+3024	n-n adv v-suf
+3025	n n-v-suf n v-aux-suf
+3026	n n-v-suf v-postp
+3027	n adv n-v-suf
+3028	v-n-suf n-v-suf-postp n-pref-v-suf
+3029	n n-v-suf-suf n-suf n-suf v-suf
+3030	n n-suf-v-suf
+3034	pr-suf-n-suf v-suf
+3035	n-v-suf v-n-suf
+3036	n adv v-suf n-v v-suf
+3037	n n v-suf-suf n-v-n-suf n-v-v-suf-part n-v-v-suf
+3038	n v-aux-aux-suf n-n v-v-suf
+3039	n-suf v-suf
+3040	n-suf n-v-suf n n-v-v-suf
+3041	n n-v-suf n v-aux-suf
+3042	n-suf n v pref-v-suf
+3043	n-v-v-suf v-suf
+3044	n n-v-v-suf v-postp
+3045	n n num-num-n-n v-suf v-suf v-suf
+3046	n-v-suf n-n-num-num-num-n v-suf
+3047	n n-n v-n-suf
+3048	n-suf adv n-v-suf
+3050	pron dem-n-suf pref-n-suf-postp
+3051	n v-suf n v n-pref-v-suf
+3052	n-v-suf n v n-v-suf pref-v-suf
+3053	n v v-suf n-v-suf n-n v-v-suf
+3056	n pref-v-suf n adv v-suf
+3057	dem n-*** n-suf-n-suf n-propern-suf
+3058	n-n v-suf
+3059	pron n-n-suf n v-aux-suf
+3060	pron n-suf n-v-suf-suf
+3062	n-suf n-suf n-suf v-suf
+3063	dem-n n-suf n v-suf
+3064	dem-suf n v-suf
+3065	n-suf pr-n-suf n-n n-suf
+3066	dem-n-suf dem-n-suf-n-n-n-suf
+3067	n n-suf n v-v-suf
+3068	n-suf-n-suf adv v-suf
+3069	dem-n-suf n-suf n-v-suf v-suf
+3070	dem v-n-suf v-suf v-suf
+3071	n-v-suf v-n v-aux-suf
+3072	dem-n-suf n v-suf n v-suf
+3073	n-suf n n-v-suf n v-suf
+3074	n v-v-suf n n-v-suf
+3075	n-n-suf n v-suf
+3076	n-suf n-suf n v-v-suf
+3077	n-suf n-pr-suf n-n v-aux-suf
+3078	n-n-suf n pref-n-suf n-v-suf-suf
+3079	n-suf n-propern-n-suf n v-suf
+3080	n-suf n-suf v-aux-suf
+3081	n-v-suf v-aux-suf
+3084	dem-n-suf n-n-n n-v-suf
+3086	v-suf n-v-suf n-suf v-*** n-v-v-suf
+3087	n pref-v-suf n-n-suf v-suf
+3088	n v-suf n n-n-n-suf v-suf
+3089	n-n-suf n-n-n v-suf
+3091	n n dem-n-suf-suf
+3092	dem-n-suf-n-suf n-v-v v-suf v-suf
+3093	n-n-suf n v-aux-suf
+3094	dem-n-suf-n-n-suf n-v-suf clf-postp
+3095	pron n-suf n pref-v-suf v-suf
+3096	n-suf n v-suf n v-suf
+3097	n-pref-v-n-suf num-n-suf v-suf
+3098	dem-n n-v-n-suf v-v-suf
+3099	n-n-n n-v-n-suf v-suf
+3100	n-v-suf n n-suf v-suf
+3102	n-suf v-suf-suf n-v-suf n-v-suf
+3103	n-n v-suf n-suf v-suf-suf v-v v-suf
+3104	n-suf n-n n v-aux-suf
+3105	n-suf v-aux-suf v-v n-v-suf
+3106	n v v-suf n-n pref-v-aux-suf
+3107	n v-suf n n-n v-suf
+3108	n-suf n-n-suf n n-v-suf
+3110	n-pr-suf n v-suf n-pr-suf-postp n n v-suf-suf
+3111	n-suf n-v v-suf
+3114	n num-clf v-aux-suf
+3115	n-n-suf n num-suf v-suf-suf
+3116	pr-n-suf-suf-suf n-suf n-v-suf
+3117	n-suf n-v-suf n-v-suf
+3118	pron n-suf n v-suf
+3119	n v n-suf pref-n-suf-postp
+3120	n-propern-suf n-n n v-v-suf
+3121	n-v-suf n-v-n pref-v-suf
+3122	n n-v-n v-suf
+3123	pr-postp n adv n-v-suf n v-suf
+3124	n-v-n pref-v-suf n-v-suf pref-v-suf
+3126	n-suf v-v-suf n-v-suf
+3127	dem-pref-v-n-suf-n-suf v-suf
+3128	n-v-n-suf n-v-suf n-v-suf
+3129	pref-v-suf n-v-suf
+3130	n-postp n-v-suf
+3131	n-suf n v-v-suf
+3132	dem pron-n-n-suf
+3133	n-suf-n-suf n-suf n v-suf
+3134	dem-n-suf-n-suf v-suf
+3135	n-pr-suf pr-n v-suf
+3136	n-suf n v-suf
+3137	pron-n-suf n-n-suf
+3138	n-suf v-suf n-n-suf-suf n-suf v-suf
+3139	n-n-suf-v n v-suf
+3140	n-suf n v-v-suf
+3141	n-suf-v n-v-n-n v-suf-suf
+3142	dem-n-suf n-suf n v-suf
+3143	n-suf v-v-suf n-suf v-suf
+3144	n-suf n-n v-aux-suf
+3145	dem-n-suf dem-n-suf-n-suf
+3146	n-n-suf n-v-suf-suf v-suf v-suf
+3147	v-suf-suf num-n-suf dem-n-suf n-suf-suf
+3148	n-n-suf n-n-n-suf v-v-v-suf
+3149	n-n-suf n-suf v-suf
+3150	n-suf n v-v-suf
+3151	n v-suf n n v-suf
+3153	v-n-suf n-suf n-v-v-suf
+3154	n-suf n-suf n-suf v-v-v-suf
+3155	pron-n-suf n v-v-suf
+3156	pref-v-n pref-v-suf n-n-suf v-v-suf
+3157	dem-n n-suf v-suf
+3158	n-n-suf n-pref-v-n v-suf-suf
+3159	n-n pref-v-n v-suf
+3160	n-v-n v-suf n n-suf v-suf
+3161	dem-n-suf n v-v-suf
+3162	n-n-suf n v-suf
+3163	n-n-suf n-suf v-suf-suf-suf n v-suf-suf
+3165	n-suf n v-v-suf n-suf-postp v-suf pref-v-suf
+3167	n-pr-suf pr-n-suf n-num-clf v-suf-suf
+3168	pr-n v-suf-suf v-suf
+3169	n-propern-suf n-pr-suf n-v-v-suf
+3170	dem-n-suf pron n-suf v-suf
+3171	dem-n-suf n-suf n-suf v-suf
+3172	n-suf n-n n-v-suf-suf
+3173	n v-suf-suf v pref-n-suf
+3174	n-propern-suf n-v v-suf
+3175	n-pr-n-suf n-v-suf-v-suf n-suf v-suf-suf
+3176	n-propern-suf n-pr-suf n-v-v-suf
+3177	n v-suf n n-pref-v-suf
+3178	n-pr-suf dem-n-suf n-suf v-v-suf-suf
+3179	n-suf n-n-suf n v-suf
+3180	n v-aux-suf n-postp pref-v-aux-aux-suf
+3181	dem-n-suf v-suf v-suf v-suf
+3182	n-n-suf v-suf-suf v-suf
+3183	pr-n-suf v-v-suf n-suf v-suf
+3184	n-suf n n-pref-v-suf n n-suf v-suf
+3185	n n-v-suf-postp n-v-suf
+3186	n-suf n-n-suf v-suf
+3187	pref-v-n v-suf n-v-suf
+3188	n-suf v-suf n-suf n-n v-v-suf
+3189	v-suf n v-suf
+3190	dem-n-suf pron-suf v-suf v-suf suf-v-suf
+3192	n-pr-suf v-n-n n-suf v-n-suf
+3193	n-suf v-suf n-v-suf v-suf
+3194	n pref-v-suf n v-suf
+3195	pr-suf n-n-suf v-suf n n-v-suf
+3196	n-n v-suf n-v-suf
+3197	n-pr-suf v-suf-v-suf n-suf-suf v-v-suf
+3198	n-v-n v-*** n-v-suf
+3199	dem-n-suf v-suf
+3201	dem-n-suf n-suf pref-v-suf v-suf-suf
+3202	n-suf n-n v-suf v-suf
+3204	n-n-n-suf n-n-suf n-suf-suf v-v-suf
+3205	n-n-suf n-v-suf
+3206	n n-suf n v-suf
+3207	n dem-suf n v-suf
+3208	n n pref-v-suf-suf
+3209	n-pr-suf pron-suf n v-suf
+3210	dem-n-suf v-v-suf clf suf-v-suf
+3211	dem-n-suf n-v-suf v-suf pref-v-suf
+3212	n-pr-suf n-n-suf v-aux-suf-v-aux-suf
+3213	dem-n-suf v-suf v-suf
+3214	n-v-suf n suf-v-aux-suf-suf
+3215	dem-n-n-suf adv v-suf
+3216	n v n n-postp v-suf
+3217	n n-suf n-suf n-suf
+3218	n-n-suf-postp n v-suf-suf
+3219	n-pr-suf n v-v-suf
+3220	n-n-suf n-suf n v-v-suf
+3221	n-suf-suf n-n adv v-suf
+3223	n-n-n-suf n v-aux-suf n v-v-suf
+3224	n-pr-suf n pref-v-suf n v-v-suf
+3225	dem-n-suf n v-suf
+3226	n-suf-suf n v-suf n v-suf
+3227	n v-suf n v-suf pref-v-suf
+3229	n pref-v-suf n-v-suf
+3230	n n v-aux-suf n v-v-suf
+3231	dem-n-suf n-suf pref-v-suf-postp
+3232	n-v-n-suf n-n v-suf
+3233	n pref-v-suf n-v-suf
+3234	n-suf n-v-suf adv v-v-suf
+3235	n-pr-suf n-n-suf v-suf
+3236	n-pr-suf n-n-suf v-v-suf
+3237	n-suf n-suf n-n v-suf-suf
+3238	n-n-n v-v-suf num-suf-suf n-pr-suf
+3239	n-pr-suf n-suf n-pref-adv-n-suf
+3240	n v-suf n n-n-n-n-suf v-suf
+3241	n-pr-suf n-n-n-suf v-v-suf
+3242	n-pr-suf n-suf pref-v-n-suf
+3243	pron pref-v-n pref-v-suf v-n-suf
+3244	pron n-suf n-suf pref-v-suf
+3245	dem-n-suf adv v-suf
+3246	n-suf n-n-n-suf n-v-suf
+3247	n-suf n-n-suf v-aux-suf
+3248	n-n-suf n v-suf
+3249	dem-n-suf-v n-n-v-suf n v-suf
+3250	dem-n-suf n-suf-suf n v-suf
+3251	n n-suf-suf n-suf-suf v-suf
+3252	n-suf n-n-suf v-suf
+3253	dem-n-n-suf n v-suf
+3254	n-suf n-suf n v-suf
+3255	n-pr-suf n n-suf v-suf
+3256	n v-suf pr-suf n-n-clf-suf adv v-suf
+3257	pron-n-suf n-n-suf v-suf n v-suf
+3259	dem-n-suf n-n-suf n n-n-suf-suf
+3260	dem-suf-v n-n-suf v-v v-suf n v-suf
+3261	n-pr-suf n-suf adv v-suf n
+3262	n pron-n-suf n-suf v-suf
+3263	n-suf n-n v-suf
+3264	n n-suf proppernoun-suf num-suf-suf v-v-suf
+3265	n-pr-suf n-suf n-suf-n-suf
+3266	n-n n-pr-suf n pr-suf n-n-suf
+3267	n-pr-suf n-suf n-v adv v-suf
+3268	n-pr-suf n-suf n-suf n-v-v-suf
+3269	n-pr-suf n-suf-suf n-suf v-v-suf-suf v-suf v-suf
+3270	n-pr-suf n-suf-suf n v-v-suf
+3271	pron-suf n-n-n-n num-suf v-v-suf
+3272	dem-n-v-suf-suf n-pr-suf
+3273	n-suf n-suf v-v-suf
+3274	dem-suf n-v-v-suf num-suf v-suf
+3275	dem-n-n-suf-n-suf-suf n v-v-suf-postp
+3276	n-pr-suf n-suf proppernoun-suf v-suf
+3277	pron n-suf n-v-v-aux-suf
+3278	n-pr-suf n-suf n-v-v-suf
+3279	n-v-suf n v-suf v-suf
+3280	n-propern-suf n-pr-suf n-suf-suf
+3281	pron-suf pr-n-suf-n v-suf
+3282	dem-n-suf n-suf v-suf n-suf-suf-suf pref-v-suf
+3283	dem-v n-num-suf n-n v-v-suf
+3284	num-n v-suf
+3285	n n v-suf n v-suf-suf
+3287	n-pr n-suf proppernoun-suf v-suf-part
+3288	pron dem-n-suf n-v-v-suf
+3289	dem-n-suf n-n-suf
+3290	n-suf n-suf n-postp v-suf
+3291	n-suf dem-n-suf-suf
+3292	dem-n-suf n-pr-suf
+3293	dem-suf v-suf pref-v-suf dem-suf v-suf
+3294	dem-n-suf-n-suf num-num-num-num-num-n-suf v-v-suf
+3295	dem-n-suf n-pr-suf
+3296	n-suf dem-suf-n-n-suf v-suf
+3297	n-v-suf dem-suf pref-v-suf-suf
+3298	dem-n-suf n-pr-suf
+3299	dem-suf v-suf-postp n-suf n v-suf
+3300	n-n-suf n-suf n-v-suf-suf
+3301	n-suf n-suf n-v-suf
+3302	dem-n dem-n-suf n v-suf
+3303	dem-n n adv v-suf
+3305	pr-suf n-suf num-n v-suf-suf
+3306	n-propern-suf n-suf num-n-suf-suf
+3307	n n num-n-suf
+3309	n-suf n-suf-n-n-suf n-v-suf
+3310	n-pr n-suf-v v-suf num-n-v n-n-suf n-suf v-suf
+3311	n-n-suf-suf n-v-v-suf v-v-n-aux-suf
+3312	n-suf n-suf n-v-suf
+3313	n-suf v-suf n num-n v-suf
+3314	pron pref-n-suf dem-n-suf v-suf-suf
+3315	pref-n-suf n-pr n-v-suf-suf
+3316	n-suf-n v-suf dem-n-suf v-v-suf
+3317	pron dem-n-suf v-suf n-v v-suf
+3318	n-n v-suf pron n-n v-suf-part n-v-v-suf
+3319	pron-n n-suf-n-suf v-suf n-suf n-v-suf
+3320	n-n-suf n-num-n v-suf n-suf v-suf
+3321	n-num-n v-suf dem-suf n v-suf v-suf
+3322	n-suf n-suf n-n v-suf
+3323	v-suf-suf num-n-n-suf n-suf n-v-suf-suf
+3324	n-pr-suf pr-suf num-n v-suf-part v-v-suf
+3326	dem-n n-suf n-pr-suf v-suf
+3327	n n-pr-suf v-suf n-v-suf
+3328	v-v v-suf n v-suf
+3329	n v-suf n-n v-suf
+3331	n v-suf dem-suf-n-suf pref-v-suf-suf
+3332	n-suf n-suf v-suf
+3333	pref-v-suf n-suf n-n-n v-suf
+3334	n n-pr n-v-suf pref-n-suf-suf
+3335	pron n n pref-v-suf
+3336	n-suf v-suf n pref-v-suf
+3337	n v-suf n-n v-suf
+3338	n n-suf n v-suf-suf-*** n v-suf
+3339	n v-suf n n v-suf
+3340	v-v-n-suf v-suf n-v-suf
+3341	n-v-v-n-suf v-suf
+3342	n-pr-suf n-suf proppernoun-suf
+3343	pron-suf num-n num-num-num-n-suf v-suf-suf
+3344	dem-n-suf v-suf v-suf n-suf v-suf
+3346	dem pr-suf pref-v-suf v-suf
+3347	dem-suf n v-suf pref-v-suf
+3348	dem-n-suf v-suf n v-suf
+3349	pron dem-n-suf n-suf pref-v-suf
+3350	n-suf n v-suf n-suf v-suf
+3351	n v-suf n v-v-suf
+3352	n-n-suf n-v-suf n adv v-suf
+3353	n-suf-v n-suf n-suf num-n v-suf
+3354	n-suf n-v-suf pron-suf pref-v-suf
+3355	dem-n n-n n-v-suf
+3356	n v-v-part adv v-v-aux-suf
+3357	n-n v-v-suf
+3358	n-n-suf v-suf
+3361	n-n n v-suf n n-v-suf
+3362	n-pr-suf n-v-suf n-n v-suf
+3363	n-suf n-v-v-suf-suf n v-v-suf
+3364	dem-n-suf n v-suf v-suf
+3365	n-suf n v-v-suf n-v-suf-suf
+3366	n-v-v-suf n-suf n-v-v-suf
+3367	n-n-n-suf n-n-suf num-n n-v-v-suf
+3368	n-n-suf v-suf n v-suf
+3369	n-pr-suf dem-n-suf pref-v-suf
+3370	pron n-pr-suf n-n-suf v-suf
+3371	n-v-suf n-v-suf
+3372	dem-suf n-pr v-v-suf
+3373	n-pr-suf n-pr-suf n-v-v-suf v-suf
+3374	n n pron-suf n-v-v-suf
+3375	pr-suf n-suf n-n v-suf
+3376	dem pron-n-suf
+3377	dem-n adv n v-suf n-v-suf
+3378	n-v-v n-suf v-suf-suf v-suf
+3379	n-pr-suf n-n v-v-aux-suf
+3380	dem-n-suf num-n-suf-v num-n-n v-suf
+3381	pron-n-suf n n-v-suf
+3382	n *** n v-v-suf
+3383	n-suf n-n-suf n-n-v-suf-suf
+3384	n-suf-v-suf v-suf n-suf v-suf
+3385	n-pr pr-n n-v-suf
+3386	n-suf n-pr-suf dem-n-suf n v-aux-suf
+3387	n num-v v-suf
+3388	n-suf n-pr-suf n-suf v-aux-suf
+3389	n adv-v-v n-v-suf-suf-suf v-v n-v-aux-suf
+3390	pron n v-v-suf
+3391	dem-n pron n-suf n-pr-suf v-suf
+3392	n-pr-suf pron-suf n v-suf
+3394	pron dem-n-suf v-aux-suf
+3395	n-n-suf n-suf n-v-suf
+3396	pron dem-n-n-suf n v-v-suf
+3397	n-pr n-suf n-propern-n-suf n v-suf
+3398	num-n-suf-v n v-suf
+3399	n-num-n-suf-v n-n v-suf
+3402	n-n-suf n-suf n v-v-suf
+3403	n-suf n-suf-suf v-suf
+3404	n-n-suf n-suf n v-v-suf
+3405	n-suf n-v-suf num-n v-suf-suf-suf
+3406	n-v-suf n-n v-aux-suf
+3407	n-v-suf v-n-suf
+3408	n-n-suf pron n v-suf
+3409	n v n-n-suf n-v-suf
+3410	n pref-v-suf-n n v-pref-v-suf pref-v-suf
+3411	dem-n-suf-n-suf n-suf n v-suf
+3412	n-n v-suf n-suf n-v-v-suf
+3413	n-num-n-suf v-n-suf n v n n-suf v-v-suf
+3414	n v-suf n-pr-suf n-suf n-v-suf
+3415	n-n-n-suf n-n
+3416	dem-n n-n pref-v-suf
+3417	n-n n-v-suf n-v-suf
+3418	n-n n n-v-suf
+3419	n-suf n-suf n v-suf
+3420	n-suf n-suf n n-n-v-suf-suf
+3421	num-n-suf n-suf n-n v-suf-suf
+3422	num-n-suf v-suf n-suf v-suf
+3423	n-suf n-n-suf n-v num-n v-v-suf v-aux-suf
+3424	n-suf n-n n-v-aux-suf
+3425	n n-v-suf n-pref-v-suf
+3426	n n-pr-suf n v-v-suf
+3427	n-suf v-suf n-suf n v-suf
+3428	n n pref-v-suf pref-v-suf
+3429	n n-suf n-v-v-suf-part n-v-v-suf
+3430	n n-v-n v-suf
+3431	n-n-suf v-suf pref-v-suf v-suf
+3432	n-n-suf n-pr-suf n v-v-suf
+3433	n-n-suf v-suf n-suf n v-suf
+3434	n-suf n v-suf n v-suf
+3435	n-suf num-n-suf n-v-suf
+3436	n-suf pref-v-suf n v-suf
+3437	n-suf num-n-v-suf n-suf v-suf
+3438	dem-n-suf num-n-suf n-num-num-num-num-suf
+3439	n n-v-suf num-n-suf n-suf v-suf
+3441	n-suf num-num-n num-num-num-n-suf v-suf-suf
+3442	dem-n-suf n-pref-v-suf n-suf v-suf
+3443	dem-n-suf n v-suf
+3444	dem-n n n-suf n-v-suf
+3445	dem-n adv v-suf
+3446	n n-suf-v n-n n v-suf
+3447	n n-num-n-n-suf v-suf
+3448	n-n-suf n-pr-suf n-n-v-suf
+3449	n-suf n v num-n v-suf
+3450	n pref-v-suf-n dem-n-suf v-suf v-suf-suf
+3451	n n-suf n-v-v-suf
+3452	dem-suf-n-suf n-suf v-suf
+3453	n-num-num-n-suf n-v-suf
+3454	n n-suf n-suf-v n-n n-v-suf
+3455	n-n-suf adv n-v-suf n n-v-suf
+3456	n n-clf n-suf v-suf
+3457	n n-num-n-suf
+3458	n n-num-n-suf
+3459	dem-n-suf n-v-suf n v-v-suf n-suf v-suf
+3460	n-v-suf v-v-suf n pref-v-suf
+3462	n-v-n-suf n-n-suf v n-v-v-suf
+3463	n-suf-v n-n n-suf num-n v-suf
+3464	n-suf num-n-v-suf v-suf
+3465	n-v-suf n adv v-suf
+3466	n v-suf n v-suf n-suf adv
+3467	n v-v-suf n-num-clf-pref-v-suf n-n v-v v-suf
+3468	v-suf dem-n-suf n-pr-suf v-suf
+3469	n v-suf n-suf n v-v-suf
+3470	n num-n v n v-suf
+3472	dem-n-suf v-suf v-suf
+3473	n-adv-suf-suf-suf adv v-suf v-suf
+3474	pron-n-suf v-suf v-suf
+3476	n-n-suf v-suf n-v-suf
+3477	v-v-v-v v-suf n-suf n-v-suf
+3478	dem-n-suf n v-suf v-suf
+3479	dem-v-suf v-suf
+3480	n v-v-num v-aux-suf
+3481	n-suf n v-v num-suf v-suf
+3482	n-v-n-suf-n-suf v-suf
+3483	n-suf n n-suf v-suf
+3484	n-suf v-v-suf v-n-postp v-v-suf
+3485	dem-n-suf n-suf v-suf v-suf
+3486	dem-n-suf v-suf v-suf
+3487	dem-n-suf v-suf
+3488	n-n v-v-suf v-suf
+3489	n v-v num-clf v-aux-suf
+3490	dem-n-suf n-suf v-suf n v-v-suf n-v-suf
+3491	v-suf n-suf n-suf-suf v-suf
+3492	dem-n-suf v-suf v-suf
+3493	pron v-suf n v-aux-suf
+3494	n-pr-suf n-suf v-suf v-suf
+3495	n-pr-suf n-n-suf n-pref-v-suf-postp
+3496	pron v-suf n-suf v-aux-suf
+3497	dem-n-postp n v-v v-v-suf-suf n-v-suf-part n-v-v-suf
+3498	n-suf-n-suf n-v-suf
+3499	dem n-v-v-suf-n-suf n-pr-suf
+3500	dem-n-suf v-suf
+3501	n-v-v-n dem-n-suf pref-v-v-suf pref-v-suf
+3502	n-num-n v-suf adv v-suf
+3503	dem-n-suf v-pref-v-suf
+3504	pron v-suf n-suf v-suf
+3505	dem-n-suf n-v-suf adv v-suf
+3506	dem n-n-n pref-v-suf v-suf
+3507	n-n pref-v-suf
+3508	n-pr-suf n-v-suf v-suf n-postp
+3509	dem-n-suf adv n-v-suf v-suf
+3510	n-suf-n-suf adv v-suf-suf
+3511	n v-suf-suf v-suf
+3512	n-n-suf n-v-suf pref-v-suf n-suf v-suf-suf
+3513	dem-n-suf n-v-suf pref-v-suf
+3514	n-suf pref-v-aux-suf n-suf v-suf-suf
+3515	pron n-suf n-v-suf-suf-suf v-suf-suf v-suf
+3516	dem n-pr-suf pref-n-suf-n-suf
+3517	pron n adv v-suf
+3518	pron v-suf v-suf n-suf v-aux-suf
+3519	n-propern-suf v-suf n-suf v-suf
+3520	dem-n-suf v-suf v-suf n v-suf
+3521	n-n-suf-n-suf adv v-suf
+3522	n-n-suf-n-suf v-suf n-v-suf pref-v-suf
+3523	n-v-n-suf dem-n n v-v-suf v-suf
+3524	n-pr-suf n-v-v-suf n-suf v-suf
+3525	dem-n-suf n-n-n v-suf
+3526	n v-pref-v-suf n-suf v-aux-suf
+3527	dem-n-suf n v-v-postp v-suf
+3528	n pref-adv n-suf v-suf
+3529	n n-adv v-suf
+3530	n-suf v-v-suf n-suf n-v-suf n-v-suf
+3531	n adv n-v-suf-suf n-v-suf
+3532	pron n-suf n-n num-clf v-suf
+3533	n-n-suf n num-clf v-v-suf
+3534	dem-n-n n num-clf v-suf
+3535	n-suf n num-suf v-suf
+3536	n-pr n num-clf v-suf-suf
+3537	n-n-suf n num-clf v-suf
+3538	n-pr-suf n-suf num-clf v-suf-suf
+3539	pron n-pref-v-n num-clf v-suf-suf
+3540	dem-n-suf n num-clf v-suf
+3541	num-n num-n-suf v-suf n v-suf
+3542	n-pr n num-n-suf n v-suf
+3543	num-n num-n-suf-v num-n num-n-n n-suf n-suf v-suf
+3544	num-n pref-v pr-n n pref-v-suf pref-v-suf
+3545	n-suf n-suf num-n num-n-v
+3546	dem-n-suf num-n-suf n-v-suf
+3547	num-n-suf n-suf n v-aux-suf
+3548	num-n pref-v n v-aux-suf
+3549	n num-n-suf n-suf pron-n-suf n-v-suf
+3550	num-n pref-v-suf-n dem-n-suf pref-v-suf pref-v-suf
+3551	dem-n num-num-n-suf n-n v-suf
+3552	n-pr pr-suf num-suf-suf v-suf
+3553	n-suf n num-suf v-suf
+3554	n n-pr-suf num-suf-suf n-v-n v-suf
+3555	n-n-suf n num-suf v-suf
+3556	pr-suf n num-num-suf v-suf n v-part v-suf
+3557	pron-n n v n num-num v-suf
+3558	n-suf n num-n v-suf
+3559	num-num num-n n v-suf
+3560	dem-n-suf n-n num-clf v-suf-suf
+3561	n-pr-n-suf v-suf-suf n-suf num-clf v-aux-suf
+3562	pr-suf num-num-n-suf v-suf n-v-suf v-suf
+3563	pron-n-suf-suf num-n-suf
+3564	dem-n-suf n num-clf v-suf
+3565	n-n-suf n num-clf v-v-suf
+3568	n-suf n-suf num-suf v-suf
+3569	n-suf n num-suf v-suf
+3570	n-suf n num-suf v-suf
+3571	n-suf n-suf n num-clf v-suf-suf
+3572	dem-suf n num-clf v-suf
+3573	n-pr-suf n-suf n num-clf v-suf
+3574	n-suf n n num-clf v-v-suf
+3575	n-suf-n-n-suf n num-clf v-suf
+3576	n-v-suf n num-clf v-suf
+3577	pron n n-n num-num-num-clf-clf v-suf
+3578	dem-n-suf num-clf v-suf v-suf
+3579	n-suf-v n-n num-clf-clf v-suf
+3580	pron n-suf num-clf v-suf
+3581	n num-num-clf-suf n num-num-clf v-suf
+3582	n num-num-clf v-suf
+3583	dem-n-n-suf n num-clf n-num-clf-suf v-suf
+3584	n-pr-suf clf num-num n-v-suf-suf
+3585	pron-suf v-suf v-suf n-v-suf-suf-suf n-suf
+3586	n-pr-suf adv v-suf v-suf
+3587	dem v-suf v-suf n-suf n-pr-suf
+3588	n-n-suf-n-suf v-v-num-postp v-aux-suf
+3589	dem-suf n-v-suf v-suf
+3590	dem-n-suf v-suf
+3591	n-n-suf pref-v-aux-suf-n-suf-postp n-n-postp
+3592	pron n-n v-aux-suf
+3593	n-pr n-v-v-suf v-pref-v-suf
+3594	n-pr-suf n v-suf n v-suf
+3595	n n v-suf n-n v-suf
+3596	n-pr-suf v-suf adv v-suf
+3597	n v-suf n v-v-suf dem-n n-pr-n v-suf-suf n-suf n-v-suf-suf
+3598	n n-pref-v-suf pref-v-suf n v-suf-postp v-suf-suf
+3599	dem-n-suf adv n-v-suf pref-v-suf-suf-suf
+3600	dem n-v-suf n-suf
+3603	n-pr-suf v-suf n-suf v-v-suf
+3604	n-suf n v-suf-suf-suf n-v-v-suf
+3605	dem-suf-suf adv v-suf n-v-suf n-postp
+3606	n-suf v-suf n-v-suf
+3607	dem-n-suf pr-suf n-pref-v-suf-n
+3608	dem-n-suf n-v-suf n-v-suf
+3609	dem-n n-v-suf v-n pref-v-suf
+3610	pron n v-suf n-suf v-v-suf
+3611	dem-suf v-suf n-suf-suf pref-v-suf-suf
+3612	n-pr-suf v-suf v-suf n-suf-suf v adv n-v-suf
+3613	pron v-suf v-suf n-suf v-aux-suf
+3614	dem-n-suf adv v-suf n v-suf
+3615	n-suf n-n-suf n-v-suf v-suf n num-clf v-suf-suf
+3616	n-suf n-n v-suf-suf
+3617	n-suf n-n n-v-suf-suf
+3618	n-n-suf n-suf n-n v-suf
+3619	n-pr-suf n-n-*** n-n n-n-v-suf-suf
+3620	pron-n-suf num-n num-num-num-n-suf
+3621	dem-n-suf n-n v-suf n-suf v-v-suf
+3622	dem-n-suf n-v v-suf
+3623	n-n-suf n-v-suf v-suf
+3624	pron n-suf n-suf n-n v-suf
+3625	dem-suf-n-suf v-suf pref-v-suf
+3626	pron-n-n-suf v-suf pref-v-suf
+3627	dem-n-suf n num-num-suf-num-num v-suf
+3628	n-pr-suf n v-v-v-suf
+3629	n n-pr-n n-v-suf
+3630	n-suf n v-aux-suf n pref-v-aux-suf
+3631	n-n-suf n v-suf
+3632	n num-num-n v-suf n v-v v-suf
+3633	n-propern-suf n v-suf
+3634	n-v-suf n-suf-v v-suf v-***
+3635	dem-n-n-n-suf-suf n-suf n v-suf n-v-suf
+3636	n-n n v-suf
+3637	n-v-suf n n v-v-suf
+3638	n-suf n-n-suf n n-v-suf-suf
+3639	n-v-n-n-suf n-v-n pref-v-suf
+3640	n-suf n-suf v-suf
+3641	n-v-n-suf n pref-v-suf
+3642	n-n-suf suf-v-v-n-v-suf
+3643	n-n-suf n v-suf
+3644	n-n-suf n-pr-suf n-n-suf v-suf n v-suf-suf
+3645	dem-n-n-suf v-suf v-v-suf-postp
+3646	n-n-suf n-suf n v-suf
+3647	dem-n-suf adv v-suf
+3648	dem-n-n-suf n-suf n-suf v-suf
+3649	n-n-suf n-suf n v-suf
+3650	n-n v-v-v-suf n-suf n-v-v-suf
+3651	dem-n-suf v-v v-suf
+3652	n-n-suf n-***-n-suf n-n v-suf
+3653	pron n-n-suf v-suf dem-n-suf v-suf
+3654	n-n-suf v-suf n-n-suf n-n-suf
+3655	n-v-n-suf n-n-suf v-suf
+3656	n n v-v-suf
+3657	dem-suf-n-n-suf n v-suf
+3658	n-pr-suf n-suf n-suf n v-suf
+3659	dem-suf n-suf v-v-suf
+3660	n-v n-suf n-suf n-v v-suf
+3661	n-suf-n-suf n-postp
+3662	n-suf n-v-n-suf v-suf
+3663	n-pr-suf n-suf n-v-n v-suf
+3664	n-v-suf-suf-suf adv v-suf v-suf
+3666	dem-suf-n-suf adv v-suf
+3667	pron-n-suf-suf n-n-n-n-n-suf v-suf
+3668	dem-n-suf n-suf n v-suf
+3669	n-suf dem-n-n-suf v-suf
+3670	n-n-suf n v-suf
+3671	n-n-suf n-n n v-suf
+3672	dem-n-suf v-suf v-v-suf-postp
+3673	n-pr-suf n n-suf
+3674	n-suf n-suf v-aux-suf
+3675	n-pr-suf n-suf-n-v-n-suf n-n-n-suf v-suf
+3676	n-n-n-suf n-v-v-suf
+3677	n-suf-suf v-suf
+3678	pr-suf n v n-v-suf
+3679	n v v-suf pref-v-n v-suf
+3680	n v-suf n n-suf
+3681	pron-suf n-n n-suf v-v-suf
+3682	n-n v n-suf n-v-suf n-v-suf
+3683	pr-suf-n-suf adv v-suf
+3684	n v n-suf n v-suf
+3685	pr-suf n n-suf v-suf
+3686	dem-n n num-clf-suf v-suf
+3687	n-suf n-suf pron-n n-v-suf
+3688	n-suf n-v-suf n-n v-aux-suf
+3689	n pref-v-suf n-v-suf
+3690	n v-v-n-suf v-aux-suf-suf
+3691	n-n-suf n-suf v-v-suf
+3692	n num-n-suf v-aux-suf dem-suf n-pref-v-suf pref-v-suf
+3693	n-suf n-v-suf dem-suf adv v-suf
+3694	dem-n-suf n-v-suf dem-suf v v-suf pref-v-suf
+3695	n-n-suf-n-suf v-suf v-suf-suf dem-suf v-v-postp v-v-suf
+3696	n-suf-n-suf n-v-suf v-suf v-suf-suf v-suf
+3697	num-n-suf n-suf v-suf v-suf n-suf n-suf v-suf
+3698	dem-n-suf v-suf-symbol v-suf dem-n-v-suf v-suf
+3699	n-suf n v-suf v-suf n-suf v-suf
+3700	dem-n-suf v pref-v-suf
+3701	n-suf n n v-aux-suf-v
+3702	n-pr-suf n n-v-suf n-postp
+3703	pron n dem-n-suf n-v-suf
+3704	n n-v-suf-suf
+3705	n-n-suf n-suf-v-suf v-v-suf
+3706	n-v-suf-suf dem-suf v v-suf-suf
+3707	n-pr-suf n adv v-suf
+3708	n-suf n-suf adv v-suf v-suf
+3709	n-suf n v-v v-suf-suf
+3710	adv-postp n n v-v-n
+3711	adv-postp n n v-aux-suf
+3712	n v-suf adv n-v-suf
+3713	n-suf pref-v-suf-suf-postp v-n-aux-suf
+3714	n adv v-suf-suf
+3715	dem-n-suf adv n-v-suf v-suf
+3716	n-pr adv pr-n v-n-suf
+3717	num-n-suf v-suf adv v-aux-suf
+3718	n-postp n-postp v n-pref-v-suf
+3719	n n n-v-v-***-suf
+3720	pron adv dem-n-suf n-v-suf
+3721	n-pr-postp adv n-v-suf
+3722	dem-suf v-suf n-suf n-pr v-aux-suf
+3723	n-pr dem-n-suf v-aux-suf
+3724	n-suf-suf n-suf v-v-suf v-suf
+3725	n-suf v-suf dem-n-suf-v adv v-suf
+3726	n-suf n-suf-n n v-v-suf
+3727	pron n-suf-n n-pr-suf v-suf-suf
+3728	n-suf v-n-suf
+3729	pron n-n n-pr-suf v-suf v-v-aux-suf
+3730	n-propern n pref-v-aux-suf
+3731	n num-n-postp v-aux-suf
+3732	pron n-suf n v-v-v-suf
+3733	n-suf v-v-suf
+3734	n-v n-suf v-v v-suf v-suf
+3735	n n-num-suf v-v-suf
+3736	v-suf adv v-v-suf
+3737	n v-suf adv v-suf
+3738	pron n dem-n v-v-aux-suf
+3739	n v-v-suf n-suf v-suf
+3740	dem-n-suf n adv v-suf
+3741	n-suf-n v-v v-suf-suf
+3742	n n-pr-suf adv v-suf
+3743	n-pr-suf n dem-n-n-suf v-suf
+3744	n-v-suf adv-suf n v-suf
+3745	n-v n-suf v-suf
+3746	n pron-suf v-suf v-suf
+3747	n-suf-n-suf pron-part v-suf-suf
+3748	num-suf-suf-part pron-n v-v-aux-suf pref-v-suf
+3749	n dem-suf n-v-suf-suf
+3750	n-n n-suf v-v-suf-suf
+3751	n-suf n-suf v-suf-suf
+3752	dem-n n pref-v-suf-suf
+3753	n-pr-postp n-suf v-suf-suf-suf-suf
+3754	dem dem-n-n-suf-suf
+3755	dem-n-n-suf-suf n-v-aux-suf-suf
+3756	n-pr dem-v-suf v-suf-suf
+3757	n-pr dem-num-clf-suf n-suf
+3758	n v-suf-suf
+3759	n-suf num-clf-suf v-suf-aux-suf
+3760	dem-n-suf n-suf n-v-suf pref-v-suf-suf
+3761	pron-suf n-pr-suf
+3762	n-pr v-suf pron-suf-suf
+3763	n-n-suf pron-suf-suf
+3764	n-pr dem-n v-aux-suf-suf-suf
+3765	dem-n-suf-suf-suf
+3766	interj symbol n-pr n-n-suf
+3767	interj v-suf-aux-suf
+3768	dem-n-suf n-n-suf proppernoun-suf v-v-suf
+3769	dem-n-suf n-pr-suf
+3770	dem-n v-suf-suf-suf v n-pref-v-suf
+3771	interj n v-aux-aux-aux
+3772	interj pr-suf ???
+3773	*** n-v-suf propern-suf ???
+3774	n-v-suf v-aux-suf
+3775	n-n-v-suf-suf
+3776	n-v-suf-suf
+3777	interj v-suf
+3778	*** n-suf-suf ???
+3779	dem-part v-v-v-suf
+3780	dem-part n v-suf
+3781	dem-v-suf n-suf-postp n v-suf
+3782	v-suf-suf
+3784	interj pref-v-suf
+3785	pron n-num-pref-n-suf-n-suf v-suf
+3786	dem-n-suf n-pref-v-suf-suf
+3787	pron dem-n v-suf
+3788	dem-n-suf n-v-suf n-v-suf
+3789	dem-n-suf pref-v-suf-suf
+3790	dem-suf-suf v-suf n-n-suf v-v-suf
+3791	pron dem-n-n v-aux-suf
+3792	n-v-suf v-v-suf-suf v-aux-suf-suf
+3795	n n v-suf-suf
+3796	n-suf n-pr-suf adv n-v-suf
+3797	n adv v-aux-suf-suf
+3798	n n v-suf-suf n-v-suf
+3799	n-pr-suf n n-suf v-suf
+3800	pron-n-suf n adv-suf v-suf
+3801	pron-suf n-v-suf num-n-suf v-suf-suf
+3802	n-suf adv v-suf
+3803	n n v-aux-suf
+3804	dem-n-suf-n-suf v-aux-suf
+3805	n-suf n-suf n-num-suf-suf
+3806	n num-num-num-suf
+3807	n-suf n v-suf
+3808	n-suf n-suf n n-v-v-suf
+3809	n-n-suf n-suf n n-aux-suf
+3810	pron-n-suf n-pr-suf n-suf n-postp
+3811	n-propern-suf n-pr-suf n n-postp
+3812	pron n-n-suf n n v-suf
+3813	n n n v-suf-suf
+3814	n-pr-suf n-v-suf-suf n-v-aux-suf
+3815	n v-suf n-v-suf
+3816	n-suf n-suf n-suf n-suf v-suf-suf
+3817	n-n-suf n-n-suf n-suf-suf n-n-suf v-suf
+3818	n-suf v-suf v-v-suf v-n-suf-suf
+3819	n-suf num-clf-suf v-suf
+3820	n-suf n-suf v-v-suf
+3821	pron-suf-suf-suf n-suf-suf
+3822	pref-v-suf n-v-suf
+3823	n-suf-suf n-suf num-n-suf
+3824	n-suf v-suf pron-suf v-suf
+3825	n-n-suf n-suf n-suf n-n v-suf
+3826	n adv n-v-suf
+3827	n n-n-suf n-suf v-v-suf
+3828	n dem-n-suf-n-suf-suf
+3829	n-pr n-suf num-n-suf n-v-suf-suf
+3830	num-n-suf suf-suf n-suf pref-v-suf pref-aux-aux-suf
+3831	n-pr-suf n-v-aux-v-suf
+3832	n-suf n v-aux-v-suf
+3833	n n-suf v-v-suf
+3834	n-n-suf num-clf-suf num-num-clf-suf v-suf
+3835	n-pr num-n-n-suf n-suf v-suf
+3836	pron n-n-n-suf dem-n-suf n v-suf
+3837	n num-n-v-suf n-v-suf
+3838	n num-num-n v-suf
+3839	dem-n-n-suf n v-***
+3840	dem-n-n-suf n-pr-suf n v-suf
+3841	pron-n-n n-dim-suf n-suf v-v-suf
+3842	n-n v-suf n-suf v-n-suf
+3843	n-num-n-suf n-v-suf-suf
+3844	pron adv dem-suf-n-n-suf v-suf
+3845	pron-n-suf n-n-suf n-v-v-suf
+3846	pron-n-suf-n-suf-suf n-suf v-suf v-suf
+3847	dem-n n-n
+3848	n-n-suf pref-v-suf-suf
+3849	n n-n n-aux-aux-suf
+3850	pron pr-n n-v-aux-suf
+3851	n-suf num-n-v n-suf pref-v-suf
+3852	n-suf n v-suf v-suf
+3853	n-n-suf n-v num-n n-v-v-suf
+3854	dem-n-suf n-suf v-suf
+3855	n-suf n adv n-suf
+3856	n-suf n-suf n v-suf-v-suf
+3857	n-suf n-suf n v-suf-suf
+3858	n pref-v-suf n v-suf pref-v-suf-suf
+3859	n-suf v-pref-n-aux-suf n n-v-v-suf
+3860	n v-suf n-v-suf
+3861	n-n-suf v-suf
+3862	n-suf n v-suf v pref-v-v-suf
+3863	pron num-clf-num-n n v-suf
+3864	n-suf n-n v-v-aux-suf
+3865	n-suf v-suf adv n-v-suf
+3866	n-n-suf n-v-suf-suf v-aux-suf
+3867	n-n-n-suf pron n-suf v-aux-suf
+3868	n-pr-n-suf v-suf-suf n-suf v-aux-suf
+3869	n-suf n-pr-n-suf n-pref-v-n v-suf-suf
+3870	n-pr-suf n-pr-suf n num-v v-aux-suf
+3871	n-propern-suf n-pr-suf n-n n n-v-suf
+3872	n-n-suf dem-suf-suf-postp n-n-suf v-v-suf
+3873	n v-v-suf-suf-symbol v-suf v-aux-v
+3874	dem ***-suf v-*** n dem-n-suf v-suf-suf-suf
+3875	dem-n-suf adv v-suf n-suf
+3876	v-suf n v-aux-suf
+3877	n num-num v-suf
+3878	n-v-n-suf n pref-v-suf-suf
+3879	n-n-suf v-suf num-clf-v n-n-v-suf
+3880	n-pr-suf n-v-n-suf-n v-aux-suf
+3881	pron n-suf-n-suf n-suf pref-n-suf-postp
+3882	dem-suf num-n-suf adv v-suf
+3883	num-suf num-suf n-postp
+3884	n-suf n num-clf v-suf
+3885	n-pr-suf n-suf n num-clf v-suf
+3886	pron-n-suf n num-clf v-suf
+3887	pr-n num suf n part v-suf
+3888	pron-suf n num-suf v-suf
+3889	n-n-suf n num-clf v-suf
+3890	num-n v-suf adv v-n-suf
+3891	dem-suf n num-clf v-suf
+3892	pron-n-suf-suf num-n v-suf
+3893	num-n num-n-suf n-suf n-suf
+3894	n-suf-n-suf pref-suf-num-num-suf v-suf
+3895	n-suf pron n-pr-n-suf n-num-num v-aux-suf
+3896	dem-n-n-suf num-num-suf
+3897	pron-suf n num-suf v-suf
+3898	n-pr-suf n-suf n num-num-num-n-suf
+3899	n-suf n-suf-suf n-suf adv v-v-suf n-v-aux-suf
+3900	n-n-suf n adv v-suf
+3901	n-suf pref-v-suf n-suf v-suf
+3902	n-n-suf aux-v-suf
+3903	n n-suf n-*** n adv v-aux-suf v-suf
+3904	dem-n-suf adv n-v-suf v-suf v-suf
+3905	n v-suf n-suf dem-suf-suf n-suf
+3906	v-suf suf v-n-suf v-suf symbol
+3907	dem-n-n-suf v-suf suf-v-suf
+3908	dem-n-suf v-suf n-v-n-suf
+3909	pron-suf n-pr-suf-suf n n-postp
+3911	n pref-v-suf-suf n num-num-suf-part n-v-suf
+3912	n-suf num-clf-suf-postp v-suf
+3913	*** num num num num symbol
+3914	*** num-clf v-suf
+3915	n-n-suf n-n num-clf v-suf
+3916	n-suf num-n-suf n v-suf
