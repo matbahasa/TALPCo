@@ -1,12 +1,10 @@
 # TUFS Asian Language Parallel Corpus (TALPCo)
 
 ## Introduction
-The TUFS Asian Language Parallel Corpus (TALPCo) is an open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian and English.  TALPCo is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).  See [the paper below][link] for the details of TALPCo.
+The TUFS Asian Language Parallel Corpus (TALPCo) is an open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian and English.  TALPCo is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).  See the paper below for the details of TALPCo.
 
 ## How to cite
-Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian Language Parallel Corpus (TALPCo)][link]. Proceedings of the Twenty-Fourth Annual Meeting of the Association for Natural Language Processing.
-[link]:http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P3-5.pdf
-
+Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian Language Parallel Corpus (TALPCo)](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P3-5.pdf). Proceedings of the Twenty-Fourth Annual Meeting of the Association for Natural Language Processing.
 
 ## Contents
 
