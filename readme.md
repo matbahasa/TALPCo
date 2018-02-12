@@ -9,6 +9,7 @@ Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian 
 ## Contents
 
 - `data_jpn.txt`	Japanese (raw sentences)
+- `data_jpn-token.txt`	Japanese (tokenized sentences)
 
 -----------------------------------
 
@@ -45,17 +46,7 @@ All files are encoded in UTF-8 with DOS format.
     1176	田中さんは 学生では ありません。
     1176	Mr. Tanaka is not a student.
 
-### Burmese tokenized and POS-tagged sentences
-`Sentence_ID [TAB] Sentence`
-
-- White space: Phrasal boundary
-- Dash: Morpheme boundary
-
-    1176	မစ္စတာ-တာနာခါ-ဟာ ကျောင်းသား မ-ဟုတ်-ပါ-ဘူး ။
-
-    1176	n-pr-postp n pref-v-suf-suf
-
-### Malay/Indonesian tokenized sentences
+### Tokenized sentences
 `Sentence_ID [LINEBREAK] token [LINEBREAK] token [LINEBREAK] <EOS>`
 
     3627
@@ -69,6 +60,16 @@ All files are encoded in UTF-8 with DOS format.
     muka surat
     .
     <EOS>
+
+### Burmese tokenized and POS-tagged sentences
+`Sentence_ID [TAB] Sentence`
+
+- White space: Phrasal boundary
+- Dash: Morpheme boundary
+
+    1176	မစ္စတာ-တာနာခါ-ဟာ ကျောင်းသား မ-ဟုတ်-ပါ-ဘူး ။
+
+    1176	n-pr-postp n pref-v-suf-suf
 
 ## A note on Malay/Indonesian tokenization
 The Malay and Indonesian sentences were tokenized manually by Hiroki Nomoto and David Moeljadi, respectively.  All clitics (i.e. _-nya_, _-lah_, _-kah_) were tokenized.  In addition, the instances of the prefix _se-_ were tokenized if they were an cardinal numeral.  Note that the suffix _-nya_ and the non-numeral instances of _se-_ were not tokenized.  The following dictionaries were consulted when it was not immediately obvious whether a word sequence constituted a multiword expression.
