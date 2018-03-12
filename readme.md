@@ -72,7 +72,7 @@ All files are encoded in UTF-8 with DOS format.
     1176	n-pr-postp n pref-v-suf-suf
 
 ## A note on Malay/Indonesian tokenization
-The Malay and Indonesian sentences were tokenized manually by Hiroki Nomoto and David Moeljadi, respectively.  All clitics (i.e. _-nya_, _-lah_, _-kah_) were tokenized.  In addition, the instances of the prefix _se-_ were tokenized if they were an cardinal numeral.  Note that the suffix _-nya_ and the non-numeral instances of _se-_ were not tokenized.  The following dictionaries were consulted when it was not immediately obvious whether a word sequence constituted a multiword expression.
+The Malay and Indonesian sentences were tokenized manually by Hiroki Nomoto and David Moeljadi, respectively.  All clitics (i.e. _-nya_, _-lah_, _-kah_) were tokenized.  In addition, the instances of the prefix _se-_ were tokenized if they were cardinal numerals.  Note that the suffix _-nya_ and the non-numeral instances of _se-_ were not tokenized.  The following dictionaries were consulted when it was not immediately obvious whether a word sequence constituted a multiword expression.
 
 - KBBI5. 2016. [_Kamus Besar Bahasa Indonesia (edisi kelima)_](https://kbbi.kemdikbud.go.id/). Jakarta: Badan Pengembangan dan Pembinaan Bahasa.
 - Nomoto, Hiroki. 2016. [_Pootaburu Nichi-Maree-Ei, Maree-Nichi-Ei Jiten \[Japanese-Malay-English, Malay-Japanese-English Portable Dictionary\]_](http://www.sanshusha.co.jp/np/details.do?goods_id=4296). Tokyo: Sanshusha.
