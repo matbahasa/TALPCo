@@ -42,7 +42,7 @@
 1326	Berapa helai sapu tangan yang ada di sana?
 1330	Sekarang pukul lima.
 1333	Pukul berapa sekarang?
-1334	 Pukul sepuluh lima puluh satu minit.
+1334	Pukul sepuluh lima puluh satu minit.
 1335	Hari ini berapa hari bulan?
 1341	TV ada di sebelah piano.
 1348	Kelas akan habis pada waktu pagi esok.
