@@ -905,7 +905,7 @@
 3435	I wake up at 6.00 every morning.
 3436	Every night I read a book before going to sleep.
 3437	I study English for two hours every night.
-3438	This hotel is seven thousand eight hundred yen a day.
+3438	This hotel is 7,800 yen a day.
 3439	It was raining yesterday, so I was at my house the whole day.
 3441	My mother was born on the 29th of November.
 3442	I left the house without eating this morning.
