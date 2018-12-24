@@ -12759,6 +12759,7 @@ sini
 <EOS>
 3840
 Rumah
+Encik
 Hayashi
 ada
 dekat
