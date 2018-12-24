@@ -5628,7 +5628,7 @@ kedai
 .
 <EOS>
 3094
-Perkerja
+Pekerja
 restoran
 ini
 kelihatan
