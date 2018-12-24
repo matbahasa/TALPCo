@@ -689,6 +689,7 @@ ya
 1446
 Ketinggian
 badan
+Encik
 Tanaka
 tinggi
 .
