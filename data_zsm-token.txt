@@ -3443,6 +3443,7 @@ tutup
 Saya
 sekelas
 dengan
+Encik
 Matsui
 .
 <EOS>
