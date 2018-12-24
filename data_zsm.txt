@@ -238,7 +238,7 @@
 2086	Saya menghadiahkan bunga kepada bapa saya.
 2088	Saya menerima buku daripada ayah saya.
 2090	Saya meminjamkan buku nota kepada Encik Kobayashi.
-2092	Kimura meminjamkan buku kepada saya.
+2092	Encik Kimura meminjamkan buku kepada saya.
 2093	Saya meminjamkan wang kepada adik lelaki saya.
 2097	Adik perempuan saya membuat bekal untuk ayah.
 2099	Saya tolong adik perempuan saya membuat kerja rumah.
@@ -1188,7 +1188,7 @@
 3727	Saya berjumpa dengan Encik Hayashi buat pertama kalinya.
 3728	Saya akan datang lagi nanti.
 3729	Saya akan bermain bersama Encik Kobayashi lagi pada minggu depan.
-3730	Matsui masih belum membuat kerja rumah.
+3730	Encik Matsui masih belum membuat kerja rumah.
 3731	Sekarang masih pukul sepuluh pagi.
 3732	Saya sudah makan tengah hari di kantin.
 3733	Adik perempuan sudah tidur.
