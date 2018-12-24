@@ -1163,7 +1163,7 @@
 3702	Encik Tanaka selalu kelihatan sibuk.
 3703	Saya selalu membeli barang di pasar raya ini.
 3704	Terima kasih atas segalanya.
-3705	Pelbagai jenis makan tersusun di atas meja.
+3705	Pelbagai jenis makanan tersusun di atas meja.
 3706	Terima kasih. Ini sudah cukup.
 3707	Encik Kobayashi sangat pandai.
 3708	Saya akan tidur selepas membaca buku sedikit.
