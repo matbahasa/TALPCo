@@ -369,7 +369,7 @@
 2839	Saya tidak berjalan kaki ke sekolah tetapi naik bas.
 2840	Saya tidak boleh membeli barang kerana pasar raya sudah tutup.
 2841	Beg tidak tutup.
-2842	Saya sekelas dengan Matsui.
+2842	Saya sekelas dengan Encik Matsui.
 2843	Ada meja dan kerusi di dalam bilik darjah.
 2844	Saya membersihkan bahagian pintu masuk rumah dan juga koridor.
 2845	Saya tidak berapa suka belajar.
