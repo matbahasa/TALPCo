@@ -81,7 +81,7 @@
 1433	Ada kedai bagus di depan stesen.
 1434	Bilik sini sangat senyap.
 1435	Cantiknya baju ini, ya.
-1446	Ketinggian badan Tanaka tinggi.
+1446	Ketinggian badan Encik Tanaka tinggi.
 1449	Saya sakit tekak sejak semalam.
 1450	Kepala awak sakit?
 1451	Tidak, tidak sakit.
