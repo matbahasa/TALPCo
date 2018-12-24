@@ -815,7 +815,7 @@
 3339	Kita perlu tiket bila naik kereta api.
 3340	Saya membuka suis dan memasang lampu.
 3341	Saya membuka suis komputer.
-3342	Tempat lahir Tanaka ialah Tokyo.
+3342	Tempat lahir Encik Tanaka ialah Tokyo.
 3343	Saya lahir pada 26 hari bulan Ogos.
 3344	Kedai itu menjual kuih-muih yang sedap.
 3346	Ini makanan yang tidak dijual di Jepun.
