@@ -1079,7 +1079,7 @@
 3617	Saya membeli-belah di pasar raya untuk menyediakan masakan malam.
 3618	Majlis kahwin kakak saya diadakan pada minggu lepas.
 3619	Encik Yamada memberikan jam pada hari jadi Encik Kobayashi.
-3620	Hari jadi saya ialah 26 hari bulan Ogos.
+3620	Hari jadi saya ialah dua puluh enam hari bulan Ogos.
 3621	Buku nota ini lebih panjang panjangnya daripada lebarnya.
 3622	Saya memotong kertas ini secara menegak.
 3623	Saya makan telur dengan bubuh garam.
