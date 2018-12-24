@@ -586,7 +586,7 @@
 3091	Saya selalu makan menu set ini untuk makan tengah hari.
 3092	Menu set di kantin itu murah dan sedap.
 3093	Saya pesan makanan kepada pekerja kedai.
-3094	Perkerja restoran ini kelihatan sibuk.
+3094	Pekerja restoran ini kelihatan sibuk.
 3095	Saya minum kopi tanpa susu.
 3096	Setiap pagi saya makan roti dan minum susu.
 3097	Bahagian stoking ada di tingkat satu.
