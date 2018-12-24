@@ -10693,7 +10693,9 @@ Kobayashi
 Hari jadi
 saya
 ialah
-26
+dua
+puluh
+enam
 hari bulan
 Ogos
 .
