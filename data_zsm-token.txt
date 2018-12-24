@@ -8884,7 +8884,10 @@ satu
 hari
 harga
 -nya
-7800
+tujuh
+ribu
+lapan
+ratus
 yen
 .
 <EOS>
