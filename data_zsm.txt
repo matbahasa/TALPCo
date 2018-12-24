@@ -905,7 +905,7 @@
 3435	Saya bangun pada pukul enam setiap pagi.
 3436	Setiap malam sebelum tidur, saya membaca buku.
 3437	Saya belajar bahasa Inggeris setiap malam selama dua jam.
-3438	Hotel ini satu hari harganya 7800 yen.
+3438	Hotel ini satu hari harganya tujuh ribu lapan ratus yen.
 3439	Semalam hujan, jadi satu hari suntuk saya ada di rumah.
 3441	Ibu saya lahir pada dua puluh sembilan hari bulan November.
 3442	Saya keluar dari rumah tanpa makan nasi pagi tadi.
