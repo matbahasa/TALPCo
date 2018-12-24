@@ -1266,7 +1266,7 @@
 3808	Ramai orang sedang berenang di laut.
 3809	Ramai orang yang datang ke parti.
 3810	Kasut Cik Kobayashi sama dengan kasut saya.
-3811	Matsui sekelas dengan Encik Lee.
+3811	Encik Matsui sekelas dengan Encik Lee.
 3812	Saya memasukkan banyak susu ke dalam kopi.
 3813	Saya telah banyak berjalan kaki pada hari ini.
 3814	Encik Tanaka boleh menyanyi sambil bermain gitar.
@@ -1295,7 +1295,7 @@
 3837	Kelas selalunya akan mula dalam pukul sembilan lebih.
 3838	Sekarang pukul dua belas lebih.
 3839	Mari kita berehat sebentar dekat sini.
-3840	Rumah Hayashi ada dekat sana.
+3840	Rumah Encik Hayashi ada dekat sana.
 3841	Bilik adik lelaki saya lebih kecil daripada bilik saya.
 3842	Saya lebih suka besbol daripada bola sepak.
 3843	Saya potong rambut tiga hari yang lepas.
