@@ -2190,6 +2190,7 @@ Kobayashi
 .
 <EOS>
 2092
+Encik
 Kimura
 meminjamkan
 buku
@@ -11771,6 +11772,7 @@ depan
 .
 <EOS>
 3730
+Encik
 Matsui
 masih
 belum
