@@ -2586,7 +2586,7 @@ suka
 <EOS>
 2548
 Helo
-?
+.
 <EOS>
 2562
 Kalau
