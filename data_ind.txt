@@ -3,7 +3,7 @@
 1180	Sekolah sedang libur.
 1194	Tokyo cerah.
 1222	Di taman ada pohon.
-1229	Pak Tanaka ada di mana.
+1229	Pak Tanaka ada di mana?
 1233	Saya tidak ada uang.
 1244	Di atas meja ada buku.
 1245	Di bawah meja ada tas.
