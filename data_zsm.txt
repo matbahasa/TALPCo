@@ -280,7 +280,7 @@
 2497	Bagaimana cara untuk saya pergi ke tingkat tiga?
 2498	Ada lif di sana.
 2520	Ya, saya suka.
-2548	Helo?
+2548	Helo.
 2562	Kalau begitu, jumpa lagi.
 2599	Mengapa?
 2637	Oh begitu ke...
