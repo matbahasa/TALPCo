@@ -327,7 +327,7 @@
 2793	There is a shirt.
 2794	I took two pictures.
 2795	The bank is open from nine in the morning to three in the afternoon.
-2796	I will give back the money to Mr. Matsui.
+2796	I will give back the money to Ms. Matsui.
 2797	I will give back the book to the library.
 2798	We put money in and push this button.
 2800	I will get on bus number 15 from the station.
