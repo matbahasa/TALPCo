@@ -324,7 +324,7 @@
 2790	This is the second floor.
 2791	I will send a postcard to Mr. Matsui.
 2792	I will put a stamp on the envelope.
-2793	I have one shirt.
+2793	There is a shirt.
 2794	I took two pictures.
 2795	The bank is open from nine in the morning to three in the afternoon.
 2796	I will give back the money to Mr. Matsui.
