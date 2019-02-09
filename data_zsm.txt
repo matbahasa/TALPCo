@@ -206,7 +206,7 @@
 1935	Tiada kereta di halaman rumah. Rasanya ibu saya sudah keluar.
 1942	Saya dengar ada pelajar baru akan datang bulan depan.
 1947	Saya dengar dari guru bahawa ada pelajar baru akan datang pada bulan depan.
-1965	Siapakah yang menulis karangan ini?  Karangan ini tiada nama.
+1965	Siapakah yang menulis karangan ini? Karangan ini tiada nama.
 1967	Masakan yang ibu masak sangat sedap.
 1971	Sila hantar kertas yang sudah ditulis dengan jawapan.
 1974	Saya tengok Encik Tanaka sedang belajar di perpustakaan.
@@ -642,7 +642,7 @@
 3153	Saya pergi membeli-belah dengan kawan-kawan saya pada hari cuti.
 3154	Pemandu pelancong memberitahu tentang bandar ini.
 3155	Kawan saya bekerja sebagai pemandu pelancong.
-3156	Oleh kerana tiada kereta api, kami bermalam di rumah kawan.
+3156	Oleh kerana tiada kereta api untuk balik, kami bermalam di rumah kawan.
 3157	Malam ini saya akan bermalam di hotel.
 3158	Saya menerima cenderamata daripada kawan yang pergi melancong.
 3159	Saya membelikan cenderamata untuk keluarga.
@@ -1150,10 +1150,10 @@
 3689	Setiap hari saya mandi sebelum tidur.
 3690	Saya menangis apabila menonton filem.
 3691	Adik prempuan menangis di dalam bilik.
-3692	Saya ingin berehat sepanjang hari esok.  Tetapi saya harus pergi ke sekolah.
+3692	Saya ingin berehat sepanjang hari esok. Tetapi saya harus pergi ke sekolah.
 3693	Setiap hari sibuk tetapi sangat seronok.
 3694	Harga hidangan restoran itu murah, tapi tidak berapa sedap.
-3695	Majlis semalam seronok.  Tapi saya agak letih sedikit.
+3695	Majlis semalam seronok. Tapi saya agak letih sedikit.
 3696	Nasi di kantin murah dan sedap.
 3697	Saya keluar dari rumah pukul lapan dan menaiki bas pergi ke sekolah.
 3698	Saya akan membeli gelas ini. Selepas itu, saya akan membeli pinggan ini juga.
@@ -1338,11 +1338,11 @@
 3880	Saya tunjukkan gambar melancong kepada Cik Kimura.
 3881	Saya paling suka warna putih.
 3882	Di sini suhunya sifar, jadi sangat sejuk.
-3883	"Kosong" adalah sama dengan "sifar".
+3883	Kosong adalah sama dengan "sifar".
 3884	Saya membeli sekeping poskad di pejabat pos.
 3885	Di rumah Encik Tanaka ada dua buah kereta.
 3886	Rumah saya ada tiga buah TV.
-3887	"4" dibaca sebagai "empat".
+3887	4 dibaca sebagai "empat".
 3888	Keluarga saya lima orang.
 3889	Saya menyusun enam keping pinggan di atas meja.
 3890	Cuaca akan beransur panas apabila masuk bulan tujuh.
