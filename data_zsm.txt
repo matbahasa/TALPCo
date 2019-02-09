@@ -1338,11 +1338,11 @@
 3880	Saya tunjukkan gambar melancong kepada Cik Kimura.
 3881	Saya paling suka warna putih.
 3882	Di sini suhunya sifar, jadi sangat sejuk.
-3883	Kosong adalah sama dengan "sifar".
+3883	"Kosong" adalah sama dengan "sifar".
 3884	Saya membeli sekeping poskad di pejabat pos.
 3885	Di rumah Encik Tanaka ada dua buah kereta.
 3886	Rumah saya ada tiga buah TV.
-3887	4 dibaca sebagai "empat".
+3887	"4" dibaca sebagai "empat".
 3888	Keluarga saya lima orang.
 3889	Saya menyusun enam keping pinggan di atas meja.
 3890	Cuaca akan beransur panas apabila masuk bulan tujuh.
