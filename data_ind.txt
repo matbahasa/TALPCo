@@ -9,7 +9,7 @@
 1245	Di bawah meja ada tas.
 1246	Di dalam tas ada buku tulis.
 1247	Di sebelah kanan Pak Tanaka ada Pak Yamada.
-1248	Di sebelah kiri Pak Tanaka ada Pak Kimura.
+1248	Di sebelah kiri Pak Tanaka ada Mbak Kimura.
 1249	Di depan rumah ada kucing.
 1250	Di belakang rumah ada mobil.
 1251	Pos surat ada di seberang rumah.
@@ -18,32 +18,32 @@
 1257	Sekolah ada di dekat rumah.
 1258	Buku di dalam tas.
 1259	Inilah pen saya.
-1264	Kelas bahasa Jepang di mana.
-1268	Itu koran kapan.
+1264	Kelas bahasa Jepang di mana?
+1268	Itu koran kapan?
 1274	Di kelas ada komputer baru.
 1275	Di dalam kotak ada anjing kecil.
 1276	Pak Tanaka orang yang ceria.
-1280	Film yang bagaimana.
+1280	Film yang bagaimana?
 1281	Film kuno Jepang.
-1286	Anda membeli sepatu yang mana.
+1286	Anda membeli sepatu yang mana?
 1291	Itulah kamus bahasa Jepang.
-1296	Tas Pak Tanaka ada di situ.
+1296	Tas Ibu Tanaka ada di situ.
 1297	Di sana ada guru.
 1299	Buku itu punya saya.
 1302	Tas besar itu punya saya.
-1305	Maaf, di mana toilet.
-1308	Tas itu milik siapa.
+1305	Maaf, di mana toilet?
+1308	Tas itu milik siapa?
 1311	Itu milik Pak Tanaka.
-1312	Mobil pak guru di mana.
+1312	Mobil pak guru di mana?
 1319	Ada tujuh potong keik.
-1320	Bolpoin ini harganya berapa.
+1320	Bolpoin ini harganya berapa?
 1322	Saya membeli sepuluh lembar prangko dan tiga lembar kartu pos.
 1323	Di atas meja pak guru ada dua buah kamus dan sebuah majalah.
-1326	Di situ ada berapa buah sapu tangan.
+1326	Di situ ada berapa buah sapu tangan?
 1330	Sekarang pukul lima.
-1333	Sekarang pukul berapa.
+1333	Sekarang pukul berapa?
 1334	Pukul sepuluh lewat lima puluh satu menit.
-1335	Hari ini tanggal berapa bulan apa.
+1335	Hari ini tanggal berapa bulan apa?
 1341	Televisi ada di sebelah piano.
 1348	Besok pelajaran akan selesai pada pagi hari.
 1349	Setiap hari saya pergi ke sekolah.
@@ -54,26 +54,26 @@
 1371	Pak Tanaka minum coca-cola.
 1378	Saya akan mengirim surat kepada Pak Tanaka.
 1379	Saya meminjamkan uang ke Pak Yamada.
-1380	Saya mengajar bahasa Inggris kepada Pak Kimura.
+1380	Saya mengajar bahasa Inggris kepada Mbak Kimura.
 1382	Saya meminjam uang dari Pak Yamada.
 1386	Saya meletakkan buku di meja.
 1388	Saya bangun pukul setengah delapan.
 1389	Saya tidur pada pukul sebelas.
 1392	Pada hari Minggu saya bermain tenis.
-1393	Kapan bermain tenis.
+1393	Kapan bermain tenis?
 1396	Saya melihat film.
 1397	Saya jalan-jalan saat libur musim panas.
 1398	Kami akan mengadakan pesta pada hari ulang tahun Pak Yamada.
 1401	Anjing di rumah saya besar.
 1402	Anjing rumah tetangga tidak besar.
 1403	Hari ini tidak dingin.
-1408	Apakah masakan Jepang pedas.
+1408	Apakah masakan Jepang pedas?
 1409	Tidak, tidak pedas.
-1410	Apakah di luar dingin.
-1414	Bagaimana masakan Jepang.
+1410	Apakah di luar dingin?
+1414	Bagaimana masakan Jepang?
 1418	Tas ini mahal.
 1419	Masakan pesta tidak enak.
-1423	Film kemarin bagaimana.
+1423	Film kemarin bagaimana?
 1426	Kamar saya tidak begitu luas.
 1427	Saya sangat lelah.
 1428	Saya tidak begitu lelah.
@@ -83,7 +83,7 @@
 1435	Baju ini cantik, ya.
 1446	Pak Tanaka badannya tinggi.
 1449	Saya sakit tenggorokan sejak kemarin.
-1450	Apakah Anda sakit kepala.
+1450	Apakah Anda sakit kepala?
 1451	Tidak, tidak sakit.
 1454	Kota ini jalannya sempit.
 1455	Warna lukisan ini cantik.
@@ -100,8 +100,8 @@
 1484	Saya menggosok gigi setelah makan nasi.
 1485	Silakan berdiri.
 1491	Sekarang Pak Kobayashi sedang membaca buku di perpustakaan.
-1492	Bapak Tanaka sekarang sedang melakukan apa.
-1494	Sejak kapan belajar bahasa Jepang.
+1492	Bapak Tanaka sekarang sedang melakukan apa?
+1494	Sejak kapan belajar bahasa Jepang?
 1495	Saya belajar sejak tahun lalu.
 1501	Jendela terbuka.
 1507	Jalan ini berbelok-belok.
@@ -171,12 +171,12 @@
 1720	Tolong tunggu sebentar.
 1727	Ya, OK.
 1728	Boleh makan nasi kotak di kamar ini.
-1734	Apakah saya boleh keluar.
+1734	Apakah saya boleh keluar?
 1738	Tidak boleh menggunakan ponsel di rumah sakit.
 1745	Jangan mandi hari ini.
 1748	Saya sedang menggunakan komputer. Jangan dimatikan.
-1768	Bagaimana kalau kita bermain tenis pada hari Sabtu siang.
-1778	Bagaimana kalau kita pergi ke kolam renang.
+1768	Bagaimana kalau kita bermain tenis pada hari Sabtu siang?
+1778	Bagaimana kalau kita pergi ke kolam renang?
 1794	Mari saya bawakan barang itu.
 1799	Biar saya yang mengerjakan pekerjaan itu.
 1801	Saya bermaksud belajar di perpustakaan, tetapi tutup.
@@ -188,17 +188,17 @@
 1824	Ya, OK.
 1826	Sebenarnya saya ingin pergi ke universitas di Tokyo.
 1831	Saya sekarang ingin komputer.
-1836	Anda mau yang mana.
+1836	Anda mau yang mana?
 1837	Saya ingin ini dan itu.
 1848	Saya suka musik.
 1849	Saya tidak suka berolahraga.
-1860	Makanan kesukaan Anda apa.
+1860	Makanan kesukaan Anda apa?
 1862	Pelajarannya menyenangkan bagi saya.
 1879	Tidak, tidak bisa.
 1881	Pak Tanaka bisa tenis.
-1883	Apakah bisa menelepon ke luar negeri dengan telepon itu.
+1883	Apakah bisa menelepon ke luar negeri dengan telepon itu?
 1885	Saya bisa menulis huruf kanji.
-1900	Di sana ada orang, kan. Orang itu siapa.
+1900	Di sana ada orang, kan. Orang itu siapa?
 1919	Jam ini pasti mahal.
 1921	Kantor pos pasti sudah buka karena sekarang pukul sepuluh.
 1928	Sepertinya ada yang tinggal di rumah ini.
@@ -214,9 +214,9 @@
 1993	Yang makan keik adalah Pak Yamada.
 2004	Saya sudah merasa baik karena minum obat.
 2005	Besok saya tidak pergi ke sekolah karena tidak ada pelajaran.
-2007	Bagaimana Anda bisa tahu nomor telepon saya.
-2011	Mengapa.
-2017	Mengapa Anda tidak menghadiri kelas.
+2007	Bagaimana Anda bisa tahu nomor telepon saya?
+2011	Mengapa?
+2017	Mengapa Anda tidak menghadiri kelas?
 2018	Saya tidak bisa bangun karena demam.
 2019	Hari ini kelasnya diliburkan karena gurunya sakit.
 2023	Pak Yamada selalu ceria, tetapi hari ini tenang.
@@ -230,7 +230,7 @@
 2056	Kalau tidak suka, boleh berhenti.
 2060	Uang akan habis kalau membeli mobil.
 2061	Kita bisa pergi ke mana pun kalau kita membeli mobil.
-2064	Bagaimana supaya bisa menghafal huruf kanji.
+2064	Bagaimana supaya bisa menghafal huruf kanji?
 2065	Kalau setiap hari saya membaca koran, saya bisa ingat.
 2068	Walaupun salju turun, saya ke sekolah.
 2069	Saya berenang walaupun hawanya dingin.
@@ -247,11 +247,11 @@
 2115	Saya berjalan kaki sampai stasiun.
 2120	Minggu depan saat saya pergi ke situ, saya akan membeli dan membawa minuman.
 2123	Hari ini saya makan malam bersama teman.
-2130	Maaf, apakah saya boleh mencoba memakai baju ini.
+2130	Maaf, apakah saya boleh mencoba memakai baju ini?
 2153	Saya murid.
 2154	Film yang saya tonton kemarin menarik.
 2158	Saya pelajar, tetapi kakak laki-laki saya pegawai perusahaan.
-2170	Apa pekerjaan Anda.
+2170	Apa pekerjaan Anda?
 2178	Ketika saya sedang makan malam, teman saya datang ke rumah.
 2179	Saya membawa paspor ketika pergi ke luar negeri.
 2180	Ketika datang ke Jepang, saya mengambil foto di bandara.
@@ -260,38 +260,38 @@
 2192	Saya makan nasi sambil menonton televisi.
 2205	Saat libur musim panas tahun ini saya pergi ke laut dan mendaki gunung.
 2206	Kalau membaca buku di tempat gelap, penglihatan akan menjadi buruk.
-2213	Bagaimana kalau minum teh.
+2213	Bagaimana kalau kita minum teh?
 2220	Musim semi sudah datang, tetapi hawanya belum hangat.
 2227	Saya kemarin pergi ke universitas.
 2229	Saya sudah berhenti merokok.
 2232	Hari ini tidak ada siapa pun yang datang.
 2234	Anda juga bekerja dengan baik, ya.
-2247	Kalau teh, bagaimana.
+2247	Kalau teh, bagaimana?
 2249	Yang tidak membawa bolpoin, boleh memakai pensil.
 2332	Ya, silakan.
 2369	Silakan.
 2383	Saya harap Anda berkenan menerima barang yang tak berharga ini.
 2391	Terima kasih.
 2396	Begitu.
-2409	Harganya berapa.
+2409	Harganya berapa?
 2415	Kalau begitu, saya minta bantuan Anda.
 2429	Saya bermaksud jalan-jalan ke Eropa dengan teman.
 2495	Ada di lantai tiga bangunan ini.
-2497	Bagaimana pergi ke lantai tiga.
+2497	Bagaimana pergi ke lantai tiga?
 2498	Di sana ada lift.
 2520	Ya, suka.
 2548	Halo.
 2562	Kalau begitu, sampai jumpa lagi.
-2599	Mengapa.
+2599	Mengapa?
 2637	Oh, begitu ya...
-2651	Bolehkah saya mengembalikan saat istirahat siang.
-2672	Maaf.
+2651	Bolehkah saya mengembalikan saat istirahat siang?
+2672	Permisi.
 2734	Saya berencana ingin bekerja di luar negeri.
 2744	Pak guru, ini ibu saya.
 2751	Saya minum obat karena masuk angin.
 2753	Banyak orang meninggal.
 2754	Saya menggosok gigi setelah makan nasi.
-2755	Pak Kimura sangat pandai.
+2755	Mbak Kimura sangat pandai.
 2756	Kantor pos ada di sebelah stasiun.
 2757	Besok barangnya akan datang.
 2758	Kereta akan tiba di stasiun.
@@ -327,7 +327,7 @@
 2793	Ada sehelai baju.
 2794	Saya mengambil dua buah foto.
 2795	Bank buka dari pukul sembilan pagi sampai pukul tiga sore.
-2796	Saya mengembalikan uang ke Pak Matsui.
+2796	Saya mengembalikan uang ke Mbak Matsui.
 2797	Saya mengembalikan buku ke perpustakaan.
 2798	Setelah memasukkan uang, saya menekan tombol.
 2800	Saya naik bus nomor lima belas dari stasiun.
@@ -356,7 +356,7 @@
 2825	Saya mendapat gelas imut dari teman saya.
 2826	Saya minum kopi dengan memasukkan gula.
 2828	Saya memasukkan uang ke dompet.
-2829	Pak Matsui menuangkan kopi untuk saya.
+2829	Ibu Matsui menuangkan kopi untuk saya.
 2830	Kereta ini pergi ke Tokyo.
 2831	Kereta bawah tanah murah, cepat, dan sangat praktis.
 2832	Saya membeli karcis ketika naik kereta.
@@ -392,7 +392,7 @@
 2865	Minggu depan saya berencana memotong rambut di salon.
 2866	Saya memegang sumpit dengan tangan kiri.
 2867	Saya belok kanan di belokan berikutnya.
-2868	Pak Matsui duduk di depan saya.
+2868	Mbak Matsui duduk di depan saya.
 2869	Banyak orang berbaris di belakang saya.
 2870	Pensil ini menjadi pendek karena selalu digunakan.
 2871	Saya memotong keik dengan pisau menjadi empat bagian.
@@ -458,7 +458,7 @@
 2941	Saya besok pergi ke kedutaan.
 2943	Jepang adalah negara yang sempit.
 2944	Kamar hotel ini sangat cantik.
-2946	Pak Matsui sudah tinggal di luar negeri selama tiga tahun.
+2946	Mbak Matsui sudah tinggal di luar negeri selama tiga tahun.
 2947	Saya bermaksud pergi jalan-jalan ke luar negeri tahun depan.
 2948	Saya membeli buku jalan-jalan di toko buku.
 2949	Hari ini toko ini dagingnya murah.
@@ -568,7 +568,7 @@
 3069	Pelajaran guru itu menarik.
 3070	Penata rambut itu ramping dan cantik.
 3071	Setelah tamat sekolah, saya ingin menjadi penata rambut.
-3072	Kotak ini pendek dan panjang.
+3072	Kotak ini memanjang ke samping.
 3073	Kemarin saya tidak pergi ke perusahaan, tetapi pergi ke rumah sakit.
 3074	Hari ini saya tidak pergi karena demam.
 3075	Di atas meja ada vas bunga.
@@ -600,10 +600,10 @@
 3106	Saya tidak ingin memakai jas karena panas saat musim panas.
 3107	Saya memakai jas ketika pergi ke perusahaan.
 3108	Saya menerima baju dari teman pada hari ulang tahun saya.
-3110	Kimura seorang pelajar, tetapi Tanaka seorang pegawai perusahaan.
+3110	Pak Kimura seorang pelajar, tetapi Pak Tanaka seorang pegawai perusahaan.
 3111	Saya pergi berbelanja ke supermarket.
-3114	Berapa buah roti yang Anda beli.
-3115	Di atas meja ada berapa buah gelas.
+3114	Berapa buah roti yang Anda beli?
+3115	Di atas meja ada berapa buah gelas?
 3116	Orang Jepang makan nasi dengan sumpit.
 3117	Setelah jalan-jalan di taman, saya pulang ke rumah.
 3118	Saya setiap hari berlatih tenis.
@@ -658,7 +658,7 @@
 3171	Saya menulis jawaban soal di kertas ini.
 3172	Kemarin saya menulis surat kepada teman.
 3173	Saya tidak begitu suka menulis huruf.
-3174	Pak Matsui pandai menulis huruf.
+3174	Mbak Matsui pandai menulis huruf.
 3175	Saya mendengar cerita menarik dari Pak Hayashi.
 3176	Pak Matsui sedang berbicara dengan Pak Kobayashi.
 3177	Saya tidak mengerti maksud perkataan pak guru.
@@ -675,12 +675,12 @@
 3188	Karena di luar dingin, saya pergi ke perusahaan memakai mantel.
 3189	Saya membuka sweter karena panas.
 3190	Saya tidak bisa memakai celana ini karena kekecilan.
-3192	Ibu Kobayashi lebih suka celana daripada rok.
+3192	Mbak Kobayashi lebih suka celana daripada rok.
 3193	Saya membuka sepatu dan memakai sandal.
 3194	Saya memakai kacamata karena penglihatan saya buruk.
 3195	Ketika masuk rumah di Jepang, sepatu dibuka.
 3196	Saya keluar memakai sepatu baru.
-3197	Ibu Kimura memakai rok imut.
+3197	Mbak Kimura memakai rok imut.
 3198	Karena akan masuk ke kamar mandi, saya membuka pakaian.
 3199	Kue ini manis.
 3201	Masakan ini dimakan tanpa dibubuhi apa-apa.
@@ -690,7 +690,7 @@
 3206	Hari ini saya makan malam bersama teman.
 3207	Saya selalu makan siang di sini.
 3208	Hari ini saya tidak sarapan.
-3209	Pak Kimura memberikan kue kepada saya.
+3209	Mbak Kimura memberikan kue kepada saya.
 3210	Masakan ini kelihatannya tidak enak.
 3211	Kedai itu murah, tetapi tidak enak.
 3212	Nasi kotak Pak Hayashi kelihatannya enak.
@@ -721,7 +721,7 @@
 3239	Mobil Pak Tanaka putih dan besar.
 3240	Saya memakai jas hitam ketika pergi ke perusahaan.
 3241	Pak Tanaka memakai dasi hijau.
-3242	Warna rambut Pak Kimura coklat.
+3242	Warna rambut Mbak Kimura coklat.
 3243	Saya lebih suka biru daripada merah.
 3244	Warna kesukaan saya adalah biru.
 3245	Warna ini sangat cantik.
@@ -739,7 +739,7 @@
 3257	Kamar saya terang karena berada di sebelah selatan.
 3259	Sebelah timur kota ini semuanya hutan.
 3260	Kalau dari sini pergi sedikit ke barat, ada laut.
-3261	Kakak perempuan Pak Kimura orang yang sangat cantik.
+3261	Kakak perempuan Mbak Kimura orang yang sangat cantik.
 3262	Sekarang kedua orang tua saya ada di luar negeri.
 3263	Saya memberikan hadiah ulang tahun kepada ibu saya.
 3264	Sekarang kakak perempuan saya tinggal di Tokyo sendirian.
@@ -750,11 +750,11 @@
 3269	Adik perempuan Pak Yamada badannya pendek dan imut.
 3270	Adik laki-laki Pak Kobayashi sedang bermain sepak bola.
 3271	Saya ada dua saudara laki-laki.
-3272	Perempuan cantik itu adalah Ibu Kimura.
+3272	Perempuan cantik itu adalah Mbak Kimura.
 3273	Anak-anak sedang bermain di taman.
 3274	Di sana ada anak perempuan kecil.
 3275	Paman di toko sayur itu selalu ceria.
-3276	Ibu Pak Kobayashi tinggal di Tokyo.
+3276	Bibi Pak Kobayashi tinggal di Tokyo.
 3277	Saya menunjukkan jalan kepada kakek.
 3278	Nenek Pak Kobayashi memakai kacamata.
 3279	Kalau sudah dewasa, boleh minum arak.
@@ -770,7 +770,7 @@
 3290	Makan malam setiap hari saya masak sendiri.
 3291	Toilet di sini.
 3292	Ini Pak Kobayashi.
-3293	Karena tidak bisa duduk di sini, saya duduk di sana.
+3293	Karena tidak bisa duduk di sini, saya akan duduk di sana.
 3294	Bangunan di sana dibangun pada tahun 794.
 3295	Itu Pak Yamada.
 3296	Kantin ada di bangunan itu.
@@ -800,7 +800,7 @@
 3322	Setiap tahun saya memberikan hadiah ulang tahun kepada ibu saya.
 3323	Saya menikahi istri saya lima tahun lalu.
 3324	Pak Lee berencana ada di Jepang selama tiga tahun.
-3326	Malam ini saya bertemu dengan Pak Kimura di stasiun.
+3326	Malam ini saya bertemu dengan Mbak Kimura di stasiun.
 3327	Besok saya akan bertemu dengan Pak Lee dan memberinya oleh-oleh.
 3328	Karena hawa panas, saya membuka jendela.
 3329	Saya membuka pintu dan masuk ke kamar.
@@ -842,7 +842,7 @@
 3369	Pak Kobayashi tidak tahu restoran itu.
 3370	Saya tahu nomor telepon Pak Yamada.
 3371	Saya bernyanyi sambil berdiri.
-3372	Di sana Pak Kimura sedang berdiri.
+3372	Di sana Mbak Kimura sedang berdiri.
 3373	Pak Tanaka diminta Pak Hayashi membantunya bekerja.
 3374	Ibu saya selalu meminta saya berbelanja.
 3375	Jepang dan luar negeri bahasanya berbeda.
@@ -856,13 +856,13 @@
 3383	Kemarin saya ketinggalan payung di kereta.
 3384	Karena ada soal yang tidak saya pahami, saya bertanya kepada guru.
 3385	Bapak Lee mengerti bahasa Jepang.
-3386	Kemarin saya menyerahkan peta kota ini kepada Pak Kimura.
+3386	Kemarin saya menyerahkan peta kota ini kepada Mbak Kimura.
 3387	Saya akan memanggil satu taksi.
 3388	Pak guru memanggil nama Pak Yamada.
 3389	Karena bekerja dalam waktu lama, saya sedikit beristirahat.
 3390	Saya sedang menunggu bus.
 3391	Malam ini saya menunggu Pak Kobayashi di stasiun.
-3392	Pak Kimura menunjukkan foto kepada saya.
+3392	Mbak Kimura menunjukkan foto kepada saya.
 3394	Saya pernah mendaki gunung itu.
 3395	Pada akhir minggu saya mendaki gunung bersama teman.
 3396	Saya sedang belajar bahasa Jepang dari guru itu.
@@ -899,7 +899,7 @@
 3429	Lusa saya akan pergi berenang ke laut.
 3430	Lusa ada pertandingan bisbol.
 3431	Tadi malam saya tidur awal karena lelah.
-3432	Tadi malam saya pergi makan malam bersama Pak Kimura.
+3432	Tadi malam saya pergi makan malam bersama Mbak Kimura.
 3433	Mulai minggu depan setiap hari akan ada ujian.
 3434	Setiap pagi saya membaca koran dan pergi ke perusahaan.
 3435	Setiap pagi saya bangun pukul enam.
@@ -933,7 +933,7 @@
 3465	Setelah pulang rumah, saya mandi duluan.
 3466	Ketika naik kereta, dahulukan orang yang turun.
 3467	Setelah memasukkan gula, kemudian saya memasukkan sedikit kecap.
-3468	Kemudian, majalah ini saya pinjamkan ke Pak Yamada.
+3468	Kemudian, majalah ini saya pinjamkan ke Ibu Yamada.
 3469	Nanti saya pergi mengembalikan buku ke perpustakaan.
 3470	Lima menit lagi pelajaran selesai.
 3472	Restoran ini besar dan cantik.
@@ -954,15 +954,15 @@
 3488	Saya makan daging tebal.
 3489	Saya membeli kamus tipis.
 3490	Karena tembok kamar ini tipis, saya berbicara dengan suara kecil.
-3491	Kotak yang berat dibawa oleh orang laki-laki.
+3491	Kotak yang berat, laki-laki yang bawa.
 3492	Tas itu besar dan berat.
 3493	Saya ingin sepatu yang ringan.
-3494	Barang Pak Kimura kecil dan ringan.
+3494	Barang Mbak Kimura kecil dan ringan.
 3495	Pak Yamada paling tinggi sekelas.
 3496	Saya ingin tinggal di tempat tinggi.
 3497	Malam ini saya berencana belajar dalam waktu lama.
 3498	Pelajaran kemarin lama.
-3499	Orang yang badannya pendek itu Pak Kimura.
+3499	Orang yang badannya pendek itu Mbak Kimura.
 3500	Gunung ini rendah.
 3501	Saya harus mengerjakan pekerjaan ini dalam waktu singkat.
 3502	Satu hari itu sangat singkat.
@@ -1001,7 +1001,7 @@
 3535	Saya memesan empat masakan di restoran.
 3536	Pak Tanaka membeli lima buah keik.
 3537	Di kamar diletakkan enam buah kotak.
-3538	Pak Kimura membuat tujuh buah kue.
+3538	Mbak Kimura membuat tujuh buah kue.
 3539	Saya harus membeli delapan buah oleh-oleh dari jalan-jalan.
 3540	Di kelas ini ada sembilan buah tas.
 3541	Libur musim panas dari tanggal satu Agustus.
@@ -1047,10 +1047,10 @@
 3583	Rak buku ini tingginya 1 meter dan lebarnya 1,5 meter.
 3584	Pak Yamada bisa berenang seratus meter.
 3585	Saya suka binatang kecil dan imut.
-3586	Pak Kimura sangat lucu.
+3586	Mbak Kimura sangat lucu.
 3587	Orang yang muda dan ceria itu Pak Yamada.
 3588	Guru kelas sebelah masih muda.
-3589	Di sana ada kotak bundar.
+3589	Di sana ada peti bundar.
 3590	Meja ini bundar.
 3591	Benda yang paling saya inginkan sekarang adalah komputer baru.
 3592	Saya mau kamus bahasa Jepang.
@@ -1071,7 +1071,7 @@
 3609	Karena bulan ini sibuk, tidak ada hari luang.
 3610	Besok saya bermain dengan teman karena ada waktu luang.
 3611	Tidak boleh menggunakan barang yang ada di sana.
-3612	Pak Kimura sangat suka barang imut.
+3612	Mbak Kimura sangat suka barang imut.
 3613	Saya ingin tinggal di tempat tenang dan cantik.
 3614	Di sini tempat yang sangat ramai.
 3615	Kemarin saya mendengar berita menarik dari teman saya.
@@ -1081,13 +1081,13 @@
 3619	Pak Yamada memberikan jam pada hari ulang tahun Pak Kobayashi.
 3620	Hari ulang tahun saya tanggal dua puluh enam Agustus.
 3621	Buku tulis ini lebih panjang lebarnya daripada panjangnya.
-3622	Saya memotong kertas ini dari atas ke bawah.
+3622	Saya memotong kertas ini dari bawah ke atas.
 3623	Saya makan telur dengan dibubuhi garam.
 3624	Saya setiap pagi makan roti dan telur.
 3625	Tidak boleh membuka pintu di situ.
 3626	Pintu kamar saya tidak bisa ditutup.
 3627	Buku ini ada seratus dua puluh halaman.
-3628	Saya meminjam telepon dari Pak Kimura.
+3628	Saya meminjam telepon dari Ibu Kimura.
 3629	Besok saya akan menelepon Pak Lee.
 3630	Karena saya sudah mengambil banyak foto, saya tidak ada film lagi.
 3631	Saya memasukkan film ke kamera.
@@ -1131,7 +1131,7 @@
 3670	Di dalam kolam ada ikan.
 3671	Di taman ada kolam besar.
 3672	Bunga ini merah dan cantik.
-3673	Pak Kimura suka bunga.
+3673	Mbak Kimura suka bunga.
 3674	Kemarin saya memotong pohon.
 3675	Di halaman rumah Pak Tanaka ada pohon dan bunga.
 3676	Langit timur mendung.
@@ -1177,9 +1177,9 @@
 3716	Pak Lee semakin pandai berbahasa Jepang.
 3717	Mulai bulan Juli hawanya akan semakin panas.
 3718	B: Maaf. Besok sepertinya agak susah...
-3719	A: Bagaimana kalau besok kita pergi berbelanja.
+3719	A: Bagaimana kalau besok kita pergi berbelanja?
 3720	Saya kadang-kadang berbelanja di toko sayur ini.
-3721	Pak Kimura kadang-kadang membuat makan malam.
+3721	Mbak Kimura kadang-kadang membuat makan malam.
 3722	Orang yang ada di sana mungkin Pak Yamada.
 3723	Pak Hayashi mungkin tahu berita itu.
 3724	Para murid berbaris lurus di koridor.
@@ -1204,26 +1204,26 @@
 3743	Saya sering pergi ke kedai kopi itu dengan Pak Kimura.
 3744	Kalau sudah pulang rumah, pertama-tama saya mengerjakan pekerjaan rumah.
 3745	Awal bulan depan saya akan pulang ke negara saya.
-3746	Besok Anda akan bertemu dengan siapa.
-3747	Di kamar sebelah ada siapa.
-3748	Ada yang membawa bolpoin saya.
-3749	Anda selalu makan siang di mana.
-3750	Mengapa Anda belajar bahasa Jepang.
-3751	Dengan apa Anda pergi ke perusahaan.
-3752	Yang mana yang paling enak.
-3753	Pak Kobayashi membeli yang mana.
-3754	Itu makanan yang bagaimana.
-3755	Anda ingin menikah dengan orang yang bagaimana.
-3756	Pak Lee mau minuman yang mana.
-3757	Pak Kimura suka yang mana.
-3758	Apakah Anda mau kopi.
-3759	Apakah Anda mau kuenya satu.
-3760	Pelajaran guru mana yang paling menarik.
-3761	Pak Hayashi orang yang mana.
-3762	Pak Kobayashi siapa.
-3763	Siapa guru barunya.
-3764	Pak Yamada ingin makan yang mana.
-3765	Negara Anda di mana.
+3746	Besok Anda akan bertemu dengan siapa?
+3747	Di kamar sebelah ada siapa?
+3748	Ada yang membawa bolpoin saya?
+3749	Anda selalu makan siang di mana?
+3750	Mengapa Anda belajar bahasa Jepang?
+3751	Dengan apa Anda pergi ke perusahaan?
+3752	Yang mana yang paling enak?
+3753	Ibu Kobayashi membeli yang mana?
+3754	Itu makanan yang bagaimana?
+3755	Anda ingin menikah dengan orang yang bagaimana?
+3756	Pak Lee mau minuman yang mana?
+3757	Mbak Kimura suka yang mana?
+3758	Apakah Anda mau kopi?
+3759	Apakah Anda mau kuenya satu?
+3760	Pelajaran guru mana yang paling menarik?
+3761	Pak Hayashi orang yang mana?
+3762	Pak Kobayashi siapa?
+3763	Siapa guru barunya?
+3764	Pak Yamada ingin makan yang mana?
+3765	Negara Anda di mana?
 3766	Hai, Pak Tanaka, selamat malam.
 3767	Oh, baguslah.
 3768	Foto itu diambil bulan lalu.
@@ -1236,7 +1236,7 @@
 3775	Terima kasih banyak.
 3776	Terima kasih.
 3777	Ya, betul.
-3778	Ya, ada apa.
+3778	Ya, ada apa?
 3779	Kalau begitu, saya mohon bantuannya.
 3780	Kalau begitu, pelajaran dimulai.
 3781	Kalau begitu, saya pergi ke rumah sakit dengan bus.
@@ -1265,7 +1265,7 @@
 3807	Pekerjaan rumah semuanya sudah selesai.
 3808	Di laut banyak orang sedang berenang.
 3809	Banyak orang datang ke pesta.
-3810	Sepatu saya dan sepatu Pak Kobayashi sama.
+3810	Sepatu saya dan sepatu Mbak Kobayashi sama.
 3811	Pak Matsui dan Pak Lee sekelas.
 3812	Saya memasukkan banyak susu ke kopi.
 3813	Hari ini saya banyak berjalan kaki.
@@ -1304,7 +1304,7 @@
 3846	Anjing kami benar-benar lucu.
 3847	Cerita ini benar.
 3848	Tidak boleh berbicara kepada orang lain.
-3849	Ada barang lain yang Anda mau.
+3849	Ada barang lain yang Anda mau?
 3850	Saya ingin jalan-jalan ke semua tempat di Jepang.
 3851	Kemarin seharian saya tidak ada di rumah.
 3852	Saya meminjam buku dari perpustakaan dan membacanya.
@@ -1325,17 +1325,17 @@
 3867	Bulan lalu saya berhenti bekerja.
 3868	Saya makan kue yang saya dapat dari Pak Tanaka.
 3869	Saya kemarin mendapat oleh-oleh dari Pak Yamada yang pergi jalan-jalan.
-3870	Pak Kobayashi memberi separuh roti kepada Pak Kimura.
+3870	Pak Kobayashi memberi separuh roti kepada Mbak Kimura.
 3871	Pak Matsui memberi dasi pada hari ulang tahun Pak Tanaka.
 3872	Pelajaran hari ini sampai di sini. Kalau begitu, sampai jumpa minggu depan.
-3873	Apakah bisa mengerjakan ujian? Kalau begitu, tolong keluarkan.
-3874	Maaf, mau tanya. Perpustakaan di mana.
+3873	Apakah ujiannya sudah selesai? Kalau begitu, tolong kumpulkan.
+3874	Maaf, mau tanya. Perpustakaan di mana?
 3875	Guru itu orang yang sangat terhormat.
 3876	Saya ingin menjadi orang dewasa yang terhormat.
 3877	Semuanya ada sepuluh.
 3878	Tidak boleh memakai topi selama pelajaran.
 3879	Saya pergi jalan-jalan ke luar negeri dua minggu mulai minggu depan.
-3880	Saya menunjukkan foto jalan-jalan ke Pak Kimura.
+3880	Saya menunjukkan foto jalan-jalan ke Mbak Kimura.
 3881	Saya paling suka warna putih.
 3882	Di sini sangat dingin karena suhunya nol derajat.
 3883	"Kosong" sama dengan "nol".
@@ -1352,7 +1352,7 @@
 3894	Kelas sebelah bisa menampung seratus orang.
 3895	Kemarin saya meminjam seribu yen dari Pak Yamada.
 3896	Mantel ini sepuluh ribu yen.
-3898	Ayah Pak Kimura berumur lima puluh dua tahun.
+3898	Ayah Mbak Kimura berumur lima puluh dua tahun.
 3899	Saya khawatir karena adik perempuan saya hari ini juga demam tinggi terus-menerus.
 3900	Minggu lalu terus-menerus hujan.
 3901	Sebelum keluar rumah, saya memeriksa barang saya.
@@ -1365,8 +1365,8 @@
 3908	Kalau ditekan di sini, bunyinya akan menjadi besar.
 3909	Saya sekelompok dengan Bapak Lee.
 3911	Saya selalu membaca buku tiga puluh menit saja sebelum tidur.
-3912	Saya makan sebuah kue saja.
+3912	Saya makan kue sebuah saja.
 3913	B: Satu, dua, tiga, empat...
-3914	A: Ada berapa.
+3914	A: Ada berapa?
 3915	Di dalam kulkas ada tujuh butir telur.
 3916	Saya pergi ke perusahaan setiap pagi pukul sembilan.
