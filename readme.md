@@ -1,7 +1,7 @@
 # TUFS Asian Language Parallel Corpus (TALPCo)
 
 ## Introduction
-The TUFS Asian Language Parallel Corpus (TALPCo) is an open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian and English.  TALPCo is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).  See the paper below for the details of TALPCo.
+The TUFS Asian Language Parallel Corpus (TALPCo) is an open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian, Vietnamese and English.  TALPCo is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).  See the paper below for the details of TALPCo.
 
 ## How to cite
 Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian Language Parallel Corpus (TALPCo)](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C3-5.pdf). _Proceedings of the Twenty-Fourth Annual Meeting of the Association for Natural Language Processing_, 436-439.
@@ -28,6 +28,12 @@ Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian 
 - `data_ind.txt`	Indonesian (raw sentences)
 - `data_ind-token.txt`	Indonesian (tokenized sentences)
 - `data_ind-MWE.txt`	Indonesian (multiword expression list)
+
+-----------------------------------
+
+- `data_vie.txt`	Vietnamese (raw sentences)
+- `data_vie-token.txt`	Vietnamese (tokenized sentences)
+- `data_vie-MWE.txt`	Vietnamese (multi-syllable expression list)
 
 -----------------------------------
 
@@ -77,3 +83,7 @@ The Malay and Indonesian sentences were tokenized manually by Hiroki Nomoto and 
 - KBBI5. 2016. [_Kamus Besar Bahasa Indonesia (edisi kelima)_](https://kbbi.kemdikbud.go.id/). Jakarta: Badan Pengembangan dan Pembinaan Bahasa.
 - Nomoto, Hiroki. 2016. [_Pootaburu Nichi-Maree-Ei, Maree-Nichi-Ei Jiten \[Japanese-Malay-English, Malay-Japanese-English Portable Dictionary\]_](http://www.sanshusha.co.jp/np/details.do?goods_id=4296). Tokyo: Sanshusha.
 
+## A note on Vietnamese
+The sentences were tokenized using the `word_tokenize` function of the [Undersea - Vietnamese NLP Project](http://undertheseanlp.com/) and then checked by Junta Nomura and Hiroki Nomoto.  The following dictionary was consulted when it was not immediately obvious whether a syllable sequence constituted a multi-syllable expression.
+
+- Hoàng, Phê, ed. 2003. _Từ Điển Tiếng Việt_. Đà Nẵng: Nhà Xuất Bản Đà Nẵng.
