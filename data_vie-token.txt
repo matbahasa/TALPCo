@@ -1,0 +1,13964 @@
+1176
+Anh
+Tanaka
+không
+phải
+là
+học sinh
+.
+<EOS>
+1178
+Bố
+tôi
+là
+giáo viên
+.
+<EOS>
+1180
+Trường
+nghỉ
+dạy
+.
+<EOS>
+1194
+Tokyo
+trời
+nắng
+.
+<EOS>
+1222
+Ở
+công viên
+có
+cây
+.
+<EOS>
+1229
+Anh
+Tanaka
+ở
+đâu
+?
+<EOS>
+1233
+Tôi
+không
+có
+tiền
+.
+<EOS>
+1244
+Trên
+bàn
+có
+quyển
+sách
+.
+<EOS>
+1245
+Dưới
+bàn
+có
+cái
+cặp
+.
+<EOS>
+1246
+Trong
+cặp
+có
+quyển
+vở
+.
+<EOS>
+1247
+Bên
+phải
+anh
+Tanaka
+là
+anh
+Yamada
+.
+<EOS>
+1248
+Bên
+trái
+anh
+Tanaka
+là
+chị
+Kimura
+.
+<EOS>
+1249
+Trước
+nhà
+có
+con
+mèo
+.
+<EOS>
+1250
+Sau
+nhà có
+chiếc
+xe hơi
+.
+<EOS>
+1251
+Thùng thư
+ở
+đối diện
+nhà tôi
+.
+<EOS>
+1254
+Anh
+Yamada
+ở
+ngoài
+phòng học
+.
+<EOS>
+1255
+Phía
+trước
+nhà
+là
+công viên
+.
+<EOS>
+1257
+Trường học
+ở
+gần
+nhà
+.
+<EOS>
+1258
+Quyển
+sách
+ở
+trong
+cặp
+.
+<EOS>
+1259
+Cây bút
+của
+tôi
+là
+cây
+này
+.
+<EOS>
+1264
+Phòng học
+tiếng
+Nhật
+ở
+đâu
+?
+<EOS>
+1268
+Đó
+là
+tờ báo
+ra
+khi nào
+vậy
+?
+<EOS>
+1274
+Trong
+phòng họp
+có
+máy vi tính
+mới
+.
+<EOS>
+1275
+Trong
+thùng
+có con
+chó
+nhỏ
+.
+<EOS>
+1276
+Anh
+Tanaka
+là
+người
+khỏe mạnh
+.
+<EOS>
+1280
+Bộ
+phim
+như
+thế nào
+vậy
+?
+<EOS>
+1281
+Bộ
+phim
+cũ
+của
+Nhật
+.
+<EOS>
+1286
+Bạn
+sẽ
+mua
+đôi
+giày
+nào
+?
+<EOS>
+1291
+Từ điển
+tiếng
+Nhật
+là
+quyển
+đó
+.
+<EOS>
+1296
+Cái
+cặp
+của
+chị
+Tanaka
+ở
+chỗ
+đó
+.
+<EOS>
+1297
+Thầy giáo
+ở
+đằng
+kia
+.
+<EOS>
+1299
+Quyển
+sách
+đó
+là
+của
+tôi
+.
+<EOS>
+1302
+Cái
+cặp
+lớn
+đó
+là
+của
+tôi
+.
+<EOS>
+1305
+Xin lỗi
+cho
+tôi
+hỏi
+,
+nhà vệ sinh
+ở
+đâu
+?
+<EOS>
+1308
+Cái
+cặp
+kia
+là
+của
+ai
+?
+<EOS>
+1311
+Cái
+kia
+là
+của
+anh
+Tanaka
+.
+<EOS>
+1312
+Xe hơi
+của
+thầy giáo
+ở
+đâu
+?
+<EOS>
+1319
+Có
+bảy
+cái
+bánh kem
+.
+<EOS>
+1320
+Cây bút bi
+này
+bao nhiêu
+tiền
+?
+<EOS>
+1322
+Tôi
+sẽ
+mua
+mười
+con
+tem
+và
+ba
+tấm
+thiệp
+.
+<EOS>
+1323
+Trên
+bàn
+của
+thầy giáo
+có
+ba
+quyển
+từ điển
+và
+một
+quyển
+tạp chí
+.
+<EOS>
+1326
+Ở
+chỗ
+đó
+có
+mấy
+cái
+khăn tay
+?
+<EOS>
+1330
+Bây giờ
+là
+năm
+giờ
+.
+<EOS>
+1333
+Bây giờ
+là
+mấy
+giờ
+mấy
+phút
+?
+<EOS>
+1334
+Mười
+giờ
+năm
+mươi
+mốt
+phút
+.
+<EOS>
+1335
+Hôm nay
+là
+ngày
+mấy
+tháng
+mấy
+?
+<EOS>
+1341
+Ti-vi
+đặt
+bên
+cạnh
+đàn
+dương cầm
+.
+<EOS>
+1348
+Ngày mai
+tôi
+sẽ
+kết thúc
+giờ
+học
+vào
+buổi
+sáng
+.
+<EOS>
+1349
+Mỗi
+ngày
+tôi
+đều
+đi
+đến
+trường
+.
+<EOS>
+1350
+Anh
+Tanaka
+học
+ở
+thư viện
+nhưng
+tôi
+học
+ở
+nhà
+.
+<EOS>
+1356
+Ngày
+hôm qua
+tôi
+đã
+học
+bài
+.
+<EOS>
+1367
+Tôi
+sẽ
+về
+nhà
+.
+<EOS>
+1369
+Không
+,
+tôi
+sẽ
+không
+đi
+.
+<EOS>
+1371
+Anh
+Tanaka
+uống
+coca
+.
+<EOS>
+1378
+Tôi
+sẽ
+gửi
+thư
+cho
+anh
+Tanaka
+.
+<EOS>
+1379
+Tôi
+sẽ
+cho
+anh
+Yamada
+mượn
+tiền
+.
+<EOS>
+1380
+Tôi
+sẽ
+dạy
+tiếng
+Anh
+cho
+chị
+Kimura
+.
+<EOS>
+1382
+Tôi
+sẽ
+mượn
+tiền của
+anh
+Yamada
+.
+<EOS>
+1386
+Tôi
+sẽ
+đặt
+quyển
+sách
+lên
+bàn
+.
+<EOS>
+1388
+Tôi
+thức dậy
+vào
+lúc
+bảy
+giờ
+ba
+mươi
+phút
+.
+<EOS>
+1389
+Tôi
+ngủ
+vào
+lúc
+mười
+một
+giờ
+.
+<EOS>
+1392
+Tôi
+chơi
+ten-nít
+vào
+ngày
+chủ nhật
+.
+<EOS>
+1393
+Bạn
+chơi
+ten-nít
+khi nào
+?
+<EOS>
+1396
+Tôi
+đã
+xem
+phim
+rồi
+.
+<EOS>
+1397
+Tôi
+đã
+đi
+du lịch
+vào
+kì
+nghỉ hè
+.
+<EOS>
+1398
+Tôi
+sẽ
+tổ chức
+tiệc
+vào
+dịp
+sinh nhật
+của
+anh
+Yamada
+.
+<EOS>
+1401
+Con
+chó
+của
+nhà tôi
+thì
+to
+.
+<EOS>
+1402
+Con
+chó
+của
+nhà
+bên
+cạnh
+thì
+không
+to
+.
+<EOS>
+1403
+Hôm nay
+trời
+không
+lạnh
+.
+<EOS>
+1408
+Món ăn
+Nhật Bản
+có
+cay
+không
+?
+<EOS>
+1409
+Không
+,
+không
+cay
+.
+<EOS>
+1410
+Bên
+ngoài
+có
+lạnh
+không
+?
+<EOS>
+1414
+Món ăn
+Nhật Bản
+như
+thế nào
+?
+<EOS>
+1418
+Cái
+cặp
+này
+đắt tiền
+.
+<EOS>
+1419
+Các
+món ăn
+trong
+buổi
+tiệc
+không
+ngon
+.
+<EOS>
+1423
+Bộ
+phim
+hôm qua
+như
+thế nào
+?
+<EOS>
+1426
+Phòng
+của
+tôi
+không
+rộng
+lắm
+.
+<EOS>
+1427
+Tôi
+đã
+rất
+mệt
+.
+<EOS>
+1428
+Tôi
+đã
+không
+mệt
+lắm
+.
+<EOS>
+1431
+Ở
+quanh
+đây
+không
+có
+nhiều
+nhà
+cao tầng
+lắm
+.
+<EOS>
+1433
+Trước
+ga
+có
+cửa hàng
+tốt
+.
+<EOS>
+1434
+Đây
+là
+căn
+phòng
+rất
+yên tĩnh
+.
+<EOS>
+1435
+Bộ
+quần áo
+đẹp
+nhỉ
+!
+<EOS>
+1446
+Anh
+Tanaka
+thì
+cao
+.
+<EOS>
+1449
+Tôi
+bị
+đau
+họng
+từ
+hôm qua
+.
+<EOS>
+1450
+Bạn
+bị
+đau đầu
+phải
+không
+?
+<EOS>
+1451
+Không
+,
+không
+đau
+.
+<EOS>
+1454
+Khu phố
+này
+đường
+hẹp
+.
+<EOS>
+1455
+Bức
+tranh
+này
+màu
+sắc đẹp
+.
+<EOS>
+1457
+Tôi
+hát
+dở
+.
+<EOS>
+1459
+Bố
+anh
+Yamada
+làm việc
+rất
+chăm chỉ
+.
+<EOS>
+1460
+Anh
+Yamada
+có
+bố
+là
+bác sĩ
+.
+<EOS>
+1473
+Đừng
+quên
+làm
+bài tập
+nhé
+!
+<EOS>
+1474
+Có thể
+học
+bài
+ở
+đây
+.
+<EOS>
+1476
+Tôi
+nghĩ
+người
+kia
+là
+giáo viên
+tiếng
+Nhật
+.
+<EOS>
+1477
+Đây
+là
+cuộc
+băng
+mà
+tôi
+mua
+hôm qua
+.
+<EOS>
+1478
+Nếu không
+biết
+đường
+thì
+hãy
+gọi
+điện thoại
+.
+<EOS>
+1481
+Anh
+Kobayashi
+mặc
+chiếc
+áo
+sơ mi
+màu
+xanh
+da trời
+.
+<EOS>
+1482
+Điều
+đó
+có
+viết
+trong
+thư
+.
+<EOS>
+1484
+Sau
+khi
+ăn
+cơm
+thì
+tôi
+đánh răng
+.
+<EOS>
+1485
+Hãy
+đứng
+dậy
+.
+<EOS>
+1491
+Bây giờ
+,
+anh
+Kobayashi
+đang
+đọc
+sách
+ở
+thư viện
+.
+<EOS>
+1492
+Anh
+Tanaka
+đang
+làm
+gì
+vậy
+?
+<EOS>
+1494
+Bạn học
+tiếng
+Nhật
+từ
+khi nào
+?
+<EOS>
+1495
+Tôi
+học
+từ
+năm ngoái
+.
+<EOS>
+1501
+Cửa sổ
+đang
+mở
+.
+<EOS>
+1507
+Con
+đường
+này
+quanh co
+.
+<EOS>
+1512
+Cửa sổ
+đang
+đóng
+.
+<EOS>
+1513
+Điện
+tắt
+.
+<EOS>
+1515
+Câu hỏi
+được
+ghi
+ở
+trang
+mười
+lăm
+.
+<EOS>
+1520
+Cửa sổ
+đang
+mở
+.
+<EOS>
+1527
+Trên
+bàn
+có
+quyển
+sách
+và
+quyển
+vở
+.
+<EOS>
+1528
+Tôi
+có
+buổi
+tập
+đá bóng
+vào
+thứ
+hai
+,
+tư
+,
+sáu
+.
+<EOS>
+1530
+Tôi
+sẽ
+mua
+đồ
+tại
+trung tâm
+thương mại
+hoặc
+siêu thị
+.
+<EOS>
+1531
+Trước
+bưu điện
+hoặc
+bên
+cạnh
+ga
+thường
+có
+hộp thư
+.
+<EOS>
+1532
+Tôi
+ăn
+trứng
+,
+bánh mì
+...
+.
+<EOS>
+1533
+Trong
+căn
+phòng
+của
+tôi
+có
+bàn
+,
+giường
+,
+ti-vi
+...
+.
+<EOS>
+1534
+Cái
+cặp
+to
+,
+màu
+đen
+là
+của
+tôi
+.
+<EOS>
+1535
+Tôi
+sống
+trong
+một
+căn hộ
+sạch sẽ
+và
+yên tĩnh
+.
+<EOS>
+1537
+Bông hoa
+này
+nhỏ
+và
+có
+màu
+đỏ
+.
+<EOS>
+1542
+Đôi
+tất
+này
+bền
+và
+rẻ
+.
+<EOS>
+1544
+Quyển
+sách
+này
+nhiều
+chữ Hán
+nên
+khó
+.
+<EOS>
+1545
+Tôi
+bị
+sốt
+nên
+không
+thể
+nào
+đi học
+được
+.
+<EOS>
+1546
+Tôi
+đã
+chơi
+quần vợt
+,
+bơi lội
+vào
+kì
+nghỉ hè
+.
+<EOS>
+1547
+Vào
+ngày
+chủ nhật
+,
+em trai
+tôi
+thường
+đọc
+sách
+,
+xem
+ti-vi
+.
+<EOS>
+1548
+Tôi
+hay
+đi
+xem
+phim
+,
+đi
+bơi
+cùng
+bạn bè
+.
+<EOS>
+1549
+Tôi
+đi
+đi về
+về
+giữa
+Tokyo
+và
+Osaka
+bằng
+máy bay
+.
+<EOS>
+1551
+Ngày mai
+tôi
+sẽ
+gặp
+bạn
+ở
+ga
+,
+sau
+đó
+cùng nhau
+đi
+xem
+hòa
+nhạc
+.
+<EOS>
+1553
+Tôi
+thường
+thức dậy
+vào
+lúc
+bảy
+giờ
+sáng
+,
+ăn sáng
+ở
+nhà ăn
+rồi
+bắt đầu
+luyện tập
+vào
+lúc
+tám
+giờ
+.
+<EOS>
+1556
+Chúng ta
+hãy
+ngồi
+đằng
+kia
+rồi
+ăn
+cơm
+thôi
+.
+<EOS>
+1557
+Tôi
+đi
+bộ
+đến
+trường
+mỗi
+ngày
+.
+<EOS>
+1558
+Tôi
+học
+tiếng
+Nhật
+bằng
+cách
+nghe
+băng
+.
+<EOS>
+1562
+Vì
+bão
+lớn
+đến
+nên
+tàu
+dừng
+.
+<EOS>
+1586
+Tôi
+sẽ
+đi
+bộ
+từ trường
+về
+nhà
+.
+<EOS>
+1588
+Tôi
+ăn
+cơm
+ở
+nhà ăn
+.
+<EOS>
+1592
+Bầu trời
+trong
+xanh
+.
+<EOS>
+1599
+Tôi
+đã
+đọc
+sách
+.
+<EOS>
+1601
+Tôi
+sẽ
+rời
+nhà
+vào
+lúc
+chín
+giờ
+.
+<EOS>
+1605
+Tôi
+sẽ
+nghỉ
+học
+.
+<EOS>
+1609
+Tôi
+đã
+ăn
+mỗi
+bánh mì
+.
+<EOS>
+1614
+Tôi
+sẽ
+dán
+bức
+ảnh
+lên
+tường
+.
+<EOS>
+1619
+Tôi
+sẽ
+lên
+máy bay
+.
+<EOS>
+1625
+Tôi
+sẽ
+cho
+anh
+Tanaka
+xem
+quyển
+sách
+.
+<EOS>
+1630
+Ti-vi
+không
+tốt
+cho
+mắt
+.
+<EOS>
+1634
+Tôi
+nghỉ
+lại
+ở
+khách sạn
+.
+<EOS>
+1636
+Hoa
+nở
+trong
+vườn
+.
+<EOS>
+1637
+Tôi
+rời
+nhà
+vào
+lúc
+bảy
+giờ
+.
+<EOS>
+1638
+Tôi
+đã
+đến
+Nhật
+vào
+ngày
+mười
+lăm
+tháng
+ba
+năm nay
+.
+<EOS>
+1640
+Tôi
+sẽ
+đi
+mua
+cái
+áo
+sơ mi
+.
+<EOS>
+1645
+Máy bay
+bay
+theo
+hướng
+Nam
+.
+<EOS>
+1646
+Kì nghỉ hè
+bắt đầu
+từ
+ngày
+một
+tháng
+tám
+đến
+ba
+mươi
+tháng
+chín
+.
+<EOS>
+1647
+Người
+có số
+thứ tự
+từ
+một
+đến
+mười
+hãy
+bước vào
+.
+<EOS>
+1650
+Tôi
+ra
+khỏi
+phòng học
+.
+<EOS>
+1654
+Thầy giáo
+đã
+đưa
+ra
+một
+câu hỏi
+.
+<EOS>
+1660
+Buổi
+hòa
+nhạc
+diễn
+ra
+tại
+công viên
+.
+<EOS>
+1667
+Tôi
+viết
+chữ
+bằng
+bút
+.
+<EOS>
+1668
+Tôi
+đi
+đến
+trường
+bằng
+xe buýt
+.
+<EOS>
+1671
+Tôi
+đã
+nghỉ
+học
+vì
+bị
+bệnh
+.
+<EOS>
+1672
+Vì
+bão
+nên
+tàu
+đến
+trễ
+.
+<EOS>
+1675
+Lúc nào
+tôi
+cũng
+học
+một mình
+.
+<EOS>
+1679
+Mười
+phút
+nữa là
+năm
+giờ
+.
+<EOS>
+1682
+Tôi
+đã
+đi
+du lịch
+cùng với
+lớp
+.
+<EOS>
+1683
+Công việc
+đó
+tự
+tôi
+làm
+.
+<EOS>
+1692
+Cái
+cặp
+kia
+giống
+với
+cái
+cặp
+của
+tôi
+.
+<EOS>
+1693
+Quyển
+vở
+này
+khác
+với
+quyển
+vở
+của
+tôi
+.
+<EOS>
+1694
+Lúc
+thức dậy
+vào
+buổi
+sáng
+,
+chúng tôi
+nói
+"
+Chào
+buổi sáng
+"
+.
+<EOS>
+1696
+Chữ Hán
+này
+đọc
+là
+"
+yama
+"
+.
+<EOS>
+1710
+Cho
+tôi
+hai
+ly
+coca
+.
+<EOS>
+1714
+Hãy
+viết
+tên
+của
+bạn
+.
+<EOS>
+1715
+Vâng
+,
+tôi
+hiểu
+rồi
+.
+<EOS>
+1720
+Xin
+chờ
+một chút
+.
+<EOS>
+1727
+Vâng
+,
+được
+thôi
+.
+<EOS>
+1728
+Ăn
+cơm
+trong
+phòng
+này
+cũng
+không
+sao
+.
+<EOS>
+1734
+Tôi
+ra
+ngoài
+có
+được
+không
+?
+<EOS>
+1738
+Không
+được
+sử dụng
+điện thoại di động
+trong
+bệnh viện
+.
+<EOS>
+1745
+Ngày
+hôm này
+đừng
+tắm
+bồn
+.
+<EOS>
+1748
+Tôi
+đang
+dùng
+máy vi tính
+nên
+đừng có
+tắt
+công tắc
+.
+<EOS>
+1768
+Chiều
+thứ bảy
+chúng ta
+chơi
+ten-nít
+nhé
+!
+<EOS>
+1778
+Chúng ta
+đi
+bơi
+nhé
+!
+<EOS>
+1794
+Hành
+lý
+đó
+tôi
+sẽ
+cầm
+cho
+.
+<EOS>
+1799
+Công việc
+đó
+tôi
+sẽ
+làm cho
+.
+<EOS>
+1801
+Tôi
+đã
+định
+học
+bài
+ở
+thư viện
+nhưng
+nó
+lại
+đóng cửa
+.
+<EOS>
+1810
+Tôi
+định
+sau
+khi
+trở về
+nhà
+sẽ
+dọn dẹp
+.
+<EOS>
+1811
+Em gái
+tôi
+dự định
+trở thành
+giáo viên
+tiếng
+Nhật
+.
+<EOS>
+1813
+Tối
+hôm nay
+tôi
+không
+muốn
+đi
+đâu
+cả
+.
+<EOS>
+1817
+Tôi
+muốn
+nghe
+nhạc
+Nhật
+.
+<EOS>
+1818
+Tôi
+muốn
+uống
+nước
+.
+<EOS>
+1824
+Vâng
+,
+được
+thôi
+.
+<EOS>
+1826
+Tôi
+đã
+muốn
+thi
+vào
+đại học
+ở
+Tokyo
+.
+<EOS>
+1831
+Tôi
+muốn
+có
+một
+cái
+máy tính
+.
+<EOS>
+1836
+Bạn
+muốn
+cái
+nào
+?
+<EOS>
+1837
+Tôi
+muốn
+cái
+này
+với
+cái
+đó
+.
+<EOS>
+1848
+Tôi
+thích
+âm nhạc
+.
+<EOS>
+1849
+Tôi
+không
+thích
+thể thao
+.
+<EOS>
+1860
+Món ăn
+yêu thích
+của
+bạn
+là
+món
+nào
+?
+<EOS>
+1862
+Tôi
+thấy
+giờ
+học
+vui vẻ
+.
+<EOS>
+1879
+Không
+,
+không
+thể
+.
+<EOS>
+1881
+Anh
+Tanaka
+có thể
+chơi
+ten-nít
+.
+<EOS>
+1883
+Có thể
+gọi
+ra
+nước ngoài
+bằng
+cái
+điện thoại
+kia
+không
+?
+<EOS>
+1885
+Tôi
+có thể
+viết
+chữ Hán
+.
+<EOS>
+1900
+Có người ở
+đằng
+kia
+nhỉ
+?
+Không
+biết
+người
+đó
+là
+ai
+vậy
+?
+<EOS>
+1919
+Cái
+đồng hồ
+này
+chắc chắn
+đắt tiền
+.
+<EOS>
+1921
+Vì
+bây giờ
+là
+mười
+giờ
+nên
+bưu điện
+chắc chắn
+mở cửa
+.
+<EOS>
+1928
+Ngôi nhà
+này
+hình như
+có
+ai
+đó
+đang
+sống
+.
+<EOS>
+1931
+Trời
+sắp
+mưa
+.
+<EOS>
+1935
+Trong
+vườn
+không
+có
+xe
+nên
+chắc
+mẹ
+tôi
+đi
+ra
+ngoài
+rồi
+.
+<EOS>
+1942
+Nghe nói
+tháng
+tới
+sẽ
+có
+học sinh
+mới
+đến
+.
+<EOS>
+1947
+Tôi
+đã
+nghe
+từ
+thầy giáo
+rằng
+tháng
+tới
+sẽ
+có
+học sinh
+mới
+đến
+.
+<EOS>
+1965
+Người
+viết
+bài văn
+này
+là
+ai
+?
+Không
+có
+ghi tên
+.
+<EOS>
+1967
+Món ăn
+mà
+mẹ
+tôi
+nấu
+rất
+ngon
+.
+<EOS>
+1971
+Hãy
+nộp
+giấy
+đã
+ghi
+câu
+trả lời
+.
+<EOS>
+1974
+Tôi
+đã
+nhìn
+thấy
+anh
+Tanaka
+đang
+học
+ở
+thư viện
+.
+<EOS>
+1990
+Tôi
+đã
+nhìn
+thấy
+anh
+Tanaka
+đang
+chạy
+bộ
+.
+<EOS>
+1993
+Người
+đã
+ăn
+cái
+bánh
+ga-tô
+này
+là
+anh
+Yamada
+.
+<EOS>
+2004
+Tôi
+đã
+uống thuốc
+rồi
+nên
+sẽ
+ổn
+thôi
+.
+<EOS>
+2005
+Ngày mai
+không
+có
+tiết
+học
+nên
+tôi
+không
+đi
+đến
+trường
+.
+<EOS>
+2007
+Tại sao
+bạn
+lại
+biết
+số
+điện thoại
+của
+tôi
+vậy
+?
+<EOS>
+2011
+Tại
+sao vậy
+?
+<EOS>
+2017
+Tại sao
+bạn
+lại
+nghỉ
+học
+vậy
+?
+<EOS>
+2018
+Vì
+sốt
+nên
+tôi
+không
+thể
+nào
+dậy
+nổi
+.
+<EOS>
+2019
+Hôm nay
+thầy giáo
+bị
+ốm
+nên
+nghỉ
+học
+.
+<EOS>
+2023
+Anh
+Yamada
+lúc nào
+sôi nổi
+nhưng
+hôm nay
+lại
+im ắng
+.
+<EOS>
+2024
+Hôm nay
+tuy
+là
+chủ nhật
+nhưng
+tôi
+lại
+có
+việc
+.
+<EOS>
+2030
+Tôi
+thì
+sống
+ở
+Tokyo
+nhưng
+em trai
+lại
+sống
+ở
+Kyoto
+.
+<EOS>
+2041
+Nếu
+bạn
+đi
+đến
+đại học
+kia
+thì
+đi
+xe đạp
+tiện
+hơn
+.
+<EOS>
+2042
+Bố
+tôi
+mỗi
+sáng
+khi
+thức
+dậy thì
+đọc
+báo
+.
+<EOS>
+2043
+Bấm
+cái
+nút
+này
+thì
+cửa
+sẽ
+mở
+ra
+.
+<EOS>
+2047
+Nếu
+rẻ
+thì
+tôi
+sẽ
+mua
+.
+<EOS>
+2055
+Vì
+gần
+nên
+chúng ta
+đi bộ
+thôi
+.
+<EOS>
+2056
+Nếu không
+thích
+thì
+bạn
+không
+làm
+cũng
+không
+sao
+đâu
+.
+<EOS>
+2060
+Nếu
+mua
+xe
+thì
+sẽ
+tốn
+tiền
+.
+<EOS>
+2061
+Nếu
+mua
+xe
+thì
+có thể
+đi
+bất cứ
+đâu
+.
+<EOS>
+2064
+Làm
+thế nào
+để
+có thể
+nhớ
+được
+chữ Hán
+?
+<EOS>
+2065
+Nếu
+đọc
+báo
+mỗi
+ngày
+thì
+có thể
+nhớ
+được
+đấy
+.
+<EOS>
+2068
+Dù
+tuyết
+rơi
+tôi
+vẫn
+đi
+học
+.
+<EOS>
+2069
+Dù
+trời
+lạnh
+tôi
+vẫn
+bơi
+.
+<EOS>
+2079
+Anh
+Yamada
+đã
+tặng
+cho
+em gái
+tôi
+quyển
+sách
+.
+<EOS>
+2086
+Tôi
+đã
+tặng
+hoa
+cho
+bố
+.
+<EOS>
+2088
+Tôi
+đã
+nhận
+được
+quyển
+sách
+từ
+bố
+.
+<EOS>
+2090
+Tôi
+cho
+anh
+Kobayashi
+mượn
+quyển
+vở
+.
+<EOS>
+2092
+Tôi
+được
+anh
+Kimura
+cho mượn
+quyển
+sách
+.
+<EOS>
+2093
+Tôi
+cho
+em trai
+tôi
+mượn
+tiền
+.
+<EOS>
+2097
+Em gái
+tôi
+làm cơm
+hộp
+cho
+bố
+.
+<EOS>
+2099
+Tôi
+kiểm tra
+bài tập
+cho
+em gái
+tôi
+.
+<EOS>
+2100
+Anh
+Kimura
+đã
+khiêng
+hành lý
+giúp
+tôi
+.
+<EOS>
+2104
+Tôi
+đã
+được
+mẹ
+hướng dẫn
+cách
+nấu ăn
+.
+<EOS>
+2115
+Tôi
+đi
+bộ
+đến
+ga
+.
+<EOS>
+2120
+Tuần
+sau
+khi
+đi
+đến
+đó
+thì
+tôi
+sẽ
+mua
+đồ uống
+đến
+.
+<EOS>
+2123
+Hôm nay
+tôi
+đã
+đi
+ăn
+cơm
+tối
+với
+bạn
+.
+<EOS>
+2130
+Xin lỗi
+,
+tôi
+có thể
+mặc
+thử
+đồ
+này
+được
+không
+?
+<EOS>
+2153
+Tôi
+là
+sinh viên
+.
+<EOS>
+2154
+Bộ
+phim
+tôi
+xem
+hôm qua
+rất
+thú vị
+.
+<EOS>
+2158
+Tôi
+là
+sinh viên
+còn
+anh trai
+tôi
+là
+nhân viên
+công ty
+.
+<EOS>
+2170
+Công việc
+của
+bạn
+là
+gì
+?
+<EOS>
+2178
+Lúc
+tôi
+đang
+ăn
+cơm
+thì
+bạn
+tới
+nhà
+.
+<EOS>
+2179
+Khi
+đi
+nước ngoài
+thì
+cầm
+theo
+hộ chiếu
+.
+<EOS>
+2180
+Tôi
+đã
+chụp ảnh
+tại
+sân bay
+lúc
+lên đường
+đến
+Nhật
+.
+<EOS>
+2187
+Tôi
+đã
+gọi
+điện thoại
+lúc
+ở
+trong
+phòng
+.
+<EOS>
+2189
+Tôi
+đã
+bơi
+tốt
+khi
+còn
+trẻ
+.
+<EOS>
+2192
+Tôi
+vừa
+ăn
+vừa
+xem
+ti-vi
+.
+<EOS>
+2205
+Kì nghỉ
+hè
+năm nay
+tôi
+đã
+đi
+biển
+rồi
+đi
+leo
+núi
+nữa
+.
+<EOS>
+2206
+Khi
+đọc
+sách
+trong
+bóng tối
+thì
+mắt
+sẽ
+kém
+đi
+.
+<EOS>
+2213
+Bạn
+có
+muốn
+uống
+trà
+không
+?
+<EOS>
+2220
+Mùa xuân
+đã
+đến
+nhưng
+trời
+vẫn
+chưa
+ấm
+lên
+.
+<EOS>
+2227
+Ngày
+hôm qua
+tôi
+đã
+đi
+đến
+trường
+đại học
+.
+<EOS>
+2229
+Tôi
+đã
+bỏ
+thuốc lá
+.
+<EOS>
+2232
+Hôm nay
+không
+có
+ai
+đến
+cả
+.
+<EOS>
+2234
+Bạn
+cũng
+làm việc
+chăm chỉ
+nhỉ
+!
+<EOS>
+2247
+Còn
+trà
+thì
+sao
+?
+<EOS>
+2249
+Ai
+không
+đem theo
+bút bi
+thì
+dùng
+bút chì
+cũng
+được
+.
+<EOS>
+2332
+Vâng
+,
+xin
+mời
+.
+<EOS>
+2369
+Xin
+mời
+.
+<EOS>
+2383
+Tuy
+chỉ
+là
+một
+món
+quà
+nhỏ
+nhưng
+mong
+anh
+vui lòng
+nhận
+lấy
+.
+<EOS>
+2391
+Xin
+cảm ơn
+.
+<EOS>
+2396
+Đúng
+vậy
+.
+<EOS>
+2409
+Bao nhiêu
+tiền
+vậy
+?
+<EOS>
+2415
+Vậy thì
+xin
+nhờ
+anh
+.
+<EOS>
+2429
+Tôi
+dự định
+đi
+du lịch
+châu
+Âu
+với
+bạn bè
+.
+<EOS>
+2495
+Ở
+tầng
+ba
+của
+tòa
+nhà
+này
+.
+<EOS>
+2497
+Đi lên
+tầng
+ba
+thì
+đi
+như
+thế nào
+vậy
+?
+<EOS>
+2498
+Ở
+đằng
+kia
+có
+thang máy
+.
+<EOS>
+2520
+Vâng
+,
+tôi
+thích
+nó
+.
+<EOS>
+2548
+Alo
+.
+<EOS>
+2562
+Hẹn
+gặp
+lại
+sau
+.
+<EOS>
+2599
+Sao
+lại
+thế
+?
+<EOS>
+2637
+À
+,
+như vậy
+sao
+?
+<EOS>
+2651
+Tôi
+sẽ
+trả lại
+vào
+buổi
+trưa
+có
+được
+không
+vậy
+?
+<EOS>
+2672
+Xin
+làm phiền
+anh
+một chút
+.
+<EOS>
+2734
+Tôi
+muốn
+làm việc
+ở
+nước ngoài
+.
+<EOS>
+2744
+Thầy
+ơi
+,
+đây
+là
+mẹ
+của
+em
+.
+<EOS>
+2751
+Do
+bị
+cảm
+nên
+tôi
+uống thuốc
+.
+<EOS>
+2753
+Rất
+nhiều
+người
+chết
+.
+<EOS>
+2754
+Khi
+ăn
+cơm
+xong
+thì
+tôi
+đánh răng
+.
+<EOS>
+2755
+Chị
+Kimura
+rất
+thông minh
+.
+<EOS>
+2756
+Bưu điện
+ở
+bên
+cạnh
+ga
+.
+<EOS>
+2757
+Ngày mai
+hành lý
+sẽ
+đến
+.
+<EOS>
+2758
+Tàu điện
+sắp
+vào
+ga
+.
+<EOS>
+2759
+Tôi
+viết
+tên
+trên
+bì thư
+.
+<EOS>
+2761
+Có
+cái
+siêu thị
+ở
+phía
+sau
+ga
+.
+<EOS>
+2762
+Do
+ngày
+hôm qua
+rất
+lạnh
+nên
+tôi
+đã
+bị
+cảm
+.
+<EOS>
+2763
+Vì
+đau đầu
+nên
+tối
+nay
+tôi
+ngủ
+sớm
+.
+<EOS>
+2764
+Vì
+bị
+đau bụng
+nên
+tôi
+đi
+đến
+bệnh viện
+.
+<EOS>
+2766
+Vì
+bị
+đau
+răng
+nên
+tôi
+không
+thể
+ăn
+cái gì
+cả
+.
+<EOS>
+2767
+Tôi
+ngồi
+xuống
+ghế
+và
+nói chuyện
+.
+<EOS>
+2769
+Trong
+tủ lạnh
+không
+còn
+cái gì
+cả
+.
+<EOS>
+2771
+Tôi
+nghe
+tin tức
+qua
+radio
+.
+<EOS>
+2772
+Máy
+cát
+sét
+có thể
+vừa
+nghe
+radio
+vừa
+nghe
+nhạc
+.
+<EOS>
+2774
+Tôi
+được
+anh
+Matsui
+cho mượn
+cây
+bút chì
+.
+<EOS>
+2775
+Tuần
+tới
+tôi
+sẽ
+đi
+đến
+văn phòng
+bất động sản
+để
+tìm
+phòng
+mới
+.
+<EOS>
+2776
+Tôi
+quét dọn
+lối
+đi vào
+và
+hành lang
+.
+<EOS>
+2777
+Ở
+lối
+đi vào
+có
+đặt
+lọ
+hoa
+.
+<EOS>
+2778
+Ngôi nhà
+mới
+có
+bếp
+rộng
+nên
+rất
+tiện
+.
+<EOS>
+2779
+Tôi
+ăn
+tối
+xong
+,
+tắm
+rồi
+đi
+ngủ
+.
+<EOS>
+2780
+Đôi
+giày
+này
+cũ
+rồi
+.
+<EOS>
+2781
+Vì
+từ
+ga
+đến
+trường
+xa
+nên
+tôi
+đi
+xe buýt
+.
+<EOS>
+2782
+Nhà
+mới
+gần
+ga
+nên
+rất
+tiện
+.
+<EOS>
+2783
+Anh
+Matsui
+mặc
+đồ
+màu
+trắng
+.
+<EOS>
+2784
+Vào
+ngày
+nắng
+khi
+đi
+ra
+ngoài
+tôi
+sẽ
+đội
+mũ
+.
+<EOS>
+2785
+Tôi
+cởi
+giày
+ở
+lối đi vào
+.
+<EOS>
+2786
+Tôi
+đã
+để
+quên
+mất
+cây
+dù
+trên
+tàu điện
+.
+<EOS>
+2787
+Ngày
+hôm qua
+tôi
+đã
+mua
+một
+cái
+ví
+mới
+.
+<EOS>
+2788
+Người
+đeo
+cái
+kính
+kia
+là
+anh
+Matsui
+.
+<EOS>
+2789
+Tôi
+đã
+mua
+quyển
+tạp chí
+tại
+hiệu sách
+.
+<EOS>
+2790
+Đây
+là
+tầng
+hai
+.
+<EOS>
+2791
+Tôi
+sẽ
+gửi
+thiệp
+cho
+anh
+Matsui
+.
+<EOS>
+2792
+Tôi
+dán
+tem
+lên
+phong bì
+.
+<EOS>
+2793
+Có
+một
+chiếc
+áo
+sơ mi
+.
+<EOS>
+2794
+Tôi
+đã
+chụp
+hai
+tấm
+ảnh
+.
+<EOS>
+2795
+Ngân hàng
+mở cửa
+từ
+chín
+giờ
+sáng
+đến
+ba
+giờ
+chiều
+.
+<EOS>
+2796
+Tôi
+sẽ
+trả
+lại
+tiền
+cho
+chị
+Matsui
+.
+<EOS>
+2797
+Tôi
+sẽ
+trả
+sách
+lại
+cho
+thư viện
+.
+<EOS>
+2798
+Cho
+tiền
+vào
+sau đó
+ấn
+nút
+.
+<EOS>
+2800
+Tôi
+sẽ
+lên
+xe buýt
+số
+mười
+lăm
+từ
+ga
+.
+<EOS>
+2801
+Cái
+đồng hồ
+này
+năm
+nghìn
+năm
+trăm
+yên
+.
+<EOS>
+2802
+Tôi
+đã
+mua cái
+máy ảnh
+này
+hết
+ba
+mươi
+nghìn
+yên
+.
+<EOS>
+2803
+Tôi
+đã
+quên
+mất
+tên
+của
+người
+kia
+.
+<EOS>
+2805
+Hôm nay
+tôi
+sẽ
+ăn
+cơm
+tối
+tại
+nhà hàng
+.
+<EOS>
+2806
+Món
+Nhật
+thì
+ngon
+nhưng
+đắt
+.
+<EOS>
+2807
+Tôi
+thích
+cả
+cơm
+lẫn
+bánh mì
+.
+<EOS>
+2808
+Tối
+hôm nay
+tôi
+sẽ
+ăn
+cơm
+tại nhà
+bạn
+.
+<EOS>
+2809
+Cơm
+tối
+nay
+tôi
+định
+làm
+món
+cà-ri
+.
+<EOS>
+2810
+Cà-ri
+là
+món ăn
+của
+Ấn Độ
+.
+<EOS>
+2811
+Tôi
+không
+uống
+được
+nhiều
+rượu
+lắm
+.
+<EOS>
+2812
+Tôi
+lấy
+muỗng
+cho
+đường
+vào
+cà phê
+.
+<EOS>
+2813
+Dùng
+nĩa
+khi
+ăn
+bánh
+ga-tô
+.
+<EOS>
+2814
+Món
+Pháp
+thì
+dùng
+dao
+vào
+nĩa
+để
+ăn
+.
+<EOS>
+2815
+Vì
+nguy hiểm
+nên
+bạn
+không
+được
+dùng
+dao
+.
+<EOS>
+2817
+Tôi
+sẽ
+dùng
+cái
+đĩa
+mới
+.
+<EOS>
+2818
+Tôi
+ăn sáng
+mỗi
+ngày
+.
+<EOS>
+2819
+Sau
+giờ
+học
+,
+tôi
+đã
+đi
+uống
+trà
+ở
+quán
+cà phê
+cùng với
+bạn
+.
+<EOS>
+2820
+Tôi
+uống
+cà phê
+mỗi
+ngày
+.
+<EOS>
+2821
+Tôi
+thích
+hồng
+trà
+hơn
+cà phê
+.
+<EOS>
+2822
+Tôi
+ghét
+sữa
+nên
+không
+uống
+mấy
+.
+<EOS>
+2823
+Sau
+khi
+uống
+rượu
+thì
+nên
+uống
+nước
+.
+<EOS>
+2824
+Sau
+khi
+uống
+tôi
+rửa sạch
+cốc
+.
+<EOS>
+2825
+Tôi
+đã
+nhận
+được
+một
+cái
+tách
+dễ thương
+từ
+bạn
+.
+<EOS>
+2826
+Tôi
+cho
+đường
+vào
+cà phê
+rồi
+uống
+.
+<EOS>
+2828
+Tôi
+cho
+tiền
+vào
+ví
+.
+<EOS>
+2829
+Chị
+Matsui
+đã
+rót
+cà phê
+cho
+tôi
+.
+<EOS>
+2830
+Tàu điện
+này
+chạy
+đến
+Tokyo
+.
+<EOS>
+2831
+Tàu điện ngầm
+vừa
+rẻ
+vừa
+nhanh
+nên
+rất
+tiện
+.
+<EOS>
+2832
+Khi
+lên
+tàu
+tôi
+mua
+vé
+.
+<EOS>
+2833
+Tôi
+không
+lên
+thang máy
+mà
+sử dụng
+thang
+bộ
+.
+<EOS>
+2834
+Nhà vệ sinh
+ở
+tầng
+hai
+.
+<EOS>
+2835
+Khi
+ra
+khỏi
+nhà vệ sinh
+tôi
+rửa
+tay
+.
+<EOS>
+2836
+Tôi
+trình
+vé
+tại
+lối vào
+ga
+.
+<EOS>
+2837
+Nếu
+ra
+cổng
+này
+thì
+sẽ
+gần
+thư viện
+nhất
+.
+<EOS>
+2838
+Nếu
+đi
+đến
+đại sứ quán
+thì
+sẽ
+xuống
+ở
+ga
+tiếp theo
+.
+<EOS>
+2839
+Tôi
+không
+đi
+bộ
+đến
+trường
+mà
+đi
+xe buýt
+.
+<EOS>
+2840
+Vì
+siêu thị
+đóng cửa
+nên
+tôi
+không
+thể
+mua sắm
+.
+<EOS>
+2841
+Cái
+túi
+đã
+không
+được
+đóng
+lại
+.
+<EOS>
+2842
+Tôi
+cùng
+lớp
+với
+anh
+Matsui
+.
+<EOS>
+2843
+Trong
+phòng học
+có
+bàn
+và
+ghế
+.
+<EOS>
+2844
+Tôi
+dọn dẹp
+cả
+lối
+đi vào
+lẫn
+hành lang
+.
+<EOS>
+2845
+Tôi
+không
+thích
+việc
+học hành
+cho lắm
+.
+<EOS>
+2846
+Tuần
+trước
+tôi
+bận
+nên
+không
+thể
+học
+được
+.
+<EOS>
+2847
+Những
+em
+ở
+đây
+là
+học sinh
+của
+cùng
+một
+trường
+.
+<EOS>
+2848
+Trong
+giờ
+học
+giáo viên
+hỏi
+các
+em
+học sinh
+.
+<EOS>
+2851
+Tuần
+tới
+tôi
+sẽ
+đi
+Tokyo
+chơi
+cùng với
+bạn
+.
+<EOS>
+2852
+Ngày
+hôm qua
+tôi
+đã
+học
+cả
+ngày
+nên
+hôm nay
+tôi
+đi
+chơi
+.
+<EOS>
+2853
+Vì
+ngày mai
+có
+bài
+kiểm tra
+nên
+tối
+hôm nay
+tôi
+học
+bài
+.
+<EOS>
+2854
+Tôi
+đã
+đọc
+bài văn
+mà
+anh
+Matsui
+viết
+.
+<EOS>
+2855
+Ngày mai
+tôi
+sẽ
+nộp
+bài văn
+cho
+thầy giáo
+.
+<EOS>
+2856
+Khi
+viết
+câu
+trả lời
+thì phải
+đọc
+kỹ
+câu hỏi
+.
+<EOS>
+2857
+Bài tập
+này
+rất
+dễ
+.
+<EOS>
+2858
+Ở
+trường
+mỗi
+ngày
+đều
+có
+bài
+kiểm tra
+chữ Hán
+.
+<EOS>
+2860
+Nếu
+luyện tập
+nhiều
+thì
+tiếng
+Nhật
+sẽ
+giỏi
+.
+<EOS>
+2861
+Bài
+kiểm tra
+hôm qua
+dễ
+.
+<EOS>
+2862
+Tôi
+đang
+dạy
+tiếng
+Nhật
+cho
+người
+nước ngoài
+.
+<EOS>
+2863
+Vì
+đề
+thi
+khó
+nên
+tôi
+đã
+không
+thể
+trả lời
+được
+.
+<EOS>
+2864
+Mỗi
+ngày
+tôi
+đều
+tập luyện
+ten-nít
+sau
+giờ
+học
+.
+<EOS>
+2865
+Tuần
+tới
+tôi
+định
+đi
+cắt tóc
+ở
+tiệm
+.
+<EOS>
+2866
+Tôi
+cầm
+đũa
+tay trái
+.
+<EOS>
+2867
+Rẽ
+phải
+ở
+góc
+tiếp theo
+.
+<EOS>
+2868
+Chị
+Matsui
+ngồi
+phía
+trước
+tôi
+.
+<EOS>
+2869
+Có
+rất
+nhiều
+người
+xếp hàng
+sau lưng
+tôi
+.
+<EOS>
+2870
+Vì
+tôi
+thường xuyên
+sử dụng
+cây
+bút chì
+này
+nên
+nó
+đã
+ngắn
+đi
+.
+<EOS>
+2871
+Lấy
+dao
+cắt
+bánh
+ga-tô
+làm
+bốn
+phần
+.
+<EOS>
+2873
+Em gái
+của
+tôi
+thấp
+,
+tóc
+dài
+.
+<EOS>
+2874
+Vì
+mệt
+nên
+tôi
+ngồi
+xuống
+nghỉ
+.
+<EOS>
+2875
+Tôi
+đã
+hỏi
+đường
+anh
+cảnh sát
+ở
+đồn
+cảnh sát
+.
+<EOS>
+2876
+Ở
+đồn
+cảnh sát
+có
+dán
+bản đồ
+của
+khu phố
+.
+<EOS>
+2877
+Có
+nhiều
+cảnh sát
+đứng
+ở
+ngã tư
+.
+<EOS>
+2878
+Tôi
+bị
+cảnh sát
+hỏi
+tên
+.
+<EOS>
+2879
+Cảnh sát
+chỉ
+đường
+cho
+tôi
+đến
+ga
+.
+<EOS>
+2880
+Vì
+không
+biết
+đường
+nên
+tôi
+đã
+tra
+bản đồ
+.
+<EOS>
+2881
+Ngày
+hôm qua
+tôi
+đã
+đi
+mua sắm
+ở
+gần
+ga
+.
+<EOS>
+2882
+Tôi
+đã
+hỏi
+anh
+Matsui
+số
+điện thoại
+của
+nhà hàng
+tối
+nay
+sẽ
+đi
+ăn
+.
+<EOS>
+2884
+Rẽ
+trái
+tại
+tòa
+nhà
+đó
+sẽ
+tới
+bệnh viện
+.
+<EOS>
+2885
+Vì
+nguy hiểm
+nên
+không
+được
+phép
+vào
+đây
+.
+<EOS>
+2886
+Vì
+trễ
+rồi
+nên
+về
+một mình
+thì
+nguy hiểm
+.
+<EOS>
+2887
+Trong
+giờ
+học
+thì
+không
+được
+nói chuyện
+với
+bạn
+bên
+cạnh
+.
+<EOS>
+2888
+Quán
+cà phê
+đó
+ở
+gần
+tiệm
+sách
+.
+<EOS>
+2889
+Nhà
+của
+anh
+Matsui
+bên
+cạnh
+nhà
+tôi
+.
+<EOS>
+2890
+Tôi
+đã
+đưa
+cái
+cặp
+đặt
+bên
+cạnh
+tôi
+cho
+anh
+Matsui
+.
+<EOS>
+2891
+Do
+làm
+mất
+ví
+nên
+tôi
+đi
+đến
+đồn
+cảnh sát
+.
+<EOS>
+2892
+Tôi
+đã
+lỡ
+làm
+mất
+quyển
+tạp chí
+mượn
+của
+anh
+Matsui
+.
+<EOS>
+2893
+Do
+bạn
+đến
+nên
+tôi
+dọn dẹp
+phòng
+.
+<EOS>
+2894
+Căn
+phòng
+này
+không
+có
+cửa sổ
+.
+<EOS>
+2895
+Trên
+bàn
+có
+đặt
+quyển
+lịch
+.
+<EOS>
+2896
+Tôi
+đã
+mua
+lịch
+cho
+năm tới
+ở
+cửa hàng
+bách
+hóa
+.
+<EOS>
+2898
+Vì
+phòng tối
+nên
+tôi
+bật
+điện
+.
+<EOS>
+2899
+Hôm qua
+tôi
+mệt
+nên
+ngủ
+ngay lập tức
+.
+<EOS>
+2900
+Vì
+không
+biết
+mấy
+giờ
+nên
+tôi
+đã
+xem
+đồng hồ
+trong
+phòng học
+.
+<EOS>
+2901
+Tôi
+bật đèn
+phòng
+và
+học
+bài
+.
+<EOS>
+2902
+Ở
+lối
+đi vào
+có
+đặt
+lọ
+hoa
+.
+<EOS>
+2906
+Con
+đường
+này
+rất
+hẹp
+nên
+nguy hiểm
+.
+<EOS>
+2907
+Băng
+qua
+ngã tư
+kia
+rồi
+rẽ
+trái
+.
+<EOS>
+2908
+Xe
+ô-tô
+của
+Nhật
+đắt
+nhưng
+tốt
+.
+<EOS>
+2909
+Xe
+ô-tô
+của
+Nhật
+được
+bán
+ở
+nước ngoài
+.
+<EOS>
+2910
+Đây
+là
+tạp chí
+xe
+ô-tô
+.
+<EOS>
+2911
+Tôi
+đi
+taxi
+từ
+ga
+đến
+công ty
+.
+<EOS>
+2912
+Tôi
+về
+nhà
+bằng
+taxi
+.
+<EOS>
+2913
+Tôi
+đã
+ngồi
+lên
+phía
+sau
+xe đạp
+của
+bạn
+.
+<EOS>
+2914
+Dù
+trời
+mưa
+thì
+tôi
+vẫn
+đi
+bằng
+xe đạp
+.
+<EOS>
+2915
+Ngày
+hôm qua
+tôi
+đi
+ra
+sông
+chơi
+với
+bạn
+.
+<EOS>
+2916
+Nhà tôi
+ở
+phía
+bên
+kia
+con sông
+kia
+.
+<EOS>
+2917
+Băng
+qua cầu
+thì
+sẽ
+gặp
+ngay
+công viên
+.
+<EOS>
+2918
+Tôi
+đi
+dạo
+mỗi
+buổi
+sáng
+.
+<EOS>
+2919
+Tôi
+đi
+dạo
+mỗi
+buổi
+sáng
+.
+<EOS>
+2920
+Hãy
+băng
+qua đường
+và
+đi bộ
+ở
+phía
+bên
+trái
+!
+<EOS>
+2921
+Vì
+muốn
+đi
+qua
+phía
+bên
+kia
+sông
+nên
+tôi
+băng
+qua cầu
+.
+<EOS>
+2923
+Vì
+trời
+nóng
+nên
+tôi
+đi
+bơi
+ở
+bể bơi
+.
+<EOS>
+2924
+Vì
+hát
+dở
+nên
+tôi
+định
+luyện
+hát
+.
+<EOS>
+2925
+Em trai
+tôi
+giỏi
+bóng đá
+nên
+tôi
+được
+em
+ấy
+chỉ
+cho
+.
+<EOS>
+2926
+Anh
+Matsui
+nấu ăn
+ngon
+.
+<EOS>
+2927
+Tôi
+rất
+tệ
+khoản
+vẽ
+tranh
+.
+<EOS>
+2928
+Tôi
+nghĩ
+rằng
+đến
+trường
+bằng
+tàu điện
+sẽ
+nhanh
+hơn
+xe buýt
+.
+<EOS>
+2929
+Anh
+Matsui
+chạy
+nhanh
+.
+<EOS>
+2931
+Tôi
+đi
+bộ
+rất
+chậm
+.
+<EOS>
+2933
+Vì
+đau
+chân
+nên
+tôi
+không
+thể
+chạy
+.
+<EOS>
+2934
+Những
+con
+chim
+đang
+bay
+phía
+bên
+kia
+bầu trời
+.
+<EOS>
+2935
+Tôi
+định
+sang năm
+sẽ
+đi
+du lịch
+nước ngoài
+.
+<EOS>
+2936
+Tôi
+có thể
+nói
+tiếng
+Anh
+.
+<EOS>
+2937
+Tôi
+sử dụng
+từ điển
+để
+học
+tiếng
+Anh
+.
+<EOS>
+2939
+Ngày mai
+tôi
+sẽ
+gặp
+bạn
+người
+nước ngoài
+.
+<EOS>
+2940
+Rẽ
+phải
+ở
+ngã
+tư
+kia
+sẽ
+thấy
+đại sứ quán
+.
+<EOS>
+2941
+Ngày mai
+tôi
+sẽ
+đi
+đến
+đại sứ quán
+.
+<EOS>
+2943
+Nhật Bản
+là
+một
+quốc gia
+nhỏ hẹp
+.
+<EOS>
+2944
+Phòng
+của
+khách sạn
+này
+rất
+đẹp
+.
+<EOS>
+2946
+Chị
+Matsui
+đã
+sống
+ở
+nước ngoài
+ba
+năm
+.
+<EOS>
+2947
+Tôi
+định
+sang năm
+sẽ
+đi
+nước ngoài
+du lịch
+.
+<EOS>
+2948
+Tôi
+đã
+mua
+quyển
+sách
+du lịch
+ở
+tiệm
+sách
+.
+<EOS>
+2949
+Cửa hàng
+này
+ngày
+hôm nay
+thịt
+rẻ
+.
+<EOS>
+2950
+Ở
+đằng
+kia
+có
+rất
+nhiều
+cửa
+tiệm
+.
+<EOS>
+2951
+Trái cây
+hay
+rau
+củ
+thì
+tôi
+thường
+mua
+ở
+cửa hàng
+rau
+.
+<EOS>
+2952
+Cửa hàng
+rau
+thì
+rẻ
+hơn
+so
+với
+siêu thị
+.
+<EOS>
+2953
+Cơm
+tối ngày
+hôm qua
+là
+món
+thịt
+.
+<EOS>
+2954
+Tôi
+thích
+cá
+hơn
+thịt
+.
+<EOS>
+2955
+Thịt
+bò
+đắt
+nhất
+trong
+các
+loại
+thịt
+.
+<EOS>
+2956
+Tôi
+không
+ăn
+được
+thịt
+heo
+.
+<EOS>
+2957
+Thịt
+gà
+rẻ
+nhưng
+thịt
+bò
+ngon
+hơn
+.
+<EOS>
+2958
+Ở
+những
+nơi
+gần
+biển
+thì
+cá
+ngon
+.
+<EOS>
+2959
+Trong
+tủ lạnh
+có
+rau
+,
+trứng
+...
+.
+<EOS>
+2960
+Tôi
+cắt
+rau
+rồi
+rửa
+.
+<EOS>
+2961
+Tôi
+ăn
+rau
+và
+trái cây
+mỗi
+sáng
+.
+<EOS>
+2962
+Xe
+ô-tô
+tuy
+đắt
+nhưng
+tiện lợi
+.
+<EOS>
+2965
+Tôi
+mượn
+ba
+quyển
+sách
+ở
+thư viện
+.
+<EOS>
+2966
+Thư viện
+mở cửa
+từ
+chín
+giờ
+sáng
+tám
+giờ
+tối
+.
+<EOS>
+2967
+Trong
+thư viện
+có
+rất
+nhiều
+kệ
+sách
+.
+<EOS>
+2968
+Từ điển
+được
+đặt
+trên
+kệ
+sách
+đằng
+kia
+.
+<EOS>
+2969
+Tạp chí
+thì
+không
+thể
+mượn
+được
+tại
+thư viện
+.
+<EOS>
+2970
+Cuốn
+tạp chí
+này
+hay
+.
+<EOS>
+2971
+Đó
+là
+tờ
+báo
+ngày
+hôm nay
+.
+<EOS>
+2973
+Tôi
+sẽ
+phô-tô
+cái
+này
+thành
+năm
+bản
+.
+<EOS>
+2974
+Tôi
+tra
+từ điển
+để
+học
+tiếng
+Nhật
+.
+<EOS>
+2975
+Tôi
+đã
+phô-tô
+sách
+tại
+thư viện
+.
+<EOS>
+2976
+Thầy giáo
+đưa
+cho
+học sinh
+bản
+phô-tô
+của
+tờ báo
+.
+<EOS>
+2977
+Anh
+Hayashi
+đang
+làm việc
+tại
+công ty
+máy tính
+.
+<EOS>
+2978
+Ngày mai
+tôi
+sẽ
+đi
+đến
+công ty
+sớm
+.
+<EOS>
+2979
+Ngày
+nghỉ
+tôi
+sẽ
+đi
+ra
+ngoài
+với
+bạn
+.
+<EOS>
+2981
+Đây
+là
+cà vạt
+của
+Ý
+.
+<EOS>
+2982
+Không
+được
+hút
+thuốc
+trong
+căn
+phòng
+này
+.
+<EOS>
+2983
+Mỗi
+ngày
+tôi
+đều
+rất
+bận
+nên
+không
+thể
+nghỉ ngơi
+nhiều
+được
+.
+<EOS>
+2984
+Công việc
+tuy
+bận rộn
+nhưng
+thú vị
+.
+<EOS>
+2986
+Ngày
+nghỉ
+tuần
+trước
+tôi
+đã
+không
+làm
+gì
+cả
+.
+<EOS>
+2987
+Tôi
+đang
+làm việc
+tại
+công ty
+sản xuất
+xe
+ô-tô
+.
+<EOS>
+2988
+Tôi
+hút
+thuốc lá
+.
+<EOS>
+2989
+Hút
+thuốc lá
+có
+hại
+cho
+cơ thể
+.
+<EOS>
+2991
+Vì
+bị
+sốt
+nên
+hôm nay
+tôi
+nghỉ
+học
+.
+<EOS>
+2992
+Tôi
+làm việc
+cả
+ngày
+chủ nhật
+.
+<EOS>
+2993
+Mỗi
+ngày
+tôi
+làm
+tám
+tiếng
+đồng hồ
+.
+<EOS>
+2994
+Phía
+bên kia
+đường
+những
+ngôi
+nhà
+xếp
+san sát
+nhau
+.
+<EOS>
+2995
+Sáng mai
+tôi
+phải
+giặt
+đồ
+.
+<EOS>
+2996
+Vì
+nóng
+nên
+khi
+trở về
+nhà tôi
+đã
+tắm
+.
+<EOS>
+2997
+Mỗi
+tối
+sau
+khi
+tắm
+xong
+tôi
+đi
+ngủ
+.
+<EOS>
+2998
+Tôi
+định
+dọn dẹp
+sau
+khi
+trở về
+nhà
+.
+<EOS>
+2999
+Sáng ngày mai
+tôi
+phải
+giặt
+đồ
+.
+<EOS>
+3000
+Tối
+mai
+vì
+gặp
+bạn
+nên
+tôi
+sẽ
+ra
+ngoài
+.
+<EOS>
+3001
+Ngày
+hôm qua
+tôi
+không
+đi
+đâu
+cả
+.
+<EOS>
+3002
+Món ăn
+này
+có thể
+nấu
+tại nhà
+.
+<EOS>
+3005
+Anh
+Matsui
+có thể
+chơi
+ghi-ta
+được
+.
+<EOS>
+3006
+Tôi luyện
+đàn
+dương cầm
+mỗi
+ngày
+.
+<EOS>
+3007
+Cái
+mảy
+ảnh
+này
+tuy
+đắt
+nhưng
+vô cùng
+tiện lợi
+.
+<EOS>
+3008
+Tôi
+đã
+mua cái
+máy ảnh
+mới
+.
+<EOS>
+3009
+Đây
+là
+bộ
+phim
+cũ
+của
+Nhật
+.
+<EOS>
+3010
+Em gái
+tôi
+vẽ
+tranh
+rất
+giỏi
+.
+<EOS>
+3011
+Anh
+Matsui
+ghét
+thuốc lá
+nên
+không
+có
+hút
+.
+<EOS>
+3012
+Tôi
+ghét
+những
+việc
+như
+dọn dẹp
+hay
+giặt giũ
+.
+<EOS>
+3013
+Món ăn
+yêu thích
+của
+tôi
+là
+cà-ri
+.
+<EOS>
+3014
+Mẹ
+tôi
+thích
+nấu ăn
+.
+<EOS>
+3015
+Tôi
+rất
+hay
+hát
+bài hát
+này
+ở
+quán
+Karaoke
+.
+<EOS>
+3016
+Tôi
+sẽ
+chơi
+đàn
+dương cầm
+trong
+buổi
+hòa
+nhạc
+vào
+tháng
+tới
+.
+<EOS>
+3017
+Tôi
+đã
+chụp
+rất
+nhiều
+ảnh
+khi
+đi
+du lịch
+.
+<EOS>
+3018
+Tôi
+lúc nào
+cũng
+ngủ
+trên
+giường
+.
+<EOS>
+3019
+Bật
+lò sưởi
+lên
+sẽ
+ấm
+.
+<EOS>
+3021
+Trước khi
+ngủ
+tôi
+tắt
+lò sưởi
+.
+<EOS>
+3022
+Viết
+đáp án
+của
+bài
+kiểm tra
+bằng
+bút bi
+.
+<EOS>
+3023
+Ngày mai
+trời
+mưa
+.
+<EOS>
+3024
+Ngày
+hôm nay
+thời tiết
+rất
+đẹp
+.
+<EOS>
+3025
+Nếu
+ngày mai
+trời
+nắng
+hãy
+chơi
+ten-nít
+nhé
+!
+<EOS>
+3026
+Ngày mai
+nghe nói
+trời
+có
+mây
+.
+<EOS>
+3027
+Ngày
+hôm qua
+trời
+mây mù
+cả
+ngày
+.
+<EOS>
+3028
+Nếu
+trời
+mưa
+vào
+ngày
+nghỉ
+thì
+tôi
+không
+đi
+ra
+ngoài
+.
+<EOS>
+3029
+Vì
+ngày mai
+trời
+mưa
+nên
+tôi
+sẽ
+đi
+học
+bằng
+xe buýt
+.
+<EOS>
+3030
+Ngày
+hôm nay
+không
+có
+gió
+.
+<EOS>
+3034
+Mùa hè
+ở
+Nhật
+rất
+nóng
+.
+<EOS>
+3035
+Trời
+sẽ
+ấm
+lên
+khi
+mùa xuân
+đến
+.
+<EOS>
+3036
+Ngày
+hôm nay
+rất
+ấm áp
+nên
+tôi
+đi
+dạo
+.
+<EOS>
+3037
+Ngày mai
+trời
+sẽ
+nóng
+nên
+tôi
+định
+đi
+bơi
+.
+<EOS>
+3038
+Khi
+tôi
+mở
+cửa sổ
+ra
+thì
+mát
+hơn
+một chút
+.
+<EOS>
+3039
+Mùa thu
+thì
+mát mẻ
+.
+<EOS>
+3040
+Buổi sáng
+trời
+mưa
+nhưng
+bây giờ
+trời
+nắng
+.
+<EOS>
+3041
+Nếu
+ngày mai
+trời
+nắng
+chúng ta
+hãy
+chơi
+ten-nít
+nhé
+!
+<EOS>
+3042
+Năm ngoái
+tuyết
+không
+rơi
+nhiều
+.
+<EOS>
+3043
+Gió
+thổi
+,
+trời
+lạnh
+.
+<EOS>
+3044
+Nghe nói
+ngày mai
+có
+gió
+thổi
+mạnh
+.
+<EOS>
+3045
+Ngày mai
+nhiệt độ
+sẽ
+lên
+ba
+mươi
+độ
+nên
+sẽ
+rất
+nóng
+.
+<EOS>
+3046
+Tôi
+sốt
+đến
+ba
+mươi
+tám
+độ
+do
+bị
+cảm
+.
+<EOS>
+3047
+Trời
+trở
+mây
+một chút
+.
+<EOS>
+3048
+Hôm qua
+mây mù
+cả
+ngày
+.
+<EOS>
+3050
+Tôi
+thích
+nhất
+bài hát
+này
+.
+<EOS>
+3051
+Tôi
+không
+ra
+ngoài
+vào
+ngày
+tuyết
+.
+<EOS>
+3052
+Ngày
+có
+gió
+lớn
+thì
+không
+thể
+chơi
+ten-nít
+.
+<EOS>
+3053
+Buổi tối trời
+lạnh
+nên
+tôi
+cầm
+theo
+áo khoác
+rồi
+đi
+ra
+ngoài
+.
+<EOS>
+3056
+Tôi
+gội
+đầu
+trước khi
+cắt tóc
+.
+<EOS>
+3057
+Người
+có
+mái tóc
+màu
+đen
+kia
+là
+anh
+Matsui
+.
+<EOS>
+3058
+Cửa tàu điện
+đóng
+lại
+.
+<EOS>
+3059
+Tôi
+đưa
+vé
+cho
+nhân viên
+nhà ga
+xem
+.
+<EOS>
+3060
+Tôi
+đã
+cắt
+tóc
+ngày
+hôm qua
+.
+<EOS>
+3062
+Tiệm
+cắt tóc
+bên
+cạnh
+ga
+.
+<EOS>
+3063
+Tối
+hôm nay
+tôi
+sẽ
+làm
+bài tập
+ở
+thư viện
+.
+<EOS>
+3064
+Viết
+đáp án
+ở
+đây
+.
+<EOS>
+3065
+Tháng
+sau
+sẽ
+có
+du học sinh từ
+Trung Quốc
+đến
+.
+<EOS>
+3066
+Người
+kia
+là
+du học sinh
+của
+trường
+này
+.
+<EOS>
+3067
+Ngày mai
+tôi
+sẽ
+đi
+xem
+phim
+cùng với
+bạn
+.
+<EOS>
+3068
+Bài
+kiểm
+tra
+ngày
+hôm qua
+rất
+khó
+.
+<EOS>
+3069
+Giờ
+học
+của
+thầy giáo
+kia
+rất
+thú vị
+.
+<EOS>
+3070
+Thợ
+làm
+tóc
+kia
+dáng
+người
+thon
+và
+đẹp
+.
+<EOS>
+3071
+Sau
+khi
+ra
+trường
+thì
+tôi
+muốn
+trở thành
+thợ
+làm
+tóc
+.
+<EOS>
+3072
+Chiều
+thẳng đứng
+của
+cái
+hộp
+này
+ngắn
+nhưng
+chiều ngang
+lại
+dài
+.
+<EOS>
+3073
+Hôm qua
+tôi
+nghỉ
+làm
+để
+đi
+bệnh viện
+.
+<EOS>
+3074
+Vì
+bị
+sốt
+nên
+hôm nay
+tôi
+nghỉ
+học
+.
+<EOS>
+3075
+Trên
+bàn
+có
+lọ
+hoa
+.
+<EOS>
+3076
+Tôi
+nghe
+tin tức
+trên
+radio
+mỗi
+ngày
+.
+<EOS>
+3077
+Tôi
+cho
+bạn
+tôi
+số
+điện thoại
+của
+anh
+Kimura
+.
+<EOS>
+3078
+Tôi
+lo lắng
+vì
+không
+nhận
+được
+liên lạc
+từ
+mẹ
+.
+<EOS>
+3079
+Ngày
+hôm qua
+tôi
+nhận
+được
+liên lạc
+từ
+anh
+Matsui
+.
+<EOS>
+3080
+Hãy
+liên lạc
+với
+công ty
+bằng
+điện thoại
+.
+<EOS>
+3081
+Tôi
+sẽ
+liên lạc
+với
+bạn
+khi
+tôi
+đến
+nhà
+.
+<EOS>
+3084
+Tiền
+thuê
+căn hộ
+này
+đắt
+.
+<EOS>
+3086
+Tôi
+định
+tìm
+một
+căn
+phòng
+rẻ
+hơn
+.
+<EOS>
+3087
+Vì
+không
+tìm
+thấy
+chìa
+khóa
+nên
+tôi
+đã
+tìm
+bên
+trong
+cặp
+.
+<EOS>
+3088
+Tôi
+dùng
+gạt tàn
+khi
+tôi
+hút
+thuốc
+.
+<EOS>
+3089
+Trên
+bàn
+có
+cái
+gạt tàn
+.
+<EOS>
+3091
+Tôi
+luôn
+ăn
+suất
+ăn
+này
+cho
+bữa
+trưa
+.
+<EOS>
+3092
+Suất
+ăn
+của
+nhà ăn
+kia
+rẻ
+mà lại
+ngon
+.
+<EOS>
+3093
+Tôi
+đã
+gọi
+nhân viên
+để
+đặt
+món ăn
+rồi
+.
+<EOS>
+3094
+Nhân viên
+của
+nhà hàng
+này
+trông
+có vẻ
+bận rộn
+.
+<EOS>
+3095
+Tôi
+uống
+cà phê
+mà
+không
+cho
+sữa
+vào
+.
+<EOS>
+3096
+Mỗi
+sáng
+tôi
+ăn
+bánh mì
+và
+uống
+sữa
+.
+<EOS>
+3097
+Cửa hàng
+bán
+tất
+ở
+tầng
+một
+.
+<EOS>
+3098
+Cái
+túi xách
+này
+tôi
+mua
+bằng
+thẻ
+.
+<EOS>
+3099
+Tôi
+cho
+thẻ
+vào
+ví
+.
+<EOS>
+3100
+Tôi
+dùng
+thẻ
+khi
+mua sắm
+.
+<EOS>
+3102
+Gửi
+bằng
+đường biển
+lâu
+hơn
+nhưng
+lại
+rẻ
+.
+<EOS>
+3103
+Gửi
+bằng
+hàng không
+thì
+nhanh
+đến
+hơn
+so
+với
+gửi
+bằng
+đường biển
+.
+<EOS>
+3104
+Tôi
+đã
+gửi
+hành
+lý
+cho
+mẹ
+vào
+ngày
+hôm qua
+.
+<EOS>
+3105
+Do
+gửi
+bằng
+đường hàng không
+nên
+hơn
+đắt
+một chút
+.
+<EOS>
+3106
+Mùa hè
+trời
+nóng
+nên
+tôi
+không
+muốn
+mặc
+vét
+.
+<EOS>
+3107
+Tôi
+mặc
+vét
+khi
+đến
+công ty
+.
+<EOS>
+3108
+Tôi
+đã
+nhận
+được
+một
+chiếc
+áo
+sơ mi
+từ
+bạn
+vào
+dịp
+sinh nhật
+.
+<EOS>
+3110
+Anh
+Kimura
+là
+học sinh
+nhưng
+anh
+Tanaka
+là
+nhân viên
+công ty
+.
+<EOS>
+3111
+Tôi
+đi
+đến
+siêu thị
+mua sắm
+.
+<EOS>
+3114
+Bạn
+đã
+mua
+bao nhiêu
+miếng
+bánh mì
+?
+<EOS>
+3115
+Trên
+bàn
+có
+mấy
+cái
+ly
+?
+<EOS>
+3116
+Người
+Nhật
+dùng
+đũa
+để
+ăn
+cơm
+.
+<EOS>
+3117
+Tôi
+sẽ
+đi
+dạo
+ở
+công viên
+rồi
+trở về
+nhà
+.
+<EOS>
+3118
+Tôi
+luyện tập
+ten-nít
+mỗi
+ngày
+.
+<EOS>
+3119
+Tôi
+thích
+môn
+bóng
+cháy
+nhất
+trong
+các
+môn
+thể thao
+.
+<EOS>
+3120
+Anh
+Matsui
+giỏi
+bóng
+chày
+hơn
+bóng đá
+.
+<EOS>
+3121
+Vì
+mưa
+nên
+trận
+thi
+đấu bóng
+chày
+đã
+không
+diễn
+ra
+.
+<EOS>
+3122
+Ngày mai
+có
+trận
+đấu
+ten-nít
+.
+<EOS>
+3123
+Brazil
+là
+đất nước
+có môn
+bóng đá
+rất
+mạnh
+.
+<EOS>
+3124
+Vì
+cơ thể
+yếu
+nên
+tôi
+không
+thể
+chơi
+thể thao
+.
+<EOS>
+3126
+Phòng
+bẩn
+nên
+tôi
+dọn dẹp
+.
+<EOS>
+3127
+Biển
+quanh
+đây
+bẩn
+.
+<EOS>
+3128
+Tôi
+đã
+quên
+tắt
+điện
+khi
+đi
+ra
+ngoài
+.
+<EOS>
+3129
+Tôi
+tắt
+điện
+trước khi
+ngủ
+.
+<EOS>
+3130
+Hôm nay
+tôi
+sẽ
+về
+nhà
+thôi
+.
+<EOS>
+3131
+Tôi
+đã
+lỡ
+làm
+mất
+chìa
+khóa
+ngày
+hôm qua
+.
+<EOS>
+3132
+Đây
+là
+chìa
+khóa
+nhà
+của
+tôi
+.
+<EOS>
+3133
+Trước
+cổng
+nhà tôi
+có con
+mèo
+.
+<EOS>
+3134
+Nước
+sông
+này
+sạch
+.
+<EOS>
+3135
+Anh
+Lee
+có thể
+nói
+tiếng
+Nhật
+.
+<EOS>
+3136
+Tôi
+vay
+tiền
+ở
+ngân hàng
+.
+<EOS>
+3137
+Bố
+của
+tôi
+là
+nhân viên
+ngân hàng
+.
+<EOS>
+3138
+Nhân viên
+ngân hàng
+ở
+quầy
+lễ tân
+đa phần
+là
+nữ
+.
+<EOS>
+3139
+Tôi
+sẽ
+chuyển khoản
+tiền
+tại
+quầy
+lễ tân
+.
+<EOS>
+3140
+Tôi
+sẽ
+đi
+đến
+ngân hàng
+để
+chuyển khoản
+tiền
+.
+<EOS>
+3141
+Tôi
+đã
+nhận
+giấy
+điền
+thông tin
+chuyển khoản
+tại
+quầy
+lễ tân
+.
+<EOS>
+3142
+Tôi
+điền
+tên
+và
+địa chỉ
+lên
+giấy
+này
+.
+<EOS>
+3143
+Tôi
+ghi nhớ
+số
+ghi
+trên
+tờ
+giấy
+.
+<EOS>
+3144
+Tôi
+đã
+đưa
+địa chỉ
+mới
+cho
+bạn
+tôi
+.
+<EOS>
+3145
+Người
+kia
+là
+giáo viên
+của
+trường
+này
+.
+<EOS>
+3146
+Nói chuyện
+với
+người
+nước ngoài
+rất
+vui
+.
+<EOS>
+3147
+Tôi
+đã
+đến
+đất nước
+này
+ba
+năm
+trước
+.
+<EOS>
+3148
+Một
+sân bay
+mới
+đã
+được
+xây dựng
+ở
+gần đây
+.
+<EOS>
+3149
+Tôi
+trình
+hộ chiếu
+tại
+sân bay
+.
+<EOS>
+3150
+Tôi
+đã
+làm
+mất
+hộ chiếu
+tại
+ga
+.
+<EOS>
+3151
+Khi
+đi
+nước ngoài
+thì
+cần
+hộ chiếu
+.
+<EOS>
+3153
+Vào
+ngày
+nghỉ
+tôi
+đi
+mua sắm
+với
+bạn
+.
+<EOS>
+3154
+Hướng dẫn viên
+đã
+giới thiệu
+cho
+tôi
+về
+khu phố
+này
+.
+<EOS>
+3155
+Bạn
+tôi
+đang
+làm
+hướng dẫn viên
+.
+<EOS>
+3156
+Vì
+không
+có
+tàu
+đi về
+nên
+tôi
+đã
+ngủ
+lại
+ở
+nhà
+bạn
+.
+<EOS>
+3157
+Tối
+hôm nay
+tôi
+sẽ
+ngủ
+lại
+khách sạn
+.
+<EOS>
+3158
+Tôi
+nhận
+quà
+lưu niệm
+khi
+đi
+du lịch
+từ
+bạn
+.
+<EOS>
+3159
+Tôi
+mua
+quà
+lưu niệm
+cho
+gia đình
+.
+<EOS>
+3160
+Khi
+viết
+vào
+giấy
+chuyển khoản
+thì
+sử dụng
+bút bi
+.
+<EOS>
+3161
+Công ty
+kia
+sản xuất
+xe hơi
+.
+<EOS>
+3162
+Tôi
+tự
+làm
+cái bàn
+.
+<EOS>
+3163
+Vì
+gặp
+người
+khác
+để
+làm việc
+nên
+tôi
+thắt
+cà vạt
+.
+<EOS>
+3165
+Tôi
+học
+tiếng
+Nhật
+mỗi
+ngày
+nhưng
+không
+thể
+nhớ
+được
+chữ Hán
+.
+<EOS>
+3167
+Anh
+Lee
+đã
+viết
+thư
+bằng
+tiếng
+Nhật
+.
+<EOS>
+3168
+Nói chuyện
+bằng
+tiếng
+Anh
+thì
+khó
+.
+<EOS>
+3169
+Anh
+Matsui
+đang
+nói chuyện
+với
+anh
+Kobayashi
+.
+<EOS>
+3170
+Chuyện
+đó
+tôi
+sẽ
+nói
+với
+thầy giáo
+.
+<EOS>
+3171
+Tôi
+viết
+đáp án
+bài thi
+vào
+tờ
+giấy
+này
+.
+<EOS>
+3172
+Tôi
+đã
+viết
+thư
+cho
+bạn
+tôi
+vào
+ngày
+hôm qua
+.
+<EOS>
+3173
+Tôi
+không
+thích
+viết tay
+cho lắm
+.
+<EOS>
+3174
+Chị
+Matsui
+viết
+chữ
+đẹp
+.
+<EOS>
+3175
+Tôi
+đã
+nghe
+một
+câu chuyện
+thú
+vị từ
+anh
+Hayashi
+.
+<EOS>
+3176
+Anh
+Matsui
+đang
+nói chuyện
+với
+anh
+Kobayashi
+.
+<EOS>
+3177
+Tôi
+không
+hiểu
+lời
+thầy giáo
+nói
+.
+<EOS>
+3178
+Tôi
+đã
+chỉ
+cho
+anh
+Lee
+ý nghĩa
+của
+từ
+này
+.
+<EOS>
+3179
+Có
+nhiều
+từ
+Katakana
+trong
+tiếng
+Nhật
+.
+<EOS>
+3180
+Tôi
+có thể
+viết
+chữ
+Hiragana
+nhưng
+vẫn
+chưa thể
+viết
+chữ
+Katakana
+.
+<EOS>
+3181
+Câu văn
+này
+ngắn
+nên
+dễ
+đọc
+.
+<EOS>
+3182
+Học
+ngoại ngữ
+thì
+khó
+.
+<EOS>
+3183
+Tôi
+sẽ
+đọc
+sách
+viết
+bằng
+tiếng
+Nhật
+.
+<EOS>
+3184
+Khi không
+hiểu
+ý nghĩa
+của
+từ
+thì
+tôi
+sử dụng
+từ điển
+.
+<EOS>
+3185
+Buổi sáng
+tôi
+thức dậy
+sau đó
+rửa
+mặt
+.
+<EOS>
+3186
+Tôi
+đã
+mua
+quần áo
+mới
+ở
+trung tâm
+thương mại
+.
+<EOS>
+3187
+Tôi
+cầm
+theo
+áo khoác
+ra
+ngoài
+.
+<EOS>
+3188
+Vì
+bên
+ngoài
+trời
+lạnh
+nên
+tôi
+mặc
+áo ấm
+rồi
+đi
+đến
+công ty
+.
+<EOS>
+3189
+Vì
+trời
+nóng
+nên
+tôi
+cởi
+áo len
+.
+<EOS>
+3190
+Cái
+quần
+này
+thì
+nhỏ
+so với
+tôi
+nên
+không
+thể
+mặc
+vừa
+.
+<EOS>
+3192
+Chị
+Kobayashi
+thích
+mặc
+quần
+hơn
+so
+với
+mặc
+váy
+.
+<EOS>
+3193
+Cởi
+giày
+và
+đi
+dép
+vào
+.
+<EOS>
+3194
+Vì
+mắt
+kém
+nên
+tôi
+đeo
+kính
+.
+<EOS>
+3195
+Ở
+Nhật
+khi
+vào
+nhà
+sẽ
+cởi
+giày
+.
+<EOS>
+3196
+Tôi
+mang
+đôi
+giày
+mới
+đi
+ra
+ngoài
+.
+<EOS>
+3197
+Chị
+Kimura
+đang
+mặc
+một
+chiếc
+váy
+dễ thương
+.
+<EOS>
+3198
+Vì
+đi
+tắm
+nên
+tôi
+cởi
+quần áo
+ra
+.
+<EOS>
+3199
+Cái
+bánh
+này
+ngọt
+.
+<EOS>
+3201
+Món ăn
+này
+ăn
+mà
+không
+chấm
+thêm
+một
+cái gì
+.
+<EOS>
+3202
+Tôi
+ăn
+sashimi
+chấm
+xì dầu
+.
+<EOS>
+3204
+Tôi
+bày
+bát
+và
+đũa
+trên
+bàn
+.
+<EOS>
+3205
+Tôi
+ăn
+cơm
+bằng
+bát
+.
+<EOS>
+3206
+Hôm nay
+tôi
+sẽ
+ăn
+tối
+cùng
+bạn bè
+.
+<EOS>
+3207
+Tôi
+luôn
+ăn
+trưa
+ở
+đây
+.
+<EOS>
+3208
+Hôm nay
+tôi
+đã
+không
+ăn sáng
+.
+<EOS>
+3209
+Chị
+Kimura
+đã
+cho
+tôi
+bánh kẹo
+.
+<EOS>
+3210
+Món ăn
+này
+có vẻ
+không
+ngon
+.
+<EOS>
+3211
+Nhà hàng
+đó
+tuy
+rẻ
+nhưng
+đồ ăn
+chán
+.
+<EOS>
+3212
+Hộp
+cơm
+của
+anh
+Hayashi
+có vẻ
+ngon
+.
+<EOS>
+3213
+Bánh kẹo
+này
+thì
+ngon
+.
+<EOS>
+3214
+Vì
+bận
+nên
+tôi
+đã
+không
+thể
+ăn
+trưa
+.
+<EOS>
+3215
+Món
+cà-ri
+này
+rất
+cay
+.
+<EOS>
+3216
+Bữa
+sáng
+của
+tôi
+luôn
+là
+bánh mì
+.
+<EOS>
+3217
+Bữa
+tối
+nay
+là
+cà-ri
+.
+<EOS>
+3218
+Cơm
+tối
+nay
+là
+cà-ri
+.
+<EOS>
+3219
+Tôi
+đã
+lấy
+muối
+giúp
+anh
+Lee
+.
+<EOS>
+3220
+Tôi
+cho
+đường
+và
+muối
+vào
+khi
+nấu ăn
+.
+<EOS>
+3221
+Em trai
+tôi
+có
+thân thể
+rắn rỏi
+.
+<EOS>
+3223
+Vì
+đọc
+sách
+trong
+phòng tối
+nên
+mắt
+tôi
+đã
+mỏi
+.
+<EOS>
+3224
+Vì
+mắt
+kém
+nên
+anh
+Yamada
+phải
+đeo
+kính
+.
+<EOS>
+3225
+Con
+chó
+kia
+có
+đôi
+tai
+to
+.
+<EOS>
+3226
+Em
+gái
+tôi
+mắt
+vừa
+to
+,
+mũi
+lại
+cao
+.
+<EOS>
+3227
+Vì
+đau
+răng
+nên
+tôi
+không
+mở
+được
+miệng
+.
+<EOS>
+3229
+Tôi
+rửa
+tay
+trước khi
+ăn
+cơm
+.
+<EOS>
+3230
+Vì
+đã
+đi
+rất
+nhiều
+nên
+chân
+tôi
+mỏi
+.
+<EOS>
+3231
+Chân
+người
+kia
+rất
+dài
+.
+<EOS>
+3232
+Tôi
+tắm
+bằng
+bồn tắm
+.
+<EOS>
+3233
+Tôi
+luôn
+đánh răng
+trước
+khi
+đi
+ngủ
+.
+<EOS>
+3234
+Hôm qua
+vì
+bận
+nên
+tôi
+rất
+mệt
+.
+<EOS>
+3235
+Anh
+Yamada
+đang
+ở
+trong
+phòng học
+.
+<EOS>
+3236
+Anh
+Kobayashi
+đang
+cầm
+một
+chiếc
+ô
+xanh
+.
+<EOS>
+3237
+Hôm qua
+tôi
+mua
+một đôi
+giày
+trắng
+ở
+trung tâm
+thương mại
+.
+<EOS>
+3238
+Người
+đang
+mặc
+chiếc
+áo
+sơ mi
+vàng
+là
+anh
+Hayashi
+.
+<EOS>
+3239
+Ô-tô
+của
+anh
+Tanaka
+màu
+trắng
+và
+to
+.
+<EOS>
+3240
+Khi
+đến
+công ty
+tôi
+mặc
+một
+bộ
+com lê
+đen
+.
+<EOS>
+3241
+Anh
+Tanaka
+đang
+đeo
+chiếc
+cà vạt
+màu
+lá
+.
+<EOS>
+3242
+Màu
+tóc
+của
+chị
+Kimura
+là
+màu
+nâu
+.
+<EOS>
+3243
+Tôi
+thích
+màu
+xanh
+hơn
+màu
+đỏ
+.
+<EOS>
+3244
+Màu
+tôi
+thích
+là
+màu
+xanh
+.
+<EOS>
+3245
+Màu
+này
+rất
+đẹp
+.
+<EOS>
+3246
+Tôi
+được
+tặng
+một
+chiếc
+khăn tay
+màu
+vàng
+vào
+ngày
+sinh nhật
+.
+<EOS>
+3247
+Tôi
+đã
+đặt
+lọ
+hoa
+ở
+trên
+bàn
+.
+<EOS>
+3248
+Dưới
+ghế
+có con
+mèo
+.
+<EOS>
+3249
+Rẽ
+phải
+ở
+góc
+kia
+sẽ
+thấy
+siêu thị
+.
+<EOS>
+3250
+Cái
+cặp sách
+này
+có
+túi
+ở
+bên
+ngoài
+.
+<EOS>
+3251
+Nhà vệ sinh
+ở
+bên
+tay trái
+của
+hành lang
+.
+<EOS>
+3252
+Vở
+thì
+ở
+trong
+cặp sách
+.
+<EOS>
+3253
+Phòng học
+bên
+kia
+có
+ti-vi
+.
+<EOS>
+3254
+Nhà tôi
+có
+chó
+và
+mèo
+.
+<EOS>
+3255
+Bây giờ
+anh
+Lee
+đang
+ở
+thư viện
+.
+<EOS>
+3256
+Đến
+mùa đông
+thì
+phía
+bắc
+Nhật Bản
+sẽ
+rất
+lạnh
+.
+<EOS>
+3257
+Phòng
+tôi
+ở
+phía
+nam
+nên
+sáng sủa
+.
+<EOS>
+3259
+Toàn bộ
+khu
+phía
+đông
+của
+thị trấn
+này
+là
+rừng rậm
+.
+<EOS>
+3260
+Từ đây
+đi
+một chút
+về
+hướng
+Tây
+sẽ
+có
+biển
+.
+<EOS>
+3261
+Chị gái
+của
+chị
+Kimura
+là
+một
+người
+rất
+xinh đẹp
+.
+<EOS>
+3262
+Cha mẹ
+tôi
+hiện
+đang
+ở
+nước ngoài
+.
+<EOS>
+3263
+Tôi
+đã
+tặng
+mẹ
+quà
+sinh nhật
+.
+<EOS>
+3264
+Chị
+tôi
+hiện
+đang
+sống
+một mình
+tại
+Tokyo
+.
+<EOS>
+3265
+Vợ
+anh
+Tanaka
+là
+giảng viên
+đại học
+.
+<EOS>
+3266
+Tuần
+sau
+anh trai
+của
+anh
+Lee
+sẽ
+tới
+Nhật Bản
+chơi
+.
+<EOS>
+3267
+Mẹ
+anh
+Yamada
+nấu ăn
+rất
+ngon
+.
+<EOS>
+3268
+Chồng
+chị
+Hayashi
+đang
+làm việc
+tại
+bệnh viện
+.
+<EOS>
+3269
+Em gái
+anh
+Yamada
+vừa
+thấp
+vừa
+đáng yêu
+.
+<EOS>
+3270
+Em trai
+anh
+Kobayashi
+đang
+chơi
+bóng đá
+.
+<EOS>
+3271
+Tôi
+có
+hai
+anh em
+trai
+.
+<EOS>
+3272
+Người
+phụ nữ
+xinh đẹp
+kia
+là
+chị
+Kimura
+.
+<EOS>
+3273
+Bọn
+trẻ con
+đang
+chơi
+ở
+công viên
+.
+<EOS>
+3274
+Ở
+đằng
+kia
+có một
+em
+gái
+nhỏ
+.
+<EOS>
+3275
+Ông
+chú
+của
+cửa hàng
+rau
+kia
+vẫn
+luôn
+khỏe mạnh
+.
+<EOS>
+3276
+Bà
+của
+anh
+Kobayashi
+đang
+sống
+ở
+Tokyo
+.
+<EOS>
+3277
+Tôi
+đã
+chỉ
+đường
+cho
+ông
+tôi
+.
+<EOS>
+3278
+Bà
+của
+anh
+Hayashi
+đang
+đeo
+kính
+mắt
+.
+<EOS>
+3279
+Thành
+người lớn
+rồi
+sẽ
+có thể
+uống
+rượu
+.
+<EOS>
+3280
+Anh
+Matsui
+và
+anh
+Lee
+là
+bạn
+bè
+.
+<EOS>
+3281
+Tôi
+có
+bạn bè
+người
+Thái
+.
+<EOS>
+3282
+Người
+đàn ông
+kia
+vừa
+cao
+chân
+vừa
+dài
+.
+<EOS>
+3283
+Một
+cậu bé
+đang
+trèo
+cây
+ở
+đằng
+kia
+.
+<EOS>
+3284
+Hãy
+đợi
+hai
+phút
+.
+<EOS>
+3285
+Hôm nay
+là
+chủ nhật
+nhưng
+tôi
+sẽ
+đến
+công ty
+.
+<EOS>
+3287
+Hình như
+anh
+Yamada
+sẽ
+đi
+Tokyo
+vào
+tháng
+sau
+.
+<EOS>
+3288
+Bạn
+hãy
+làm việc
+ở
+bên
+kia
+.
+<EOS>
+3289
+Cái
+cốc
+đó
+là
+của
+bạn
+.
+<EOS>
+3290
+Tôi
+tự
+nấu
+bữa
+tối
+hàng
+ngày
+.
+<EOS>
+3291
+Nhà vệ sinh
+ở
+bên
+đây
+.
+<EOS>
+3292
+Đây
+là
+anh
+Kobayashi
+.
+<EOS>
+3293
+Vì
+không
+thể
+ngồi
+bên
+đây
+,
+tôi
+ngồi
+bên
+kia
+.
+<EOS>
+3294
+Tòa
+nhà
+bên
+kia
+được
+xây dựng
+vào
+năm
+bảy
+trăm
+chín
+mươi
+tư
+.
+<EOS>
+3295
+Kia
+là
+anh
+Yamada
+.
+<EOS>
+3296
+Nhà ăn nằm
+ở
+tòa
+nhà
+đằng
+kia
+.
+<EOS>
+3297
+Vì
+nguy hiểm
+nên
+đừng
+qua
+bên
+đó
+.
+<EOS>
+3298
+Đó
+là
+anh
+Lee
+.
+<EOS>
+3299
+Đi
+sang
+bên
+đó
+sẽ
+có
+bưu điện
+và
+ngân hàng
+.
+<EOS>
+3300
+Tháng
+trước
+tôi
+đã
+đi
+du lịch
+nước ngoài
+.
+<EOS>
+3301
+Hàng
+tháng
+tôi
+đều
+gửi
+tiền
+vào
+ngân hàng
+.
+<EOS>
+3302
+Tháng
+này
+cái
+siêu thị
+đó
+sẽ
+nghỉ
+vào
+thứ tư
+.
+<EOS>
+3303
+Tháng
+này
+công việc
+của
+tôi
+rất
+bận
+.
+<EOS>
+3305
+Tôi
+đã
+học
+tiếng
+Anh
+tại
+Mỹ
+trong
+ba
+tháng
+.
+<EOS>
+3306
+Sinh nhật
+anh
+Matsui
+là
+tháng
+tám
+.
+<EOS>
+3307
+Ngày mai
+là
+ngày
+một
+tháng
+tư
+.
+<EOS>
+3309
+Hàng
+tháng
+tôi
+đều
+viết
+thư
+cho
+bạn bè
+ở
+nước ngoài
+.
+<EOS>
+3310
+Từ
+tuần
+sau
+anh
+Hayashi
+sẽ
+đi
+nước ngoài
+làm việc
+trong
+một
+tháng
+.
+<EOS>
+3311
+Tháng
+trước
+tôi
+có
+cắt tóc
+mà
+đã
+dài
+ra
+mất
+rồi
+.
+<EOS>
+3312
+Hàng năm
+gia đình
+tôi
+đều
+đi
+du lịch
+.
+<EOS>
+3313
+Năm ngoái
+là
+một
+năm
+tốt
+.
+<EOS>
+3314
+Tôi
+đã
+leo
+lên
+ngọn
+núi
+này
+vào
+năm kia
+.
+<EOS>
+3315
+Anh
+Tanaka
+đã
+tốt nghiệp
+đại học
+vào
+năm kia
+.
+<EOS>
+3316
+Năm nay
+nóng
+hơn
+năm ngoái
+.
+<EOS>
+3317
+Tôi
+sẽ
+học
+ghi-ta
+bắt đầu
+từ
+năm nay
+.
+<EOS>
+3318
+Sang năm
+tôi
+định
+mua
+một
+cái
+ô-tô
+mới
+.
+<EOS>
+3319
+Sang năm
+anh
+tôi
+sẽ
+làm
+việc
+cho
+ngân hàng
+.
+<EOS>
+3320
+Sang năm
+sau nữa
+tôi
+sẽ
+về
+nước
+.
+<EOS>
+3321
+Hình như
+sang năm
+sau nữa
+một
+cái
+thư viện
+sẽ
+mở cửa
+ở
+đằng
+kia
+.
+<EOS>
+3322
+Hàng năm
+tôi
+đều
+tặng
+quà
+sinh nhật
+cho
+mẹ
+.
+<EOS>
+3323
+Năm
+năm
+trước
+tôi
+đã
+kết hôn
+cùng
+vợ
+mình
+.
+<EOS>
+3324
+Anh
+Lee
+định
+ở
+Nhật Bản
+ba
+năm
+.
+<EOS>
+3326
+Tối
+nay
+tôi
+sẽ
+gặp
+chị
+Kimura
+ở
+ga
+.
+<EOS>
+3327
+Ngày mai
+tôi
+sẽ
+gặp
+anh
+Lee
+và
+đưa
+anh
+ấy
+quà
+đi
+tôi
+đi
+xa
+về
+.
+<EOS>
+3328
+Hơi
+nóng
+nên
+tôi
+sẽ
+mở
+cửa
+sổ
+ra
+.
+<EOS>
+3329
+Tôi
+mở cửa
+rồi
+bước vào
+phòng
+.
+<EOS>
+3331
+Không
+được
+mở
+cái
+cửa sổ
+đằng
+kia
+vì
+nguy hiểm
+.
+<EOS>
+3332
+Tôi
+giơ
+tay
+lên
+cao
+.
+<EOS>
+3333
+Tôi
+để
+những
+món
+đồ
+không
+dùng
+nữa
+lên
+trên
+giá sách
+.
+<EOS>
+3334
+Ngày mai
+anh
+Hayashi
+có
+việc
+nên
+không
+tới
+được
+.
+<EOS>
+3335
+Bây giờ
+tôi
+không
+có
+tiền
+.
+<EOS>
+3336
+Hôm qua
+vì
+bị
+sốt
+nên
+tôi
+đã
+không
+đi
+học
+.
+<EOS>
+3337
+Sau
+khi
+hết
+giờ
+học
+tôi
+sẽ
+tới
+nhà
+bạn bè
+.
+<EOS>
+3338
+Ngày mai
+tôi
+viết
+tập
+làm
+văn
+ở
+lớp
+nên
+tôi
+sẽ
+cần
+từ điển
+.
+<EOS>
+3339
+Khi
+đi
+tàu điện
+thì
+cần
+vé
+.
+<EOS>
+3340
+Tôi
+cắm
+nguồn
+vào
+rồi
+bật
+đèn
+lên
+.
+<EOS>
+3341
+Tôi
+sẽ
+bật
+nguồn
+máy tính
+.
+<EOS>
+3342
+Nơi
+sinh
+của
+anh
+Tanaka
+là
+Tokyo
+.
+<EOS>
+3343
+Tôi
+sinh
+ngày
+hai
+mươi
+sáu
+tháng
+tám
+.
+<EOS>
+3344
+Cửa hàng
+đó
+có
+bán
+bánh kẹo
+ngon
+.
+<EOS>
+3346
+Đây
+là
+loại
+đồ
+ăn
+không
+được
+bán
+tại
+Nhật
+.
+<EOS>
+3347
+Không
+được
+để
+đồ
+ở
+đây
+.
+<EOS>
+3348
+Ấn
+vào
+đây
+thì
+cà phê
+sẽ
+chảy
+ra
+.
+<EOS>
+3349
+Tôi
+đã
+không
+nhớ
+gì
+về
+người
+đó
+.
+<EOS>
+3350
+Mỗi
+ngày
+tôi
+đều
+xem
+ti-vi
+để
+học
+tiếng
+Nhật
+.
+<EOS>
+3351
+Xong
+việc
+tôi
+sẽ
+đi
+ăn
+tối
+.
+<EOS>
+3352
+Gửi
+thư
+bằng
+đường thủy
+sẽ
+tốn
+rất
+nhiều
+thời gian
+.
+<EOS>
+3353
+Đi
+từ
+ga ra
+bệnh viện
+bằng
+xe buýt
+mất
+mười
+phút
+.
+<EOS>
+3354
+Tôi
+đã
+gọi
+điện
+về
+nhà
+nhưng
+không
+ai
+có nhà
+.
+<EOS>
+3355
+Tối
+nay
+tôi
+sẽ
+gọi
+điện
+cho
+bạn bè
+.
+<EOS>
+3356
+Vì
+lò sưởi
+tắt
+nên
+tôi
+đã
+bật
+ngay
+lên
+.
+<EOS>
+3357
+Đèn
+trong
+phòng
+đã
+tắt
+hết
+mất
+rồi
+.
+<EOS>
+3358
+Tôi
+sẽ
+tắt
+nguồn
+máy tính
+.
+<EOS>
+3361
+Mùa xuân
+năm tới
+chị
+tôi
+sẽ
+kết hôn
+.
+<EOS>
+3362
+Anh
+Tanaka
+kết hôn
+rồi
+có con
+.
+<EOS>
+3363
+Ở
+công viên
+có
+rất
+nhiều
+hoa
+đẹp
+đang
+nở rộ
+.
+<EOS>
+3364
+Loài
+hoa
+này
+thì
+tới
+mùa xuân
+sẽ
+nở
+.
+<EOS>
+3365
+Tôi
+đã
+gặp
+khó khăn
+vì
+làm
+mất
+hộ chiếu
+ở
+nước ngoài
+.
+<EOS>
+3366
+Vì
+trời
+đang
+mưa
+nên
+tôi
+sẽ
+che
+ô
+đi
+đến
+trường
+.
+<EOS>
+3367
+Có một
+hiệu sách
+lớn
+mở cửa
+ở
+trước
+trường
+đại học
+.
+<EOS>
+3368
+Tôi
+bước vào
+phòng
+rồi
+đóng cửa
+lại
+.
+<EOS>
+3369
+Anh
+Kobayashi
+đã
+không
+biết
+nhà hàng
+này
+.
+<EOS>
+3370
+Tôi
+biết
+số
+điện thoại
+của
+anh
+Yamada
+.
+<EOS>
+3371
+Tôi
+sẽ
+đứng lên
+hát
+một
+bài
+.
+<EOS>
+3372
+Chị
+Kimura
+đang
+đứng
+ở
+bên
+kia
+.
+<EOS>
+3373
+Anh
+Tanaka
+được
+anh
+Hayashi
+nhờ
+giúp việc
+.
+<EOS>
+3374
+Mẹ
+tôi
+lúc nào
+cũng
+nhờ
+tôi
+mua
+đồ
+.
+<EOS>
+3375
+Nhật Bản
+và
+nước ngoài
+thì
+tiếng nói
+khác
+nhau
+.
+<EOS>
+3376
+Đây
+là
+vở
+của
+tôi
+.
+<EOS>
+3377
+Tối
+nay
+tôi
+sẽ
+ra
+khỏi
+công ty
+sớm
+và
+về
+nhà
+.
+<EOS>
+3378
+Tôi
+sẽ
+lấy
+bất kỳ
+đồ ăn
+gì
+tôi
+thích
+.
+<EOS>
+3379
+Tôi
+đã
+lấy
+xì
+dầu cho
+anh
+Lee
+.
+<EOS>
+3380
+Cái
+thang máy
+này
+sẽ
+dừng
+từ
+tầng
+hai
+đến
+tầng
+chín
+.
+<EOS>
+3381
+Chiếc
+ô-tô
+đã
+dừng
+lại
+trước
+mặt
+tôi
+.
+<EOS>
+3382
+Ngày mai
+tôi
+sẽ
+không
+quên
+đi
+trả
+sách
+.
+<EOS>
+3383
+Hôm qua
+tôi
+đã
+để
+quên
+ô
+trên
+tàu điện
+.
+<EOS>
+3384
+Vì
+có
+câu hỏi
+tôi
+không
+hiểu
+nên
+tôi
+sẽ
+hỏi
+thầy giáo
+.
+<EOS>
+3385
+Anh
+Lee
+hiểu
+tiếng
+Nhật
+.
+<EOS>
+3386
+Hôm qua
+tôi
+đã
+đưa
+cho
+chị
+Kimura
+bản đồ
+của
+thị trấn
+này
+.
+<EOS>
+3387
+Tôi
+đã
+gọi
+một
+chiếc
+taxi
+.
+<EOS>
+3388
+Thầy giáo
+đã
+gọi
+tên
+anh
+Yamada
+.
+<EOS>
+3389
+Vì
+đã
+làm
+việc
+một lúc
+lâu
+nên
+tôi
+đã
+nghỉ
+một chút
+.
+<EOS>
+3390
+Tôi
+đang
+đợi
+xe buýt
+.
+<EOS>
+3391
+Tối
+nay
+tôi
+sẽ
+đợi
+anh
+Kobayashi
+ở
+ga
+.
+<EOS>
+3392
+Chị
+Kimura
+cho
+tôi
+xem
+ảnh
+.
+<EOS>
+3394
+Tôi
+đã
+từng
+leo
+lên
+ngọn
+núi
+kia
+.
+<EOS>
+3395
+Cuối tuần
+tôi
+sẽ
+đi
+leo
+núi
+cùng
+bạn bè
+.
+<EOS>
+3396
+Tôi
+học
+tiếng
+Nhật
+từ
+thầy giáo
+đó
+.
+<EOS>
+3397
+Hôm qua
+anh
+Lee
+đã
+học
+chữ Hán
+từ
+chỗ
+anh
+Matsui
+.
+<EOS>
+3398
+Trường
+đại học
+sẽ
+vào
+học
+từ
+tháng
+tư
+.
+<EOS>
+3399
+Giờ
+học
+sẽ
+bắt đầu
+lúc
+chín
+giờ
+sáng
+.
+<EOS>
+3402
+Có
+rất
+nhiều
+sách
+được
+xếp
+trên
+giá
+.
+<EOS>
+3403
+Tôi
+bày
+đĩa
+trên
+bàn
+.
+<EOS>
+3404
+Trước
+nhà hàng
+có
+rất
+nhiều
+người
+đang
+xếp hàng
+.
+<EOS>
+3405
+Hôm qua
+tôi
+đã
+xếp hàng
+một
+tiếng
+đồng hồ
+để
+vào
+xem
+phim
+.
+<EOS>
+3406
+Sau
+khi
+tốt nghiệp
+đại học
+tôi
+muốn
+trở thành
+bác
+sỹ
+.
+<EOS>
+3407
+Đến
+mùa hè
+trời
+sẽ
+nóng
+lên
+.
+<EOS>
+3408
+Sang năm
+tôi
+sẽ
+tốt nghiệp
+đại học
+.
+<EOS>
+3409
+Ngày
+thứ
+hai
+tôi
+đến
+trường
+từ
+sáng
+.
+<EOS>
+3410
+Hạn
+trả
+sách
+của
+tôi
+là
+ngày
+thứ ba
+.
+<EOS>
+3411
+Ngày
+nghỉ
+của
+cái
+bệnh viện
+bên
+kia
+là
+thứ tư
+và
+chủ nhật
+.
+<EOS>
+3412
+Chiều
+thứ năm
+tôi
+sẽ
+đi
+chuyển khoản
+ở
+ngân hàng
+.
+<EOS>
+3413
+Vì
+ngày
+kế tiếp
+là
+ngày
+nghỉ
+nên
+thứ sáu
+tôi
+đều
+chơi
+cùng
+bạn bè
+.
+<EOS>
+3414
+Thứ bảy
+tôi
+sẽ
+ăn
+cơm
+tối
+ở
+nhà
+anh
+Hayashi
+.
+<EOS>
+3415
+Tuần
+trước
+là
+sinh nhật
+mẹ
+tôi
+.
+<EOS>
+3416
+Tuần
+này
+lớp
+tiếng
+Nhật
+được
+nghỉ
+.
+<EOS>
+3417
+Tuần
+sau
+có
+bài
+kiểm tra
+nên
+tôi
+sẽ
+học
+bài
+.
+<EOS>
+3418
+Tuần
+sau
+chị gái
+tôi
+sẽ
+kết hôn
+.
+<EOS>
+3419
+Thứ bảy
+hàng
+tuần
+tôi
+đều
+luyện tập
+bóng đá
+.
+<EOS>
+3420
+Năm ngoái
+tôi
+đã
+đi
+du lịch
+nước
+ngoài cùng
+bạn bè
+.
+<EOS>
+3421
+Hôm kia
+tôi
+đã
+mua
+một đôi
+giày
+mới
+ở
+trung tâm
+thương mại
+.
+<EOS>
+3422
+Hôm kia
+trời
+lạnh
+nên
+tuyết
+đã
+rơi
+.
+<EOS>
+3423
+Hôm qua
+có một
+nhà hàng
+mới
+mở cửa
+trước
+ga
+.
+<EOS>
+3424
+Hôm qua
+tôi
+đã
+gửi
+thư
+cho
+mẹ
+.
+<EOS>
+3425
+Hôm nay
+tôi
+đã
+nghỉ
+học
+vì
+bị
+cảm
+.
+<EOS>
+3426
+Hôm nay
+tôi
+cùng
+anh
+Lee
+đi
+xem
+phim
+.
+<EOS>
+3427
+Từ
+mai
+tôi
+sẽ
+học
+chữ Hán
+mỗi
+ngày
+.
+<EOS>
+3428
+Ngày mai
+tôi
+phải
+đến
+đại sứ quán
+.
+<EOS>
+3429
+Ngày kia
+tôi
+định
+ra
+biển
+bơi
+.
+<EOS>
+3430
+Ngày kia
+sẽ
+có
+trận
+đấu bóng
+chày
+.
+<EOS>
+3431
+Tối
+hôm qua
+tôi
+mệt
+nên
+ngủ
+sớm
+.
+<EOS>
+3432
+Tối
+hôm qua
+tôi
+đã
+đi
+ăn
+cơm
+cùng
+chị
+Kimura
+.
+<EOS>
+3433
+Từ
+tuần
+sau
+mỗi
+ngày
+đều
+có
+bài
+kiểm tra
+.
+<EOS>
+3434
+Mỗi
+sáng
+tôi
+đọc
+báo
+rồi
+đi
+làm
+.
+<EOS>
+3435
+Tôi
+thức dậy
+lúc
+sáu
+giờ
+sáng
+mỗi
+ngày
+.
+<EOS>
+3436
+Mỗi
+tối
+trước khi
+ngủ
+tôi
+đều
+đọc
+sách
+.
+<EOS>
+3437
+Mỗi
+tối
+tôi
+học
+tiếng
+Anh hai
+tiếng
+đồng hồ
+.
+<EOS>
+3438
+Khách sạn
+này
+giá
+bảy
+nghìn
+tám
+trăm
+yên
+cho
+một
+ngày
+.
+<EOS>
+3439
+Hôm qua
+trời
+mưa
+nên
+tôi
+ở
+nhà
+cả
+ngày
+.
+<EOS>
+3441
+Mẹ
+tôi
+sinh
+ngày
+hai
+mươi
+chín
+tháng
+mười
+một
+.
+<EOS>
+3442
+Sáng
+nay
+tôi
+đã
+ra
+khỏi
+nhà
+mà
+không
+ăn
+cơm
+.
+<EOS>
+3443
+Sáng
+nay
+thời tiết
+tốt
+.
+<EOS>
+3444
+Tối
+nay
+bạn
+tôi
+sẽ
+ngủ
+lại
+nhà tôi
+.
+<EOS>
+3445
+Tối
+hôm nay
+rất
+lạnh
+.
+<EOS>
+3446
+Hôm nay
+tôi
+có
+giờ
+học
+từ
+sáng
+tới
+chiều
+.
+<EOS>
+3447
+Hôm nào
+tôi
+cũng
+lên
+tàu
+lúc
+tám
+giờ
+sáng
+.
+<EOS>
+3448
+Trưa
+hôm qua
+tôi
+đã
+đi
+cà phê
+cùng
+anh
+Kimura
+.
+<EOS>
+3449
+Hàng ngày
+tôi
+nghỉ
+một
+tiếng
+buổi trưa
+.
+<EOS>
+3450
+Cho đến
+hết
+chiều nay
+tôi
+phải
+làm
+công việc
+này
+.
+<EOS>
+3451
+Chiều nay
+tôi
+đã
+đi
+dạo
+ở
+công viên
+.
+<EOS>
+3452
+Cái
+siêu thị
+đằng
+kia
+mở cửa
+cả
+vào
+buổi tối
+.
+<EOS>
+3453
+Đã
+mười
+hai
+giờ
+đêm
+rồi
+nhưng
+tôi
+sẽ
+học
+bài
+.
+<EOS>
+3454
+Bố
+tôi
+mỗi
+ngày
+đều
+làm việc
+từ
+sáng
+tới
+tối
+.
+<EOS>
+3455
+Tối
+hôm qua
+tôi
+đã
+học
+bài
+tới
+khuya
+.
+<EOS>
+3456
+Sáng mai
+tôi
+sẽ
+ở
+trường
+.
+<EOS>
+3457
+Bây giờ
+là
+bảy
+giờ
+sáng
+.
+<EOS>
+3458
+Bây giờ
+là
+bảy
+giờ
+tối
+.
+<EOS>
+3459
+Sáng
+nay
+tôi
+có
+thời gian
+nên
+tôi
+đọc
+báo
+xong
+sẽ
+ra
+khỏi
+nhà
+.
+<EOS>
+3460
+Công việc
+thì
+bận rộn
+nên
+tôi
+không
+có
+thời gian
+chơi
+.
+<EOS>
+3462
+Trong
+giờ
+học
+cần
+chăm chú
+nghe
+thầy cô
+giảng
+bài
+.
+<EOS>
+3463
+Từ
+nhà
+đến
+trường
+đi
+hết
+một
+tiếng
+đồng hồ
+bằng
+tàu điện
+.
+<EOS>
+3464
+Hôm qua
+tôi
+ngủ
+tám
+tiếng
+đồng hồ
+.
+<EOS>
+3465
+Về
+đến
+nhà tôi
+đi
+tắm
+vòi
+hoa sen
+trước
+.
+<EOS>
+3466
+Khi
+chuẩn bị
+lên
+tàu
+cần
+ưu tiên
+người
+xuống
+trước
+.
+<EOS>
+3467
+Sau
+khi
+thêm
+đường
+,
+chúng ta
+sẽ
+cho
+một chút
+xì dầu
+vào
+.
+<EOS>
+3468
+Tiếp theo
+tôi
+sẽ
+cho
+chị
+Yamada
+mượn
+quyển
+tạp chí
+này
+.
+<EOS>
+3469
+Tôi
+sẽ
+đi
+trả
+sách
+cho
+thư viện
+sau
+.
+<EOS>
+3470
+Còn
+năm
+phút
+nữa
+giờ
+học
+sẽ
+kết thúc
+.
+<EOS>
+3472
+Nhà hàng
+này
+vừa
+to
+vừa
+đẹp
+.
+<EOS>
+3473
+Động vật
+nhỏ
+thì
+rất
+dễ thương
+.
+<EOS>
+3474
+Nhà tôi
+vừa
+nhỏ
+vừa
+hẹp
+.
+<EOS>
+3476
+Buổi tối
+thì
+tối
+nên
+nguy hiểm
+.
+<EOS>
+3477
+Tôi
+học
+ở
+nơi
+sáng sủa
+.
+<EOS>
+3478
+Phòng học
+này
+vừa
+sáng sủa
+vừa
+sạch sẽ
+.
+<EOS>
+3479
+Chè đen
+này
+thì
+nóng
+.
+<EOS>
+3480
+Tôi
+muốn
+uống
+trà
+nóng
+.
+<EOS>
+3481
+Mỗi
+sáng
+tôi
+uống
+một
+ly
+sữa
+lạnh
+.
+<EOS>
+3482
+Nước
+trong
+bể bơi
+thì
+lạnh
+.
+<EOS>
+3483
+Ở
+công viên
+có một
+cây
+to
+.
+<EOS>
+3484
+Sáng
+nào
+tôi
+cũng
+chạy
+bộ
+nên
+tôi
+đã
+gầy
+đi
+một chút
+.
+<EOS>
+3485
+Người
+đó
+chân
+vừa
+thon
+vừa
+dài
+.
+<EOS>
+3486
+Cuốn
+tạp chí
+này
+vừa
+dày
+vừa
+nặng
+.
+<EOS>
+3487
+Chiếc
+bút
+này
+cho
+nét
+đậm
+.
+<EOS>
+3488
+Tôi
+sẽ
+ăn
+miếng
+thịt
+dày
+.
+<EOS>
+3489
+Tôi
+đã
+mua
+một
+cuối
+từ điển
+nhỏ
+.
+<EOS>
+3490
+Tường
+của
+căn
+phòng
+này
+mỏng
+nên
+tôi
+sẽ
+nói nhỏ
+.
+<EOS>
+3491
+Chiếc
+hộp
+nặng
+đang
+được
+người
+đàn ông
+vác
+.
+<EOS>
+3492
+Cái
+cặp
+này
+vừa
+to
+vừa
+nặng
+.
+<EOS>
+3493
+Tôi
+muốn
+một đôi
+giày
+nhẹ
+.
+<EOS>
+3494
+Hành
+lý
+của
+chị
+Kimura
+vừa
+nhỏ
+vừa
+nhẹ
+.
+<EOS>
+3495
+Anh
+Yamada
+là
+người
+cao
+nhất
+lớp
+.
+<EOS>
+3496
+Tôi
+muốn
+sống
+ở
+trên
+cao
+.
+<EOS>
+3497
+Tối
+nay
+tôi
+định
+học
+một lúc
+lâu
+.
+<EOS>
+3498
+Giờ
+học
+hôm qua
+thì
+dài
+.
+<EOS>
+3499
+Cái
+người
+thấp
+đó
+là
+chị
+Kimura
+.
+<EOS>
+3500
+Ngọn
+núi
+này
+thì
+thấp
+.
+<EOS>
+3501
+Tôi
+phải
+làm
+công việc
+này
+trong
+thời gian
+ngắn
+.
+<EOS>
+3502
+Một
+ngày
+là
+vô cùng
+ngắn ngủi
+.
+<EOS>
+3503
+Phim
+này
+không
+hay
+lắm
+.
+<EOS>
+3504
+Tôi
+biết
+một
+cửa hàng
+tốt
+.
+<EOS>
+3505
+Chiếc
+máy tính
+này
+thì
+đắt
+nhưng
+rất
+tốt
+.
+<EOS>
+3506
+Đây
+là
+đồ ăn
+gây
+hại
+cho
+sức khỏe
+.
+<EOS>
+3507
+Hôm nay
+thời tiết
+xấu
+.
+<EOS>
+3508
+Anh
+Yamada
+là
+một
+người
+thú vị
+.
+<EOS>
+3509
+Giờ
+học
+này
+rất
+thú vị
+.
+<EOS>
+3510
+Bữa tiệc
+hôm qua
+rất
+vui
+.
+<EOS>
+3511
+Việc
+học
+tiếng
+Nhật
+thì
+vui
+.
+<EOS>
+3512
+Tôi
+đã
+nghe
+bạn
+kể
+lại
+một
+câu chuyện
+chán
+.
+<EOS>
+3513
+Quyển
+sách
+này
+thì
+chán
+.
+<EOS>
+3514
+Hôm qua
+tôi
+đã
+nghe
+được
+một
+chuyện
+rất
+không
+hay
+.
+<EOS>
+3515
+Tôi
+không
+thích
+dọn dẹp
+và
+giặt giũ
+.
+<EOS>
+3516
+Đây
+là
+món
+khoái khẩu
+của
+anh
+Kobayashi
+.
+<EOS>
+3517
+Tôi
+rất
+yêu
+động vật
+.
+<EOS>
+3518
+Tôi
+muốn
+đi
+đến
+một nơi
+yên tĩnh
+và
+trong lành
+.
+<EOS>
+3519
+Anh
+Matsui
+đang
+sống
+ở
+một
+thị
+trấn
+yên ả
+.
+<EOS>
+3520
+Đây
+là
+một
+thị trấn
+lớn
+và
+nhộn nhịp
+.
+<EOS>
+3521
+Phòng học
+bên
+cạnh
+ồn ào
+.
+<EOS>
+3522
+Chó
+nhà
+bên
+làm ồn
+khiến
+tôi
+không
+học
+nổi
+.
+<EOS>
+3523
+Trong
+giờ
+học
+người
+đó
+bao giờ
+cũng
+ồn ào
+.
+<EOS>
+3524
+Anh
+Hayashi
+đang
+sống
+ở
+một
+thị trấn
+đông
+người
+.
+<EOS>
+3525
+Ngôi
+trường
+này
+có
+nhiều
+du học sinh
+.
+<EOS>
+3526
+Tôi
+muốn
+đi
+đến
+một nơi
+có
+ít
+người
+.
+<EOS>
+3527
+Cái
+siêu thị
+bên
+đó
+có
+ít
+cá
+.
+<EOS>
+3528
+Hôm nay
+tôi
+sẽ
+ra
+khỏi
+nhà
+từ
+sớm
+.
+<EOS>
+3529
+Ngày mai
+tôi
+sẽ
+dậy
+sớm
+.
+<EOS>
+3530
+Hôm qua
+tôi
+đã
+mệt
+nên
+sáng
+nay
+ngủ dậy
+muộn
+.
+<EOS>
+3531
+Đã
+muộn
+rồi
+nên
+tôi
+sẽ
+về
+nhà
+.
+<EOS>
+3532
+Mỗi
+sáng
+tôi
+đều
+ăn
+một
+quả
+trứng
+.
+<EOS>
+3533
+Tôi
+bày
+hai
+lọ
+hoa
+trên
+bàn
+.
+<EOS>
+3534
+Câu hỏi
+này
+có
+ba
+đáp án
+.
+<EOS>
+3535
+Tôi
+gọi
+bốn
+món
+ở
+nhà hàng
+.
+<EOS>
+3536
+Anh
+Tanaka
+đã
+mua
+năm
+cái
+bánh kem
+.
+<EOS>
+3537
+Trong
+phòng
+có
+sáu
+cái
+hộp
+.
+<EOS>
+3538
+Chị
+Kimura
+đã
+làm
+bảy
+cái
+bánh
+.
+<EOS>
+3539
+Tôi
+phải
+mua
+chín
+món
+quà
+du lịch
+.
+<EOS>
+3540
+Trong
+phòng học
+này
+có
+chín
+cái
+cặp sách
+.
+<EOS>
+3541
+Nghỉ hè
+bắt đầu
+từ
+ngày
+một
+tháng
+tám
+.
+<EOS>
+3542
+Anh
+Tanaka
+sẽ
+ra
+nước ngoài
+vào
+ngày
+hai
+tháng
+sau
+.
+<EOS>
+3543
+Từ ngày
+ba
+đến ngày
+mùng
+năm
+tháng
+năm
+,
+các
+trường học
+và
+công ty
+sẽ
+nghỉ
+.
+<EOS>
+3544
+Tôi
+phải
+viết
+bài tập
+làm
+văn
+tiếng
+Anh
+trước
+ngày
+năm
+.
+<EOS>
+3545
+Sinh nhật
+bố
+tôi
+là
+ngày
+mùng
+năm
+tháng
+sáu
+.
+<EOS>
+3546
+Cửa hàng
+bách
+hóa
+này
+bán rẻ
+vào
+ngày
+mùng
+tám
+hàng
+tháng
+.
+<EOS>
+3547
+Tôi
+đã
+gửi
+bưu kiện
+ở
+bưu điện
+vào
+ngày
+mùng
+sáu
+.
+<EOS>
+3548
+Tôi
+sẽ
+chuyển khoản
+trước
+ngày
+mùng
+bảy
+.
+<EOS>
+3549
+Ngày
+chín
+tháng
+sau
+bố mẹ
+sẽ
+đến
+nhà
+tôi
+chơi
+.
+<EOS>
+3550
+Tôi
+phải
+làm
+công việc
+này
+trước
+ngày
+mười
+.
+<EOS>
+3551
+Ngày
+hai
+mươi
+tháng
+này
+tôi
+sẽ
+có
+bài
+kiểm tra
+tiếng
+Nhật
+.
+<EOS>
+3552
+Anh
+Lee
+đang
+sống
+một mình
+tại
+Nhật Bản
+.
+<EOS>
+3553
+Trong
+phòng học
+có một
+học sinh
+.
+<EOS>
+3554
+Ngày mai
+tôi
+và
+anh
+Kimura
+sẽ
+đi
+bể bơi
+.
+<EOS>
+3555
+Trước
+nhà
+có
+hai
+người
+lạ
+.
+<EOS>
+3556
+Ở
+Nhật Bản
+,
+những
+người
+từ
+hai
+mươi
+tuổi
+trở lên
+sẽ
+được
+phép
+uống
+rượu
+.
+<EOS>
+3557
+Sang năm
+em trai
+tôi
+sẽ
+lên
+hai
+mươi
+.
+<EOS>
+3558
+Mỗi
+ngày
+tôi
+ăn
+ba
+bữa
+.
+<EOS>
+3559
+Mỗi
+năm
+tôi
+đi
+nước ngoài
+một
+lần
+.
+<EOS>
+3560
+Món ăn
+này
+cần dùng
+hai
+quả
+trứng
+.
+<EOS>
+3561
+Tôi
+đã
+ăn
+một
+cái
+bánh
+mà
+anh
+Lee
+cho
+.
+<EOS>
+3562
+Ở
+Nhật Bản
+,
+những
+người
+từ
+mười
+tám
+tuổi
+trở lên
+sẽ
+được
+phép
+lái xe
+.
+<EOS>
+3563
+Em
+gái
+tôi
+bốn
+tuổi
+.
+<EOS>
+3564
+Trong
+phòng học
+này
+có
+bảy
+chiếc
+máy vi tính
+.
+<EOS>
+3565
+Trước
+cửa hàng
+có
+bốn
+chiếc
+ô-tô
+đang
+đỗ
+.
+<EOS>
+3568
+Cho
+ba
+thìa
+đường
+vào
+.
+<EOS>
+3569
+Hôm qua
+tôi
+đã
+uống
+hai
+ly
+rượu
+.
+<EOS>
+3570
+Mỗi
+sáng
+tôi
+đều
+uống
+một
+cốc
+sữa
+bò
+.
+<EOS>
+3571
+Hôm qua
+tôi
+mua
+ba
+con
+cá
+ở
+siêu thị
+.
+<EOS>
+3572
+Đằng
+kia
+có
+hai
+chú
+chó
+.
+<EOS>
+3573
+Nhà
+anh
+Hayashi
+có một
+chú
+mèo
+.
+<EOS>
+3574
+Bao giờ
+tôi
+cũng
+mang
+ba
+cây
+bút chì
+đi
+học
+.
+<EOS>
+3575
+Trong
+vườn
+nhà
+có
+hai
+cái
+cây
+.
+<EOS>
+3576
+Tôi
+ăn
+cơm
+rồi
+hút
+một
+điếu thuốc
+.
+<EOS>
+3577
+Hiện giờ
+tôi
+đang
+nặng
+bốn
+mươi
+lăm
+ki-lô-gam
+.
+<EOS>
+3578
+Chỗ
+hành lý
+này
+là
+năm
+ki-lô-gam
+nên
+nặng
+.
+<EOS>
+3579
+Ga
+cách
+thư viện
+hai
+ki-lô-mét
+.
+<EOS>
+3580
+Mỗi
+sáng
+tôi
+chạy
+bộ ba
+ki-lô-mét
+.
+<EOS>
+3581
+Cho
+ba
+mươi
+gam
+đường
+và
+mười
+lăm
+gam
+muối
+vào
+.
+<EOS>
+3582
+Tôi
+mua
+hai
+trăm
+gam
+thịt
+lợn
+.
+<EOS>
+3583
+Cái
+giá sách
+này
+dài
+một
+mét
+,
+rộng
+một
+phẩy
+năm
+mét
+.
+<EOS>
+3584
+Anh
+Yamada
+có thể
+bơi
+được
+một
+trăm
+mét
+.
+<EOS>
+3585
+Tôi
+thích
+những
+động vật
+nhỏ
+và
+dễ thương
+.
+<EOS>
+3586
+Chị
+Kimura
+rất
+dễ thương
+.
+<EOS>
+3587
+Cái
+người
+trẻ trung
+đầy
+sức sống
+kia
+là
+anh
+Yamada
+.
+<EOS>
+3588
+Thầy giáo
+lớp
+bên
+cạnh
+vẫn
+còn
+trẻ
+.
+<EOS>
+3589
+Ở
+bên
+kia
+có
+một
+cái
+hộp
+tròn
+.
+<EOS>
+3590
+Cái bàn
+này
+tròn
+.
+<EOS>
+3591
+Thứ
+tôi
+muốn
+có
+nhất
+bây giờ
+là
+máy vi tính
+.
+<EOS>
+3592
+Tôi
+muốn
+có
+từ điển
+tiếng
+Nhật
+.
+<EOS>
+3593
+Anh
+Lee
+đang
+bị
+cảm
+nên
+không
+khỏe
+lắm
+.
+<EOS>
+3594
+Anh
+Yamada
+là
+một
+người
+khỏe mạnh
+.
+<EOS>
+3595
+Ăn
+nhiều
+cơm
+sẽ
+khiến
+cơ thể
+khỏe mạnh
+hơn
+.
+<EOS>
+3596
+Anh
+Yamada
+rất
+khỏe mạnh
+ít
+đau ốm
+.
+<EOS>
+3597
+Sang tháng
+chúng tôi
+sẽ
+đi
+chơi
+với nhau
+nên
+tôi
+sẽ
+nói
+cho
+anh
+Lee
+những
+ngày
+tôi
+rảnh
+.
+<EOS>
+3598
+Hôm nay
+thì
+tôi
+phải
+học
+nhưng
+ngày mai
+thì
+không
+sao
+.
+<EOS>
+3599
+Quyển
+sách
+này
+rất
+quan trọng
+nên
+đừng
+làm
+mất
+.
+<EOS>
+3600
+Đây
+là
+một
+bức
+thư
+quan trọng
+.
+<EOS>
+3603
+Anh
+Tanaka
+đang
+làm
+một
+công việc
+vất vả
+.
+<EOS>
+3604
+Tôi
+phải
+nhớ
+rất
+nhiều
+chữ Hán
+nên
+vất vả
+.
+<EOS>
+3605
+Đây
+là
+một
+cuốn
+từ điển
+rất
+nhẹ
+và
+tiện lợi
+.
+<EOS>
+3606
+Máy bay
+thì
+nhanh
+và
+tiện lợi
+.
+<EOS>
+3607
+Đây
+là
+một
+nơi
+rất
+nổi tiếng
+tại
+Nhật Bản
+.
+<EOS>
+3608
+Trường
+đại học
+này
+lâu đời
+và
+nổi tiếng
+.
+<EOS>
+3609
+Tháng
+này
+tôi
+bận
+nên
+không
+có
+ngày
+nào
+rảnh
+.
+<EOS>
+3610
+Mai
+tôi
+rảnh
+nên
+tôi
+sẽ
+chơi
+với
+bạn bè
+.
+<EOS>
+3611
+Không
+được
+phép
+dùng
+những
+món
+đồ
+ở
+bên
+kia
+.
+<EOS>
+3612
+Chị
+Kimura
+rất
+thích
+những
+món
+đồ
+đáng yêu
+.
+<EOS>
+3613
+Tôi
+muốn
+sống
+ở
+một
+nơi
+yên tĩnh
+và
+trong lành
+.
+<EOS>
+3614
+Đây
+là
+một
+nơi
+rất
+nhộn nhịp
+.
+<EOS>
+3615
+Hôm qua
+tôi
+đã
+nghe
+được
+một
+tin
+thú
+vị từ
+bạn
+mình
+.
+<EOS>
+3616
+Sáng
+nay
+tôi
+đã
+xem
+tin tức
+trên
+ti-vi
+.
+<EOS>
+3617
+Tôi
+mua
+đồ
+cho
+bữa
+tối
+ở
+siêu thị
+.
+<EOS>
+3618
+Tiệc
+cưới
+chị gái
+tôi
+diễn
+ra vào
+tuần
+trước
+.
+<EOS>
+3619
+Anh
+Yamada
+mua
+tặng
+đồng hồ
+mừng
+sinh nhật
+anh
+Kobayashi
+.
+<EOS>
+3620
+Sinh nhật
+tôi
+là
+ngày
+hai
+mười
+sáu
+tháng
+tám
+.
+<EOS>
+3621
+Quyển
+vở
+này
+chiều rộng
+dài
+hơn
+chiều dài
+.
+<EOS>
+3622
+Tôi
+sẽ
+cắt
+tờ
+giấy
+này
+theo
+chiều dọc
+.
+<EOS>
+3623
+Tôi
+nêm
+trứng
+với
+muối
+rồi
+ăn
+.
+<EOS>
+3624
+Mỗi
+sáng
+tôi
+đều
+ăn
+bánh mì
+và
+trứng
+.
+<EOS>
+3625
+Không
+được
+mở
+cái
+cổng
+đằng
+kia
+.
+<EOS>
+3626
+Cửa
+phòng
+tôi
+không
+đóng
+.
+<EOS>
+3627
+Cuốn
+sách
+này
+có một
+trăm
+hai
+mươi
+trang
+.
+<EOS>
+3628
+Tôi
+đã
+mượn
+điện thoại
+của
+chị
+Kimura
+.
+<EOS>
+3629
+Mai
+tôi
+sẽ
+gọi
+điện
+cho
+anh
+Lee
+.
+<EOS>
+3630
+Tôi
+đã
+chụp
+rất
+nhiều
+ảnh
+nên
+phim
+hết
+mất
+rồi
+.
+<EOS>
+3631
+Tôi
+bỏ
+cuộn phim
+vào
+máy ảnh
+.
+<EOS>
+3632
+Đã
+mười
+hai
+giờ
+đêm
+rồi
+nên
+tôi
+sẽ
+nói nhỏ
+.
+<EOS>
+3633
+Anh
+Matsui
+nói
+thì
+to
+.
+<EOS>
+3634
+Xếp hàng
+từ
+người
+thấp
+đến
+người
+cao
+.
+<EOS>
+3635
+Chiếc
+áo khoác
+này
+có
+nhiều
+túi
+nên
+tiện lợi
+.
+<EOS>
+3636
+Tôi
+bỏ
+tiền
+vào
+túi
+quần
+.
+<EOS>
+3637
+Tôi
+mang
+theo
+khăn tay
+khi
+đi
+ra
+ngoài
+.
+<EOS>
+3638
+Hôm qua
+tôi
+đã
+quên
+khăn
+tay trong
+lớp
+học
+.
+<EOS>
+3639
+Ở
+chỗ
+bồn tắm
+không
+có
+dầu
+gội
+đầu
+.
+<EOS>
+3640
+Tôi
+rửa
+tay
+bằng
+xà phòng
+.
+<EOS>
+3641
+Ở
+chỗ
+bồn tắm
+không
+có
+xà phòng
+.
+<EOS>
+3642
+Tôi
+dùng
+diêm
+thắp
+điếu thuốc
+.
+<EOS>
+3643
+Trên
+bàn
+có
+diêm
+.
+<EOS>
+3644
+Tuần
+trước
+tôi
+cùng
+anh
+Lee
+đã
+tới
+rạp
+xem
+phim
+.
+<EOS>
+3645
+Rạp
+chiếu phim
+đó
+vừa mới
+lại
+sạch sẽ
+.
+<EOS>
+3646
+Tôi
+cho
+vở
+và
+bút bi
+vào
+chiếc
+hộp
+.
+<EOS>
+3647
+Chiếc
+hộp
+này
+rất
+nặng
+.
+<EOS>
+3648
+Tôi
+viết
+câu
+trả lời
+cho
+đề bài
+vào
+tờ
+giấy
+này
+.
+<EOS>
+3649
+Trên
+bàn
+có
+giấy
+và
+bút chì
+.
+<EOS>
+3650
+Một
+con đường
+vừa
+được
+hoàn thành
+nên
+đi lại
+trong ngoài
+làng
+cũng
+thuận tiện
+hơn
+.
+<EOS>
+3651
+Ngôi
+làng
+này
+yên tĩnh
+và
+xinh đẹp
+.
+<EOS>
+3652
+Tháng
+trước
+có một
+trung tâm
+thương mại
+lớn
+đã
+mở cửa
+ở
+thị trấn
+kế
+bên
+.
+<EOS>
+3653
+Sang năm
+tôi
+sẽ
+bắt đầu
+sống
+ở
+thị trấn
+này
+.
+<EOS>
+3654
+Tôi
+nhận
+được
+thư từ
+mẹ
+tôi
+ở
+trong
+nước
+.
+<EOS>
+3655
+Tôi
+sẽ
+về
+nước
+vào
+kỳ
+nghỉ hè
+.
+<EOS>
+3656
+Chú
+chim
+đang
+uống
+nước
+.
+<EOS>
+3657
+Trên
+cái
+cây
+đằng
+kia
+có một
+chú
+chim
+.
+<EOS>
+3658
+Nhà
+anh
+Hayashi
+có một
+chú
+chó
+và
+một
+chú
+mèo
+.
+<EOS>
+3659
+Đằng
+kia
+có một
+chú
+mèo
+đang
+ngủ
+.
+<EOS>
+3660
+Tôi
+đã
+dẫn
+chó
+đi dạo
+ở
+công viên
+hồi
+chiều
+.
+<EOS>
+3661
+Chú
+chó
+nhà tôi
+rất
+to lớn
+.
+<EOS>
+3662
+Hôm qua
+tôi
+đã
+chơi đùa
+với
+vật nuôi
+của
+mình
+.
+<EOS>
+3663
+Anh
+Kobayashi
+có
+nuôi
+thú
+cảnh
+ở
+nhà
+.
+<EOS>
+3664
+Những
+động vật
+nhỏ
+rất
+đáng yêu
+.
+<EOS>
+3666
+Vùng biển
+đó
+rất
+đẹp
+.
+<EOS>
+3667
+Cha mẹ
+tôi
+sống
+ven
+biển
+.
+<EOS>
+3668
+Trên
+ngọn
+núi
+đó
+có
+nhiều
+loài
+động vật
+.
+<EOS>
+3669
+Trường học
+ở
+gần
+ngọn
+núi
+đó
+.
+<EOS>
+3670
+Trong
+ao
+có
+cá
+.
+<EOS>
+3671
+Trong
+công viên
+có một
+ao
+nước lớn
+.
+<EOS>
+3672
+Bông hoa
+này
+đỏ
+và
+đẹp
+.
+<EOS>
+3673
+Chị
+Kimura
+thích
+hoa
+.
+<EOS>
+3674
+Hôm qua
+tôi
+đã
+chặt
+cây
+.
+<EOS>
+3675
+Vườn
+nhà
+anh
+Tanaka
+có
+cây
+và
+hoa
+.
+<EOS>
+3676
+Vùng trời
+phía
+đông
+có
+nhiều
+mây
+.
+<EOS>
+3677
+Bầu trời
+thì
+rộng
+.
+<EOS>
+3678
+Ở
+Nhật Bản
+có
+tuyết
+rơi
+vào
+mùa
+đông
+.
+<EOS>
+3679
+Mùa đông
+trời
+lạnh
+nên
+tôi
+bật
+lò sưởi
+lên
+.
+<EOS>
+3680
+Hè
+qua
+thu
+lại
+.
+<EOS>
+3681
+Tôi
+thích
+mùa thu
+hơn
+mùa xuân
+.
+<EOS>
+3682
+Vào
+mùa hè
+,
+hàng ngày
+tôi
+đều
+đội
+mũ
+khi
+ra
+ngoài
+.
+<EOS>
+3683
+Mùa hè
+ở
+Nhật Bản
+rất
+nóng
+.
+<EOS>
+3684
+Mùa xuân
+hoa
+nở
+rất
+nhiều
+.
+<EOS>
+3685
+Ở
+Nhật Bản
+thường
+có
+gió
+lớn
+vào
+mùa xuân
+.
+<EOS>
+3686
+Tuần
+này
+tôi
+có
+đến
+bốn
+bài
+kiểm tra
+.
+<EOS>
+3687
+Sang năm
+em gái
+tôi
+sẽ
+vào
+đại học
+.
+<EOS>
+3688
+Tôi
+đi
+mua sắm
+cùng
+bạn
+vào
+quán
+cà phê
+.
+<EOS>
+3689
+Trước khi
+đi
+ngủ
+bao giờ
+tôi
+cũng
+ngâm
+bồn tắm
+.
+<EOS>
+3690
+Tôi
+đã
+khóc
+khi
+xem
+phim
+.
+<EOS>
+3691
+Em gái
+tôi
+đang
+khóc
+trong
+phòng
+.
+<EOS>
+3692
+Ngày mai
+tôi
+muốn
+nghỉ
+cả
+ngày
+nhưng
+lại
+phải
+đi
+học
+.
+<EOS>
+3693
+Ngày
+nào
+cũng
+bận rộn
+nhưng
+rất
+vui
+.
+<EOS>
+3694
+Nhà hàng
+đó
+đồ ăn
+rẻ
+nhưng
+không
+ngon
+lắm
+.
+<EOS>
+3695
+Bữa tiệc
+hôm qua
+thì
+vui
+.
+Nhưng
+tôi
+hơi
+mệt
+.
+<EOS>
+3696
+Cơm
+ở
+nhà ăn
+rẻ
+và
+ngon
+.
+<EOS>
+3697
+Tám
+giờ
+tôi
+sẽ
+ra
+khỏi
+nhà
+.
+Sau
+đó
+tôi
+sẽ
+đến
+trường
+bằng
+xe buýt
+.
+<EOS>
+3698
+Tôi
+sẽ
+mua cái
+cốc
+này
+.
+Sau
+đó
+tôi
+sẽ
+mua cái
+đĩa
+này
+nữa
+.
+<EOS>
+3699
+Hôm qua
+tôi
+đã
+xem
+ti-vi
+.
+Sau
+đó
+tôi
+đã
+học
+tiếng
+Nhật
+.
+<EOS>
+3700
+Quyển
+từ điển
+này
+không
+tốt
+lắm
+.
+<EOS>
+3701
+Chút nữa
+mình
+cùng
+ăn
+trưa
+đi
+.
+<EOS>
+3702
+Anh
+Tanaka
+lúc nào
+trông
+cũng
+bận rộn
+.
+<EOS>
+3703
+Mọi khi
+tôi
+đều
+mua sắm
+ở
+siêu thị
+này
+.
+<EOS>
+3704
+Cảm ơn
+bạn
+về
+mọi
+thứ
+.
+<EOS>
+3705
+Trên
+bàn
+bày
+nhiều
+món ăn
+.
+<EOS>
+3706
+Cảm ơn
+,
+từng
+này
+là
+đủ
+rồi
+.
+<EOS>
+3707
+Anh
+Kobayashi
+rất
+thông minh
+.
+<EOS>
+3708
+Tôi
+đọc
+sách
+một chút
+rồi
+sẽ
+đi
+ngủ
+.
+<EOS>
+3709
+Hôm qua
+tôi
+uống
+một ít
+rượu
+.
+<EOS>
+3710
+Bây giờ
+đúng lúc
+chúng tôi
+đang
+ăn
+cơm
+tối
+.
+<EOS>
+3711
+Bây giờ
+đúng lúc
+trận
+đấu
+bắt đầu
+đây
+.
+<EOS>
+3712
+Tôi
+sẽ
+đi
+làm
+ngay
+sau
+khi
+tốt nghiệp
+đại học
+.
+<EOS>
+3713
+Vợ
+tôi
+sẽ
+về
+ngay
+thôi
+.
+<EOS>
+3714
+Hôm nay
+tôi
+đã
+rất
+vui
+.
+<EOS>
+3715
+Phim điện ảnh
+này
+rất
+thú vị
+.
+<EOS>
+3716
+Tiếng
+Nhật
+của
+anh
+Lee
+đang
+tiến bộ
+dần
+lên
+.
+<EOS>
+3717
+Trời
+bắt đầu
+nóng
+dần
+lên
+từ
+tháng
+bảy
+.
+<EOS>
+3718
+B
+:
+Xin lỗi
+.
+Ngày mai
+tôi
+bận
+chút
+việc
+.
+<EOS>
+3719
+A
+:
+Ngày mai
+anh
+cùng
+đi
+mua sắm
+không
+?
+<EOS>
+3720
+Thỉnh thoảng
+tôi
+sẽ
+đi
+mua sắm
+ở
+cửa hàng
+bách
+hóa
+này
+.
+<EOS>
+3721
+Thỉnh thoảng
+chị
+Kimura
+sẽ
+nấu cơm
+tối
+.
+<EOS>
+3722
+Người
+bên
+kia
+có lẽ
+là
+anh
+Yamada
+.
+<EOS>
+3723
+Có lẽ
+anh
+Hayashi
+đã
+biết
+tin
+đó
+rồi
+.
+<EOS>
+3724
+Các
+bạn
+học sinh
+xếp hàng
+ngay ngắn
+trên
+hành lang
+.
+<EOS>
+3725
+Bạn
+ra
+khỏi
+ga
+rồi
+đi
+thẳng
+đường
+đó
+.
+<EOS>
+3726
+Hôm qua
+là
+lần
+đầu
+tôi
+học
+đàn
+dương cầm
+.
+<EOS>
+3727
+Tôi
+đã
+gặp
+anh
+Kobayashi
+lần
+đầu tiên
+.
+<EOS>
+3728
+Tôi
+sẽ
+quay
+lại
+sau
+.
+<EOS>
+3729
+Tuần
+sau
+tôi
+lại
+chơi
+với
+anh
+Kobayashi
+.
+<EOS>
+3730
+Anh
+Matsui
+vẫn
+chưa
+làm
+bài
+tập
+về
+nhà
+.
+<EOS>
+3731
+Bây giờ
+vẫn
+mười
+giờ
+.
+<EOS>
+3732
+Tôi
+đã
+ăn
+bữa
+trưa
+ở
+nhà ăn
+rồi
+.
+<EOS>
+3733
+Em gái
+tôi
+đã
+đi
+ngủ
+rồi
+.
+<EOS>
+3734
+Tôi
+làm
+thêm
+một chút
+rồi
+sẽ
+về
+.
+<EOS>
+3735
+Tôi
+sẽ
+uống
+thêm
+một
+ly
+nước
+.
+<EOS>
+3736
+Bạn
+nói
+chậm
+lại
+một chút
+.
+<EOS>
+3737
+Vì
+bị
+đau
+chân
+nên
+tôi
+đi
+chậm rãi
+.
+<EOS>
+3738
+Tôi
+muốn
+giỏi
+tiếng
+Anh
+hơn
+nữa
+.
+<EOS>
+3739
+Tôi
+sẽ
+mua
+loại
+quần áo
+rẻ
+hơn
+.
+<EOS>
+3740
+Bài tập
+làm
+văn
+này
+được
+viết
+tốt
+.
+<EOS>
+3741
+Bài
+kiểm tra
+hôm qua
+tôi
+đã
+làm
+tốt
+.
+<EOS>
+3742
+Hôm nay
+tôi
+hay
+bắt gặp
+anh
+Kobayashi
+.
+<EOS>
+3743
+Tôi
+hay
+đi ra
+quán
+cà phê
+đó
+với
+anh
+Kimura
+.
+<EOS>
+3744
+Về
+đến
+nhà tôi
+bắt tay
+vào
+làm
+bài tập
+ngay
+.
+<EOS>
+3745
+Đầu
+tháng
+sau
+tôi
+sẽ
+về
+nước
+.
+<EOS>
+3746
+Bạn
+sẽ
+gặp
+ai
+ngày mai
+?
+<EOS>
+3747
+Có
+ai
+đã
+ở
+trong
+phòng
+bên
+cạnh
+à
+?
+<EOS>
+3748
+Có
+ai
+đang
+cầm
+bút bi
+của
+tôi
+không
+?
+<EOS>
+3749
+Mọi khi
+bạn
+ăn
+cơm
+trưa
+ở
+đâu
+?
+<EOS>
+3750
+Vì sao
+bạn
+học
+tiếng
+Nhật
+?
+<EOS>
+3751
+Bạn
+đến
+công ty
+bằng
+gì
+?
+<EOS>
+3752
+Đâu
+là
+món
+ngon
+nhất
+?
+<EOS>
+3753
+Chị
+Hayashi
+đã
+mua
+món
+nào
+?
+<EOS>
+3754
+Đó
+là
+món ăn
+như
+thế nào
+?
+<EOS>
+3755
+Bạn
+muốn
+kết hôn
+với
+người
+như
+thế nào
+?
+<EOS>
+3756
+Anh
+Lee
+thích
+loại
+đồ uống
+nào
+?
+<EOS>
+3757
+Chị
+Kimura
+thích
+cái
+nào
+?
+<EOS>
+3758
+Anh
+dùng
+cà phê
+nhé
+?
+<EOS>
+3759
+Mời
+anh
+ăn
+miếng
+bánh
+.
+<EOS>
+3760
+Giờ
+học
+của
+thầy
+nào
+là
+thú vị
+nhất
+?
+<EOS>
+3761
+Người
+nào
+là
+anh
+Hayashi
+?
+<EOS>
+3762
+Anh
+Kobayashi
+là
+người
+nào
+?
+<EOS>
+3763
+Thầy giáo
+mới
+là
+người
+nào
+?
+<EOS>
+3764
+Anh
+Yamada
+muốn
+ăn
+cái
+nào
+?
+<EOS>
+3765
+Bạn
+là
+người
+nước
+nào
+?
+<EOS>
+3766
+À
+,
+chào
+anh
+Tanaka
+.
+<EOS>
+3767
+À
+,
+tốt
+lắm
+.
+<EOS>
+3768
+Tôi
+đã
+chụp
+tấm
+ảnh
+đó
+vào
+tháng
+trước
+.
+<EOS>
+3769
+Người
+đó
+là
+anh
+Kobayashi
+.
+<EOS>
+3770
+Chẳng
+biết
+,
+tôi
+cũng
+không
+rõ
+.
+<EOS>
+3771
+Vào
+giờ
+học
+nào
+.
+<EOS>
+3772
+Alô
+,
+tôi
+là
+Kimura
+đây
+.
+<EOS>
+3773
+Vâng
+,
+alô
+,
+tôi
+là
+Matsui
+đây
+.
+<EOS>
+3774
+Tôi
+xin lỗi
+.
+<EOS>
+3775
+Xin
+chân thành
+cảm ơn
+bạn
+.
+<EOS>
+3776
+Cảm ơn
+.
+<EOS>
+3777
+Vâng
+,
+đúng
+thế
+.
+<EOS>
+3778
+Vâng
+,
+có
+việc gì
+ạ
+?
+<EOS>
+3779
+Vậy
+nhờ
+bạn
+giúp đỡ
+.
+<EOS>
+3780
+Sau đây
+giờ
+học
+sẽ
+bắt đầu
+.
+<EOS>
+3781
+Vậy thì
+tôi
+sẽ
+đi
+bắt
+xe buýt
+tới
+bệnh viện
+.
+<EOS>
+3782
+Đúng
+rồi
+.
+<EOS>
+3784
+Không phải
+.
+<EOS>
+3785
+Đồ uống
+tôi
+yêu thích
+nhất là
+trà
+đen
+.
+<EOS>
+3786
+Thịt
+này
+là
+rẻ
+nhất
+.
+<EOS>
+3787
+Tôi
+sẽ
+gọi
+món
+này
+.
+<EOS>
+3788
+Tòa
+nhà
+này
+vừa
+cổ
+vừa
+nổi tiếng
+.
+<EOS>
+3789
+Không
+được
+phép
+đi vào
+căn
+phòng
+kia
+.
+<EOS>
+3790
+Tôi
+đang
+tìm
+một
+cái
+ví
+màu
+đen
+như
+thế này
+.
+<EOS>
+3791
+Tôi
+muốn
+một
+cái
+mũ
+như
+thế này
+.
+<EOS>
+3792
+Mong
+được
+bạn
+giúp đỡ
+.
+<EOS>
+3795
+Tất cả
+chúng tôi
+đã
+về
+nhà
+cùng
+nhau
+.
+<EOS>
+3796
+Tôi
+cùng
+học
+bài
+với
+anh
+Yamada
+trong
+thư viện
+.
+<EOS>
+3797
+Bạn
+có
+muốn
+cùng
+đi
+du lịch
+với
+tôi
+không
+?
+<EOS>
+3798
+Túi xách
+cỡ
+lớn
+thì
+tiện lợi
+.
+<EOS>
+3799
+Anh
+Tanaka
+đang
+sống
+trong
+một
+căn
+nhà
+lớn
+.
+<EOS>
+3800
+Trong
+phòng
+tôi
+có
+một
+cái
+ghế
+con
+.
+<EOS>
+3801
+Tôi
+sinh
+ra
+tại
+một
+thị trấn
+nhỏ
+.
+<EOS>
+3802
+Tôi
+đã
+cắt
+hoa quả
+làm
+đôi
+.
+<EOS>
+3803
+Tôi
+đã
+ăn
+hết
+một
+nửa
+cái
+bánh mì
+.
+<EOS>
+3804
+Mở
+giúp
+tôi
+cái
+cửa sổ
+bên
+kia
+ra
+.
+<EOS>
+3805
+Bệnh viện
+ở
+đối diện
+với
+ga
+.
+<EOS>
+3806
+Tất cả
+hết
+một
+nghìn
+sáu
+trăm
+yên
+.
+<EOS>
+3807
+Tôi
+đã
+làm
+xong
+tất cả
+bài tập
+về
+nhà
+.
+<EOS>
+3808
+Có
+rất
+nhiều
+người
+đang
+bơi
+ở
+biển
+.
+<EOS>
+3809
+Có
+rất
+nhiều
+người
+đã
+tới
+dự
+tiệc
+.
+<EOS>
+3810
+Giày
+của
+tôi
+và
+giày
+của
+chị
+Kobayashi
+giống
+nhau
+.
+<EOS>
+3811
+Anh
+Matsui
+và
+anh
+Lee
+học
+cùng
+một
+lớp
+.
+<EOS>
+3812
+Tôi
+cho
+rất
+nhiều
+sữa
+vào
+cà phê
+.
+<EOS>
+3813
+Hôm nay
+tôi
+đã
+đi
+bộ
+rất
+nhiều
+.
+<EOS>
+3814
+Anh
+Tanaka
+có thể
+vừa
+gảy
+đàn
+ghi-ta
+vừa
+hát
+.
+<EOS>
+3815
+Tôi
+vừa
+ăn
+cơm
+vừa
+xem
+ti-vi
+.
+<EOS>
+3816
+Hôm qua
+tôi
+mua
+áo len
+và
+chân váy
+ở
+trung tâm
+thương mại
+.
+<EOS>
+3817
+Trong
+tủ lạnh
+có
+trứng
+,
+rau
+,
+hoa quả
+...
+.
+<EOS>
+3818
+Nếu
+học
+thì
+tiếng
+Nhật
+sẽ
+dần dần
+tiến bộ
+.
+<EOS>
+3819
+Hãy
+lấy
+từng
+tờ
+giấy
+một
+.
+<EOS>
+3820
+Bọn
+trẻ con
+đang
+chơi
+ở
+công viên
+.
+<EOS>
+3821
+Mấy
+người
+đó
+là
+bạn
+của
+nhau
+.
+<EOS>
+3822
+Tôi
+tắm
+vòi
+hoa sen
+trước khi
+ngủ
+.
+<EOS>
+3823
+Phòng học
+của
+mọi
+người ở
+trên
+tầng
+ba
+.
+<EOS>
+3824
+Nếu
+mọi
+người
+đi
+thì
+tôi
+cũng
+đi
+.
+<EOS>
+3825
+Cả
+lớp
+,
+tuần
+sau
+chúng ta
+sẽ
+làm
+có
+bài
+kiểm tra
+chữ Hán
+.
+<EOS>
+3826
+Mọi
+người
+cùng
+hát
+bài hát
+.
+<EOS>
+3827
+Mọi
+người
+đang
+đợi
+thầy giáo
+trong
+lớp
+học
+.
+<EOS>
+3828
+Mọi
+người
+ở
+đây
+là
+sinh viên
+của
+trường
+đại học
+này
+.
+<EOS>
+3829
+Anh
+Hayashi
+đã
+từng
+làm việc
+một
+năm
+rưỡi
+tại
+nước ngoài
+.
+<EOS>
+3830
+Bảy
+giờ
+rưỡi
+rồi
+,
+tôi
+phải
+ra
+khỏi
+nhà
+thôi
+.
+<EOS>
+3831
+Anh
+Lee
+muốn
+chơi
+ten-nít
+.
+<EOS>
+3832
+Con
+tôi đòi
+ăn
+bánh kẹo
+.
+<EOS>
+3833
+Bài tập
+về
+nhà tôi
+đã
+làm
+được
+chừng
+một nửa
+.
+<EOS>
+3834
+Mỗi
+quả
+trứng
+nặng
+chừng
+năm
+mươi
+gam
+.
+<EOS>
+3835
+Anh
+Tanaka
+đến
+ga
+vào khoảng
+mười
+giờ
+.
+<EOS>
+3836
+Ngày
+còn
+bé
+tôi
+hay
+chơi
+ở
+công viên
+đó
+.
+<EOS>
+3837
+Giờ
+học
+luôn
+bắt đầu
+sau
+chín
+giờ
+.
+<EOS>
+3838
+Đã
+quá
+mười
+hai
+giờ
+rồi
+.
+<EOS>
+3839
+Chúng ta
+tạm
+nghỉ
+ở
+đây
+nhé
+.
+<EOS>
+3840
+Ở
+khu
+đó
+có
+nhà
+anh
+Hayashi
+.
+<EOS>
+3841
+Phòng
+em trai
+tôi
+nhỏ
+hơn
+phòng
+tôi
+.
+<EOS>
+3842
+Tôi
+thích
+bóng chày
+hơn
+bóng
+đá
+.
+<EOS>
+3843
+Tôi
+đã
+cắt tóc
+từ
+ba
+hôm trước
+.
+<EOS>
+3844
+Thỉnh thoảng
+tôi
+có
+tạt
+vào
+hiệu sách
+đó
+.
+<EOS>
+3845
+Cô
+tôi
+làm việc
+ở
+cửa
+hàng hoa
+.
+<EOS>
+3846
+Chú
+chó
+nhà tôi
+thực sự
+đáng yêu
+.
+<EOS>
+3847
+Chuyện
+này
+là
+sự thật
+.
+<EOS>
+3848
+Không
+được
+phép
+nói chuyện
+với
+người
+khác
+.
+<EOS>
+3849
+Bạn
+còn
+muốn
+gì
+nữa
+không
+?
+<EOS>
+3850
+Tôi
+muốn
+đi
+du lịch
+vòng quanh
+Nhật Bản
+.
+<EOS>
+3851
+Tôi
+đã
+vắng
+nhà
+cả
+ngày
+hôm qua
+.
+<EOS>
+3852
+Tôi
+đã
+mượn
+sách
+của
+thư viện
+về
+đọc
+.
+<EOS>
+3853
+Có một
+nhà hàng
+mới
+mở
+gần
+ga
+.
+<EOS>
+3854
+Tường
+của
+phòng học
+này
+thì
+dày
+.
+<EOS>
+3855
+Mẹ
+tôi
+rất
+thích
+bánh
+ga-tô
+.
+<EOS>
+3856
+Tôi
+ăn
+bánh
+ga-tô
+vào
+dịp
+sinh nhật
+hàng năm
+.
+<EOS>
+3857
+Tôi
+đi
+nghe
+hòa
+nhạc
+với
+bạn
+hôm qua
+.
+<EOS>
+3858
+Đừng
+lo
+,
+tôi
+không
+bị
+ốm
+.
+<EOS>
+3859
+Em gái
+tôi
+vẫn
+chưa
+về
+nên
+mẹ
+đang
+lo lắng
+.
+<EOS>
+3860
+Tôi
+dùng
+máy vi tính
+trong
+công việc
+.
+<EOS>
+3861
+Tôi
+sẽ
+bật
+ti-vi
+lên
+.
+<EOS>
+3862
+Hôm qua
+tôi
+đã
+đi
+karaoke
+nhưng
+không
+hát
+được
+nhiều
+.
+<EOS>
+3863
+Tôi
+đi
+karaoke
+mỗi
+tuần
+một
+lần
+.
+<EOS>
+3864
+Tôi
+cho
+bạn
+tôi
+số
+điện thoại di động
+của
+mình
+.
+<EOS>
+3865
+Điện thoại
+di động
+nhỏ
+gọn
+và
+rất
+tiện lợi
+.
+<EOS>
+3866
+Không
+nên
+đọc
+sách
+ở
+nơi
+thiếu
+ánh sáng
+.
+<EOS>
+3867
+Tôi
+đã
+thôi việc
+ở
+công ty
+tháng
+trước
+.
+<EOS>
+3868
+Tôi
+đã
+ăn
+bánh kẹo
+anh
+Tanaka
+cho
+.
+<EOS>
+3869
+Hôm qua
+tôi
+nhận
+được
+quà
+đi chơi
+về
+của
+anh
+Yamada
+.
+<EOS>
+3870
+Anh
+Kobayashi
+đã
+chia
+cho
+chị
+Kimura
+nửa
+miếng
+bánh mì
+.
+<EOS>
+3871
+Anh
+Matsui
+đã
+tặng
+anh
+Tanaka
+một
+chiếc
+cà vạt
+hôm
+sinh nhật
+.
+<EOS>
+3872
+Giờ
+học
+hôm nay
+đến
+đây
+là
+kết thúc
+.
+Hẹn
+gặp
+lại
+các
+bạn
+vào
+tuần
+tới
+.
+<EOS>
+3873
+Các
+bạn
+đã
+làm
+xong
+bài
+kiểm tra
+chưa
+?
+Bây giờ
+xin
+hãy
+nộp
+bài
+.
+<EOS>
+3874
+Cho
+hỏi
+thư viện
+ở
+đâu
+?
+<EOS>
+3875
+Thầy giáo
+đó
+là
+một
+người
+rất
+tuyệt vời
+.
+<EOS>
+3876
+Tôi
+muốn
+trở thành
+một
+người lớn
+đàng hoàng
+.
+<EOS>
+3877
+Tổng cộng
+có
+mười
+cái
+.
+<EOS>
+3878
+Không
+được
+phép
+đội
+mũ
+trong
+giờ
+học
+.
+<EOS>
+3879
+Tôi
+sẽ
+đi
+du lịch
+nước ngoài
+hai
+tuần
+bắt đầu
+từ
+tuần
+sau
+.
+<EOS>
+3880
+Tôi
+cho
+chị
+Kimura
+xem
+ảnh
+chụp
+khi
+đi
+du lịch
+.
+<EOS>
+3881
+Trong
+các
+màu
+tôi
+thích
+màu
+trắng
+nhất
+.
+<EOS>
+3882
+Ở
+đây
+đang
+là
+không
+độ
+nên
+rất
+lạnh
+.
+<EOS>
+3883
+Dê-rô
+là
+bằng
+"
+không
+"
+.
+<EOS>
+3884
+Tôi
+sẽ
+mua
+một
+tấm
+bưu thiếp
+ở
+bưu điện
+.
+<EOS>
+3885
+Nhà
+anh
+Tanaka
+có
+hai
+cái
+ô-tô
+.
+<EOS>
+3886
+Nhà tôi
+có
+ba
+cái
+ti-vi
+.
+<EOS>
+3887
+Số
+"
+4
+"
+đọc
+là
+"
+bốn
+"
+.
+<EOS>
+3888
+Nhà tôi
+có
+năm
+người
+.
+<EOS>
+3889
+Tôi
+bày
+sáu
+cái
+đĩa
+trên
+bàn
+.
+<EOS>
+3890
+Bước vào
+tháng
+bảy
+,
+thời tiết
+dần
+nóng
+lên
+.
+<EOS>
+3891
+Ở
+đây
+có
+tám
+con
+tem
+.
+<EOS>
+3892
+Em trai
+tôi
+chín
+tuổi
+.
+<EOS>
+3893
+Ngày
+mười
+tháng
+mười
+là
+sinh nhật
+anh trai
+tôi
+.
+<EOS>
+3894
+Phòng học
+bên
+cạnh
+có thể
+chứa
+được
+một
+trăm
+người
+.
+<EOS>
+3895
+Hôm qua
+tôi
+mượn
+của
+anh
+Yamada
+một
+nghìn
+yên
+.
+<EOS>
+3896
+Cái
+áo khoác
+này
+giá
+mười
+nghìn
+yên
+.
+<EOS>
+3898
+Bố
+chị
+Kimura
+năm
+mươi
+hai
+tuổi
+.
+<EOS>
+3899
+Hôm nay
+em gái
+tôi
+vẫn
+lên
+cơn sốt
+liên tục
+làm tôi
+lo lắng
+.
+<EOS>
+3900
+Mưa
+đã
+kéo dài
+nhiều
+ngày
+suốt
+tuần
+trước
+.
+<EOS>
+3901
+Tôi
+kiểm tra
+lại
+hành lý
+trước
+khi
+ra
+khỏi
+nhà
+.
+<EOS>
+3902
+Tôi
+sẽ
+kiểm tra
+lại
+đáp án
+bài làm
+.
+<EOS>
+3903
+Hôm nay
+là
+sinh nhật
+vợ
+tôi
+nên
+tôi
+định
+về
+nhà
+sớm
+.
+<EOS>
+3904
+Tôi
+thấy
+cuốn
+sách
+này
+rất
+thú vị
+.
+<EOS>
+3905
+Xe buýt
+đi
+sân bay
+sẽ
+đến
+ở
+làn
+đối diện
+.
+<EOS>
+3906
+Ngược
+với
+"
+nặng
+"
+là
+"
+nhẹ
+"
+.
+<EOS>
+3907
+Không
+được
+phép
+vào
+căn
+phòng
+này
+.
+<EOS>
+3908
+Chỉ cần
+ấn
+vào
+đây
+sẽ
+có
+âm thanh
+lớn
+phát
+ra
+.
+<EOS>
+3909
+Tôi
+cùng
+đội
+với
+anh
+Lee
+.
+<EOS>
+3911
+Trước khi
+đi
+ngủ
+bao giờ
+tôi
+cũng
+đọc
+sách
+khoảng
+ba
+mươi
+phút
+.
+<EOS>
+3912
+Tôi
+chỉ
+ăn
+mỗi
+một
+cái
+bánh
+.
+<EOS>
+3913
+B
+:
+Một
+,
+hai
+,
+ba
+,
+bốn
+...
+.
+<EOS>
+3914
+A
+:
+Có
+bao nhiêu
+?
+<EOS>
+3915
+Trong
+tủ lạnh
+có
+bảy
+quả
+trứng
+.
+<EOS>
+3916
+Mỗi
+sáng
+tôi
+đến
+công ty
+lúc
+chín
+giờ
+.
+<EOS>
