@@ -101,7 +101,8 @@ mèo
 <EOS>
 1250
 Sau
-nhà có
+nhà
+có
 chiếc
 xe hơi
 .
@@ -110,7 +111,8 @@ xe hơi
 Thùng thư
 ở
 đối diện
-nhà tôi
+nhà
+tôi
 .
 <EOS>
 1254
@@ -181,7 +183,8 @@ mới
 1275
 Trong
 thùng
-có con
+có
+con
 chó
 nhỏ
 .
@@ -499,7 +502,8 @@ Kimura
 Tôi
 sẽ
 mượn
-tiền của
+tiền
+của
 anh
 Yamada
 .
@@ -587,7 +591,8 @@ Yamada
 Con
 chó
 của
-nhà tôi
+nhà
+tôi
 thì
 to
 .
@@ -903,7 +908,8 @@ vậy
 ?
 <EOS>
 1494
-Bạn học
+Bạn
+học
 tiếng
 Nhật
 từ
@@ -1398,7 +1404,8 @@ chín
 <EOS>
 1647
 Người
-có số
+có
+số
 thứ tự
 từ
 một
@@ -1481,7 +1488,8 @@ một mình
 1679
 Mười
 phút
-nữa là
+nữa
+là
 năm
 giờ
 .
@@ -1842,7 +1850,9 @@ chữ Hán
 .
 <EOS>
 1900
-Có người ở
+Có
+người
+ở
 đằng
 kia
 nhỉ
@@ -2045,8 +2055,8 @@ vậy
 ?
 <EOS>
 2011
-Tại
-sao vậy
+Tại sao
+vậy
 ?
 <EOS>
 2017
@@ -2137,8 +2147,8 @@ tôi
 mỗi
 sáng
 khi
-thức
-dậy thì
+thức dậy
+thì
 đọc
 báo
 .
@@ -3207,7 +3217,8 @@ yên
 2802
 Tôi
 đã
-mua cái
+mua
+cái
 máy ảnh
 này
 hết
@@ -3415,7 +3426,8 @@ Sau
 khi
 uống
 tôi
-rửa sạch
+rửa
+sạch
 cốc
 .
 <EOS>
@@ -4293,7 +4305,8 @@ bạn
 .
 <EOS>
 2916
-Nhà tôi
+Nhà
+tôi
 ở
 phía
 bên
@@ -4618,7 +4631,8 @@ siêu thị
 <EOS>
 2953
 Cơm
-tối ngày
+tối
+ngày
 hôm qua
 là
 món
@@ -4991,7 +5005,8 @@ nóng
 nên
 khi
 trở về
-nhà tôi
+nhà
+tôi
 đã
 tắm
 .
@@ -5067,7 +5082,8 @@ ghi-ta
 .
 <EOS>
 3006
-Tôi luyện
+Tôi
+luyện
 đàn
 dương cầm
 mỗi
@@ -5089,7 +5105,8 @@ tiện lợi
 3008
 Tôi
 đã
-mua cái
+mua
+cái
 máy ảnh
 mới
 .
@@ -5482,7 +5499,8 @@ ten-nít
 .
 <EOS>
 3053
-Buổi tối trời
+Buổi tối
+trời
 lạnh
 nên
 tôi
@@ -5571,7 +5589,8 @@ Tháng
 sau
 sẽ
 có
-du học sinh từ
+du học sinh
+từ
 Trung Quốc
 đến
 .
@@ -6091,9 +6110,8 @@ Vì
 mưa
 nên
 trận
-thi
-đấu bóng
-chày
+thi đấu
+bóng chày
 đã
 không
 diễn
@@ -6112,7 +6130,8 @@ ten-nít
 Brazil
 là
 đất nước
-có môn
+có
+môn
 bóng đá
 rất
 mạnh
@@ -6199,8 +6218,10 @@ tôi
 3133
 Trước
 cổng
-nhà tôi
-có con
+nhà
+tôi
+có
+con
 mèo
 .
 <EOS>
@@ -7296,7 +7317,8 @@ bàn
 3248
 Dưới
 ghế
-có con
+có
+con
 mèo
 .
 <EOS>
@@ -7348,7 +7370,8 @@ ti-vi
 .
 <EOS>
 3254
-Nhà tôi
+Nhà
+tôi
 có
 chó
 và
@@ -7542,7 +7565,8 @@ công viên
 Ở
 đằng
 kia
-có một
+có
+một
 em
 gái
 nhỏ
@@ -7753,7 +7777,8 @@ Yamada
 .
 <EOS>
 3296
-Nhà ăn nằm
+Nhà ăn
+nằm
 ở
 tòa
 nhà
@@ -8327,7 +8352,8 @@ thời gian
 3353
 Đi
 từ
-ga ra
+ga
+ra
 bệnh viện
 bằng
 xe buýt
@@ -8346,7 +8372,8 @@ nhà
 nhưng
 không
 ai
-có nhà
+có
+nhà
 .
 <EOS>
 3355
@@ -8405,7 +8432,8 @@ Anh
 Tanaka
 kết hôn
 rồi
-có con
+có
+con
 .
 <EOS>
 3363
@@ -8460,7 +8488,8 @@ trường
 .
 <EOS>
 3367
-Có một
+Có
+một
 hiệu sách
 lớn
 mở cửa
@@ -8587,7 +8616,8 @@ Tôi
 đã
 lấy
 xì
-dầu cho
+dầu
+cho
 anh
 Lee
 .
@@ -9008,8 +9038,8 @@ tôi
 đã
 đi
 du lịch
-nước
-ngoài cùng
+nước ngoài
+cùng
 bạn bè
 .
 <EOS>
@@ -9038,7 +9068,8 @@ rơi
 <EOS>
 3423
 Hôm qua
-có một
+có
+một
 nhà hàng
 mới
 mở cửa
@@ -9110,9 +9141,8 @@ bơi
 Ngày kia
 sẽ
 có
-trận
-đấu bóng
-chày
+trận đấu
+bóng chày
 .
 <EOS>
 3431
@@ -9189,7 +9219,8 @@ tối
 tôi
 học
 tiếng
-Anh hai
+Anh
+hai
 tiếng
 đồng hồ
 .
@@ -9262,7 +9293,8 @@ tôi
 sẽ
 ngủ
 lại
-nhà tôi
+nhà
+tôi
 .
 <EOS>
 3445
@@ -9478,7 +9510,8 @@ tiếng
 3465
 Về
 đến
-nhà tôi
+nhà
+tôi
 đi
 tắm
 vòi
@@ -9565,7 +9598,8 @@ dễ thương
 .
 <EOS>
 3474
-Nhà tôi
+Nhà
+tôi
 vừa
 nhỏ
 vừa
@@ -9634,7 +9668,8 @@ lạnh
 3483
 Ở
 công viên
-có một
+có
+một
 cây
 to
 .
@@ -10223,9 +10258,11 @@ sau
 .
 <EOS>
 3543
-Từ ngày
+Từ
+ngày
 ba
-đến ngày
+đến
+ngày
 mùng
 năm
 tháng
@@ -10354,7 +10391,8 @@ Nhật Bản
 3553
 Trong
 phòng học
-có một
+có
+một
 học sinh
 .
 <EOS>
@@ -10547,7 +10585,8 @@ chó
 Nhà
 anh
 Hayashi
-có một
+có
+một
 chú
 mèo
 .
@@ -10619,7 +10658,8 @@ Mỗi
 sáng
 tôi
 chạy
-bộ ba
+bộ
+ba
 ki-lô-mét
 .
 <EOS>
@@ -11110,7 +11150,8 @@ không
 Cuốn
 sách
 này
-có một
+có
+một
 trăm
 hai
 mươi
@@ -11227,10 +11268,9 @@ Hôm qua
 tôi
 đã
 quên
-khăn
-tay trong
-lớp
-học
+khăn tay
+trong
+lớp học
 .
 <EOS>
 3639
@@ -11367,7 +11407,8 @@ xinh đẹp
 3652
 Tháng
 trước
-có một
+có
+một
 trung tâm
 thương mại
 lớn
@@ -11426,7 +11467,8 @@ cái
 cây
 đằng
 kia
-có một
+có
+một
 chú
 chim
 .
@@ -11435,7 +11477,8 @@ chim
 Nhà
 anh
 Hayashi
-có một
+có
+một
 chú
 chó
 và
@@ -11447,7 +11490,8 @@ mèo
 3659
 Đằng
 kia
-có một
+có
+một
 chú
 mèo
 đang
@@ -11469,7 +11513,8 @@ chiều
 3661
 Chú
 chó
-nhà tôi
+nhà
+tôi
 rất
 to lớn
 .
@@ -11549,7 +11594,8 @@ cá
 3671
 Trong
 công viên
-có một
+có
+một
 ao
 nước lớn
 .
@@ -11819,7 +11865,8 @@ xe buýt
 3698
 Tôi
 sẽ
-mua cái
+mua
+cái
 cốc
 này
 .
@@ -11827,7 +11874,8 @@ Sau
 đó
 tôi
 sẽ
-mua cái
+mua
+cái
 đĩa
 này
 nữa
@@ -12150,10 +12198,7 @@ Matsui
 vẫn
 chưa
 làm
-bài
-tập
-về
-nhà
+bài tập về nhà
 .
 <EOS>
 3731
@@ -12286,7 +12331,8 @@ Kimura
 3744
 Về
 đến
-nhà tôi
+nhà
+tôi
 bắt tay
 vào
 làm
@@ -12579,7 +12625,8 @@ thế
 Vâng
 ,
 có
-việc gì
+việc
+gì
 ạ
 ?
 <EOS>
@@ -12823,9 +12870,7 @@ Tôi
 làm
 xong
 tất cả
-bài tập
-về
-nhà
+bài tập về nhà
 .
 <EOS>
 3808
@@ -13040,8 +13085,7 @@ người
 đợi
 thầy giáo
 trong
-lớp
-học
+lớp học
 .
 <EOS>
 3828
@@ -13100,9 +13144,8 @@ bánh kẹo
 .
 <EOS>
 3833
-Bài tập
-về
-nhà tôi
+Bài tập về nhà
+tôi
 đã
 làm
 được
@@ -13231,7 +13274,8 @@ hàng hoa
 3846
 Chú
 chó
-nhà tôi
+nhà
+tôi
 thực sự
 đáng yêu
 .
@@ -13293,7 +13337,8 @@ về
 .
 <EOS>
 3853
-Có một
+Có
+một
 nhà hàng
 mới
 mở
@@ -13656,7 +13701,8 @@ cái
 .
 <EOS>
 3886
-Nhà tôi
+Nhà
+tôi
 có
 ba
 cái
@@ -13676,7 +13722,8 @@ bốn
 .
 <EOS>
 3888
-Nhà tôi
+Nhà
+tôi
 có
 năm
 người
@@ -13782,7 +13829,8 @@ vẫn
 lên
 cơn sốt
 liên tục
-làm tôi
+làm
+tôi
 lo lắng
 .
 <EOS>
