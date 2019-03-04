@@ -1185,7 +1185,7 @@
 3724	Các bạn học sinh xếp hàng ngay ngắn trên hành lang.
 3725	Bạn ra khỏi ga rồi đi thẳng đường đó.
 3726	Hôm qua là lần đầu tôi học đàn dương cầm.
-3727	Tôi đã gặp anh Kobayashi lần đầu tiên.
+3727	Tôi đã gặp anh Hayashi lần đầu tiên.
 3728	Tôi sẽ quay lại sau.
 3729	Tuần sau tôi lại chơi với anh Kobayashi.
 3730	Anh Matsui vẫn chưa làm bài tập về nhà.
