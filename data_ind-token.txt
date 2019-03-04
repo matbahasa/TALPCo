@@ -6988,7 +6988,7 @@ memasak
 3268
 Suami
 Ibu
-Kobayashi
+Hayashi
 bekerja
 di
 rumah sakit
@@ -7080,7 +7080,7 @@ kakek
 3278
 Nenek
 Pak
-Kobayashi
+Habayashi
 memakai
 kacamata
 .
@@ -7349,7 +7349,7 @@ luar negeri
 <EOS>
 3310
 Pak
-Kobayashi
+Hayashi
 pergi
 bekerja
 ke
@@ -7599,7 +7599,7 @@ buku
 3334
 Besok
 Pak
-Kobayashi
+Hayashi
 ada
 pekerjaan
 ,
@@ -9368,7 +9368,7 @@ pelajaran
 <EOS>
 3524
 Pak
-Kobayashi
+Hayashi
 tinggal
 di
 kota
@@ -11349,7 +11349,7 @@ kali
 bertemu
 dengan
 Pak
-Kobayashi
+Hayashi
 .
 <EOS>
 3728
@@ -11587,7 +11587,7 @@ enak
 <EOS>
 3753
 Ibu
-Kobayashi
+Hayashi
 membeli
 yang
 mana
