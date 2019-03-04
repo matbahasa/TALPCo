@@ -2020,7 +2020,8 @@ Yamada
 2004
 Tôi
 đã
-uống thuốc
+uống
+thuốc
 rồi
 nên
 sẽ
@@ -2777,7 +2778,8 @@ bị
 cảm
 nên
 tôi
-uống thuốc
+uống
+thuốc
 .
 <EOS>
 2753
