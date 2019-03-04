@@ -746,7 +746,7 @@
 3265	Istri Pak Tanaka dosen universitas.
 3266	Minggu depan kakak laki-laki Pak Lee datang bermain ke Jepang.
 3267	Ibu Pak Yamada sangat pandai memasak.
-3268	Suami Ibu Kobayashi bekerja di rumah sakit.
+3268	Suami Ibu Hayashi bekerja di rumah sakit.
 3269	Adik perempuan Pak Yamada badannya pendek dan imut.
 3270	Adik laki-laki Pak Kobayashi sedang bermain sepak bola.
 3271	Saya ada dua saudara laki-laki.
@@ -756,7 +756,7 @@
 3275	Paman di toko sayur itu selalu ceria.
 3276	Bibi Pak Kobayashi tinggal di Tokyo.
 3277	Saya menunjukkan jalan kepada kakek.
-3278	Nenek Pak Kobayashi memakai kacamata.
+3278	Nenek Pak Hayashi memakai kacamata.
 3279	Kalau sudah dewasa, boleh minum arak.
 3280	Pak Matsui dan Pak Lee berteman.
 3281	Saya ada teman orang Thailand.
@@ -785,7 +785,7 @@
 3306	Ulang tahun Pak Matsui bulan Agustus.
 3307	Besok tanggal satu April.
 3309	Setiap bulan saya menulis surat untuk teman di luar negeri.
-3310	Pak Kobayashi pergi bekerja ke luar negeri selama sebulan dari minggu depan.
+3310	Pak Hayashi pergi bekerja ke luar negeri selama sebulan dari minggu depan.
 3311	Bulan lalu saya baru memotong rambut, tetapi sekarang sudah panjang.
 3312	Setiap tahun saya pergi jalan-jalan bersama keluarga.
 3313	Tahun lalu tahun yang baik.
@@ -807,7 +807,7 @@
 3331	Tidak boleh membuka jendela di sana karena berbahaya.
 3332	Saya mengangkat tangan ke atas.
 3333	Saya mengangkat barang yang tidak dipakai ke atas rak buku.
-3334	Besok Pak Kobayashi ada pekerjaan, jadi tidak bisa datang.
+3334	Besok Pak Hayashi ada pekerjaan, jadi tidak bisa datang.
 3335	Saya sekarang tidak ada uang.
 3336	Saya tidak pergi ke sekolah karena demam kemarin.
 3337	Saya pergi ke rumah teman setelah pelajaran selesai.
@@ -987,7 +987,7 @@
 3521	Kelas sebelah sangat ramai.
 3522	Karena anjing di rumah tetangga ribut, saya tidak bisa belajar.
 3523	Orang itu selalu ribut selama pelajaran.
-3524	Pak Kobayashi tinggal di kota yang orangnya banyak.
+3524	Pak Hayashi tinggal di kota yang orangnya banyak.
 3525	Sekolah ini pelajar asingnya banyak.
 3526	Saya ingin pergi ke tempat yang orangnya sedikit.
 3527	Supermarket di sana ikannya sedikit.
@@ -1185,7 +1185,7 @@
 3724	Para murid berbaris lurus di koridor.
 3725	Setelah keluar dari stasiun, jalan lurus mengikuti jalan itu.
 3726	Kemarin pertama kali saya belajar piano.
-3727	Saya pertama kali bertemu dengan Pak Kobayashi.
+3727	Saya pertama kali bertemu dengan Pak Hayashi.
 3728	Saya akan datang lagi nanti.
 3729	Minggu depan saya akan bermain lagi dengan Pak Kobayashi.
 3730	Pak Matsui belum membuat pekerjaan rumah.
