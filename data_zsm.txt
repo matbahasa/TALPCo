@@ -283,7 +283,7 @@
 2548	Helo.
 2562	Kalau begitu, jumpa lagi.
 2599	Mengapa?
-2637	Oh begitu ke...
+2637	Oh begitu ke....
 2651	Bolehkah saya pulangkan semasa waktu rehat tengah hari?
 2672	Boleh saya tanya sekejap?
 2734	Saya rasa nak bekerja di luar negara.
@@ -446,7 +446,7 @@
 2926	Encik Matsui pandai memasak.
 2927	Saya tidak pandai melukis.
 2928	Saya rasa kereta api lebih cepat daripada bas untuk sampai ke sekolah.
-2929	Encik Matsui berlari dengan cepat
+2929	Encik Matsui berlari dengan cepat.
 2931	Saya sangat lambat apabila berjalan kaki.
 2933	Oleh sebab kaki sakit, saya tidak boleh berlari lagi.
 2934	Ada burung sedang terbang di langit sana.
@@ -746,7 +746,7 @@
 3265	Isteri Encik Tanaka adalah seorang pensyarah di universiti.
 3266	Abang Encik Lee akan datang bermain di Jepun pada minggu depan.
 3267	Emak Encik Yamada sangat pandai memasak.
-3268	Suami Puan Kobayashi bekerja di hospital.
+3268	Suami Puan Hayashi bekerja di hospital.
 3269	Adik perempuan Encik Yamada rendah dan comel.
 3270	Adik lelaki Encik Kobayashi bermain bola sepak.
 3271	Saya ada tiga adik-beradik.
@@ -1201,7 +1201,7 @@
 3740	Awak menulis karangan ini dengan sangat baik.
 3741	Saya berjaya menjawab ujian semalam dengan baik.
 3742	Hari ini saya sering berjumpa dengan Encik Kobayashi.
-3743	Saya selalu pergi ke kedai kopi itu dengan Encik Kobayashi.
+3743	Saya selalu pergi ke kedai kopi itu dengan Encik Kimura.
 3744	Saya akan membuat kerja rumah terlebih dahulu selepas balik rumah.
 3745	Awal bulan depan saya akan pulang ke negara asal.
 3746	Esok awak akan berjumpa dengan siapa?
@@ -1366,7 +1366,7 @@
 3909	Saya dan Encik Lee sama kumpulan.
 3911	Selalu sebelum tidur, saya akan membaca buku selama tiga puluh minit sahaja.
 3912	Saya makan satu biji kuih sahaja.
-3913	B: Satu, dua, tiga, empat...
+3913	B: Satu, dua, tiga, empat....
 3914	A: Ada berapa?
 3915	Ada tujuh biji telur di dalam peti sejuk.
 3916	Saya pergi ke syarikat setiap hari pada pukul sembilan pagi.
