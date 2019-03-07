@@ -98,7 +98,7 @@ All files are encoded in UTF-8 with DOS format.
     1176	n-pr-postp n pref-v-suf-suf
 
 ### Interpersonal meaning annotation
-#### Speaker, Addressee)
+#### Speaker, Addressee
 `Sentence_ID, Gender, Marital status, Honour, Age, Social status, Role, Group, Formality, Number`
 
 #### Lexical
