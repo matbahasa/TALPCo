@@ -25,35 +25,35 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 - `data_zsm.txt`	Malay (raw sentences)
 - `data_zsm-token.txt`	Malay (tokenized sentences)
 - `data_zsm-MWE.txt`	Malay (multiword expression list)
-- `data_zsm-IPSpkr.txt`	Malay (interpersonal meaning annotation, speaker)
-- `data_zsm-IPAddr.txt`	Malay (interpersonal meaning annotation, addressee)
-- `data_zsm-IPLex.txt`	Malay (interpersonal meaning annotation, lexical)
+- `data_zsm-IPSpkr.csv`	Malay (interpersonal meaning annotation, speaker)
+- `data_zsm-IPAddr.csv`	Malay (interpersonal meaning annotation, addressee)
+- `data_zsm-IPLex.csv`	Malay (interpersonal meaning annotation, lexical)
 
 -----------------------------------
 
 - `data_ind.txt`	Indonesian (raw sentences)
 - `data_ind-token.txt`	Indonesian (tokenized sentences)
 - `data_ind-MWE.txt`	Indonesian (multiword expression list)
-- `data_ind-IPSpkr.txt`	Malay (interpersonal meaning annotation, speaker)
-- `data_ind-IPAddr.txt`	Malay (interpersonal meaning annotation, addressee)
-- `data_ind-IPLex.txt`	Malay (interpersonal meaning annotation, lexical)
+- `data_ind-IPSpkr.csv`	Indonesian (interpersonal meaning annotation, speaker)
+- `data_ind-IPAddr.csv`	Indonesian (interpersonal meaning annotation, addressee)
+- `data_ind-IPLex.csv`	Indonesian (interpersonal meaning annotation, lexical)
 
 -----------------------------------
 
 - `data_tha.txt`	Thai (raw sentences)
 - `data_tha-token.txt`	Thai (tokenized sentences)
-- `data_tha-IPSpkr.txt`	Malay (interpersonal meaning annotation, speaker)
-- `data_tha-IPAddr.txt`	Malay (interpersonal meaning annotation, addressee)
-- `data_tha-IPLex.txt`	Malay (interpersonal meaning annotation, lexical)
+- `data_tha-IPSpkr.csv`	Thai (interpersonal meaning annotation, speaker)
+- `data_tha-IPAddr.csv`	Thai (interpersonal meaning annotation, addressee)
+- `data_tha-IPLex.csv`	Thai (interpersonal meaning annotation, lexical)
 
 -----------------------------------
 
 - `data_vie.txt`	Vietnamese (raw sentences)
 - `data_vie-token.txt`	Vietnamese (tokenized sentences)
 - `data_vie-MWE.txt`	Vietnamese (multi-syllable expression list)
-- `data_vie-IPSpkr.txt`	Malay (interpersonal meaning annotation, speaker)
-- `data_vie-IPAddr.txt`	Malay (interpersonal meaning annotation, addressee)
-- `data_vie-IPLex.txt`	Malay (interpersonal meaning annotation, lexical)
+- `data_vie-IPSpkr.csv`	Vietnamese (interpersonal meaning annotation, speaker)
+- `data_vie-IPAddr.csv`	Vietnamese (interpersonal meaning annotation, addressee)
+- `data_vie-IPLex.csv`	Vietnamese (interpersonal meaning annotation, lexical)
 
 -----------------------------------
 
