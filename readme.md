@@ -101,8 +101,20 @@ All files are encoded in UTF-8 with DOS format.
 #### Speaker, Addressee
 `Sentence_ID, Gender, Marital status, Honour, Age, Social status, Role, Group, Formality, Number`
 
+    3243,female,,,,neutral,,,,sg
+
 #### Lexical
 `Token_index, token, Gender, Marital status, Honour, Age, Social status, Role, Group, Formality, Number`
+
+    3845
+    0,Cô,,,,,,parents_sibling.younger.sister.paternal,,,
+    1,tôi,,,,,neutral,,,,sg
+    2,làm việc,,,,,,,,,
+    3,ở,,,,,,,,,
+    4,cửa hàng,,,,,,,,,
+    5,hoa,,,,,,,,,
+    6,.,,,,,,,,,
+    <EOS>
 
 ## Notes on tokenization
 ### Malay/Indonesian
