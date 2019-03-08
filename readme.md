@@ -106,7 +106,7 @@ All files are encoded in UTF-8 with DOS format.
 #### Lexical
 `Token_index, token, Gender, Marital status, Honour, Age, Social status, Role, Group, Formality, Number`
 
-    3845
+    3845,,,,,,,,,,
     0,Cô,female,,,elder.parents_younger_sibling,,parents_sibling.paternal,,,
     1,tôi,,,,,neutral,,,,sg
     2,làm việc,,,,,,,,,
@@ -114,7 +114,7 @@ All files are encoded in UTF-8 with DOS format.
     4,cửa hàng,,,,,,,,,
     5,hoa,,,,,,,,,
     6,.,,,,,,,,,
-    <EOS>
+    <EOS>,,,,,,,,,,
 
 ## Notes on tokenization
 ### Malay/Indonesian
