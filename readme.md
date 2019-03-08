@@ -13,6 +13,9 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 
 - `data_jpn.txt`	Japanese (raw sentences)
 - `data_jpn-token.txt`	Japanese (tokenized sentences)
+- `data_zsm-IPSpkr.csv`	Japanese (interpersonal meaning annotation, speaker)
+- `data_zsm-IPAddr.csv`	Japanese (interpersonal meaning annotation, addressee)
+- `data_zsm-IPLex.csv`	Japanese (interpersonal meaning annotation, lexical)
 
 -----------------------------------
 
