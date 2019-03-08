@@ -107,7 +107,7 @@ All files are encoded in UTF-8 with DOS format.
 `Token_index, token, Gender, Marital status, Honour, Age, Social status, Role, Group, Formality, Number`
 
     3845
-    0,Cô,,,,,,parents_sibling.younger.sister.paternal,,,
+    0,Cô,female,,,elder.parents_younger_sibling,,parents_sibling.paternal,,,
     1,tôi,,,,,neutral,,,,sg
     2,làm việc,,,,,,,,,
     3,ở,,,,,,,,,
