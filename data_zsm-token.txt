@@ -763,8 +763,7 @@ doktor
 Jangan
 lupa
 tentang
-kerja
-rumah
+kerja rumah
 .
 <EOS>
 1474
@@ -10877,8 +10876,7 @@ rumah
 3638
 Saya
 tertinggal
-sapu
-tangan
+sapu tangan
 di
 dalam
 bilik darjah
@@ -11153,8 +11151,7 @@ cantik
 .
 <EOS>
 3667
-Ibu
-bapa
+Ibu bapa
 saya
 tinggal
 dekat
@@ -12427,8 +12424,7 @@ yen
 .
 <EOS>
 3807
-Kerja
-rumah
+Kerja rumah
 semua
 -nya
 sudah
@@ -12899,8 +12895,7 @@ stesen
 <EOS>
 3854
 Dinding
-bilik
-darjah
+bilik darjah
 ini
 tebal
 .
@@ -13167,8 +13162,7 @@ Saya
 akan
 melancong
 ke
-luar
-negara
+luar negara
 selama
 dua
 minggu
