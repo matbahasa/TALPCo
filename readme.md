@@ -28,6 +28,7 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 - `data_zsm.txt`	Malay (raw sentences)
 - `data_zsm-token.txt`	Malay (tokenized sentences)
 - `data_zsm-MWE.txt`	Malay (multiword expression list)
+- `data_zsm.jpn-zsm`	Malay (partial Japanese-Malay alignment) 
 - `data_zsm-IPSpkr.csv`	Malay (interpersonal meaning annotation, speaker)
 - `data_zsm-IPAddr.csv`	Malay (interpersonal meaning annotation, addressee)
 - `data_zsm-IPLex.csv`	Malay (interpersonal meaning annotation, lexical)
@@ -99,6 +100,11 @@ All files are encoded in UTF-8 with DOS format.
     1176	မစ္စတာ-တာနာခါ-ဟာ ကျောင်းသား မ-ဟုတ်-ပါ-ဘူး ။
 
     1176	n-pr-postp n pref-v-suf-suf
+
+### Alignment
+`Sentence_ID [TAB] Japanese_token_index-target_language_token_index`
+
+    1176	0-1 1-0 3-3 8-2 9-4
 
 ### Interpersonal meaning annotation
 #### Speaker, Addressee
