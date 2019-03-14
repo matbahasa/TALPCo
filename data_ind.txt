@@ -1022,7 +1022,7 @@
 3556	Di Jepang arak boleh diminum dari umur dua puluh tahun.
 3557	Bulan depan adik laki-laki saya berumur dua puluh tahun.
 3558	Setiap hari saya makan nasi tiga kali.
-3559	setahun sekali saya pergi ke luar negeri.
+3559	Setahun sekali saya pergi ke luar negeri.
 3560	Masakan ini menggunakan dua butir telur.
 3561	Saya makan satu kue yang saya terima dari Pak Lee.
 3562	Di Jepang bisa mengendarai mobil mulai umur delapan belas tahun.
@@ -1366,7 +1366,7 @@
 3909	Saya sekelompok dengan Bapak Lee.
 3911	Saya selalu membaca buku tiga puluh menit saja sebelum tidur.
 3912	Saya makan kue sebuah saja.
-3913	B: Satu, dua, tiga, empat...
+3913	B: Satu, dua, tiga, empat....
 3914	A: Ada berapa?
 3915	Di dalam kulkas ada tujuh butir telur.
 3916	Saya pergi ke perusahaan setiap pagi pukul sembilan.
