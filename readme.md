@@ -38,6 +38,7 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 - `data_ind.txt`	Indonesian (raw sentences)
 - `data_ind-token.txt`	Indonesian (tokenized sentences)
 - `data_ind-MWE.txt`	Indonesian (multiword expression list)
+- `data_ind.jpn-ind`	Indonesian (partial Japanese-Indonesian alignment) 
 - `data_ind-IPSpkr.csv`	Indonesian (interpersonal meaning annotation, speaker)
 - `data_ind-IPAddr.csv`	Indonesian (interpersonal meaning annotation, addressee)
 - `data_ind-IPLex.csv`	Indonesian (interpersonal meaning annotation, lexical)
