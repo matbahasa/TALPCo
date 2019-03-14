@@ -9748,7 +9748,7 @@ kali
 .
 <EOS>
 3559
-se-
+Se-
 tahun
 se-
 kali
@@ -13042,6 +13042,7 @@ tiga
 ,
 empat
 ...
+.
 <EOS>
 3914
 A
