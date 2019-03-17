@@ -331,7 +331,7 @@
 2797	Tôi sẽ trả sách lại cho thư viện.
 2798	Cho tiền vào sau đó ấn nút.
 2800	Tôi sẽ lên xe buýt số mười lăm từ ga.
-2801	Cái đồng hồ này năm nghìn năm trăm yên.
+2801	Cái đồng hồ này một nghìn năm trăm yên.
 2802	Tôi đã mua cái máy ảnh này hết ba mươi nghìn yên.
 2803	Tôi đã quên mất tên của người kia.
 2805	Hôm nay tôi sẽ ăn cơm tối tại nhà hàng.
