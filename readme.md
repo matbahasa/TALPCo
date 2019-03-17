@@ -56,6 +56,7 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 - `data_vie.txt`	Vietnamese (raw sentences)
 - `data_vie-token.txt`	Vietnamese (tokenized sentences)
 - `data_vie-MWE.txt`	Vietnamese (multi-syllable expression list)
+- `data_vie.jpn-vie`	Vietnamese (partial Japanese-Vietnamese alignment) 
 - `data_vie-IPSpkr.csv`	Vietnamese (interpersonal meaning annotation, speaker)
 - `data_vie-IPAddr.csv`	Vietnamese (interpersonal meaning annotation, addressee)
 - `data_vie-IPLex.csv`	Vietnamese (interpersonal meaning annotation, lexical)
