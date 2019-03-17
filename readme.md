@@ -47,6 +47,7 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 
 - `data_tha.txt`	Thai (raw sentences)
 - `data_tha-token.txt`	Thai (tokenized sentences)
+- `data_tha.jpn-tha`	Thai (partial Japanese-Thai alignment) 
 - `data_tha-IPSpkr.csv`	Thai (interpersonal meaning annotation, speaker)
 - `data_tha-IPAddr.csv`	Thai (interpersonal meaning annotation, addressee)
 - `data_tha-IPLex.csv`	Thai (interpersonal meaning annotation, lexical)
