@@ -1662,8 +1662,7 @@ nhé
 !
 <EOS>
 1794
-Hành
-lý
+Hành lý
 đó
 tôi
 sẽ
@@ -1956,7 +1955,8 @@ ai
 ?
 Không
 có
-ghi tên
+ghi
+tên
 .
 <EOS>
 1967
@@ -3209,7 +3209,7 @@ ga
 Cái
 đồng hồ
 này
-năm
+một
 nghìn
 năm
 trăm
@@ -4348,7 +4348,8 @@ sáng
 2920
 Hãy
 băng
-qua đường
+qua
+đường
 và
 đi bộ
 ở
@@ -5958,8 +5959,7 @@ bằng
 Tôi
 đã
 gửi
-hành
-lý
+hành lý
 cho
 mẹ
 vào
@@ -9782,8 +9782,7 @@ nhẹ
 .
 <EOS>
 3494
-Hành
-lý
+Hành lý
 của
 chị
 Kimura
