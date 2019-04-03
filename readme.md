@@ -94,13 +94,11 @@ All files are encoded in UTF-8 with DOS format.
     .
     <EOS>
 
-### Burmese tokenized and POS-tagged sentences
+### Burmese POS-tagged sentences
 `Sentence_ID [TAB] Sentence`
 
 - White space: Phrasal boundary
 - Dash: Morpheme boundary
-
-    1176	မစ္စတာ-တာနာခါ-ဟာ ကျောင်းသား မ-ဟုတ်-ပါ-ဘူး ။
 
     1176	n-pr-postp n pref-v-suf-suf
 
