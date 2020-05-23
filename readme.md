@@ -7,7 +7,7 @@ The TUFS Asian Language Parallel Corpus (TALPCo) is an open parallel corpus cons
 - (For Burmese, Malay and Indonesian translations)  
 Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian Language Parallel Corpus (TALPCo)](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C3-5.pdf). _Proceedings of the Twenty-Fourth Annual Meeting of the Association for Natural Language Processing_, 436-439.
 - (For Thai and Vietnamese translations, and interpersonal meaning annotations)  
-Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo)](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/D4-4.pdf).  _Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing_, .
+Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo)](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/D4-4.pdf).  _Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing_, 846-849. [Supplement](https://github.com/matbahasa/TALPCo/blob/master/features.pdf)
 
 ## Contents
 
@@ -108,6 +108,8 @@ All files are encoded in UTF-8 with DOS format.
     1176	0-1 1-0 3-3 8-2 9-4
 
 ### Interpersonal meaning annotation
+See the [second paper above](#how-to-cite) and its supplement for the details of the interpersonal meaning feature system.
+
 #### Speaker, Addressee
 `Sentence_ID, Gender, Marital status, Honour, Age, Social status, Role, Group, Formality, Number`
 
