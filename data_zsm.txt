@@ -652,7 +652,7 @@
 3163	Saya memakai tali leher kerana akan berjumpa dengan orang untuk kerja.
 3165	Walaupun saya belajar bahasa Jepun setiap hari, saya masih tidak boleh hafal kanji.
 3167	Encik Lee menulis surat dalam bahasa Jepun.
-3168	Saya susah untuk bercakap dalam bahasa inggeris.
+3168	Saya susah untuk bercakap dalam bahasa Inggeris.
 3169	Encik Matsui sedang bercakap dengan Encik Kobayashi.
 3170	Saya akan cakap tentang perkara tersebut kepada guru.
 3171	Kita menulis jawapan pada kertas ini.

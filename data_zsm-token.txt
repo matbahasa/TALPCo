@@ -163,8 +163,7 @@ mana
 -kah
 bilik darjah
 untuk
-bahasa
-Jepun
+bahasa Jepun
 ?
 <EOS>
 1268
@@ -226,8 +225,7 @@ mana
 Itu
 -lah
 kamus
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 1296
@@ -468,8 +466,7 @@ Yamada
 1380
 Saya
 mengajar
-bahasa
-Inggeris
+bahasa Inggeris
 kepada
 Cik
 Kimura
@@ -780,8 +777,7 @@ rasa
 orang
 itu
 guru
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 1477
@@ -864,8 +860,7 @@ Sejak
 bila
 awak
 belajar
-bahasa
-Jepun
+bahasa Jepun
 ?
 <EOS>
 1495
@@ -1162,8 +1157,7 @@ hari
 1558
 Saya
 belajar
-bahasa
-Jepun
+bahasa Jepun
 dengan
 mendengar
 pita kaset
@@ -1626,8 +1620,7 @@ saya
 ingin
 menjadi
 guru
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 1813
@@ -3616,8 +3609,7 @@ berlatih
 awak
 akan
 pandai
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 2861
@@ -3629,8 +3621,7 @@ mudah
 2862
 Saya
 mengajar
-bahasa
-Jepun
+bahasa Jepun
 kepada
 orang
 asing
@@ -4314,15 +4305,13 @@ Saya
 boleh
 bercakap
 dalam
-bahasa
-Inggeris
+bahasa Inggeris
 .
 <EOS>
 2937
 Saya
 belajar
-bahasa
-Inggeris
+bahasa Inggeris
 dengan
 menggunakan
 kamus
@@ -4635,8 +4624,7 @@ kamus
 ,
 saya
 belajar
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 2975
@@ -6257,8 +6245,7 @@ kerja
 Walaupun
 saya
 belajar
-bahasa
-Jepun
+bahasa Jepun
 setiap
 hari
 ,
@@ -6276,8 +6263,7 @@ Lee
 menulis
 surat
 dalam
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 3168
@@ -6286,8 +6272,7 @@ susah
 untuk
 bercakap
 dalam
-bahasa
-inggeris
+bahasa Inggeris
 .
 <EOS>
 3169
@@ -6394,8 +6379,7 @@ perkataan
 tulisan
 katakana
 dalam
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 3180
@@ -6438,8 +6422,7 @@ buku
 yang
 ditulis
 dalam
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 3184
@@ -7536,8 +7519,7 @@ ini
 3305
 Saya
 belajar
-bahasa
-Inggeris
+bahasa Inggeris
 selama
 tiga
 bulan
@@ -7985,8 +7967,7 @@ itu
 3350
 Saya
 hafal
-bahasa
-Jepun
+bahasa Jepun
 dengan
 menonton
 TV
@@ -8340,8 +8321,7 @@ faham
 Encik
 Lee
 faham
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 3386
@@ -8435,8 +8415,7 @@ minggu
 3396
 Saya
 belajar
-bahasa
-Jepun
+bahasa Jepun
 dengan
 guru
 itu
@@ -8634,8 +8613,7 @@ lepas
 <EOS>
 3416
 Kelas
-bahasa
-Jepun
+bahasa Jepun
 tidak
 ada
 pada
@@ -8873,8 +8851,7 @@ buku
 3437
 Saya
 belajar
-bahasa
-Inggeris
+bahasa Inggeris
 setiap
 malam
 selama
@@ -9570,8 +9547,7 @@ seronok
 <EOS>
 3511
 Pembelajaran
-bahasa
-Jepun
+bahasa Jepun
 seronok
 .
 <EOS>
@@ -9913,8 +9889,7 @@ perlu
 menulis
 karangan
 dalam
-bahasa
-Inggeris
+bahasa Inggeris
 sampai
 empat
 hari bulan
@@ -9999,8 +9974,7 @@ ini
 akan
 ada
 ujian
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 3552
@@ -10418,8 +10392,7 @@ baru
 Saya
 nak
 kamus
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 3593
@@ -11481,8 +11454,7 @@ itu
 ,
 saya
 belajar
-bahasa
-Jepun
+bahasa Jepun
 .
 <EOS>
 3700
@@ -11854,8 +11826,7 @@ jadi
 lebih
 pandai
 dalam
-bahasa
-Inggeris
+bahasa Inggeris
 .
 <EOS>
 3739
@@ -11973,8 +11944,7 @@ mana
 Mengapa
 awak
 belajar
-bahasa
-Jepun
+bahasa Jepun
 ?
 <EOS>
 3751
