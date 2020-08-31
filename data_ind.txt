@@ -158,7 +158,7 @@
 1671	Saya tidak masuk sekolah karena sakit.
 1672	Kereta terlambat karena topan.
 1675	Saya selalu belajar sendirian.
-1679	sepuluh menit lagi pukul lima.
+1679	Sepuluh menit lagi pukul lima.
 1682	Kami sekelas keluar jalan-jalan.
 1683	Pekerjaan itu saya kerjakan sendiri.
 1692	Tas itu sama dengan tas saya.
