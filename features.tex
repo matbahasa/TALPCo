@@ -1,0 +1,401 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper, hmargin=20mm, vmargin=30mm]{geometry}
+\AtBeginDvi{\special{pdf:mapfile dlbase14.map}}
+%\usepackage{zxjatype}
+%\usepackage[ipa]{zxjafont}% zxjafont パッケージ読み込み・基本の日本語フォントをIPAフォントに。
+\usepackage{xltxtra}
+%\textwidth=180truemm
+%\hoffset=-12truemm
+%\voffset=-10truemm
+\usepackage{fontspec}
+%\setmainfont{Palatino Linotype}
+\setmainfont{Times New Roman}
+%\setsansfont{Tahoma}
+%\setmonofont{Lucida Console}
+%\newfontfamily\ntssmm{Noto Sans Myanmar}
+%\newfontfamily\ntsfmm{Noto Serif Myanmar}
+%\newfontfamily\padauk{Padauk}
+%\newfontfamily\pdkbook{Padauk Book}
+\newfontfamily\mymtxt{Myanmar Text}
+\newfontfamily\thaifont{Leelawadee UI}
+
+%\usepackage{NLP}
+%\usepackage{natbib}
+%\bibpunct[:]{(}{)}{;}{a}{}{,}
+%\usepackage{url}
+%\usepackage{expex}
+%%\lingset{aboveglftskip=-.2ex,interpartskip=\baselineskip}
+%\lingset{aboveglftskip=-.2ex}
+%\gathertags
+\usepackage{booktabs}
+%\usepackage{tabularx}
+%\usepackage{multirow}
+\usepackage[linguistics]{forest}
+\usepackage{avm}
+\usepackage{lscape}
+
+\title{\textbf{Interpersonal meaning feature system}}
+
+\author{
+\begin{tabular}{c}
+%	Hiroki Nomoto \AND Kenji Okano \AND Sunisa Wittayapanyanon \AND Junta Nomura\\[3pt]
+	Hiroki Nomoto \hspace{3ex} Kenji Okano \hspace{3ex} Sunisa Wittayapanyanon \hspace{3ex} Junta Nomura\\[3pt]
+	Tokyo University of Foreign Studies\\
+\vspace{-4ex}
+\end{tabular}}
+\date{\texttt{\{nomoto, okanok, sunisa, nomura.junta.q0\}@tufs.ac.jp}}
+
+\begin{document}
+\maketitle
+
+\noindent This document supplements Figure 1 in Nomoto et.~al (2019)\footnotemark with a number of additional features that could not be included there due to a space constraint.  The entire feature system has been reorganized too.
+\footnotetext{Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo). \textit{Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing}, 846--849.}
+
+\section{Feature sets}
+\begin{avm}
+	\[Gender & \textsl{value}\\
+	Marital & \textsl{value}\\
+	Honour & \textsl{value}\\
+	Age & \textsl{value}\\
+	Social & \textsl{value}\\
+	Role & \textsl{value}\\
+	Group & \textsl{value}\\
+	Formality & \textsl{value}\\
+	Number & \textsl{value}
+	\]
+\end{avm}
+\subsection{Gender}
+\begin{forest}
+	[
+		[\textsf{male}]
+		[\textsf{female}]
+	]
+\end{forest}
+
+\subsection{Marital status}
+\begin{forest}
+	[
+		[\textsf{married}]
+		[\textsf{unmarried}]
+	]
+\end{forest}
+
+\subsection{Honour}
+\begin{forest}
+	[
+		[\textsf{hon}]
+		[\textsf{anti-hon}]
+	]
+\end{forest}
+
+\begin{tabular}[!h]{ll}
+	\toprule
+	\textsf{hon} & honorific\\
+	\textsf{anti-hon} & anti-honorific\\
+	\bottomrule
+\end{tabular}
+
+\subsection{Age}
+\begin{forest}
+	[Relative
+		[\textsf{elder}
+			[\textsf{grandparent}]
+			[\textsf{parents\_}\\\textsf{elder\_sibling}]
+			[\textsf{parent}]
+			[\textsf{parents\_}\\\textsf{younger\_sibling}]
+			[\textsf{sibling}]
+		]
+		[\textsf{younger}
+			[\textsf{sibling}]
+			[\textsf{child}]
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Absolute
+		[\textsf{mature}
+			[\textsf{old}]
+			[\textsf{middle}]
+		]
+		[\textsf{youth}]
+	]
+\end{forest}
+
+\subsection{Social status}
+\begin{forest}
+	[
+		[\textsf{higher}]
+		%[\textsf{equal\_or}\\\textsf{\_higher}]
+		[\textsf{equal\_or\_higher}]
+		[\textsf{equal}]
+		%[\textsf{equal\_or}\\\textsf{\_lower}]
+		[\textsf{equal\_or\_lower}]
+		[\textsf{lower}]
+		[\textsf{neutral}]
+	]
+\end{forest}
+
+\subsection{Role}
+\begin{forest}
+	[Education
+		[\textsf{teacher}
+			[\textsf{school}]
+			[\textsf{university}]
+			[\textsf{nonK12}]
+		]
+		[\textsf{student}
+			[\textsf{school}]
+			[\textsf{university}]
+			[\textsf{nonK12}]
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Family
+		[\textsf{grandparent}
+			[\textsf{paternal}]
+			[\textsf{maternal}]
+		]
+		[\textsf{parent}]
+		[\textsf{child}]
+		[\textsf{sibling}]
+		[\textsf{parents\_sibling}
+			[\textsf{paternal}]
+			[\textsf{maternal}]
+		]
+		[\textsf{spouse}]
+	]
+\end{forest}
+\begin{forest}
+	[Other
+		[\textsf{friend}]
+	]
+\end{forest}
+
+\paragraph{Notes}
+\begin{itemize}
+	\item `Father' vs.~`mother', `brother' vs.~`sister', `uncle' vs.~`aunt', etc.~can be distinguished by Gender features.
+	\item `Elder brother/sister' vs.~`younger brother/sister', etc.~can be distinguished by Age features.
+\end{itemize}
+
+\begin{tabular}[!h]{ll}
+	\toprule
+	\textsf{school} & primary and secondary schools\\
+	\textsf{nonK12} & not K12 (= kindergarten, primary and secondary schools)\\
+	\bottomrule
+\end{tabular}
+
+\subsection{Group}
+\begin{forest}
+	[
+		[\textsf{foreigner}]
+		[\textsf{local}]
+	]
+\end{forest}
+
+\subsection{Formality}
+\begin{forest}
+	[
+		[\textsf{formal}]
+		[\textsf{informal}]
+	]
+\end{forest}
+
+\subsection{Number}
+\begin{forest}
+	[
+		[\textsf{sg}]
+		[\textsf{pl}
+			[\textsf{incl}]
+			[\textsf{excl}]
+		]
+	]
+\end{forest}
+
+\begin{tabular}[!h]{ll}
+	\toprule
+	\textsf{incl} & inclusive (= include the speaker)\\
+	\textsf{excl} & exclusive (= exclude the speaker)\\
+	\bottomrule
+\end{tabular}
+
+\section{Examples}
+\begin{enumerate}
+	\item \textit{cô} `aunt (father's younger sister)' \hfill Vietnamese\\
+		\begin{avm}
+			\[Gender & \textsf{female}\\
+			Age      & \[Relative & \textsf{elder.parents\_elder\_sibling}\]\\
+			Role     & \[Family & \textsf{parents\_sibling.paternal} \]\]
+		\end{avm}
+	\item \textit{bác} `uncle, aunt (parent's elder sibling)' \hfill Vietnamese\\
+		\begin{avm}
+			\[Gender & \\
+			Age      & \[Relative & \textsf{elder.parents\_elder\_sibling}\]\\
+			Role   & \[Family & \textsf{parents\_sibling} \]\]
+		\end{avm}
+	\item \textit{bác} `I/you (person around parent's elder sibling's age)' \hfill Vietnamese\\
+		\begin{avm}
+			\[Gender & \\
+			Age      & \[Relative & \textsf{elder.parents\_elder\_sibling}\]\\
+			Role   & \]
+		\end{avm}
+	\item \textit{anh} `elder brother' \hfill Vietnamese\\
+		\begin{avm}
+			\[Gender & \textsf{male}\\
+			Age      & \[Relative & \textsf{elder.sibling}\]\\
+			Role   & \[Family & \textsf{sibling} \]\]
+		\end{avm}
+	\item \textit{anh} `I/you (male around elder sibling's age)' \hfill Vietnamese\\
+		\begin{avm}
+			\[Gender & \textsf{male}\\
+			Age      & \[Relative & \textsf{elder.sibling}\]\\
+			Role   & \]
+		\end{avm}
+	\item \textit{adik} `younger sibling' \hfill Malay\\
+		\begin{avm}
+			\[Gender & \\
+			Age      & \[Relative & \textsf{younger.sibling}\]\\
+			Role   & \[Family & \textsf{sibling} \]\]
+		\end{avm}
+	\item \textit{adik} `I/you (person around younger sibling's age)' \hfill Malay\\
+		\begin{avm}
+			\[Gender & \\
+			Age      & \[Relative & \textsf{younger.sibling}\]\\
+			Role   & \]
+		\end{avm}
+	\item \textit{abang} `elder brother' \hfill Malay\\
+		\begin{avm}
+			\[Gender & \textsf{male}\\
+			Age      & \[Relative & \textsf{elder.sibling}\]\\
+			Role   & \[Family & \textsf{sibling} \]\]
+		\end{avm}
+	\item \textit{abang} `I/you (person around elder brother's age)' \hfill Malay\\
+		\begin{avm}
+			\[Gender & \textsf{male}\\
+			Age      & \[Relative & \textsf{elder.sibling}\]\\
+			Role   & \]
+		\end{avm}
+	\item \textit{Pak} `Mr. (mature male)' \hfill Indonesian\\
+		\begin{avm}
+			\[Gender & \textsf{male}\\
+			Honour   & \textsf{hon}\\
+			Age      & \[Absolute & \textsf{mature}\]\\
+			\]
+		\end{avm}
+\end{enumerate}
+\begin{landscape}
+\section{The entire feature system}
+\begin{forest}
+[Interpersonal
+	[Gender
+		[\textsf{male}]
+		[\textsf{female}]
+	]
+	[{Marital status}
+		[\textsf{married}]
+		[\textsf{unmarried}]
+	]
+	[Honour
+		[\textsf{hon}]
+		[\textsf{anti-hon}]
+	]
+	[Age
+		[\ldots]
+	]
+	[{Social status}
+		[\ldots]
+	]
+	[Role
+		[\ldots]
+	]
+	[Group
+		[\textsf{foreigner}]
+		[\textsf{local}]
+	]
+	[Formality
+		[\textsf{formal}]
+		[\textsf{informal}]
+	]
+	[Number
+		[\textsf{sg}]
+		[\textsf{pl}
+			[\textsf{incl}]
+			[\textsf{excl}]
+		]
+	]
+]
+\end{forest}
+
+\begin{forest}
+	[Age
+		[Relative
+			[\textsf{elder}
+				[\textsf{grandparent}]
+				[\textsf{parents\_}\\\textsf{elder\_sibling}]
+				[\textsf{parent}]
+				[\textsf{parents\_}\\\textsf{younger\_sibling}]
+				[\textsf{sibling}]
+			]
+			[\textsf{younger}
+				[\textsf{sibling}]
+				[\textsf{child}]
+			]
+		]
+		[Absolute
+			[\textsf{mature}
+				[\textsf{old}]
+				[\textsf{middle}]
+			]
+			[\textsf{youth}]
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[{Social status}
+		[\textsf{higher}]
+		[\textsf{equal\_or\_higher}]
+		[\textsf{equal}]
+		[\textsf{equal\_or\_lower}]
+		[\textsf{lower}]
+		[\textsf{neutral}]
+	]
+\end{forest}
+
+\begin{forest}
+	[Role
+		[Education
+			[\textsf{teacher}
+				[\textsf{school}]
+				[\textsf{university}]
+				[\textsf{nonK12}]
+			]
+			[\textsf{student}
+				[\textsf{school}]
+				[\textsf{university}]
+				[\textsf{nonK12}]
+			]
+		]
+		[Family
+			[\textsf{grandparent}
+				[\textsf{paternal}]
+				[\textsf{maternal}]
+			]
+			[\textsf{parent}]
+			[\textsf{child}]
+			[\textsf{sibling}]
+			[\textsf{parents\_sibling}
+				[\textsf{paternal}]
+				[\textsf{maternal}]
+			]
+			[\textsf{spouse}]
+		]
+		[Other
+			[\textsf{friend}]
+		]
+	]
+\end{forest}
+\end{landscape}
+\end{document}
