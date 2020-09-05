@@ -204,7 +204,7 @@
 1928	Sepertinya ada yang tinggal di rumah ini.
 1931	Kelihatannya hujan akan turun.
 1935	Di halaman tidak ada mobil. Sepertinya ibu saya sedang keluar.
-1942	Saya mendengar mulai bulan depan murid baru akan datang.
+1942	Saya dengar mulai bulan depan murid baru akan datang.
 1947	Saya dengar dari pak guru kalau murid baru akan datang bulan depan.
 1965	Siapa orang yang menulis karangan ini? Tidak ada namanya.
 1967	Masakan buatan ibu sangat enak.

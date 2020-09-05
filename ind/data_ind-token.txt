@@ -1749,7 +1749,7 @@ keluar
 <EOS>
 1942
 Saya
-mendengar
+dengar
 mulai
 bulan
 depan
