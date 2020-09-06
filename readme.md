@@ -19,6 +19,11 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 
 -----------------------------------
 
+- `data_kor.txt`	Korean (raw sentences)
+- `data_kor-token.txt`	Korean (tokenized sentences)
+
+-----------------------------------
+
 - `data_myn.txt`	Burmese (raw sentences)
 - `data_myn-token.txt`	Burmese (tokenized sentences)
 - `data_myn-ps.txt`	Burmese (POS-tagged sentences)
