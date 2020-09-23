@@ -2734,8 +2734,7 @@ Di
 pintu masuk
 rumah
 diletakkan
-vas
-bunga
+vas bunga
 .
 <EOS>
 2778
@@ -3887,8 +3886,7 @@ Di
 pintu masuk
 rumah
 diletakkan
-vas
-bunga
+vas bunga
 .
 <EOS>
 2906
@@ -5289,8 +5287,7 @@ Di
 atas
 meja
 ada
-vas
-bunga
+vas bunga
 .
 <EOS>
 3076
@@ -6767,8 +6764,7 @@ hari ulang tahun
 3247
 Saya
 meletakkan
-vas
-bunga
+vas bunga
 di
 atas
 meja

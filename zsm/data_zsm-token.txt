@@ -2830,8 +2830,7 @@ rumah
 <EOS>
 2777
 Ada
-pasu
-bunga
+pasu bunga
 diletakkan
 di
 pintu masuk
@@ -4021,8 +4020,7 @@ bilik
 <EOS>
 2902
 Ada
-pasu
-bunga
+pasu bunga
 yang
 diletakkan
 di
@@ -5469,8 +5467,7 @@ demam
 <EOS>
 3075
 Ada
-pasu
-bunga
+pasu bunga
 di
 atas
 meja
@@ -9769,8 +9766,7 @@ Saya
 meyusun
 dua
 buah
-pasu
-bunga
+pasu bunga
 di
 atas
 meja
