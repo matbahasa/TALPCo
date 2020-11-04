@@ -51,6 +51,11 @@
 \noindent This document supplements Figure 1 in Nomoto et.~al (2019)\footnotemark with a number of additional features that could not be included there due to a space constraint.  The entire feature system has been reorganized too.
 \footnotetext{Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo). \textit{Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing}, 846--849.}
 
+\paragraph{Update history}
+\begin{description}
+	\item[3 Nov 2020] (1) The value \textsf{other} was added to Gender.  (2) Four subcategories were added to the \textsf{local} feature in Group.  (3) The new feature `Intimacy' was introduced.
+\end{description}
+
 \section{Feature sets}
 \begin{avm}
 	\[Gender & \textsl{value}\\
@@ -61,6 +66,7 @@
 	Role & \textsl{value}\\
 	Group & \textsl{value}\\
 	Formality & \textsl{value}\\
+	Intimacy & \textsl{value}\\
 	Number & \textsl{value}
 	\]
 \end{avm}
@@ -69,6 +75,7 @@
 	[
 		[\textsf{male}]
 		[\textsf{female}]
+		[\textsf{other}]
 	]
 \end{forest}
 
@@ -191,7 +198,13 @@
 \begin{forest}
 	[
 		[\textsf{foreigner}]
-		[\textsf{local}]
+		[\textsf{local}
+			[\textsf{indigenous}]
+			[\textsf{immigrant}
+				[\textsf{Chinese}]
+				[\textsf{Indian}]
+			]
+		]
 	]
 \end{forest}
 
@@ -200,6 +213,14 @@
 	[
 		[\textsf{formal}]
 		[\textsf{informal}]
+	]
+\end{forest}
+
+\subsection{Intimacy}
+\begin{forest}
+	[
+		[\textsf{close}]
+		[\textsf{remote}]
 	]
 \end{forest}
 

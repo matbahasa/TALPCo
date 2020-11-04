@@ -938,8 +938,7 @@ saya
 ada
 meja
 ,
-tempat
-tidur
+tempat tidur
 ,
 televisi
 ,
@@ -4243,8 +4242,7 @@ depan
 2948
 Saya
 membeli
-buku
-jalan-jalan
+buku jalan-jalan
 di
 toko
 buku
@@ -4817,8 +4815,7 @@ Saya
 selalu
 tidur
 di
-tempat
-tidur
+tempat tidur
 .
 <EOS>
 3019
