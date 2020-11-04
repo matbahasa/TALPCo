@@ -311,8 +311,7 @@
 \begin{forest}
 [Interpersonal
 	[Gender
-		[\textsf{male}]
-		[\textsf{female}]
+		[\ldots]
 	]
 	[{Marital status}
 		[\textsf{married}]
@@ -332,12 +331,15 @@
 		[\ldots]
 	]
 	[Group
-		[\textsf{foreigner}]
-		[\textsf{local}]
+		[\ldots]
 	]
 	[Formality
 		[\textsf{formal}]
 		[\textsf{informal}]
+	]
+	[Intimacy
+		[\textsf{close}]
+		[\textsf{remote}]
 	]
 	[Number
 		[\textsf{sg}]
@@ -347,6 +349,14 @@
 		]
 	]
 ]
+\end{forest}
+
+\begin{forest}
+	[Gender
+		[\textsf{male}]
+		[\textsf{female}]
+		[\textsf{other}]
+	]
 \end{forest}
 
 \begin{forest}
@@ -415,6 +425,19 @@
 		]
 		[Other
 			[\textsf{friend}]
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Group
+		[\textsf{foreigner}]
+		[\textsf{local}
+			[\textsf{indigenous}]
+			[\textsf{immigrant}
+				[\textsf{Chinese}]
+				[\textsf{Indian}]
+			]
 		]
 	]
 \end{forest}
