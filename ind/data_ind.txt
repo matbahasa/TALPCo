@@ -1252,7 +1252,7 @@
 3792	Saya mohon bantuannya.
 3795	Saya pulang bersama dengan semuanya.
 3796	Saya belajar bersama Pak Yamada di perpustakaan.
-3797	Bagaimana kalau kita pergi jalan-jalan bersama.
+3797	Bagaimana kalau kita pergi jalan-jalan bersama?
 3798	Tas yang besar praktis.
 3799	Pak Tanaka tinggal di rumah besar.
 3800	Di kamar saya ada kursi kecil.

@@ -7651,8 +7651,7 @@ komputer
 .
 <EOS>
 3342
-Tempat
-lahir
+Tempat lahir
 Pak
 Tanaka
 adalah
@@ -11880,7 +11879,7 @@ kita
 pergi
 jalan-jalan
 bersama
-.
+?
 <EOS>
 3798
 Tas
