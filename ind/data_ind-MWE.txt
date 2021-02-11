@@ -27,6 +27,7 @@ orang tua
 pagi hari
 pekerjaan rumah
 pesawat terbang
+pesta pernikahan
 pintu keluar
 pintu masuk
 pos laut
@@ -37,6 +38,7 @@ real estat
 rumah sakit
 sapu tangan
 sepak bola
+susah payah
 tempat lahir
 tempat tidur
 terima kasih

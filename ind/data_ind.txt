@@ -851,7 +851,7 @@
 3378	Saya mengambil makanan apa pun yang saya sukai.
 3379	Saya mengambilkan kecap untuk Pak Lee.
 3380	Lift ini berhenti dari lantai dua sampai lantai sembilan.
-3381	sebuah mobil berhenti di depan saya.
+3381	Sebuah mobil berhenti di depan saya.
 3382	Besok saya tidak akan lupa mengembalikan buku.
 3383	Kemarin saya ketinggalan payung di kereta.
 3384	Karena ada soal yang tidak saya pahami, saya bertanya kepada guru.
