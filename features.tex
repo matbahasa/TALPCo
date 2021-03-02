@@ -54,6 +54,7 @@
 \paragraph{Update history}
 \begin{description}
 	\item[3 Nov 2020] (1) The value \textsf{other} was added to Gender.  (2) Four subcategories were added to the \textsf{local} feature in Group.  (3) The new feature `Intimacy' was introduced.
+	\item[2 Mar 2021] (1) The value \textsf{neutral} was removed from Social Status.  (2) The value \textsf{other} was added to Education.  (3) Five new categories were introduced to the Role feature: Position, Relationship, Service, Spiritual and Royal.  (4) The \textsf{friend} feature in Other (Role) was integrated into the new Relationship category.
 \end{description}
 
 \section{Feature sets}
@@ -139,7 +140,7 @@
 		%[\textsf{equal\_or}\\\textsf{\_lower}]
 		[\textsf{equal\_or\_lower}]
 		[\textsf{lower}]
-		[\textsf{neutral}]
+%		[\textsf{neutral}] % removed because ``neutral'' can be captured by the lack of a specific value
 	]
 \end{forest}
 
@@ -150,11 +151,13 @@
 			[\textsf{school}]
 			[\textsf{university}]
 			[\textsf{nonK12}]
+			[\textsf{other}] %ustaz(ah)
 		]
 		[\textsf{student}
 			[\textsf{school}]
 			[\textsf{university}]
 			[\textsf{nonK12}]
+			[\textsf{other}]
 		]
 	]
 \end{forest}
@@ -175,11 +178,106 @@
 		[\textsf{spouse}]
 	]
 \end{forest}
+
 \begin{forest}
-	[Other
-		[\textsf{friend}]
+	[Position
+		[\textsf{titled}
+			[\textsf{head}
+				[\textsf{territory}
+					[\textsf{central}] %prime minister, president
+					[\textsf{local}]
+%					[\textsf{province}] %to/do/hu/ken (Japan), provinsi (Indonesia), negeri (Malaysia), changwat (Thailand)
+%					[\textsf{city}] %shi/ku (Japan), kabupaten/kota (Indonesia), daerah (Malaysia), anphoe (Thailand)
+%					[\textsf{town}] %cho (Japan), kecamatan (Indonesia), mukim (Malaysia), Tambon (Thailand)
+%					[\textsf{village}] %son(Japan), kelurahan/desa (Indonesia), kampung (Malaysia), muban (Thailand)
+%					[\textsf{other}]
+				]
+				[\textsf{organization}
+					[\textsf{ministry}] %minister
+					[\textsf{company}] %president
+					[\textsf{education}] %headmaster, president, chancellor, rector
+					[\textsf{other}] %head of department, committee
+				]
+			]
+			[\textsf{conferred}] %Dato' etc. (Malaysia)
+			[\textsf{other}] %Vice X, Deputy X, etc.
+		]
+		[\textsf{non\_titled}]
 	]
 \end{forest}
+
+\begin{forest}
+	[Relationship
+		[\textsf{friend}]
+		[\textsf{partner}
+			[\textsf{married}] %spouse (cf. Family)
+			[\textsf{unmarried}] %lover
+		]
+		[\textsf{mate} %teammate, classmate, schoolmate, colleague, etc.
+			[\textsf{senior}]
+			[\textsf{junior}]
+		]
+		[Obedience
+			[\textsf{boss}] %master
+			[\textsf{subordinate}] %servant
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Service
+		[\textsf{server}
+			[\textsf{clerk}]
+%			[\textsf{waiter}]
+			[\textsf{doctor}]
+			[\textsf{nurse}]
+			[\textsf{police}]
+%			[\textsf{station\_staff}]
+			[\textsf{driver}]
+%			[\textsf{pilot}]
+%			[\textsf{CA}]
+			[\textsf{other}]
+		]
+		[\textsf{customer}
+%			[\textsf{patient}]
+%			[\textsf{passenger}]
+%			[\textsf{other}]
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Spiritual
+		[\textsf{god}]
+		[\textsf{leader}] %sultan, ulama
+		[\textsf{clergy}
+			[\textsf{Buddhism}] %monk
+			[\textsf{Christianity}] %priest, pastor
+			[\textsf{other}] %traditional healer, shaman
+		]
+		[\textsf{follower} %muslimin-muslimat (Malay)
+			[\textsf{quasi\_clergy}] %maechi (Thai), thilashin (Burmese)
+			[\textsf{other}]
+		] 
+	]
+\end{forest}
+
+\begin{forest}
+	[Royal
+		[\textsf{royal}
+			[\textsf{king}]
+			[\textsf{queen}]
+			[\textsf{other}]
+		]
+		[\textsf{commoner}]
+	]
+\end{forest}
+
+%\begin{forest}
+%	[Other
+%		[\textsf{friend}] moved to Relationship
+%	]
+%\end{forest}
 
 \paragraph{Notes}
 \begin{itemize}
@@ -391,41 +489,143 @@
 		[\textsf{equal}]
 		[\textsf{equal\_or\_lower}]
 		[\textsf{lower}]
-		[\textsf{neutral}]
+%		[\textsf{neutral}]
 	]
 \end{forest}
 
 \begin{forest}
 	[Role
 		[Education
-			[\textsf{teacher}
-				[\textsf{school}]
-				[\textsf{university}]
-				[\textsf{nonK12}]
-			]
-			[\textsf{student}
-				[\textsf{school}]
-				[\textsf{university}]
-				[\textsf{nonK12}]
-			]
+			[\ldots]
 		]
 		[Family
-			[\textsf{grandparent}
-				[\textsf{paternal}]
-				[\textsf{maternal}]
-			]
-			[\textsf{parent}]
-			[\textsf{child}]
-			[\textsf{sibling}]
-			[\textsf{parents\_sibling}
-				[\textsf{paternal}]
-				[\textsf{maternal}]
-			]
-			[\textsf{spouse}]
+			[\ldots]
 		]
-		[Other
-			[\textsf{friend}]
+		[Position
+			[\textsf{titled}
+				[\textsf{head}
+					[\textsf{territory}
+						[\textsf{central}] %prime minister, president
+						[\textsf{local}]
+	%					[\textsf{province}] %to/do/hu/ken (Japan), provinsi (Indonesia), negeri (Malaysia), changwat (Thailand)
+	%					[\textsf{city}] %shi/ku (Japan), kabupaten/kota (Indonesia), daerah (Malaysia), anphoe (Thailand)
+	%					[\textsf{town}] %cho (Japan), kecamatan (Indonesia), mukim (Malaysia), Tambon (Thailand)
+	%					[\textsf{village}] %son(Japan), kelurahan/desa (Indonesia), kampung (Malaysia), muban (Thailand)
+	%					[\textsf{other}]
+					]
+					[\textsf{organization}
+						[\textsf{ministry}] %minister
+						[\textsf{company}] %president
+						[\textsf{education}] %headmaster, president, chancellor, rector
+						[\textsf{other}] %head of department, committee
+					]
+				]
+				[\textsf{conferred}] %Dato' etc. (Malaysia)
+				[\textsf{other}] %Vice X, Deputy X, etc.
+			]
+			[\textsf{non\_titled}]
 		]
+		[Relationship
+			[\ldots]
+		]
+		[Service
+			[\textsf{server}
+				[\textsf{clerk}]
+	%			[\textsf{waiter}]
+				[\textsf{doctor}]
+				[\textsf{nurse}]
+				[\textsf{police}]
+	%			[\textsf{station\_staff}]
+				[\textsf{driver}]
+	%			[\textsf{pilot}]
+	%			[\textsf{CA}]
+				[\textsf{other}]
+			]
+			[\textsf{customer}
+	%			[\textsf{patient}]
+	%			[\textsf{passenger}]
+	%			[\textsf{other}]
+			]
+		]
+		[Spiritual
+			[\ldots]
+		]
+		[Royal
+			[\textsf{royal}
+				[\textsf{king}]
+				[\textsf{queen}]
+				[\textsf{other}]
+			]
+			[\textsf{commoner}]
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Education
+		[\textsf{teacher}
+			[\textsf{school}]
+			[\textsf{university}]
+			[\textsf{nonK12}]
+			[\textsf{other}] %ustaz(ah)
+		]
+		[\textsf{student}
+			[\textsf{school}]
+			[\textsf{university}]
+			[\textsf{nonK12}]
+			[\textsf{other}]
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Family
+		[\textsf{grandparent}
+			[\textsf{paternal}]
+			[\textsf{maternal}]
+		]
+		[\textsf{parent}]
+		[\textsf{child}]
+		[\textsf{sibling}]
+		[\textsf{parents\_sibling}
+			[\textsf{paternal}]
+			[\textsf{maternal}]
+		]
+		[\textsf{spouse}]
+	]
+\end{forest}
+
+\begin{forest}
+	[Relationship
+		[\textsf{friend}]
+		[\textsf{partner}
+			[\textsf{married}] %spouse (cf. Family)
+			[\textsf{unmarried}] %lover
+		]
+		[\textsf{mate} %teammate, classmate, schoolmate, colleague, etc.
+			[\textsf{senior}]
+			[\textsf{junior}]
+		]
+		[Obedience
+			[\textsf{boss}] %master
+			[\textsf{subordinate}] %servant
+		]
+	]
+\end{forest}
+
+\begin{forest}
+	[Spiritual
+		[\textsf{god}]
+		[\textsf{leader}] %sultan, ulama
+		[\textsf{clergy}
+			[\textsf{Buddhism}] %monk
+			[\textsf{Christianity}] %priest, pastor
+			[\textsf{other}] %traditional healer, shaman
+		]
+		[\textsf{follower} %muslimin-muslimat (Malay)
+			[\textsf{quasi\_clergy}] %maechi (Thai), thilashin (Burmese)
+			[\textsf{other}]
+		] 
 	]
 \end{forest}
 
