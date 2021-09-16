@@ -600,7 +600,7 @@
 3106	Saya tidak ingin memakai jas karena panas saat musim panas.
 3107	Saya memakai jas ketika pergi ke perusahaan.
 3108	Saya menerima baju dari teman pada hari ulang tahun saya.
-3110	Pak Kimura seorang pelajar, tetapi Pak Tanaka seorang pegawai perusahaan.
+3110	Mbak Kimura seorang pelajar, tetapi Pak Tanaka seorang pegawai perusahaan.
 3111	Saya pergi berbelanja ke supermarket.
 3114	Berapa buah roti yang Anda beli?
 3115	Di atas meja ada berapa buah gelas?
