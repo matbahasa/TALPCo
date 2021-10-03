@@ -7879,7 +7879,7 @@ telah
 dibuka
 toko
 buku
-baru
+besar
 .
 <EOS>
 3368
