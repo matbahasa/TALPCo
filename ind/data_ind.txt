@@ -955,7 +955,7 @@
 3489	Saya membeli kamus tipis.
 3490	Karena tembok kamar ini tipis, saya berbicara dengan suara kecil.
 3491	Kotak yang berat, laki-laki yang bawa.
-3492	Tas itu besar dan berat.
+3492	Tas ini besar dan berat.
 3493	Saya ingin sepatu yang ringan.
 3494	Barang Mbak Kimura kecil dan ringan.
 3495	Pak Yamada paling tinggi sekelas.

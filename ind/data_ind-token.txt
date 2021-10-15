@@ -9058,7 +9058,7 @@ bawa
 <EOS>
 3492
 Tas
-itu
+ini
 besar
 dan
 berat
