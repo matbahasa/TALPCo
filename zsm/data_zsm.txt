@@ -996,7 +996,7 @@
 3530	Saya bangun lewat hari ini kerana semalam penat.
 3531	Saya balik ke rumah kerana sudah lewat.
 3532	Setiap pagi saya makan sebiji telur.
-3533	Saya meyusun dua buah pasu bunga di atas meja.
+3533	Saya menyusun dua buah pasu bunga di atas meja.
 3534	Ada tiga jawapan bagi soalan ini.
 3535	Kami memesan empat jenis makanan di restoran.
 3536	Encik Tanaka beli lima biji kek.
