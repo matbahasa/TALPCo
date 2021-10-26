@@ -10636,8 +10636,7 @@ malam
 .
 <EOS>
 3618
-Majlis
-kahwin
+Majlis kahwin
 kakak
 saya
 diadakan
