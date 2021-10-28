@@ -1080,7 +1080,7 @@
 3618	Minggu lalu ada pesta pernikahan kakak perempuan saya.
 3619	Pak Yamada memberikan jam pada hari ulang tahun Pak Kobayashi.
 3620	Hari ulang tahun saya tanggal dua puluh enam Agustus.
-3621	Buku tulis ini lebih panjang lebarnya daripada panjangnya.
+3621	Buku tulis ini ukuran horizontalnya lebih panjang daripada ukuran vertikalnya.
 3622	Saya memotong kertas ini dari bawah ke atas.
 3623	Saya makan telur dengan dibubuhi garam.
 3624	Saya setiap pagi makan roti dan telur.

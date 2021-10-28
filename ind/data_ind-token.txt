@@ -10307,12 +10307,14 @@ Agustus
 3621
 Buku tulis
 ini
+ukuran
+horizontal
+-nya
 lebih
 panjang
-lebar
--nya
 daripada
-panjang
+ukuran
+vertikal
 -nya
 .
 <EOS>
