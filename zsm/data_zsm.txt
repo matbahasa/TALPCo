@@ -1189,7 +1189,7 @@
 3728	Saya akan datang lagi nanti.
 3729	Saya akan bermain bersama Encik Kobayashi lagi pada minggu depan.
 3730	Encik Matsui masih belum membuat kerja rumah.
-3731	Sekarang masih pukul sepuluh pagi.
+3731	Sekarang masih pukul sepuluh.
 3732	Saya sudah makan tengah hari di kantin.
 3733	Adik perempuan sudah tidur.
 3734	Saya nak buat kerja sedikit lagi dan balik.

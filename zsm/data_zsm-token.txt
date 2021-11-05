@@ -11753,7 +11753,6 @@ masih
 pukul
 se-
 puluh
-pagi
 .
 <EOS>
 3732
