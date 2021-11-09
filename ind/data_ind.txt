@@ -1205,7 +1205,7 @@
 3744	Kalau sudah pulang rumah, pertama-tama saya mengerjakan pekerjaan rumah.
 3745	Awal bulan depan saya akan pulang ke negara saya.
 3746	Besok Anda akan bertemu dengan siapa?
-3747	Di kamar sebelah ada siapa?
+3747	Apakah ada seseorang di kamar sebelah?
 3748	Ada yang membawa bolpoin saya?
 3749	Anda selalu makan siang di mana?
 3750	Mengapa Anda belajar bahasa Jepang?

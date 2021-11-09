@@ -11501,11 +11501,12 @@ siapa
 ?
 <EOS>
 3747
-Di
+Apakah
+ada
+seseorang
+di
 kamar
 sebelah
-ada
-siapa
 ?
 <EOS>
 3748
