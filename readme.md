@@ -8,6 +8,8 @@ The TUFS Asian Language Parallel Corpus (TALPCo) is an open parallel corpus cons
 Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian Language Parallel Corpus (TALPCo)](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C3-5.pdf). _Proceedings of the Twenty-Fourth Annual Meeting of the Association for Natural Language Processing_, 436-439.
 - (For Thai and Vietnamese translations, and interpersonal meaning annotations)  
 Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo)](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/D4-4.pdf).  _Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing_, 846-849. [Supplement](https://github.com/matbahasa/TALPCo/blob/master/features.pdf)
+- (For Malay and Indonesian constituency tree annotations)  
+Nomoto, Hiroki. 2022. Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchiku [Building a parallel treebank based on minimalism]. _Proceedings of the Twenty-Eighth Annual Meeting of the Association for Natural Language Processing_.
 
 ## Contents
 
@@ -33,7 +35,8 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 - `data_zsm.txt`	Malay (raw sentences)
 - `data_zsm-token.txt`	Malay (tokenized sentences)
 - `data_zsm-MWE.txt`	Malay (multiword expression list)
-- `data_zsm.jpn-zsm`	Malay (partial Japanese-Malay alignment) 
+- `data_zsm-tree.txt`	Malay (constituency tree annotation)
+- `data_zsm.jpn-zsm`	Malay (partial Japanese-Malay alignment)
 - `data_zsm-IPSpkr.csv`	Malay (interpersonal meaning annotation, speaker)
 - `data_zsm-IPAddr.csv`	Malay (interpersonal meaning annotation, addressee)
 - `data_zsm-IPLex.csv`	Malay (interpersonal meaning annotation, lexical)
@@ -43,6 +46,7 @@ Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Int
 - `data_ind.txt`	Indonesian (raw sentences)
 - `data_ind-token.txt`	Indonesian (tokenized sentences)
 - `data_ind-MWE.txt`	Indonesian (multiword expression list)
+- `data_ind-tree.txt`	Indonesian (constituency tree annotation)
 - `data_ind.jpn-ind`	Indonesian (partial Japanese-Indonesian alignment) 
 - `data_ind-IPSpkr.csv`	Indonesian (interpersonal meaning annotation, speaker)
 - `data_ind-IPAddr.csv`	Indonesian (interpersonal meaning annotation, addressee)
@@ -106,6 +110,11 @@ All files are encoded in UTF-8 with DOS format.
 - Dash: Morpheme boundary
 
     1176	n-pr-postp n pref-v-suf-suf
+
+### Constituency tree annotation
+`Sentence_ID.n [TAB] bracketing` (for the `n`-th sentence for `Sentence_ID`)
+
+    3695.2	[S [CP [Conj Tapi] [CP [C *C_decl*] [TP [DP_a [D saya]] [T'[T *T*] [AP [AP [AdvP [Adv agak]] [AP [DP *t*<a>] [A letih]]] [AdvP [Adv sedikit]]]]]]] [PU .]]
 
 ### Alignment
 `Sentence_ID [TAB] Japanese_token_index-target_language_token_index`
