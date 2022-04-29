@@ -9,7 +9,7 @@ Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian 
 - (For Thai and Vietnamese translations, and interpersonal meaning annotations)  
 Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo)](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/D4-4.pdf).  _Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing_, 846-849. [Supplement](https://github.com/matbahasa/TALPCo/blob/master/features.pdf)
 - (For Malay and Indonesian constituency tree annotations)  
-Nomoto, Hiroki. 2022. Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchiku [Building a parallel treebank based on minimalism]. _Proceedings of the Twenty-Eighth Annual Meeting of the Association for Natural Language Processing_.
+Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchiku \[Building a parallel treebank based on minimalism\]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E1-4.pdf). _Proceedings of the Twenty-Eighth Annual Meeting of the Association for Natural Language Processing_, 103-107.
 
 ## Contents
 
