@@ -54,10 +54,10 @@
 1371	Mr. Tanaka drinks Coca-Cola.
 1378	I will send a letter to Mr. Tanaka.
 1379	I will lend money to Mr. Yamada.
-1380	I will teach Mr. Hayashi English.
+1380	I will teach Ms. Kimura English.
 1382	I will borrow money from Mr. Yamada.
 1386	I will put a book on the desk.
-1388	I woke up at 7.30.
+1388	I wake up at 7.30.
 1389	I will go to sleep at 11.00.
 1392	I play tennis on Sundays.
 1393	When do you play tennis?
@@ -683,7 +683,7 @@
 3197	Ms. Kimura is wearing a cute skirt.
 3198	I will take off my clothes because I am going to take a bath.
 3199	This snack is sweet.
-3201	I will eat this without putting anything on it.
+3201	We eat this without putting anything on it.
 3202	We eat sashimi with soy sauce.
 3204	I arranged a bowl and chopsticks on the table.
 3205	I eat rice in a bowl.
