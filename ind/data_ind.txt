@@ -283,7 +283,7 @@
 2548	Halo.
 2562	Kalau begitu, sampai jumpa lagi.
 2599	Mengapa?
-2637	Oh, begitu ya...
+2637	Oh, begitu ya....
 2651	Bolehkah saya mengembalikan saat istirahat siang?
 2672	Permisi.
 2734	Saya berencana ingin bekerja di luar negeri.
@@ -1176,7 +1176,7 @@
 3715	Film ini sangat menarik.
 3716	Pak Lee semakin pandai berbahasa Jepang.
 3717	Mulai bulan Juli hawanya akan semakin panas.
-3718	B: Maaf. Besok sepertinya agak susah...
+3718	B: Maaf. Besok sepertinya agak susah....
 3719	A: Bagaimana kalau besok kita pergi berbelanja?
 3720	Saya kadang-kadang berbelanja di toko sayur ini.
 3721	Mbak Kimura kadang-kadang membuat makan malam.

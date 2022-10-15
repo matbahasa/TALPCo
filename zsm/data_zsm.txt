@@ -270,7 +270,7 @@
 2249	Sesiapa yang tidak bawa pen mata bulat, boleh menggunakan pensel.
 2332	Ya, silakan.
 2369	Silakan.
-2383	Benda ini barang biasa saja, tetapi silakan.
+2383	Barang ini barang biasa saja, tetapi silakan.
 2391	Terima kasih, ya.
 2396	Ya, begitu.
 2409	Berapakah harganya?
@@ -326,7 +326,7 @@
 2792	Saya menampal setem pada sampul surat.
 2793	Ada sehelai kemeja.
 2794	Saya ambil dua keping gambar.
-2795	Bank buka dari pukul sembilan pagi hingga tiga petang.
+2795	Bank buka dari pukul sembilan pagi sehingga tiga petang.
 2796	Saya nak pulangkan wang kepada Cik Matsui.
 2797	Saya nak pulangkan buku kepada perpustakaan.
 2798	Masukkan wang, kemudian tekan butang.
@@ -545,7 +545,7 @@
 3042	Pada tahun lepas, tidak banyak salji yang turun.
 3043	Rasa sejuk kerana angin sedang bertiup.
 3044	Esok angin akan bertiup kuat.
-3045	Esok suhu akan naik sampai tiga puluh darjah, jadi akan panas.
+3045	Esok suhu akan naik sehingga tiga puluh darjah, jadi akan panas.
 3046	Saya terkena selesema, jadi suhu badan tiga puluh lapan darjah.
 3047	Langit menjadi sedikit mendung.
 3048	Semalam sepanjang hari mendung.

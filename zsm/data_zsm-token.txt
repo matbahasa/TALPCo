@@ -2491,7 +2491,7 @@ Silakan
 .
 <EOS>
 2383
-Benda
+Barang
 ini
 barang
 biasa
@@ -3004,7 +3004,7 @@ dari
 pukul
 sembilan
 pagi
-hingga
+sehingga
 tiga
 petang
 .
@@ -5212,7 +5212,7 @@ Esok
 suhu
 akan
 naik
-sampai
+sehingga
 tiga
 puluh
 darjah

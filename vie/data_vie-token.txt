@@ -831,7 +831,7 @@ Nhật
 1477
 Đây
 là
-cuộc
+cuộn
 băng
 mà
 tôi
@@ -1763,7 +1763,7 @@ muốn
 có
 một
 cái
-máy tính
+máy vi tính
 .
 <EOS>
 1836
@@ -2095,6 +2095,7 @@ học
 Anh
 Yamada
 lúc nào
+cũng
 sôi nổi
 nhưng
 hôm nay
@@ -2401,6 +2402,7 @@ tôi
 có thể
 mặc
 thử
+bộ
 đồ
 này
 được
@@ -2833,7 +2835,7 @@ Tôi
 viết
 tên
 trên
-bì thư
+phong bì
 .
 <EOS>
 2761
@@ -3322,7 +3324,7 @@ cà phê
 <EOS>
 2813
 Dùng
-nĩa
+dĩa
 khi
 ăn
 bánh
@@ -3336,7 +3338,7 @@ thì
 dùng
 dao
 vào
-nĩa
+dĩa
 để
 ăn
 .
@@ -3440,7 +3442,7 @@ nhận
 được
 một
 cái
-tách
+cốc
 dễ thương
 từ
 bạn
@@ -3505,7 +3507,7 @@ vé
 2833
 Tôi
 không
-lên
+đi
 thang máy
 mà
 sử dụng
@@ -3532,7 +3534,7 @@ tay
 <EOS>
 2836
 Tôi
-trình
+xuất trình
 vé
 tại
 lối vào
@@ -4667,7 +4669,7 @@ không
 ăn
 được
 thịt
-heo
+lợn
 .
 <EOS>
 2957
@@ -4746,6 +4748,7 @@ từ
 chín
 giờ
 sáng
+tới
 tám
 giờ
 tối
@@ -4847,7 +4850,8 @@ Hayashi
 làm việc
 tại
 công ty
-máy tính
+về
+máy vi tính
 .
 <EOS>
 2978
@@ -6089,7 +6093,7 @@ Tôi
 thích
 môn
 bóng
-cháy
+chày
 nhất
 trong
 các
@@ -6274,7 +6278,7 @@ nữ
 3139
 Tôi
 sẽ
-chuyển khoản
+chuyển
 tiền
 tại
 quầy
@@ -6288,7 +6292,7 @@ sẽ
 đến
 ngân hàng
 để
-chuyển khoản
+chuyển
 tiền
 .
 <EOS>
@@ -6786,6 +6790,7 @@ nhỏ
 so với
 tôi
 nên
+tôi
 không
 thể
 mặc
@@ -7251,7 +7256,7 @@ Tanaka
 chiếc
 cà vạt
 màu
-lá
+xanh lá
 .
 <EOS>
 3242
@@ -7448,7 +7453,7 @@ xinh đẹp
 .
 <EOS>
 3262
-Cha mẹ
+Bố mẹ
 tôi
 hiện
 đang
@@ -7748,7 +7753,7 @@ thể
 ngồi
 bên
 đây
-,
+nên
 tôi
 ngồi
 bên
@@ -7885,7 +7890,7 @@ tám
 3307
 Ngày mai
 là
-ngày
+mồng
 một
 tháng
 tư
@@ -8091,11 +8096,6 @@ và
 anh
 ấy
 quà
-đi
-tôi
-đi
-xa
-về
 .
 <EOS>
 3328
@@ -8201,9 +8201,9 @@ bạn bè
 3338
 Ngày mai
 tôi
-viết
+sẽ
 tập
-làm
+viết
 văn
 ở
 lớp
@@ -10253,6 +10253,7 @@ ra
 nước ngoài
 vào
 ngày
+mùng
 hai
 tháng
 sau
@@ -10288,6 +10289,7 @@ tiếng
 Anh
 trước
 ngày
+mùng
 năm
 .
 <EOS>
@@ -10342,6 +10344,7 @@ bảy
 <EOS>
 3549
 Ngày
+mùng
 chín
 tháng
 sau
@@ -10361,6 +10364,7 @@ công việc
 này
 trước
 ngày
+mùng
 mười
 .
 <EOS>
@@ -11388,6 +11392,7 @@ vừa
 được
 hoàn thành
 nên
+việc
 đi lại
 trong ngoài
 làng
@@ -11517,7 +11522,7 @@ chó
 nhà
 tôi
 rất
-to lớn
+to
 .
 <EOS>
 3662
@@ -12187,6 +12192,7 @@ Tuần
 sau
 tôi
 lại
+đi
 chơi
 với
 anh
@@ -12204,7 +12210,7 @@ bài tập về nhà
 <EOS>
 3731
 Bây giờ
-vẫn
+mới
 mười
 giờ
 .
@@ -12946,7 +12952,7 @@ Anh
 Tanaka
 có thể
 vừa
-gảy
+đánh
 đàn
 ghi-ta
 vừa
@@ -13769,6 +13775,7 @@ tuổi
 <EOS>
 3893
 Ngày
+mùng
 mười
 tháng
 mười
@@ -13836,14 +13843,15 @@ lo lắng
 .
 <EOS>
 3900
-Mưa
+Tuần
+trước
+,
+mưa
 đã
 kéo dài
+suốt
 nhiều
 ngày
-suốt
-tuần
-trước
 .
 <EOS>
 3901

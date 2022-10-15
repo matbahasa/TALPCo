@@ -2509,6 +2509,7 @@ Oh
 begitu
 ya
 ...
+.
 <EOS>
 2651
 Boleh
@@ -11225,6 +11226,7 @@ sepertinya
 agak
 susah
 ...
+.
 <EOS>
 3719
 A

@@ -1,19 +1,19 @@
-1176	Mr. Tanaka is not a student.
+1176	Mr Tanaka is not a student.
 1178	My father is a teacher.
 1180	There is no school.
 1194	It was sunny in Tokyo.
 1222	There is a tree in the park.
-1229	Where is Mr. Tanaka?
+1229	Where is Mr Tanaka?
 1233	I do not have any money.
 1244	There is a book on the desk.
 1245	There is a bag under the desk.
 1246	There is a notebook in the bag.
-1247	Mr. Yamada is to the right of Mr. Tanaka.
-1248	Ms. Kimura is to the left of Mr. Tanaka.
+1247	Mr Yamada is to the right of Mr Tanaka.
+1248	Ms Kimura is to the left of Mr Tanaka.
 1249	There is a cat in front of the house.
 1250	There is a car behind the house.
 1251	The postbox is across the street from our house.
-1254	Mr. Yamada is outside the classroom.
+1254	Mr Yamada is outside the classroom.
 1255	There is a park in front of the house.
 1257	The school is near the house.
 1258	The book is in the bag.
@@ -22,18 +22,18 @@
 1268	When is that newspaper from?
 1274	There is a new computer in the classroom.
 1275	There is a small dog in the box.
-1276	Mr. Tanaka is an energetic person.
+1276	Mr Tanaka is an energetic person.
 1280	What kind of film is it?
 1281	It's an old Japanese film.
 1286	Which shoes are you going to buy?
 1291	That is the Japanese dictionary.
-1296	Mr. Tanaka's bag is there.
+1296	Mr Tanaka's bag is there.
 1297	Our teacher is over there.
 1299	That book is mine.
 1302	That big bag is mine.
 1305	Excuse me, where is the toilet?
 1308	Whose bag is that?
-1311	That is Mr. Tanaka's.
+1311	That is Mr Tanaka's.
 1312	Where is the teacher's car?
 1319	There are seven pieces of cake.
 1320	How much is this ballpoint pen?
@@ -47,15 +47,15 @@
 1341	There is a TV next to the piano.
 1348	Class will finish in the morning tomorrow.
 1349	I go to school every day.
-1350	Mr. Tanaka studies at the library, but I study at home.
+1350	Mr Tanaka studies at the library, but I study at home.
 1356	I studied yesterday.
 1367	I will go home.
 1369	No, I won't go.
-1371	Mr. Tanaka drinks Coca-Cola.
-1378	I will send a letter to Mr. Tanaka.
-1379	I will lend money to Mr. Yamada.
-1380	I will teach Ms. Kimura English.
-1382	I will borrow money from Mr. Yamada.
+1371	Mr Tanaka drinks Coca-Cola.
+1378	I will send a letter to Mr Tanaka.
+1379	I will lend money to Mr Yamada.
+1380	I will teach Ms Kimura English.
+1382	I will borrow money from Mr Yamada.
 1386	I will put a book on the desk.
 1388	I wake up at 7.30.
 1389	I will go to sleep at 11.00.
@@ -63,7 +63,7 @@
 1393	When do you play tennis?
 1396	I watched a film.
 1397	I travelled during summer vacation.
-1398	We will have a party for Mr. Yamada's birthday.
+1398	We will have a party for Mr Yamada's birthday.
 1401	My family's dog is big.
 1402	The dog next door is not very big.
 1403	It is not cold today.
@@ -81,26 +81,26 @@
 1433	There is a good store in front of the station.
 1434	This room is very quiet.
 1435	Your clothes are beautiful.
-1446	Mr. Tanaka is tall.
+1446	Mr Tanaka is tall.
 1449	My throat hurts from yesterday.
 1450	Does your head hurt?
 1451	No, it doesn't hurt.
 1454	Roads in this town are narrow.
 1455	The colours in this picture are very beautiful.
 1457	I am not good at singing (a song).
-1459	Mr. Yamada's father works hard.
-1460	Mr. Yamada's father is a doctor.
+1459	Mr Yamada's father works hard.
+1460	Mr Yamada's father is a doctor.
 1473	Please do not forget the homework.
 1474	We can study here.
 1476	I think that person is a Japanese teacher.
 1477	This is the tape I bought yesterday.
 1478	When you do not know the way, please call and ask.
-1481	Mr. Kobayashi is wearing a blue shirt.
+1481	Mr Kobayashi is wearing a blue shirt.
 1482	It was written in the letter.
 1484	After eating, we brush our teeth.
 1485	Please stand up.
-1491	Mr. Kobayashi is reading a book right now.
-1492	What is Mr. Tanaka doing?
+1491	Mr Kobayashi is reading a book right now.
+1492	What is Mr Tanaka doing?
 1494	When did you start studying Japanese?
 1495	I have been studying since last year.
 1501	The window is open.
@@ -110,7 +110,7 @@
 1515	The question is written on page 15.
 1520	The window is open.
 1527	There are a book and a notebook on the desk.
-1528	I have soccer practice on Mondays, Wednesdays and Fridays.
+1528	I have football practice on Mondays, Wednesdays and Fridays.
 1530	I shop at department stores and supermarkets.
 1531	There is a postbox in front of the post office and near the station.
 1532	I eat bread, egg and so on.
@@ -140,7 +140,7 @@
 1609	I only ate bread.
 1614	I will put up a picture on the wall.
 1619	I will get on the airplane.
-1625	I will show this book to Mr. Tanaka.
+1625	I will show this book to Mr Tanaka.
 1630	Watching TV is not good for your eyes.
 1634	I will stay at a hotel.
 1636	Flowers will blossom in the garden.
@@ -195,7 +195,7 @@
 1860	What is your favourite food?
 1862	Class is fun for me.
 1879	No, I can't.
-1881	Mr. Tanaka can play tennis.
+1881	Mr Tanaka can play tennis.
 1883	Can you call abroad with that phone?
 1885	I can write kanji.
 1900	There is a person over there. Who is he?
@@ -209,9 +209,9 @@
 1965	Who wrote this essay? There is no name.
 1967	The food my mother cooks is very good.
 1971	Please hand in the paper with the answers written on it.
-1974	I saw Mr. Kobayashi studying at the library.
-1990	I saw Mr. Tanaka running.
-1993	Mr. Yamada was the one who ate the cake.
+1974	I saw Mr Kobayashi studying at the library.
+1990	I saw Mr Tanaka running.
+1993	Mr Yamada was the one who ate the cake.
 2004	I already took my medicine, so I'm alright.
 2005	I am not going to school tomorrow because I don't have class.
 2007	How did you know my number?
@@ -219,7 +219,7 @@
 2017	Why were you absent from school?
 2018	I could not wake up because I had a fever.
 2019	Today, we didn't have class because our teacher was ill.
-2023	Mr. Tanaka is always full of energy, but today he is quiet.
+2023	Mr Tanaka is always full of energy, but today he is quiet.
 2024	Although today is a Sunday, I have work.
 2030	I live in Tokyo, whereas my little brother lives in Kyoto.
 2041	It is easier to use a bicycle if you are going to that university.
@@ -234,15 +234,15 @@
 2065	If you read the newspaper every day, you can remember it.
 2068	Even if it snows, I will still go to school.
 2069	I will swim even if it is cold.
-2079	Mr. Yamada gave a book to my little sister.
+2079	Mr Yamada gave a book to my little sister.
 2086	I gave flowers to my father.
 2088	I received a book from my father.
-2090	I lent Mr. Kobayashi my notebook.
-2092	Mr. Kimura lent the book to me.
+2090	I lent Mr Kobayashi my notebook.
+2092	Mr Kimura lent the book to me.
 2093	I lent my money to my little brother.
 2097	My little sister made a boxed lunch for my father.
 2099	I helped my little sister with her homework.
-2100	Mr. Kimura carried my baggage for me.
+2100	Mr Kimura carried my baggage for me.
 2104	My mother taught me how to cook.
 2115	I will walk to the station.
 2120	I will buy a drink and bring it with me when I go there next week.
@@ -291,7 +291,7 @@
 2751	I'm going to take some medicine because I have a cold.
 2753	A lot of people died.
 2754	I will brush my teeth after eating.
-2755	Ms. Kimura has a very good mind.
+2755	Ms Kimura has a very good mind.
 2756	The post office is near the station.
 2757	The baggage will arrive tomorrow.
 2758	The train will arrive at the station.
@@ -305,7 +305,7 @@
 2769	There is nothing in the refrigerator.
 2771	I listen to the news on the radio.
 2772	You can listen to both music and the radio on a radio cassette recorder.
-2774	I borrowed a pencil from Mr. Matsui.
+2774	I borrowed a pencil from Mr Matsui.
 2775	I will go to a real estate office next week to find a new room.
 2776	I will clean the lobby and hallway.
 2777	There is a vase in the lobby.
@@ -314,20 +314,20 @@
 2780	These shoes are old.
 2781	It is far from the station to school, so I ride the bus.
 2782	The new house is close to the station, so it is very convenient.
-2783	Mr. Matsui is wearing a white shirt.
+2783	Mr Matsui is wearing a white shirt.
 2784	I wear a hat when it is hot.
 2785	We take off our shoes at the entrance.
 2786	I left my umbrella on the train.
 2787	Yesterday, I bought a new wallet.
-2788	The person wearing glasses is Mr. Matsui.
+2788	The person wearing glasses is Mr Matsui.
 2789	I bought a magazine at the bookstore.
 2790	This is the second floor.
-2791	I will send a postcard to Mr. Matsui.
+2791	I will send a postcard to Mr Matsui.
 2792	I will put a stamp on the envelope.
 2793	There is a shirt.
 2794	I took two pictures.
 2795	The bank is open from nine in the morning to three in the afternoon.
-2796	I will give back the money to Ms. Matsui.
+2796	I will give back the money to Ms Matsui.
 2797	I will give back the book to the library.
 2798	We put money in and push this button.
 2800	I will get on bus number 15 from the station.
@@ -356,7 +356,7 @@
 2825	I got a cute cup from my friend.
 2826	I put in sugar and drink coffee.
 2828	I will put money in my wallet.
-2829	Mr. Matsui poured me some coffee.
+2829	Mr Matsui poured me some coffee.
 2830	That train will go to Tokyo.
 2831	The underground train is cheap, fast and very convenient.
 2832	We will buy a ticket when we ride the train.
@@ -369,7 +369,7 @@
 2839	I will ride the bus rather than walk to school.
 2840	I could not shop because the supermarket was closed.
 2841	The bag wasn't closed.
-2842	I am in the same class as Mr. Matsui.
+2842	I am in the same class as Mr Matsui.
 2843	There are desks and chairs in the classroom.
 2844	I will clean the entrance and the hallway.
 2845	I do not really like studying.
@@ -379,7 +379,7 @@
 2851	I will go to Tokyo to hang out next week.
 2852	I studied all day yesterday so I will play today.
 2853	I have a test tomorrow, so I will study tonight.
-2854	I read the composition Mr. Matsui wrote.
+2854	I read the composition Mr Matsui wrote.
 2855	I will hand in the composition to the teacher tomorrow.
 2856	When writing an answer, you must read the question carefully.
 2857	This question is very easy.
@@ -392,7 +392,7 @@
 2865	I am thinking of getting my hair cut at the beauty salon next week.
 2866	I use my chopsticks with my left hand.
 2867	We turn right at the next corner.
-2868	Ms. Matsui sat in front of me.
+2868	Ms Matsui sat in front of me.
 2869	There are a lot of people lined up behind me.
 2870	Because I always use this pencil, it has become short.
 2871	I cut the cake in four.
@@ -405,16 +405,16 @@
 2879	The policeman showed us the way to the station.
 2880	I didn't know the way, so I looked at the map.
 2881	Yesterday, I went shopping near the station.
-2882	I asked Mr. Matsui the telephone number of the restaurant we are going to tonight.
+2882	I asked Mr Matsui the telephone number of the restaurant we are going to tonight.
 2884	When you turn left at that building, there is a hospital.
 2885	It is dangerous here, so you may not go inside.
 2886	It is dangerous to go home by yourself because it is already late.
 2887	You may not talk to the person next to you during class.
 2888	There is a bookstore next to that cafe.
-2889	Mr. Matsui's house is near my house.
-2890	I gave the bag to Mr. Matsui that was near me.
+2889	Mr Matsui's house is near my house.
+2890	I gave the bag to Mr Matsui that was near me.
 2891	I will go to the police box because I lost my wallet.
-2892	I lost the magazine I borrowed from Mr. Matsui.
+2892	I lost the magazine I borrowed from Mr Matsui.
 2893	My friend is coming, so I will clean this room.
 2894	This room has no window.
 2895	There is a calendar on the desk.
@@ -443,10 +443,10 @@
 2923	It was hot, so we swam in the pool.
 2924	I am not good at singing, so I am thinking of practising.
 2925	My brother taught me how to play football because he is good.
-2926	Mr. Matsui is good at cooking.
+2926	Mr Matsui is good at cooking.
 2927	I am not good at drawing pictures.
 2928	I think taking the train to school is faster than taking the bus.
-2929	Mr. Matsui runs fast.
+2929	Mr Matsui runs fast.
 2931	I walk very slowly.
 2933	I cannot run anymore because my feet hurt.
 2934	The bird is flying over there.
@@ -458,7 +458,7 @@
 2941	I will go to the embassy tomorrow.
 2943	Japan is a very small country.
 2944	This hotel room is very pretty.
-2946	Ms. Matsui has lived abroad for three years.
+2946	Ms Matsui has lived abroad for three years.
 2947	I am thinking of travelling abroad next year.
 2948	I bought a travelling book at a book store.
 2949	The meat at this store is cheap today.
@@ -486,7 +486,7 @@
 2974	I study Japanese by looking at the dictionary.
 2975	I copied the book at the library.
 2976	The teacher gave the students a copy of the newspaper.
-2977	Mr. Hayashi works for a computer company.
+2977	Mr Hayashi works for a computer company.
 2978	I will go to my office early tomorrow.
 2979	I go out with my friends on holidays.
 2981	This is a tie from Italy.
@@ -509,13 +509,13 @@
 3000	I will go out with my friend tomorrow night.
 3001	I could not go anywhere yesterday.
 3002	This dish can be made at home.
-3005	Mr. Matsui can play the guitar.
+3005	Mr Matsui can play the guitar.
 3006	I practise the piano every day.
 3007	This camera is expensive but very useful.
 3008	I bought a new camera.
 3009	This is an old Japanese film.
 3010	My little sister is good at drawing pictures.
-3011	Mr. Matsui doesn't like tobacco, so he does not smoke.
+3011	Mr Matsui doesn't like tobacco, so he does not smoke.
 3012	I don't like cleaning or doing the laundry.
 3013	My favourite food is curry.
 3014	My mother likes cooking.
@@ -554,7 +554,7 @@
 3052	I cannot play tennis on days when the wind is strong.
 3053	It will be cold at night, so I will bring a jacket with me when I go out.
 3056	I shampoo my hair before I cut it.
-3057	That person with black hair is Mr. Matsui.
+3057	That person with black hair is Mr Matsui.
 3058	The door to the train will shut.
 3059	I showed my ticket to the station staff.
 3060	I cut my hair yesterday.
@@ -573,9 +573,9 @@
 3074	I have a fever, so I will be absent from school.
 3075	There is a vase on the table.
 3076	I listen to the news on the radio every day.
-3077	I gave Mr. Kimura's telephone number to my friend.
+3077	I gave Mr Kimura's telephone number to my friend.
 3078	I was worried because my mother did not contact me.
-3079	Yesterday, Mr. Matsui contacted me.
+3079	Yesterday, Mr Matsui contacted me.
 3080	Please contact the company by telephone.
 3081	I will contact you when I get home.
 3084	The rent for this flat is expensive.
@@ -600,7 +600,7 @@
 3106	I do not want to wear a suit because it is hot in the summer.
 3107	I wear a suit when I go to work.
 3108	I got a shirt from my friends on my birthday.
-3110	Ms. Kimura is a student, but Mr. Tanaka is an office worker.
+3110	Ms Kimura is a student, but Mr Tanaka is an office worker.
 3111	I will go shopping at the supermarket.
 3114	How many pieces of bread did you buy?
 3115	How many cups are on the table?
@@ -608,10 +608,10 @@
 3117	After going for a walk in the park, we will go home.
 3118	I practise tennis every day.
 3119	I like baseball the best of all the sports.
-3120	Mr. Matsui is better at football than baseball.
+3120	Mr Matsui is better at football than baseball.
 3121	It was raining, so there wasn't a baseball game.
 3122	There is going to be a tennis match tomorrow.
-3123	Brazil is a country that has a strong soccer team.
+3123	Brazil is a country that has a strong football team.
 3124	I cannot play sport because my body is weak.
 3126	I will clean my room because it is dirty.
 3127	The sea around here is dirty.
@@ -622,7 +622,7 @@
 3132	This is my home key.
 3133	There is a cat in front of the gate of the house.
 3134	The water in this river is clean.
-3135	Mr. Lee can speak Japanese.
+3135	Mr Lee can speak Japanese.
 3136	I will borrow money from the bank.
 3137	My father is a bank employee.
 3138	The bank employees at the counter are mostly women.
@@ -651,18 +651,18 @@
 3162	I will make a table by myself.
 3163	I will wear a tie because I will meet people in the course of my work.
 3165	Although I study Japanese every day, I cannot memorize Kanji.
-3167	Mr. Lee wrote a letter in Japanese.
+3167	Mr Lee wrote a letter in Japanese.
 3168	It is hard for me to talk in English.
-3169	Mr. Matsui is talking with Mr. Kobayashi.
+3169	Mr Matsui is talking with Mr Kobayashi.
 3170	I will tell the teacher about that.
 3171	We write our answers on this paper.
 3172	I wrote a letter to my friend yesterday.
 3173	I do not like handwriting letters very much.
-3174	Mr. Matsui is good at handwriting letters.
-3175	I heard an interesting story from Mr. Hayashi.
-3176	Mr. Matsui is talking with Mr. Kobayashi.
+3174	Mr Matsui is good at handwriting letters.
+3175	I heard an interesting story from Mr Hayashi.
+3176	Mr Matsui is talking with Mr Kobayashi.
 3177	I did not understand the meaning of the teacher's words.
-3178	I taught Mr. Lee the meaning of this word.
+3178	I taught Mr Lee the meaning of this word.
 3179	There are a lot of katakana words in Japanese.
 3180	I can write hiragana, but I cannot write katakana yet.
 3181	This sentence is short, so it is easy to read.
@@ -675,12 +675,12 @@
 3188	It is cold outside, so I will wear a coat and go to work.
 3189	I will take off my sweater because it is hot.
 3190	I cannot wear these trousers because they are too small.
-3192	Ms. Kobayashi likes pants better than skirts.
+3192	Ms Kobayashi likes pants better than skirts.
 3193	I take off my shoes and put on slippers.
 3194	I will wear glasses because my eyes are bad.
 3195	In Japan, when you enter a house, you take off your shoes.
 3196	I will wear new shoes and go out.
-3197	Ms. Kimura is wearing a cute skirt.
+3197	Ms Kimura is wearing a cute skirt.
 3198	I will take off my clothes because I am going to take a bath.
 3199	This snack is sweet.
 3201	We eat this without putting anything on it.
@@ -690,21 +690,21 @@
 3206	I will eat dinner with my friend today.
 3207	I eat lunch here every day.
 3208	I did not eat breakfast today.
-3209	Ms. Kimura gave me a snack.
+3209	Ms Kimura gave me a snack.
 3210	This dish does not look good.
 3211	That shop is cheap, but the food does not taste good.
-3212	Mr. Hayashi's boxed lunch looks yummy.
+3212	Mr Hayashi's boxed lunch looks yummy.
 3213	This snack is yummy.
 3214	I was busy, so I couldn't eat lunch.
 3215	This curry is very spicy.
 3216	I always eat bread for breakfast.
 3217	Dinner today will be curry.
 3218	Today's dinner is curry.
-3219	I got the salt for Mr. Lee.
+3219	I got the salt for Mr Lee.
 3220	I put in sugar and salt, and cook a meal.
 3221	My brother has a strong body.
 3223	My eyes became tired because I was reading a book in a dark room.
-3224	Mr. Yamada has bad eyesight, so he is wearing glasses.
+3224	Mr Yamada has bad eyesight, so he is wearing glasses.
 3225	That dog has big ears.
 3226	My little sister has big eyes and is high-nosed.
 3227	I cannot open my mouth because my teeth hurt.
@@ -714,14 +714,14 @@
 3232	I wash my body in the bathroom.
 3233	Before I go to sleep, I brush my teeth.
 3234	I was busy yesterday, so I got very tired.
-3235	Mr. Yamada is in the classroom.
-3236	Mr. Kobayashi has a blue umbrella.
+3235	Mr Yamada is in the classroom.
+3236	Mr Kobayashi has a blue umbrella.
 3237	I bought white shoes at the department store yesterday.
-3238	The person who is wearing a yellow shirt is Mr. Hayashi.
-3239	Mr. Tanaka's car is big and white.
+3238	The person who is wearing a yellow shirt is Mr Hayashi.
+3239	Mr Tanaka's car is big and white.
 3240	When I go to work, I wear a black suit.
-3241	Mr. Tanaka has a green tie on.
-3242	Ms. Kimura's hair is brown.
+3241	Mr Tanaka has a green tie on.
+3242	Ms Kimura's hair is brown.
 3243	I like red more than blue.
 3244	My favourite colour is blue.
 3245	This colour is very pretty.
@@ -734,63 +734,63 @@
 3252	The notebook is inside the bag.
 3253	There is a television in that room.
 3254	There are a dog and a cat in my house.
-3255	Mr. Lee is in the library right now.
+3255	Mr Lee is in the library right now.
 3256	During the winter, the northern part of Japan gets very cold.
 3257	My room faces the south, so it is bright.
 3259	There is a forest on the east side of this town.
 3260	If you head a little bit more west, there is a beach.
-3261	Ms. Kimura's elder sister is very beautiful.
+3261	Ms Kimura's elder sister is very beautiful.
 3262	My parents are overseas.
 3263	I gave my mother a birthday present.
 3264	My elder sister is living by herself in Tokyo right now.
-3265	Mr. Tanaka's wife is a university lecturer.
-3266	Mr. Lee's elder brother will come to Japan next week.
-3267	Mr. Yamada's mum is very good at cooking.
-3268	Ms. Kobayashi's husband works at a hospital.
-3269	Mr. Yamada's little sister is short and cute.
-3270	Mr. Kobayashi's little brother plays soccer.
+3265	Mr Tanaka's wife is a university lecturer.
+3266	Mr Lee's elder brother will come to Japan next week.
+3267	Mr Yamada's mum is very good at cooking.
+3268	Ms Kobayashi's husband works at a hospital.
+3269	Mr Yamada's little sister is short and cute.
+3270	Mr Kobayashi's little brother plays football.
 3271	I have two brothers.
-3272	That beautiful woman is Ms. Kimura.
+3272	That beautiful woman is Ms Kimura.
 3273	There are children playing in the park.
 3274	There is a small girl over there.
 3275	That middle-aged man at the vegetable shop is always buoyant.
-3276	Mr. Kobayashi's aunt lives in Tokyo.
+3276	Mr Kobayashi's aunt lives in Tokyo.
 3277	I told an old man the way.
-3278	Mr. Hayashi's grandmother wears glasses.
+3278	Mr Hayashi's grandmother wears glasses.
 3279	When you become an adult, you can drink alcohol.
-3280	Mr. Matsui and Mr. Lee are friends.
+3280	Mr Matsui and Mr Lee are friends.
 3281	I have Thai friends.
 3282	That man is tall and has long legs.
 3283	A boy is climbing a tree over there.
 3284	Please wait for two minutes.
 3285	Today is a Sunday, but I will go to the office.
-3287	Mr. Yamada will be going to Tokyo next month.
+3287	Mr Yamada will be going to Tokyo next month.
 3288	You should work over there.
 3289	That cup is yours.
 3290	It is me who cooks dinner every day.
 3291	The restroom is this way.
-3292	This is Mr. Kobayashi.
+3292	This is Mr Kobayashi.
 3293	I cannot sit here, so I will sit there.
 3294	That building was built in 794.
-3295	That is Mr. Yamada.
+3295	That is Mr Yamada.
 3296	The cafeteria is in that building over there.
 3297	Don't go that way because it is dangerous.
-3298	That is Mr. Lee.
+3298	That is Mr Lee.
 3299	If you go there, there is a post office and a bank.
 3300	I went on a trip abroad last month.
 3301	Every month I deposit money in the bank.
 3302	That supermarket will be closed on Wednesdays this month.
 3303	I was very busy with work this month.
 3305	I studied English in America for three months.
-3306	Mr. Matsui's birthday is in August.
+3306	Mr Matsui's birthday is in August.
 3307	Tomorrow is 1 April.
 3309	Every month I write a letter to my friend overseas.
-3310	Mr. Hayashi will go abroad for work for one month from next week.
+3310	Mr Hayashi will go abroad for work for one month from next week.
 3311	Although I cut my hair last month, it has already become long.
 3312	Every year I go on a family trip.
 3313	Last year was a good year.
 3314	I climbed this mountain two years ago.
-3315	Mr. Tanaka graduated from university two years ago.
+3315	Mr Tanaka graduated from university two years ago.
 3316	It is hotter this year than last year.
 3317	I will learn the guitar starting this year.
 3318	I am thinking of buying a new car next year.
@@ -799,15 +799,15 @@
 3321	A library will be built there in two years.
 3322	Every year I give my mother a present on her birthday.
 3323	I married my wife five years ago.
-3324	Mr. Lee will be in Japan for three years.
-3326	I will meet Ms. Kimura at the station this evening.
-3327	I will meet Mr. Lee tomorrow, and I will give him a souvenir.
+3324	Mr Lee will be in Japan for three years.
+3326	I will meet Ms Kimura at the station this evening.
+3327	I will meet Mr Lee tomorrow, and I will give him a souvenir.
 3328	It is a little hot, so I will open the window.
 3329	I will go into the room by opening the door.
 3331	Don't open that window because it is dangerous.
 3332	I will raise my hand.
 3333	I will put the things I do not use on top of the bookcase.
-3334	Mr. Kobayashi has work tomorrow, so he cannot come.
+3334	Mr Kobayashi has work tomorrow, so he cannot come.
 3335	I do not have any money right now.
 3336	I didn't go to school because I had a fever yesterday.
 3337	I will go to my friend's house after class.
@@ -815,7 +815,7 @@
 3339	We need a ticket to ride the train.
 3340	I will switch on the light.
 3341	I will turn on the computer.
-3342	Mr. Tanaka was born in Tokyo.
+3342	Mr Tanaka was born in Tokyo.
 3343	I was born on 26 August.
 3344	That shop has tasty snacks.
 3346	This is food that is not sold in Japan.
@@ -832,41 +832,41 @@
 3357	The lights in the room went out.
 3358	I will turn off the computer.
 3361	My sister will marry next spring.
-3362	Mr. Tanaka is married and has children.
+3362	Mr Tanaka is married and has children.
 3363	There are a lot of pretty flowers in bloom in the park.
 3364	These flowers will blossom in the spring.
 3365	It was troubling for me because I lost my passport while I was abroad.
 3366	It is raining, so I will put up an umbrella and go to school.
 3367	A big bookstore was built in front of the university.
 3368	I close the door when I get into the room.
-3369	Mr. Kobayashi did not know the restaurant.
-3370	I know Mr. Yamada's telephone number.
+3369	Mr Kobayashi did not know the restaurant.
+3370	I know Mr Yamada's telephone number.
 3371	I will stand and sing a song.
-3372	Ms. Kimura is standing over there.
-3373	Mr. Tanaka was asked to do work by Mr. Hayashi.
+3372	Ms Kimura is standing over there.
+3373	Mr Tanaka was asked to do work by Mr Hayashi.
 3374	My mum always asks me to do the shopping.
 3375	The languages spoken in Japan are different from those in overseas countries.
 3376	This is my notebook.
 3377	I will leave work early this evening and go home.
 3378	I will take whatever food I like.
-3379	I passed the soy sauce to Mr. Lee.
+3379	I passed the soy sauce to Mr Lee.
 3380	This lift will stop from the second floor to the ninth floor.
 3381	A car stopped in front of me.
 3382	I will not forget to return the book to you.
 3383	I forgot my umbrella in the train yesterday.
 3384	I will ask my teacher a question because there is a question I do not understand.
-3385	Mr. Lee understands Japanese.
-3386	I gave a map of this town to Mr. Kimura yesterday.
+3385	Mr Lee understands Japanese.
+3386	I gave a map of this town to Mr Kimura yesterday.
 3387	I will call a taxi.
-3388	The teacher called Mr. Yamada's name.
+3388	The teacher called Mr Yamada's name.
 3389	I worked for a long time, so I took a little rest.
 3390	I am waiting for the bus.
-3391	I'll wait for Mr. Kobayashi at the station this evening.
-3392	Ms. Kimura showed me the picture.
+3391	I'll wait for Mr Kobayashi at the station this evening.
+3392	Ms Kimura showed me the picture.
 3394	I have climbed that mountain before.
 3395	I will climb the mountain with my friend on the weekend.
 3396	I am learning Japanese from that teacher.
-3397	Yesterday, Mr. Lee learned Kanji from Mr. Matsui.
+3397	Yesterday, Mr Lee learned Kanji from Mr Matsui.
 3398	University starts in April.
 3399	Class starts at 9.00 in the morning.
 3402	There are a lot of books arranged on the bookshelf.
@@ -881,7 +881,7 @@
 3411	That hospital is closed on Wednesdays and Sundays.
 3412	I will go to the bank and transfer some money on Thursday afternoon.
 3413	I always play with my friends on Fridays because the next day is a day off.
-3414	I will eat dinner at Mr. Hayashi's house this Saturday.
+3414	I will eat dinner at Mr Hayashi's house this Saturday.
 3415	It was my mother's birthday last week.
 3416	There will not be Japanese class this week.
 3417	I will study because I have a test next week.
@@ -893,13 +893,13 @@
 3423	A new restaurant was built in front of the station yesterday.
 3424	I sent a letter to my mother yesterday.
 3425	I was absent from school because I was sick.
-3426	Today, I will go watch a film with Mr. Lee.
+3426	Today, I will go watch a film with Mr Lee.
 3427	Starting tomorrow, I will study kanji every day.
 3428	I must go to the embassy tomorrow.
 3429	I am thinking of going to the beach to swim the day after tomorrow.
 3430	There is a baseball game the day after tomorrow.
 3431	I went to sleep early last night because I was tired.
-3432	I went to eat dinner with Ms. Kimura last night.
+3432	I went to eat dinner with Ms Kimura last night.
 3433	Starting next week, we have a test every day.
 3434	I read the newspaper every morning and go to work.
 3435	I wake up at 6.00 every morning.
@@ -914,7 +914,7 @@
 3445	It is very cold tonight.
 3446	Today, we had class from morning until evening.
 3447	I always ride the train at eight o'clock in the morning.
-3448	I went to a cafe with Mr. Kimura during lunchtime yesterday.
+3448	I went to a cafe with Mr Kimura during lunchtime yesterday.
 3449	I rest for an hour during lunchtime every day.
 3450	I need to finish this work by evening.
 3451	I went for a walk in the park this evening.
@@ -933,7 +933,7 @@
 3465	When I get home, I take a shower first.
 3466	When we ride the train, we let the people get off first.
 3467	After you put in some sugar, then you put in a little bit of soy sauce.
-3468	I will lend this magazine to Mr. Yamada next.
+3468	I will lend this magazine to Mr Yamada next.
 3469	I will go to the library later to return a book.
 3470	The class will finish in five minutes.
 3472	This restaurant is big and beautiful.
@@ -957,12 +957,12 @@
 3491	A man will carry the heavy box.
 3492	This bag is big and heavy.
 3493	I want shoes that are light.
-3494	Ms. Kimura's package is small and light.
-3495	Mr. Yamada is the tallest in the class.
+3494	Ms Kimura's package is small and light.
+3495	Mr Yamada is the tallest in the class.
 3496	I want to live in a high place.
 3497	I am thinking of studying for a long time this evening.
 3498	Yesterday's class was long.
-3499	That short person is Ms. Kimura.
+3499	That short person is Ms Kimura.
 3500	This mountain is low.
 3501	I must do this work in a short time.
 3502	A day is very short.
@@ -971,7 +971,7 @@
 3505	This computer is expensive, but it is very good.
 3506	This food is bad for you.
 3507	The weather is bad today.
-3508	Mr. Yamada is a funny person.
+3508	Mr Yamada is a funny person.
 3509	This class is very interesting.
 3510	The party yesterday was very fun.
 3511	Studying Japanese is fun.
@@ -979,15 +979,15 @@
 3513	This book is boring.
 3514	I heard something I didn't like yesterday.
 3515	I don't like cleaning or doing the laundry.
-3516	This is Mr. Kobayashi's favourite food.
+3516	This is Mr Kobayashi's favourite food.
 3517	I love animals.
 3518	I would like to go to a quiet and beautiful place.
-3519	Mr. Matsui lives in a quiet town.
+3519	Mr Matsui lives in a quiet town.
 3520	This place is a big and bustling town.
 3521	The class next to ours is very loud.
 3522	I cannot study because the neighbour's dog is loud.
 3523	That person is always loud during class.
-3524	Mr. Hayashi lives in a town where there are a lot of people.
+3524	Mr Hayashi lives in a town where there are a lot of people.
 3525	There are a lot of foreign students at this school.
 3526	I want to go to a place where there are not many people.
 3527	There aren't many fish in that supermarket.
@@ -999,13 +999,13 @@
 3533	I will put two vases on the table.
 3534	There are three answers to this question.
 3535	We will order four dishes at the restaurant.
-3536	Mr. Tanaka bought five pieces of cake.
+3536	Mr Tanaka bought five pieces of cake.
 3537	There are six boxes in the room.
-3538	Ms. Kimura made seven snacks.
+3538	Ms Kimura made seven snacks.
 3539	I need to buy eight souvenirs.
 3540	There are nine bags in this classroom.
 3541	It is summer vacation from the first of August.
-3542	Mr. Tanaka will go overseas on the second next month.
+3542	Mr Tanaka will go overseas on the second next month.
 3543	There is no school or work from the third of March until the fifth of May.
 3544	I must write an essay in English by the fourth.
 3545	My father's birthday is the fifth of June.
@@ -1015,16 +1015,16 @@
 3549	My parents will come to my house on the ninth of next month.
 3550	I must do this work by the tenth.
 3551	There is going to be a Japanese test on the twentieth of this month.
-3552	Mr. Lee is living by himself in Japan.
+3552	Mr Lee is living by himself in Japan.
 3553	There is a student in the classroom.
-3554	The two of us, Ms. Kimura and I, will go to the pool tomorrow.
+3554	The two of us, Ms Kimura and I, will go to the pool tomorrow.
 3555	There are two people I do not know in front of the house.
 3556	In Japan, we can drink at twenty years of age.
 3557	My brother will become twenty years old next month.
 3558	I eat three times every day.
 3559	I go abroad once a year.
 3560	We need two eggs for this dish.
-3561	I ate one snack that I got from Mr. Lee.
+3561	I ate one snack that I got from Mr Lee.
 3562	In Japan, you can start driving at 18 years old.
 3563	My sister is four years old.
 3564	There are seven computers in this classroom.
@@ -1034,7 +1034,7 @@
 3570	I drink one glass of milk every morning.
 3571	I bought three fish at the supermarket yesterday.
 3572	There are two dogs over there.
-3573	Mr. Hayashi has one cat in his house.
+3573	Mr Hayashi has one cat in his house.
 3574	I always bring three pencils to school.
 3575	There are two trees in my garden.
 3576	I will eat and smoke a cigarette.
@@ -1045,24 +1045,24 @@
 3581	I will put in 30 grams of sugar and 15 grams of salt.
 3582	I will buy 200 grams of pork.
 3583	This bookshelf is 1 metre tall and 1.5 metres wide.
-3584	Mr. Yamada can swim 100 metres.
+3584	Mr Yamada can swim 100 metres.
 3585	I like small and cute animals.
-3586	Ms. Kimura is very cute.
-3587	That young, energetic person is Mr. Yamada.
+3586	Ms Kimura is very cute.
+3587	That young, energetic person is Mr Yamada.
 3588	The teacher next to our class is still young.
 3589	There is a round box over there.
 3590	This table is round.
 3591	The thing I want the most right now is a new computer.
 3592	I want a Japanese dictionary.
-3593	Mr. Lee caught a cold, so he is not healthy.
-3594	Mr. Tanaka is a very cheerful person.
+3593	Mr Lee caught a cold, so he is not healthy.
+3594	Mr Tanaka is a very cheerful person.
 3595	Eat a lot of food, and you will have a strong body.
-3596	Mr. Yamada is strong and healthy.
-3597	I will tell Mr. Lee the days that work for me because we will be going out next month.
+3596	Mr Yamada is strong and healthy.
+3597	I will tell Mr Lee the days that work for me because we will be going out next month.
 3598	I have to study today, but tomorrow will work.
 3599	This book is very important, so please do not lose it.
 3600	This is a very important letter.
-3603	Mr. Tanaka is doing a hard job.
+3603	Mr Tanaka is doing a hard job.
 3604	It is challenging because I must learn a lot of kanji.
 3605	This is a very light and convenient dictionary.
 3606	Airplanes are fast and convenient.
@@ -1071,14 +1071,14 @@
 3609	I am busy this month, so I am not free on any day.
 3610	I am free tomorrow, so I will go out with my friend.
 3611	You cannot use the thing that is over there.
-3612	Ms. Matsui loves cute things.
+3612	Ms Matsui loves cute things.
 3613	I want to live in a quiet and beautiful place.
 3614	This place is very lively.
 3615	Yesterday, I heard some interesting news from my friend.
 3616	I watched the news on TV this morning.
 3617	I shopped for dinner at the supermarket.
 3618	My sister's wedding party was held last week.
-3619	Mr. Yamada gave a watch for Mr. Kobayashi's birthday.
+3619	Mr Yamada gave a watch for Mr Kobayashi's birthday.
 3620	My birthday is on 26 August.
 3621	This notebook is wider than it is tall.
 3622	I will cut this paper vertically.
@@ -1087,12 +1087,12 @@
 3625	You cannot open that door.
 3626	The door to my room wouldn't close.
 3627	This book has 120 pages.
-3628	I borrowed a phone from Mr. Kimura.
-3629	I will call Mr. Lee tomorrow.
+3628	I borrowed a phone from Mr Kimura.
+3629	I will call Mr Lee tomorrow.
 3630	I took a lot of pictures, so I do not have any more film.
 3631	I will put a film in the camera.
 3632	We will talk in a quiet voice because it is already midnight.
-3633	Mr. Matsui's voice is big.
+3633	Mr Matsui's voice is big.
 3634	We line up in order of height from the shortest.
 3635	This jacket has a lot of pockets, so it is convenient.
 3636	I will put money in my pocket.
@@ -1103,7 +1103,7 @@
 3641	There is no soap in the bathroom.
 3642	I lit a cigarette using a match.
 3643	There is a match on the table.
-3644	Last week, I went to the cinema with Mr. Lee and watched a film.
+3644	Last week, I went to the cinema with Mr Lee and watched a film.
 3645	That cinema is new and pretty.
 3646	I put notebooks and pens inside the box.
 3647	This box is very heavy.
@@ -1117,12 +1117,12 @@
 3655	I will go back to my country during summer vacation.
 3656	The bird is drinking water.
 3657	There is a bird on top of that tree.
-3658	There are a dog and a cat in Mr. Hayashi's house.
+3658	There are a dog and a cat in Mr Hayashi's house.
 3659	The cat is sleeping over there.
 3660	I went for a walk with my dog in the park in the evening.
 3661	My dog is very big.
 3662	I played with my pet yesterday.
-3663	Mr. Kobayashi has a pet in his house.
+3663	Mr Kobayashi has a pet in his house.
 3664	That animal is very cute.
 3666	The sea over there is very pretty.
 3667	My parents live near the sea.
@@ -1131,9 +1131,9 @@
 3670	There is a fish in the lake.
 3671	There is a big lake in the park.
 3672	This flower is red and pretty.
-3673	Ms. Kimura likes flowers.
+3673	Ms Kimura likes flowers.
 3674	Yesterday I cut down a tree.
-3675	There are trees and flowers in Mr. Tanaka's home garden.
+3675	There are trees and flowers in Mr Tanaka's home garden.
 3676	The sky in the east is cloudy.
 3677	The sky is big.
 3678	It snows during winter in Japan.
@@ -1160,12 +1160,12 @@
 3699	I watched TV yesterday. After that, I studied Japanese.
 3700	This dictionary is not very good.
 3701	Let's go get lunch later.
-3702	Mr. Tanaka always seems busy.
+3702	Mr Tanaka always seems busy.
 3703	I always shop at this supermarket.
 3704	Thank you for everything.
 3705	There are various dishes laid out on the table.
 3706	Thank you. This is enough.
-3707	Mr. Kobayashi is very smart.
+3707	Mr Kobayashi is very smart.
 3708	I will read a little before sleeping.
 3709	I drank a little bit of alcohol yesterday.
 3710	I'm eating dinner right now.
@@ -1174,21 +1174,21 @@
 3713	My wife comes home soon.
 3714	It was very fun today.
 3715	This film is very interesting.
-3716	Mr. Lee is gradually getting better at Japanese.
+3716	Mr Lee is gradually getting better at Japanese.
 3717	It gradually gets warmer in the spring.
 3718	B: I'm sorry. Tomorrow is a little...
 3719	A: Would you like to go shopping with me tomorrow?
 3720	I sometimes shop at this vegetable shop.
-3721	Ms. Kimura sometimes makes dinner.
-3722	The person over there is probably Mr. Yamada.
-3723	Mr. Hayashi probably knows the news.
+3721	Ms Kimura sometimes makes dinner.
+3722	The person over there is probably Mr Yamada.
+3723	Mr Hayashi probably knows the news.
 3724	The students are lined up in a straight line in the hallway.
 3725	After you leave the station, please go straight down that street.
 3726	Yesterday, I learned piano for the first time.
-3727	I met Mr. Hayashi for the first time.
+3727	I met Mr Hayashi for the first time.
 3728	I will come back again.
-3729	I will go out with Mr. Lee again next week.
-3730	Mr. Matsui hasn't started homework yet.
+3729	I will go out with Mr Lee again next week.
+3730	Mr Matsui hasn't started homework yet.
 3731	It is still 10.00 now.
 3732	I have already had lunch at the cafeteria.
 3733	My sister already went to bed.
@@ -1200,8 +1200,8 @@
 3739	I will buy cheaper clothes.
 3740	You wrote this essay very well.
 3741	I did well on yesterday's test.
-3742	I have bumped into Mr. Kobayashi many times today.
-3743	I often go to that cafe with Mr. Kimura.
+3742	I have bumped into Mr Kobayashi many times today.
+3743	I often go to that cafe with Mr Kimura.
 3744	I will do my homework first thing when I get home.
 3745	I will go back to my country at the beginning of next month.
 3746	Who will you meet tomorrow?
@@ -1211,23 +1211,23 @@
 3750	Why are you studying Japanese?
 3751	What transport do you use to get to work?
 3752	Which one is the most delicious?
-3753	Which one did Mr. Hayashi buy?
+3753	Which one did Mr Hayashi buy?
 3754	What kind of food is it?
 3755	What kind of person would you like to marry?
-3756	Mr. Lee, which drink would you like?
-3757	Ms. Kimura, which one do you like?
+3756	Mr Lee, which drink would you like?
+3757	Ms Kimura, which one do you like?
 3758	Would you like some coffee?
 3759	Would you like a snack?
 3760	Whose class is the most interesting?
-3761	Who is Mr. Hayashi?
-3762	Who is Mr. Kobayashi?
+3761	Who is Mr Hayashi?
+3762	Who is Mr Kobayashi?
 3763	Who is the new teacher?
-3764	Which one do you want to eat, Mr. Yamada?
+3764	Which one do you want to eat, Mr Yamada?
 3765	Where is your country?
-3766	Ah, Mr. Tanaka, good evening.
+3766	Ah, Mr Tanaka, good evening.
 3767	Oh, good.
 3768	I took that picture last week.
-3769	That person is Mr. Kobayashi.
+3769	That person is Mr Kobayashi.
 3770	Well, I don't know, I'm not really sure.
 3771	Now, let's start class.
 3772	Hello, this is Kimura.
@@ -1251,10 +1251,10 @@
 3791	I want a hat like this.
 3792	Please help me if I'm doing something wrong.
 3795	I went home with everyone.
-3796	I will study with Mr. Yamada at the library.
+3796	I will study with Mr Yamada at the library.
 3797	Would you like to go on a trip together?
 3798	Big bags are convenient.
-3799	Mr. Tanaka lives in a big house.
+3799	Mr Tanaka lives in a big house.
 3800	There is a small chair in my room.
 3801	I was born in a small town.
 3802	I cut a piece of fruit in half.
@@ -1265,11 +1265,11 @@
 3807	I finished all of my homework.
 3808	There are many people swimming at the beach.
 3809	Many people came to the party.
-3810	My shoes and Ms. Kobayashi's shoes are the same.
-3811	Mr. Matsui and Ms. Lee are in the same class.
+3810	My shoes and Ms Kobayashi's shoes are the same.
+3811	Mr Matsui and Ms Lee are in the same class.
 3812	I put a lot of milk in my coffee.
 3813	I walked a lot today.
-3814	Mr. Tanaka can sing while playing the guitar.
+3814	Mr Tanaka can sing while playing the guitar.
 3815	I eat while watching TV.
 3816	I bought a sweater, skirt and so on at the department store yesterday.
 3817	There are eggs, vegetables, fruit and so on in the refrigerator.
@@ -1284,20 +1284,20 @@
 3826	We all sing songs together.
 3827	Everyone is waiting for the teacher in the classroom.
 3828	Everyone is a student at this university.
-3829	Mr. Lee worked abroad for a year and a half.
+3829	Mr Lee worked abroad for a year and a half.
 3830	It is already 7.30, so I must get out of the house.
-3831	Mr. Lee wants to play tennis.
+3831	Mr Lee wants to play tennis.
 3832	The children want snacks.
 3833	I finished about half of my homework.
 3834	One egg is about 50 grams.
-3835	Mr. Tanaka will arrive at the station at about 10.00.
+3835	Mr Tanaka will arrive at the station at about 10.00.
 3836	When I was a child, I often played at that park.
 3837	Class always starts after 9.00.
 3838	It is past 12.00 now.
 3839	I will rest for a moment around here.
-3840	Mr. Hayashi's house is around here.
+3840	Mr Hayashi's house is around here.
 3841	My brother's room is smaller than my room.
-3842	I like baseball more than soccer.
+3842	I like baseball more than football.
 3843	I cut my hair three days ago.
 3844	I sometimes go to the bookstore over there.
 3845	My aunt works at a flower shop.
@@ -1323,10 +1323,10 @@
 3865	Mobile phones are small and very useful.
 3866	You should stop reading books where it is dark.
 3867	I quit my job last month.
-3868	I ate the snack I received from Mr. Tanaka.
-3869	Yesterday, I received a souvenir from Mr. Yamada.
-3870	Mr. Kobayashi gave half of the bread to Ms. Kimura.
-3871	Mr. Matsui gave a tie to Mr. Tanaka for his birthday.
+3868	I ate the snack I received from Mr Tanaka.
+3869	Yesterday, I received a souvenir from Mr Yamada.
+3870	Mr Kobayashi gave half of the bread to Ms Kimura.
+3871	Mr Matsui gave a tie to Mr Tanaka for his birthday.
 3872	Well then, that is all for today's class. Let's meet next week.
 3873	Have you finished your test? Well then, please hand it in.
 3874	Um, excuse me. Where is the library?
@@ -1335,12 +1335,12 @@
 3877	There are ten in all.
 3878	You may not wear a hat during class.
 3879	I will go on a trip abroad for two weeks from next week.
-3880	I showed vacation pictures to Mr. Kimura.
+3880	I showed vacation pictures to Mr Kimura.
 3881	I like white the best of all the colours.
 3882	It is zero degrees here, so it is very cold.
 3883	"Zero" is the same as "nought".
 3884	I will buy a postcard at the post office.
-3885	There are two cars in Mr. Tanaka's house.
+3885	There are two cars in Mr Tanaka's house.
 3886	There are three TVs in my house.
 3887	We read "4" as "four".
 3888	There are five people in my family.
@@ -1350,9 +1350,9 @@
 3892	My brother is nine years old.
 3893	The tenth of October is my brother's birthday.
 3894	A hundred people can fit in the room next to ours.
-3895	I borrowed one thousand yen from Mr. Yamada yesterday.
+3895	I borrowed one thousand yen from Mr Yamada yesterday.
 3896	This coat costs ten thousand yen.
-3898	Ms. Kimura's dad is 52 years old.
+3898	Ms Kimura's dad is 52 years old.
 3899	I am worried because my sister still has a high fever.
 3900	The rain continued for several days last week.
 3901	I will check my belongings before I leave the house.
@@ -1363,7 +1363,7 @@
 3906	The opposite of "heavy" is "light".
 3907	You cannot go into this room.
 3908	If you press here, the sound will get louder.
-3909	Mr. Lee and I are in the same group.
+3909	Mr Lee and I are in the same group.
 3911	I always read a book for only thirty minutes before I go to sleep.
 3912	I ate only one snack.
 3913	B: One, two, three, four...

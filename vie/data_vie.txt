@@ -93,7 +93,7 @@
 1473	Đừng quên làm bài tập nhé!
 1474	Có thể học bài ở đây.
 1476	Tôi nghĩ người kia là giáo viên tiếng Nhật.
-1477	Đây là cuộc băng mà tôi mua hôm qua.
+1477	Đây là cuộn băng mà tôi mua hôm qua.
 1478	Nếu không biết đường thì hãy gọi điện thoại.
 1481	Anh Kobayashi mặc chiếc áo sơ mi màu xanh da trời.
 1482	Điều đó có viết trong thư.
@@ -187,7 +187,7 @@
 1818	Tôi muốn uống nước.
 1824	Vâng, được thôi.
 1826	Tôi đã muốn thi vào đại học ở Tokyo.
-1831	Tôi muốn có một cái máy tính.
+1831	Tôi muốn có một cái máy vi tính.
 1836	Bạn muốn cái nào?
 1837	Tôi muốn cái này với cái đó.
 1848	Tôi thích âm nhạc.
@@ -219,7 +219,7 @@
 2017	Tại sao bạn lại nghỉ học vậy?
 2018	Vì sốt nên tôi không thể nào dậy nổi.
 2019	Hôm nay thầy giáo bị ốm nên nghỉ học.
-2023	Anh Yamada lúc nào sôi nổi nhưng hôm nay lại im ắng.
+2023	Anh Yamada lúc nào cũng sôi nổi nhưng hôm nay lại im ắng.
 2024	Hôm nay tuy là chủ nhật nhưng tôi lại có việc.
 2030	Tôi thì sống ở Tokyo nhưng em trai lại sống ở Kyoto.
 2041	Nếu bạn đi đến đại học kia thì đi xe đạp tiện hơn.
@@ -247,7 +247,7 @@
 2115	Tôi đi bộ đến ga.
 2120	Tuần sau khi đi đến đó thì tôi sẽ mua đồ uống đến.
 2123	Hôm nay tôi đã đi ăn cơm tối với bạn.
-2130	Xin lỗi, tôi có thể mặc thử đồ này được không?
+2130	Xin lỗi, tôi có thể mặc thử bộ đồ này được không?
 2153	Tôi là sinh viên.
 2154	Bộ phim tôi xem hôm qua rất thú vị.
 2158	Tôi là sinh viên còn anh trai tôi là nhân viên công ty.
@@ -295,7 +295,7 @@
 2756	Bưu điện ở bên cạnh ga.
 2757	Ngày mai hành lý sẽ đến.
 2758	Tàu điện sắp vào ga.
-2759	Tôi viết tên trên bì thư.
+2759	Tôi viết tên trên phong bì.
 2761	Có cái siêu thị ở phía sau ga.
 2762	Do ngày hôm qua rất lạnh nên tôi đã bị cảm.
 2763	Vì đau đầu nên tối nay tôi ngủ sớm.
@@ -342,8 +342,8 @@
 2810	Cà-ri là món ăn của Ấn Độ.
 2811	Tôi không uống được nhiều rượu lắm.
 2812	Tôi lấy muỗng cho đường vào cà phê.
-2813	Dùng nĩa khi ăn bánh ga-tô.
-2814	Món Pháp thì dùng dao vào nĩa để ăn.
+2813	Dùng dĩa khi ăn bánh ga-tô.
+2814	Món Pháp thì dùng dao vào dĩa để ăn.
 2815	Vì nguy hiểm nên bạn không được dùng dao.
 2817	Tôi sẽ dùng cái đĩa mới.
 2818	Tôi ăn sáng mỗi ngày.
@@ -353,17 +353,17 @@
 2822	Tôi ghét sữa nên không uống mấy.
 2823	Sau khi uống rượu thì nên uống nước.
 2824	Sau khi uống tôi rửa sạch cốc.
-2825	Tôi đã nhận được một cái tách dễ thương từ bạn.
+2825	Tôi đã nhận được một cái cốc dễ thương từ bạn.
 2826	Tôi cho đường vào cà phê rồi uống.
 2828	Tôi cho tiền vào ví.
 2829	Chị Matsui đã rót cà phê cho tôi.
 2830	Tàu điện này chạy đến Tokyo.
 2831	Tàu điện ngầm vừa rẻ vừa nhanh nên rất tiện.
 2832	Khi lên tàu tôi mua vé.
-2833	Tôi không lên thang máy mà sử dụng thang bộ.
+2833	Tôi không đi thang máy mà sử dụng thang bộ.
 2834	Nhà vệ sinh ở tầng hai.
 2835	Khi ra khỏi nhà vệ sinh tôi rửa tay.
-2836	Tôi trình vé tại lối vào ga.
+2836	Tôi xuất trình vé tại lối vào ga.
 2837	Nếu ra cổng này thì sẽ gần thư viện nhất.
 2838	Nếu đi đến đại sứ quán thì sẽ xuống ở ga tiếp theo.
 2839	Tôi không đi bộ đến trường mà đi xe buýt.
@@ -468,7 +468,7 @@
 2953	Cơm tối ngày hôm qua là món thịt.
 2954	Tôi thích cá hơn thịt.
 2955	Thịt bò đắt nhất trong các loại thịt.
-2956	Tôi không ăn được thịt heo.
+2956	Tôi không ăn được thịt lợn.
 2957	Thịt gà rẻ nhưng thịt bò ngon hơn.
 2958	Ở những nơi gần biển thì cá ngon.
 2959	Trong tủ lạnh có rau, trứng....
@@ -476,7 +476,7 @@
 2961	Tôi ăn rau và trái cây mỗi sáng.
 2962	Xe ô-tô tuy đắt nhưng tiện lợi.
 2965	Tôi mượn ba quyển sách ở thư viện.
-2966	Thư viện mở cửa từ chín giờ sáng tám giờ tối.
+2966	Thư viện mở cửa từ chín giờ sáng tới tám giờ tối.
 2967	Trong thư viện có rất nhiều kệ sách.
 2968	Từ điển được đặt trên kệ sách đằng kia.
 2969	Tạp chí thì không thể mượn được tại thư viện.
@@ -486,7 +486,7 @@
 2974	Tôi tra từ điển để học tiếng Nhật.
 2975	Tôi đã phô-tô sách tại thư viện.
 2976	Thầy giáo đưa cho học sinh bản phô-tô của tờ báo.
-2977	Anh Hayashi đang làm việc tại công ty máy tính.
+2977	Anh Hayashi đang làm việc tại công ty về máy vi tính.
 2978	Ngày mai tôi sẽ đi đến công ty sớm.
 2979	Ngày nghỉ tôi sẽ đi ra ngoài với bạn.
 2981	Đây là cà vạt của Ý.
@@ -607,7 +607,7 @@
 3116	Người Nhật dùng đũa để ăn cơm.
 3117	Tôi sẽ đi dạo ở công viên rồi trở về nhà.
 3118	Tôi luyện tập ten-nít mỗi ngày.
-3119	Tôi thích môn bóng cháy nhất trong các môn thể thao.
+3119	Tôi thích môn bóng chày nhất trong các môn thể thao.
 3120	Anh Matsui giỏi bóng chày hơn bóng đá.
 3121	Vì mưa nên trận thi đấu bóng chày đã không diễn ra.
 3122	Ngày mai có trận đấu ten-nít.
@@ -626,8 +626,8 @@
 3136	Tôi vay tiền ở ngân hàng.
 3137	Bố của tôi là nhân viên ngân hàng.
 3138	Nhân viên ngân hàng ở quầy lễ tân đa phần là nữ.
-3139	Tôi sẽ chuyển khoản tiền tại quầy lễ tân.
-3140	Tôi sẽ đi đến ngân hàng để chuyển khoản tiền.
+3139	Tôi sẽ chuyển tiền tại quầy lễ tân.
+3140	Tôi sẽ đi đến ngân hàng để chuyển tiền.
 3141	Tôi đã nhận giấy điền thông tin chuyển khoản tại quầy lễ tân.
 3142	Tôi điền tên và địa chỉ lên giấy này.
 3143	Tôi ghi nhớ số ghi trên tờ giấy.
@@ -674,7 +674,7 @@
 3187	Tôi cầm theo áo khoác ra ngoài.
 3188	Vì bên ngoài trời lạnh nên tôi mặc áo ấm rồi đi đến công ty.
 3189	Vì trời nóng nên tôi cởi áo len.
-3190	Cái quần này thì nhỏ so với tôi nên không thể mặc vừa.
+3190	Cái quần này thì nhỏ so với tôi nên tôi không thể mặc vừa.
 3192	Chị Kobayashi thích mặc quần hơn so với mặc váy.
 3193	Cởi giày và đi dép vào.
 3194	Vì mắt kém nên tôi đeo kính.
@@ -720,7 +720,7 @@
 3238	Người đang mặc chiếc áo sơ mi vàng là anh Hayashi.
 3239	Ô-tô của anh Tanaka màu trắng và to.
 3240	Khi đến công ty tôi mặc một bộ com lê đen.
-3241	Anh Tanaka đang đeo chiếc cà vạt màu lá.
+3241	Anh Tanaka đang đeo chiếc cà vạt màu xanh lá.
 3242	Màu tóc của chị Kimura là màu nâu.
 3243	Tôi thích màu xanh hơn màu đỏ.
 3244	Màu tôi thích là màu xanh.
@@ -740,7 +740,7 @@
 3259	Toàn bộ khu phía đông của thị trấn này là rừng rậm.
 3260	Từ đây đi một chút về hướng Tây sẽ có biển.
 3261	Chị gái của chị Kimura là một người rất xinh đẹp.
-3262	Cha mẹ tôi hiện đang ở nước ngoài.
+3262	Bố mẹ tôi hiện đang ở nước ngoài.
 3263	Tôi đã tặng mẹ quà sinh nhật.
 3264	Chị tôi hiện đang sống một mình tại Tokyo.
 3265	Vợ anh Tanaka là giảng viên đại học.
@@ -770,7 +770,7 @@
 3290	Tôi tự nấu bữa tối hàng ngày.
 3291	Nhà vệ sinh ở đây.
 3292	Đây là anh Kobayashi.
-3293	Vì không thể ngồi bên đây, tôi ngồi bên kia.
+3293	Vì không thể ngồi bên đây nên tôi ngồi bên kia.
 3294	Tòa nhà bên kia được xây dựng vào năm bảy trăm chín mươi tư.
 3295	Kia là anh Yamada.
 3296	Nhà ăn nằm ở tòa nhà đằng kia.
@@ -783,7 +783,7 @@
 3303	Tháng này công việc của tôi rất bận.
 3305	Tôi đã học tiếng Anh tại Mỹ trong ba tháng.
 3306	Sinh nhật anh Matsui là tháng tám.
-3307	Ngày mai là ngày một tháng tư.
+3307	Ngày mai là mồng một tháng tư.
 3309	Hàng tháng tôi đều viết thư cho bạn bè ở nước ngoài.
 3310	Từ tuần sau anh Hayashi sẽ đi nước ngoài làm việc trong một tháng.
 3311	Tháng trước tôi có cắt tóc mà đã dài ra mất rồi.
@@ -801,7 +801,7 @@
 3323	Năm năm trước tôi đã kết hôn cùng vợ mình.
 3324	Anh Lee định ở Nhật Bản ba năm.
 3326	Tối nay tôi sẽ gặp chị Kimura ở ga.
-3327	Ngày mai tôi sẽ gặp anh Lee và đưa anh ấy quà đi tôi đi xa về.
+3327	Ngày mai tôi sẽ gặp anh Lee và đưa anh ấy quà.
 3328	Hơi nóng nên tôi sẽ mở cửa sổ ra.
 3329	Tôi mở cửa rồi bước vào phòng.
 3331	Không được mở cái cửa sổ đằng kia vì nguy hiểm.
@@ -811,7 +811,7 @@
 3335	Bây giờ tôi không có tiền.
 3336	Hôm qua vì bị sốt nên tôi đã không đi học.
 3337	Sau khi hết giờ học tôi sẽ tới nhà bạn bè.
-3338	Ngày mai tôi viết tập làm văn ở lớp nên tôi sẽ cần từ điển.
+3338	Ngày mai tôi sẽ tập viết văn ở lớp nên tôi sẽ cần từ điển.
 3339	Khi đi tàu điện thì cần vé.
 3340	Tôi cắm nguồn vào rồi bật đèn lên.
 3341	Tôi sẽ bật nguồn máy tính.
@@ -1005,15 +1005,15 @@
 3539	Tôi phải mua chín món quà du lịch.
 3540	Trong phòng học này có chín cái cặp sách.
 3541	Nghỉ hè bắt đầu từ ngày một tháng tám.
-3542	Anh Tanaka sẽ ra nước ngoài vào ngày hai tháng sau.
+3542	Anh Tanaka sẽ ra nước ngoài vào ngày mùng hai tháng sau.
 3543	Từ ngày ba đến ngày mùng năm tháng năm, các trường học và công ty sẽ nghỉ.
-3544	Tôi phải viết bài tập làm văn tiếng Anh trước ngày năm.
+3544	Tôi phải viết bài tập làm văn tiếng Anh trước ngày mùng năm.
 3545	Sinh nhật bố tôi là ngày mùng năm tháng sáu.
 3546	Cửa hàng bách hóa này bán rẻ vào ngày mùng tám hàng tháng.
 3547	Tôi đã gửi bưu kiện ở bưu điện vào ngày mùng sáu.
 3548	Tôi sẽ chuyển khoản trước ngày mùng bảy.
-3549	Ngày chín tháng sau bố mẹ sẽ đến nhà tôi chơi.
-3550	Tôi phải làm công việc này trước ngày mười.
+3549	Ngày mùng chín tháng sau bố mẹ sẽ đến nhà tôi chơi.
+3550	Tôi phải làm công việc này trước ngày mùng mười.
 3551	Ngày hai mươi tháng này tôi sẽ có bài kiểm tra tiếng Nhật.
 3552	Anh Lee đang sống một mình tại Nhật Bản.
 3553	Trong phòng học có một học sinh.
@@ -1109,7 +1109,7 @@
 3647	Chiếc hộp này rất nặng.
 3648	Tôi viết câu trả lời cho đề bài vào tờ giấy này.
 3649	Trên bàn có giấy và bút chì.
-3650	Một con đường vừa được hoàn thành nên đi lại trong ngoài làng cũng thuận tiện hơn.
+3650	Một con đường vừa được hoàn thành nên việc đi lại trong ngoài làng cũng thuận tiện hơn.
 3651	Ngôi làng này yên tĩnh và xinh đẹp.
 3652	Tháng trước có một trung tâm thương mại lớn đã mở cửa ở thị trấn kế bên.
 3653	Sang năm tôi sẽ bắt đầu sống ở thị trấn này.
@@ -1120,7 +1120,7 @@
 3658	Nhà anh Hayashi có một chú chó và một chú mèo.
 3659	Đằng kia có một chú mèo đang ngủ.
 3660	Tôi đã dẫn chó đi dạo ở công viên hồi chiều.
-3661	Chú chó nhà tôi rất to lớn.
+3661	Chú chó nhà tôi rất to.
 3662	Hôm qua tôi đã chơi đùa với vật nuôi của mình.
 3663	Anh Kobayashi có nuôi thú cảnh ở nhà.
 3664	Những động vật nhỏ rất đáng yêu.
@@ -1187,9 +1187,9 @@
 3726	Hôm qua là lần đầu tôi học đàn dương cầm.
 3727	Tôi đã gặp anh Hayashi lần đầu tiên.
 3728	Tôi sẽ quay lại sau.
-3729	Tuần sau tôi lại chơi với anh Kobayashi.
+3729	Tuần sau tôi lại đi chơi với anh Kobayashi.
 3730	Anh Matsui vẫn chưa làm bài tập về nhà.
-3731	Bây giờ vẫn mười giờ.
+3731	Bây giờ mới mười giờ.
 3732	Tôi đã ăn bữa trưa ở nhà ăn rồi.
 3733	Em gái tôi đã đi ngủ rồi.
 3734	Tôi làm thêm một chút rồi sẽ về.
@@ -1269,7 +1269,7 @@
 3811	Anh Matsui và anh Lee học cùng một lớp.
 3812	Tôi cho rất nhiều sữa vào cà phê.
 3813	Hôm nay tôi đã đi bộ rất nhiều.
-3814	Anh Tanaka có thể vừa gảy đàn ghi-ta vừa hát.
+3814	Anh Tanaka có thể vừa đánh đàn ghi-ta vừa hát.
 3815	Tôi vừa ăn cơm vừa xem ti-vi.
 3816	Hôm qua tôi mua áo len và chân váy ở trung tâm thương mại.
 3817	Trong tủ lạnh có trứng, rau, hoa quả....
@@ -1348,13 +1348,13 @@
 3890	Bước vào tháng bảy, thời tiết dần nóng lên.
 3891	Ở đây có tám con tem.
 3892	Em trai tôi chín tuổi.
-3893	Ngày mười tháng mười là sinh nhật anh trai tôi.
+3893	Ngày mùng mười tháng mười là sinh nhật anh trai tôi.
 3894	Phòng học bên cạnh có thể chứa được một trăm người.
 3895	Hôm qua tôi mượn của anh Yamada một nghìn yên.
 3896	Cái áo khoác này giá mười nghìn yên.
 3898	Bố chị Kimura năm mươi hai tuổi.
 3899	Hôm nay em gái tôi vẫn lên cơn sốt liên tục làm tôi lo lắng.
-3900	Mưa đã kéo dài nhiều ngày suốt tuần trước.
+3900	Tuần trước, mưa đã kéo dài suốt nhiều ngày.
 3901	Tôi kiểm tra lại hành lý trước khi ra khỏi nhà.
 3902	Tôi sẽ kiểm tra lại đáp án bài làm.
 3903	Hôm nay là sinh nhật vợ tôi nên tôi định về nhà sớm.
