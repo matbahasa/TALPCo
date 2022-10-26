@@ -81,6 +81,7 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 -----------------------------------
 
 - `data_eng.txt`	English (raw sentences)
+- `data_eng-US.txt`	English (US) (raw sentences) \[by courtesy of [Charles Kelly](http://aitech.ac.jp/~ckelly/)\]
 
 -----------------------------------
 
@@ -93,7 +94,7 @@ All files are encoded in UTF-8 with DOS format.
 `Sentence_ID [TAB] Sentence`
 
     1176	田中さんは 学生では ありません。
-    1176	Mr. Tanaka is not a student.
+    1176	Mr Tanaka is not a student.
 
 ### Links to sound files
 `Sentence_ID [TAB] URL`
