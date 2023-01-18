@@ -19,12 +19,16 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 - `data_jpn-IPSpkr.csv`	Japanese (interpersonal meaning annotation, speaker)
 - `data_jpn-IPAddr.csv`	Japanese (interpersonal meaning annotation, addressee)
 - `data_jpn-IPLex.csv`	Japanese (interpersonal meaning annotation, lexical)
+- `data_jpn-prosub.jsonl`	Japanese (pronoun substitute annotation)
+- `data_jpn-prosub.txt`	Japanese (pronoun substitute annotation)
 
 -----------------------------------
 
 - `data_kor.txt`	Korean (raw sentences)
 - `data_kor-sound.txt`	Korean (links to sound files)
 - `data_kor-token.txt`	Korean (tokenized sentences)
+- `data_kor-prosub.jsonl`	Korean (pronoun substitute annotation)
+- `data_kor-prosub.txt`	Korean (pronoun substitute annotation)
 
 -----------------------------------
 
@@ -32,6 +36,8 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 - `data_myn-sound.txt`	Burmese (links to sound files)
 - `data_myn-token.txt`	Burmese (tokenized sentences)
 - `data_myn-ps.txt`	Burmese (POS-tagged sentences)
+- `data_myn-prosub.jsonl`	Burmese (pronoun substitute annotation)
+- `data_myn-prosub.txt`	Burmese (pronoun substitute annotation)
 
 -----------------------------------
 
@@ -44,6 +50,8 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 - `data_zsm-IPSpkr.csv`	Malay (interpersonal meaning annotation, speaker)
 - `data_zsm-IPAddr.csv`	Malay (interpersonal meaning annotation, addressee)
 - `data_zsm-IPLex.csv`	Malay (interpersonal meaning annotation, lexical)
+- `data_zsm-prosub.jsonl`	Malay (pronoun substitute annotation)
+- `data_zsm-prosub.txt`	Malay (pronoun substitute annotation)
 
 -----------------------------------
 
@@ -52,20 +60,24 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 - `data_ind-token.txt`	Indonesian (tokenized sentences)
 - `data_ind-MWE.txt`	Indonesian (multiword expression list)
 - `data_ind-tree.txt`	Indonesian (constituency tree annotation)
-- `data_ind.jpn-ind`	Indonesian (partial Japanese-Indonesian alignment) 
+- `data_ind.jpn-ind`	Indonesian (partial Japanese-Indonesian alignment)
 - `data_ind-IPSpkr.csv`	Indonesian (interpersonal meaning annotation, speaker)
 - `data_ind-IPAddr.csv`	Indonesian (interpersonal meaning annotation, addressee)
 - `data_ind-IPLex.csv`	Indonesian (interpersonal meaning annotation, lexical)
+- `data_ind-prosub.jsonl`	Indonesian (pronoun substitute annotation)
+- `data_ind-prosub.txt`	Indonesian (pronoun substitute annotation)
 
 -----------------------------------
 
 - `data_tha.txt`	Thai (raw sentences)
 - `data_tha-sound.txt`	Thai (links to sound files)
 - `data_tha-token.txt`	Thai (tokenized sentences)
-- `data_tha.jpn-tha`	Thai (partial Japanese-Thai alignment) 
+- `data_tha.jpn-tha`	Thai (partial Japanese-Thai alignment)
 - `data_tha-IPSpkr.csv`	Thai (interpersonal meaning annotation, speaker)
 - `data_tha-IPAddr.csv`	Thai (interpersonal meaning annotation, addressee)
 - `data_tha-IPLex.csv`	Thai (interpersonal meaning annotation, lexical)
+- `data_tha-prosub.jsonl`	Thai (pronoun substitute annotation)
+- `data_tha-prosub.txt`	Thai (pronoun substitute annotation)
 
 -----------------------------------
 
@@ -73,10 +85,12 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 - `data_vie-sound.txt`	Vietnamese (links to sound files)
 - `data_vie-token.txt`	Vietnamese (tokenized sentences)
 - `data_vie-MWE.txt`	Vietnamese (multi-syllable expression list)
-- `data_vie.jpn-vie`	Vietnamese (partial Japanese-Vietnamese alignment) 
+- `data_vie.jpn-vie`	Vietnamese (partial Japanese-Vietnamese alignment)
 - `data_vie-IPSpkr.csv`	Vietnamese (interpersonal meaning annotation, speaker)
 - `data_vie-IPAddr.csv`	Vietnamese (interpersonal meaning annotation, addressee)
 - `data_vie-IPLex.csv`	Vietnamese (interpersonal meaning annotation, lexical)
+- `data_vie-prosub.jsonl`	Vietnamese (pronoun substitute annotation)
+- `data_vie-prosub.txt`	Vietnamese (pronoun substitute annotation)
 
 -----------------------------------
 
@@ -177,3 +191,7 @@ The sentences were tokenized using the `tokenize` function of [Deepcut](https://
 The sentences were tokenized using the `word_tokenize` function of the [Undersea - Vietnamese NLP Project](http://undertheseanlp.com/) and then checked by Junta Nomura and Hiroki Nomoto.  The following dictionary was consulted when it was not immediately obvious whether a syllable sequence constituted a multi-syllable expression.
 
 - Hoàng, Phê, ed. 2003. _Từ Điển Tiếng Việt_. Đà Nẵng: Nhà Xuất Bản Đà Nẵng.
+
+## Notes on pronoun substitute annotation
+- See the pronoun substitute [project page](https://github.com/matbahasa/ProSub).
+- One can modify the annotation, create a summary table and visualize the annotation by feeding the raw sentences and prosub annotation `.txt` files to [ETA: Easy Text Annotator](https://github.com/matbahasa/ETA).

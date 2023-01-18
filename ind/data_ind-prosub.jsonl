@@ -1,0 +1,1372 @@
+{"id":0,"text":"1176\tPak Tanaka bukan murid.","label":[]}
+{"id":1,"text":"1178\tAyah saya guru.","label":[[10,14,"1st"]]}
+{"id":2,"text":"1180\tSekolah sedang libur.","label":[]}
+{"id":3,"text":"1194\tTokyo cerah.","label":[]}
+{"id":4,"text":"1222\tDi taman ada pohon.","label":[]}
+{"id":5,"text":"1229\tPak Tanaka ada di mana?","label":[]}
+{"id":6,"text":"1233\tSaya tidak ada uang.","label":[[5,9,"1st"]]}
+{"id":7,"text":"1244\tDi atas meja ada buku.","label":[]}
+{"id":8,"text":"1245\tDi bawah meja ada tas.","label":[]}
+{"id":9,"text":"1246\tDi dalam tas ada buku tulis.","label":[]}
+{"id":10,"text":"1247\tDi sebelah kanan Pak Tanaka ada Pak Yamada.","label":[]}
+{"id":11,"text":"1248\tDi sebelah kiri Pak Tanaka ada Mbak Kimura.","label":[]}
+{"id":12,"text":"1249\tDi depan rumah ada kucing.","label":[]}
+{"id":13,"text":"1250\tDi belakang rumah ada mobil.","label":[]}
+{"id":14,"text":"1251\tPos surat ada di seberang rumah.","label":[]}
+{"id":15,"text":"1254\tPak Yamada ada di luar kelas.","label":[]}
+{"id":16,"text":"1255\tDi depan rumah ada taman.","label":[]}
+{"id":17,"text":"1257\tSekolah ada di dekat rumah.","label":[]}
+{"id":18,"text":"1258\tBuku di dalam tas.","label":[]}
+{"id":19,"text":"1259\tInilah pen saya.","label":[[16,20,"1st"]]}
+{"id":20,"text":"1264\tKelas bahasa Jepang di mana?","label":[]}
+{"id":21,"text":"1268\tItu koran kapan?","label":[]}
+{"id":22,"text":"1274\tDi kelas ada komputer baru.","label":[]}
+{"id":23,"text":"1275\tDi dalam kotak ada anjing kecil.","label":[]}
+{"id":24,"text":"1276\tPak Tanaka orang yang ceria.","label":[]}
+{"id":25,"text":"1280\tFilm yang bagaimana?","label":[]}
+{"id":26,"text":"1281\tFilm kuno Jepang.","label":[]}
+{"id":27,"text":"1286\tAnda membeli sepatu yang mana?","label":[[5,9,"2nd"]]}
+{"id":28,"text":"1291\tItulah kamus bahasa Jepang.","label":[]}
+{"id":29,"text":"1296\tTas Ibu Tanaka ada di situ.","label":[]}
+{"id":30,"text":"1297\tDi sana ada guru.","label":[]}
+{"id":31,"text":"1299\tBuku itu punya saya.","label":[[20,24,"1st"]]}
+{"id":32,"text":"1302\tTas besar itu punya saya.","label":[[25,29,"1st"]]}
+{"id":33,"text":"1305\tMaaf, di mana toilet?","label":[]}
+{"id":34,"text":"1308\tTas itu milik siapa?","label":[]}
+{"id":35,"text":"1311\tItu milik Pak Tanaka.","label":[]}
+{"id":36,"text":"1312\tMobil pak guru di mana?","label":[]}
+{"id":37,"text":"1319\tAda tujuh potong keik.","label":[]}
+{"id":38,"text":"1320\tBolpoin ini harganya berapa?","label":[]}
+{"id":39,"text":"1322\tSaya membeli sepuluh lembar prangko dan tiga lembar kartu pos.","label":[[5,9,"1st"]]}
+{"id":40,"text":"1323\tDi atas meja pak guru ada dua buah kamus dan sebuah majalah.","label":[]}
+{"id":41,"text":"1326\tDi situ ada berapa buah sapu tangan?","label":[]}
+{"id":42,"text":"1330\tSekarang pukul lima.","label":[]}
+{"id":43,"text":"1333\tSekarang pukul berapa?","label":[]}
+{"id":44,"text":"1334\tPukul sepuluh lewat lima puluh satu menit.","label":[]}
+{"id":45,"text":"1335\tHari ini tanggal berapa bulan apa?","label":[]}
+{"id":46,"text":"1341\tTelevisi ada di sebelah piano.","label":[]}
+{"id":47,"text":"1348\tBesok pelajaran akan selesai pada pagi hari.","label":[]}
+{"id":48,"text":"1349\tSetiap hari saya pergi ke sekolah.","label":[[17,21,"1st"]]}
+{"id":49,"text":"1350\tPak Tanaka belajar di perpustakaan, tetapi saya belajar di rumah.","label":[[48,52,"1st"]]}
+{"id":50,"text":"1356\tKemarin saya belajar.","label":[[13,17,"1st"]]}
+{"id":51,"text":"1367\tSaya pulang ke rumah.","label":[[5,9,"1st"]]}
+{"id":52,"text":"1369\tTidak, tidak pergi.","label":[]}
+{"id":53,"text":"1371\tPak Tanaka minum coca-cola.","label":[]}
+{"id":54,"text":"1378\tSaya akan mengirim surat kepada Pak Tanaka.","label":[[5,9,"1st"]]}
+{"id":55,"text":"1379\tSaya meminjamkan uang ke Pak Yamada.","label":[[5,9,"1st"]]}
+{"id":56,"text":"1380\tSaya mengajar bahasa Inggris kepada Mbak Kimura.","label":[[5,9,"1st"]]}
+{"id":57,"text":"1382\tSaya meminjam uang dari Pak Yamada.","label":[[5,9,"1st"]]}
+{"id":58,"text":"1386\tSaya meletakkan buku di meja.","label":[[5,9,"1st"]]}
+{"id":59,"text":"1388\tSaya bangun pukul setengah delapan.","label":[[5,9,"1st"]]}
+{"id":60,"text":"1389\tSaya tidur pada pukul sebelas.","label":[[5,9,"1st"]]}
+{"id":61,"text":"1392\tPada hari Minggu saya bermain tenis.","label":[[22,26,"1st"]]}
+{"id":62,"text":"1393\tKapan bermain tenis?","label":[]}
+{"id":63,"text":"1396\tSaya melihat film.","label":[[5,9,"1st"]]}
+{"id":64,"text":"1397\tSaya jalan-jalan saat libur musim panas.","label":[[5,9,"1st"]]}
+{"id":65,"text":"1398\tKami akan mengadakan pesta pada hari ulang tahun Pak Yamada.","label":[[5,9,"1st"]]}
+{"id":66,"text":"1401\tAnjing di rumah saya besar.","label":[[21,25,"1st"]]}
+{"id":67,"text":"1402\tAnjing rumah tetangga tidak besar.","label":[]}
+{"id":68,"text":"1403\tHari ini tidak dingin.","label":[]}
+{"id":69,"text":"1408\tApakah masakan Jepang pedas?","label":[]}
+{"id":70,"text":"1409\tTidak, tidak pedas.","label":[]}
+{"id":71,"text":"1410\tApakah di luar dingin?","label":[]}
+{"id":72,"text":"1414\tBagaimana masakan Jepang?","label":[]}
+{"id":73,"text":"1418\tTas ini mahal.","label":[]}
+{"id":74,"text":"1419\tMasakan pesta tidak enak.","label":[]}
+{"id":75,"text":"1423\tFilm kemarin bagaimana?","label":[]}
+{"id":76,"text":"1426\tKamar saya tidak begitu luas.","label":[[11,15,"1st"]]}
+{"id":77,"text":"1427\tSaya sangat lelah.","label":[[5,9,"1st"]]}
+{"id":78,"text":"1428\tSaya tidak begitu lelah.","label":[[5,9,"1st"]]}
+{"id":79,"text":"1431\tDi daerah ini tidak ada begitu banyak bangunan tinggi.","label":[]}
+{"id":80,"text":"1433\tDi depan stasiun ada toko bagus.","label":[]}
+{"id":81,"text":"1434\tDi sini kamar yang sangat tenang.","label":[]}
+{"id":82,"text":"1435\tBaju ini cantik, ya.","label":[]}
+{"id":83,"text":"1446\tPak Tanaka badannya tinggi.","label":[]}
+{"id":84,"text":"1449\tSaya sakit tenggorokan sejak kemarin.","label":[[5,9,"1st"]]}
+{"id":85,"text":"1450\tApakah Anda sakit kepala?","label":[[12,16,"2nd"]]}
+{"id":86,"text":"1451\tTidak, tidak sakit.","label":[]}
+{"id":87,"text":"1454\tKota ini jalannya sempit.","label":[]}
+{"id":88,"text":"1455\tWarna lukisan ini cantik.","label":[]}
+{"id":89,"text":"1457\tSaya tidak pandai bernyanyi.","label":[[5,9,"1st"]]}
+{"id":90,"text":"1459\tPak Yamada ayahnya giat bekerja.","label":[]}
+{"id":91,"text":"1460\tPak Yamada ayahnya dokter.","label":[]}
+{"id":92,"text":"1473\tJangan lupa pekerjaan rumah.","label":[]}
+{"id":93,"text":"1474\tDi sini kita bisa belajar.","label":[[13,17,"1st"]]}
+{"id":94,"text":"1476\tSaya kira orang itu guru bahasa Jepang.","label":[[5,9,"1st"]]}
+{"id":95,"text":"1477\tIni kaset yang saya beli kemarin.","label":[[20,24,"1st"]]}
+{"id":96,"text":"1478\tTolong bertanya lewat telepon kalau tidak tahu jalan.","label":[]}
+{"id":97,"text":"1481\tPak Kobayashi memakai baju biru.","label":[]}
+{"id":98,"text":"1482\tAda tertulis di surat.","label":[]}
+{"id":99,"text":"1484\tSaya menggosok gigi setelah makan nasi.","label":[[5,9,"1st"]]}
+{"id":100,"text":"1485\tSilakan berdiri.","label":[]}
+{"id":101,"text":"1491\tSekarang Pak Kobayashi sedang membaca buku di perpustakaan.","label":[]}
+{"id":102,"text":"1492\tBapak Tanaka sekarang sedang melakukan apa?","label":[]}
+{"id":103,"text":"1494\tSejak kapan belajar bahasa Jepang?","label":[]}
+{"id":104,"text":"1495\tSaya belajar sejak tahun lalu.","label":[[5,9,"1st"]]}
+{"id":105,"text":"1501\tJendela terbuka.","label":[]}
+{"id":106,"text":"1507\tJalan ini berbelok-belok.","label":[]}
+{"id":107,"text":"1512\tJendela sudah ditutup.","label":[]}
+{"id":108,"text":"1513\tLampu sudah dimatikan.","label":[]}
+{"id":109,"text":"1515\tSoal ditulis pada halaman lima belas.","label":[]}
+{"id":110,"text":"1520\tJendela terbuka.","label":[]}
+{"id":111,"text":"1527\tDi atas meja ada buku dan buku tulis.","label":[]}
+{"id":112,"text":"1528\tPada hari Senin, Rabu, dan Jumat saya ada latihan sepak bola.","label":[[38,42,"1st"]]}
+{"id":113,"text":"1530\tSaya berbelanja di toserba dan supermarket.","label":[[5,9,"1st"]]}
+{"id":114,"text":"1531\tDi depan kantor pos dan di sebelah stasiun ada pos surat.","label":[]}
+{"id":115,"text":"1532\tSaya makan roti, telur, dan lain-lain.","label":[[5,9,"1st"]]}
+{"id":116,"text":"1533\tDi kamar saya ada meja, tempat tidur, televisi, dan lain-lain.","label":[[14,18,"1st"]]}
+{"id":117,"text":"1534\tTas yang besar dan hitam milik saya.","label":[[36,40,"1st"]]}
+{"id":118,"text":"1535\tSaya tinggal di apartemen yang cantik dan tenang.","label":[[5,9,"1st"]]}
+{"id":119,"text":"1537\tBunga ini kecil dan berwarna merah.","label":[]}
+{"id":120,"text":"1542\tKaus kaki ini kuat dan murah.","label":[]}
+{"id":121,"text":"1544\tBuku ini sulit karena huruf kanjinya banyak.","label":[]}
+{"id":122,"text":"1545\tSaya tidak bisa pergi ke sekolah karena demam tinggi.","label":[[5,9,"1st"]]}
+{"id":123,"text":"1546\tSaat libur musim panas, saya bermain tenis dan berenang.","label":[[29,33,"1st"]]}
+{"id":124,"text":"1547\tPada hari Minggu adik laki-laki saya membaca buku dan menonton televisi.","label":[[37,41,"1st"]]}
+{"id":125,"text":"1548\tSaya sering menonton film dan pergi ke kolam renang bersama teman.","label":[[5,9,"1st"]]}
+{"id":126,"text":"1549\tSaya sering bolak-balik Tokyo dan Osaka dengan pesawat terbang.","label":[[5,9,"1st"]]}
+{"id":127,"text":"1551\tBesok saya bertemu dengan teman di stasiun dan bersama-sama pergi ke konser.","label":[[11,15,"1st"]]}
+{"id":128,"text":"1553\tSaya bangun pada pukul tujuh pagi, sarapan di kantin, dan berlatih dari pukul delapan.","label":[[5,9,"1st"]]}
+{"id":129,"text":"1556\tMari kita duduk di sana dan makan nasi kotak.","label":[[10,14,"1st"]]}
+{"id":130,"text":"1557\tSaya setiap hari berjalan kaki ke sekolah.","label":[[5,9,"1st"]]}
+{"id":131,"text":"1558\tSaya belajar bahasa Jepang dengan mendengarkan kaset.","label":[[5,9,"1st"]]}
+{"id":132,"text":"1562\tKereta berhenti karena topan besar datang.","label":[]}
+{"id":133,"text":"1586\tSaya berjalan kaki dari sekolah ke rumah.","label":[[5,9,"1st"]]}
+{"id":134,"text":"1588\tSaya makan nasi di kantin.","label":[[5,9,"1st"]]}
+{"id":135,"text":"1592\tLangit berwarna biru.","label":[]}
+{"id":136,"text":"1599\tSaya sudah membaca buku.","label":[[5,9,"1st"]]}
+{"id":137,"text":"1601\tSaya keluar rumah pukul sembilan.","label":[[5,9,"1st"]]}
+{"id":138,"text":"1605\tSaya tidak masuk sekolah.","label":[[5,9,"1st"]]}
+{"id":139,"text":"1609\tSaya hanya makan roti.","label":[[5,9,"1st"]]}
+{"id":140,"text":"1614\tSaya menempelkan foto di dinding.","label":[[5,9,"1st"]]}
+{"id":141,"text":"1619\tSaya naik pesawat terbang.","label":[[5,9,"1st"]]}
+{"id":142,"text":"1625\tSaya menunjukkan buku kepada Pak Tanaka.","label":[[5,9,"1st"]]}
+{"id":143,"text":"1630\tTelevisi tidak baik untuk mata.","label":[]}
+{"id":144,"text":"1634\tSaya menginap di hotel.","label":[[5,9,"1st"]]}
+{"id":145,"text":"1636\tBunga mekar di halaman.","label":[]}
+{"id":146,"text":"1637\tSaya keluar rumah pukul tujuh.","label":[[5,9,"1st"]]}
+{"id":147,"text":"1638\tSaya datang ke Jepang pada tanggal lima belas Maret tahun ini.","label":[[5,9,"1st"]]}
+{"id":148,"text":"1640\tSaya pergi membeli baju.","label":[[5,9,"1st"]]}
+{"id":149,"text":"1645\tPesawat terbang ke selatan.","label":[]}
+{"id":150,"text":"1646\tLibur musim panas dari tanggal satu Agustus sampai tanggal tiga puluh September.","label":[]}
+{"id":151,"text":"1647\tOrang nomor satu sampai nomor sepuluh, silakan masuk.","label":[[5,42,"address"]]}
+{"id":152,"text":"1650\tSaya keluar dari kelas.","label":[[5,9,"1st"]]}
+{"id":153,"text":"1654\tPak guru mengeluarkan pertanyaan.","label":[]}
+{"id":154,"text":"1660\tDi taman ada konser.","label":[]}
+{"id":155,"text":"1667\tSaya menulis huruf dengan pen.","label":[[5,9,"1st"]]}
+{"id":156,"text":"1668\tSaya pergi ke sekolah dengan bus.","label":[[5,9,"1st"]]}
+{"id":157,"text":"1671\tSaya tidak masuk sekolah karena sakit.","label":[[5,9,"1st"]]}
+{"id":158,"text":"1672\tKereta terlambat karena topan.","label":[]}
+{"id":159,"text":"1675\tSaya selalu belajar sendirian.","label":[[5,9,"1st"]]}
+{"id":160,"text":"1679\tSepuluh menit lagi pukul lima.","label":[]}
+{"id":161,"text":"1682\tKami sekelas keluar jalan-jalan.","label":[[5,9,"1st"]]}
+{"id":162,"text":"1683\tPekerjaan itu saya kerjakan sendiri.","label":[[19,23,"1st"]]}
+{"id":163,"text":"1692\tTas itu sama dengan tas saya.","label":[[29,33,"1st"]]}
+{"id":164,"text":"1693\tBuku tulis ini berbeda dengan buku tulis saya.","label":[[46,50,"1st"]]}
+{"id":165,"text":"1694\tSaya mengucapkan "Selamat pagi" ketika bangun pagi.","label":[[5,9,"1st"]]}
+{"id":166,"text":"1696\tHuruf kanji ini dibaca "yama".","label":[]}
+{"id":167,"text":"1710\tMinta dua coca-cola.","label":[]}
+{"id":168,"text":"1714\tSilakan tulis nama Anda.","label":[[24,28,"2nd"]]}
+{"id":169,"text":"1715\tYa, saya mengerti.","label":[[9,13,"1st"]]}
+{"id":170,"text":"1720\tTolong tunggu sebentar.","label":[]}
+{"id":171,"text":"1727\tYa, OK.","label":[]}
+{"id":172,"text":"1728\tBoleh makan nasi kotak di kamar ini.","label":[]}
+{"id":173,"text":"1734\tApakah saya boleh keluar?","label":[[12,16,"1st"]]}
+{"id":174,"text":"1738\tTidak boleh menggunakan ponsel di rumah sakit.","label":[]}
+{"id":175,"text":"1745\tJangan mandi hari ini.","label":[]}
+{"id":176,"text":"1748\tSaya sedang menggunakan komputer. Jangan dimatikan.","label":[[5,9,"1st"]]}
+{"id":177,"text":"1768\tBagaimana kalau kita bermain tenis pada hari Sabtu siang?","label":[[21,25,"1st"]]}
+{"id":178,"text":"1778\tBagaimana kalau kita pergi ke kolam renang?","label":[[21,25,"1st"]]}
+{"id":179,"text":"1794\tMari saya bawakan barang itu.","label":[[10,14,"1st"]]}
+{"id":180,"text":"1799\tBiar saya yang mengerjakan pekerjaan itu.","label":[[10,14,"1st"]]}
+{"id":181,"text":"1801\tSaya bermaksud belajar di perpustakaan, tetapi tutup.","label":[[5,9,"1st"]]}
+{"id":182,"text":"1810\tSaya bermaksud bersih-bersih setelah pulang ke rumah.","label":[[5,9,"1st"]]}
+{"id":183,"text":"1811\tAdik perempuan saya ingin menjadi guru bahasa Jepang.","label":[[20,24,"1st"]]}
+{"id":184,"text":"1813\tMalam ini saya tidak ingin pergi ke mana-mana.","label":[[15,19,"1st"]]}
+{"id":185,"text":"1817\tSaya ingin mendengar musik Jepang.","label":[[5,9,"1st"]]}
+{"id":186,"text":"1818\tSaya ingin minum air.","label":[[5,9,"1st"]]}
+{"id":187,"text":"1824\tYa, OK.","label":[]}
+{"id":188,"text":"1826\tSebenarnya saya ingin pergi ke universitas di Tokyo.","label":[[16,20,"1st"]]}
+{"id":189,"text":"1831\tSaya sekarang ingin komputer.","label":[[5,9,"1st"]]}
+{"id":190,"text":"1836\tAnda mau yang mana?","label":[[5,9,"2nd"]]}
+{"id":191,"text":"1837\tSaya ingin ini dan itu.","label":[[5,9,"1st"]]}
+{"id":192,"text":"1848\tSaya suka musik.","label":[[5,9,"1st"]]}
+{"id":193,"text":"1849\tSaya tidak suka berolahraga.","label":[[5,9,"1st"]]}
+{"id":194,"text":"1860\tMakanan kesukaan Anda apa?","label":[[22,26,"2nd"]]}
+{"id":195,"text":"1862\tPelajarannya menyenangkan bagi saya.","label":[[36,40,"1st"]]}
+{"id":196,"text":"1879\tTidak, tidak bisa.","label":[]}
+{"id":197,"text":"1881\tPak Tanaka bisa tenis.","label":[]}
+{"id":198,"text":"1883\tApakah bisa menelepon ke luar negeri dengan telepon itu?","label":[]}
+{"id":199,"text":"1885\tSaya bisa menulis huruf kanji.","label":[[5,9,"1st"]]}
+{"id":200,"text":"1900\tDi sana ada orang, kan. Orang itu siapa?","label":[]}
+{"id":201,"text":"1919\tJam ini pasti mahal.","label":[]}
+{"id":202,"text":"1921\tKantor pos pasti sudah buka karena sekarang pukul sepuluh.","label":[]}
+{"id":203,"text":"1928\tSepertinya ada yang tinggal di rumah ini.","label":[]}
+{"id":204,"text":"1931\tKelihatannya hujan akan turun.","label":[]}
+{"id":205,"text":"1935\tDi halaman tidak ada mobil. Sepertinya ibu saya sedang keluar.","label":[[48,52,"1st"]]}
+{"id":206,"text":"1942\tSaya dengar mulai bulan depan murid baru akan datang.","label":[[5,9,"1st"]]}
+{"id":207,"text":"1947\tSaya dengar dari pak guru kalau murid baru akan datang bulan depan.","label":[[5,9,"1st"]]}
+{"id":208,"text":"1965\tSiapa orang yang menulis karangan ini? Tidak ada namanya.","label":[]}
+{"id":209,"text":"1967\tMasakan buatan ibu sangat enak.","label":[]}
+{"id":210,"text":"1971\tTolong keluarkan kertas yang sudah ditulis dengan jawaban.","label":[]}
+{"id":211,"text":"1974\tSaya melihat Pak Tanaka sedang belajar di perpustakaan.","label":[[5,9,"1st"]]}
+{"id":212,"text":"1990\tSaya melihat Pak Tanaka berlari.","label":[[5,9,"1st"]]}
+{"id":213,"text":"1993\tYang makan keik adalah Pak Yamada.","label":[]}
+{"id":214,"text":"2004\tSaya sudah merasa baik karena minum obat.","label":[[5,9,"1st"]]}
+{"id":215,"text":"2005\tBesok saya tidak pergi ke sekolah karena tidak ada pelajaran.","label":[[11,15,"1st"]]}
+{"id":216,"text":"2007\tBagaimana Anda bisa tahu nomor telepon saya?","label":[[44,48,"1st"],[15,19,"2nd"]]}
+{"id":217,"text":"2011\tMengapa?","label":[]}
+{"id":218,"text":"2017\tMengapa Anda tidak menghadiri kelas?","label":[[13,17,"2nd"]]}
+{"id":219,"text":"2018\tSaya tidak bisa bangun karena demam.","label":[[5,9,"1st"]]}
+{"id":220,"text":"2019\tHari ini kelasnya diliburkan karena gurunya sakit.","label":[]}
+{"id":221,"text":"2023\tPak Yamada selalu ceria, tetapi hari ini tenang.","label":[]}
+{"id":222,"text":"2024\tHari ini hari Minggu tetapi saya ada kerja.","label":[[33,37,"1st"]]}
+{"id":223,"text":"2030\tSaya tinggal di Tokyo, tetapi adik laki-laki saya tinggal di Kyoto.","label":[[5,9,"1st"],[50,54,"1st"]]}
+{"id":224,"text":"2041\tKalau pergi ke universitas itu, lebih praktis menggunakan sepeda.","label":[]}
+{"id":225,"text":"2042\tSetiap pagi setelah bangun, ayah saya membaca koran.","label":[[38,42,"1st"]]}
+{"id":226,"text":"2043\tKalau tombol ini ditekan, pintu akan terbuka.","label":[]}
+{"id":227,"text":"2047\tSaya akan membelinya kalau murah.","label":[[5,9,"1st"]]}
+{"id":228,"text":"2055\tKalau dekat, mari kita berjalan kaki.","label":[[23,27,"1st"]]}
+{"id":229,"text":"2056\tKalau tidak suka, boleh berhenti.","label":[]}
+{"id":230,"text":"2060\tUang akan habis kalau membeli mobil.","label":[]}
+{"id":231,"text":"2061\tKita bisa pergi ke mana pun kalau kita membeli mobil.","label":[[5,9,"1st"],[39,43,"1st"]]}
+{"id":232,"text":"2064\tBagaimana supaya bisa menghafal huruf kanji?","label":[]}
+{"id":233,"text":"2065\tKalau setiap hari saya membaca koran, saya bisa ingat.","label":[[23,27,"1st"],[23,27,"1st"]]}
+{"id":234,"text":"2068\tWalaupun salju turun, saya ke sekolah.","label":[[27,31,"1st"]]}
+{"id":235,"text":"2069\tSaya berenang walaupun hawanya dingin.","label":[[5,9,"1st"]]}
+{"id":236,"text":"2079\tPak Yamada memberikan buku kepada adik perempuan saya.","label":[[54,58,"1st"]]}
+{"id":237,"text":"2086\tSaya memberikan bunga kepada ayah saya.","label":[[5,9,"1st"],[39,43,"1st"]]}
+{"id":238,"text":"2088\tSaya menerima buku dari ayah saya.","label":[[5,9,"1st"],[34,38,"1st"]]}
+{"id":239,"text":"2090\tSaya meminjamkan buku tulis kepada Pak Kobayashi.","label":[[5,9,"1st"]]}
+{"id":240,"text":"2092\tSaya meminjam buku dari Pak Kimura.","label":[[5,9,"1st"]]}
+{"id":241,"text":"2093\tSaya meminjamkan uang ke adik laki-laki saya.","label":[[5,9,"1st"],[45,49,"1st"]]}
+{"id":242,"text":"2097\tAdik perempuan saya membuat bekal untuk ayah.","label":[[20,24,"1st"]]}
+{"id":243,"text":"2099\tSaya menolong adik perempuan saya membuat pekerjaan rumah.","label":[[5,9,"1st"],[34,38,"1st"]]}
+{"id":244,"text":"2100\tPak Kimura membawakan barang saya.","label":[[34,38,"1st"]]}
+{"id":245,"text":"2104\tSaya belajar memasak dari ibu.","label":[[5,9,"1st"]]}
+{"id":246,"text":"2115\tSaya berjalan kaki sampai stasiun.","label":[[5,9,"1st"]]}
+{"id":247,"text":"2120\tMinggu depan saat saya pergi ke situ, saya akan membeli dan membawa minuman.","label":[[23,27,"1st"],[23,27,"1st"]]}
+{"id":248,"text":"2123\tHari ini saya makan malam bersama teman.","label":[[14,18,"1st"]]}
+{"id":249,"text":"2130\tMaaf, apakah saya boleh mencoba memakai baju ini?","label":[[18,22,"1st"]]}
+{"id":250,"text":"2153\tSaya murid.","label":[[5,9,"1st"]]}
+{"id":251,"text":"2154\tFilm yang saya tonton kemarin menarik.","label":[[15,19,"1st"]]}
+{"id":252,"text":"2158\tSaya pelajar, tetapi kakak laki-laki saya pegawai perusahaan.","label":[[5,9,"1st"],[42,46,"1st"]]}
+{"id":253,"text":"2170\tApa pekerjaan Anda?","label":[[19,23,"2nd"]]}
+{"id":254,"text":"2178\tKetika saya sedang makan malam, teman saya datang ke rumah.","label":[[12,16,"1st"],[12,16,"1st"]]}
+{"id":255,"text":"2179\tSaya membawa paspor ketika pergi ke luar negeri.","label":[[5,9,"1st"]]}
+{"id":256,"text":"2180\tKetika datang ke Jepang, saya mengambil foto di bandara.","label":[[30,34,"1st"]]}
+{"id":257,"text":"2187\tSaya menelepon ketika berada di kamar.","label":[[5,9,"1st"]]}
+{"id":258,"text":"2189\tSaya sering berenang ketika muda.","label":[[5,9,"1st"]]}
+{"id":259,"text":"2192\tSaya makan nasi sambil menonton televisi.","label":[[5,9,"1st"]]}
+{"id":260,"text":"2205\tSaat libur musim panas tahun ini saya pergi ke laut dan mendaki gunung.","label":[[38,42,"1st"]]}
+{"id":261,"text":"2206\tKalau membaca buku di tempat gelap, penglihatan akan menjadi buruk.","label":[]}
+{"id":262,"text":"2213\tBagaimana kalau kita minum teh?","label":[[21,25,"1st"]]}
+{"id":263,"text":"2220\tMusim semi sudah datang, tetapi hawanya belum hangat.","label":[]}
+{"id":264,"text":"2227\tSaya kemarin pergi ke universitas.","label":[[5,9,"1st"]]}
+{"id":265,"text":"2229\tSaya sudah berhenti merokok.","label":[[5,9,"1st"]]}
+{"id":266,"text":"2232\tHari ini tidak ada siapa pun yang datang.","label":[]}
+{"id":267,"text":"2234\tAnda juga bekerja dengan baik, ya.","label":[[5,9,"2nd"]]}
+{"id":268,"text":"2247\tKalau teh, bagaimana?","label":[]}
+{"id":269,"text":"2249\tYang tidak membawa bolpoin, boleh memakai pensil.","label":[]}
+{"id":270,"text":"2332\tYa, silakan.","label":[]}
+{"id":271,"text":"2369\tSilakan.","label":[]}
+{"id":272,"text":"2383\tSaya harap Anda berkenan menerima barang yang tak berharga ini.","label":[[5,9,"1st"],[16,20,"2nd"]]}
+{"id":273,"text":"2391\tTerima kasih.","label":[]}
+{"id":274,"text":"2396\tBegitu.","label":[]}
+{"id":275,"text":"2409\tHarganya berapa?","label":[]}
+{"id":276,"text":"2415\tKalau begitu, saya minta bantuan Anda.","label":[[19,23,"1st"],[38,42,"2nd"]]}
+{"id":277,"text":"2429\tSaya bermaksud jalan-jalan ke Eropa dengan teman.","label":[[5,9,"1st"]]}
+{"id":278,"text":"2495\tAda di lantai tiga bangunan ini.","label":[]}
+{"id":279,"text":"2497\tBagaimana pergi ke lantai tiga?","label":[]}
+{"id":280,"text":"2498\tDi sana ada lift.","label":[]}
+{"id":281,"text":"2520\tYa, suka.","label":[]}
+{"id":282,"text":"2548\tHalo.","label":[]}
+{"id":283,"text":"2562\tKalau begitu, sampai jumpa lagi.","label":[]}
+{"id":284,"text":"2599\tMengapa?","label":[]}
+{"id":285,"text":"2637\tOh, begitu ya....","label":[]}
+{"id":286,"text":"2651\tBolehkah saya mengembalikan saat istirahat siang?","label":[[14,18,"1st"]]}
+{"id":287,"text":"2672\tPermisi.","label":[]}
+{"id":288,"text":"2734\tSaya berencana ingin bekerja di luar negeri.","label":[[5,9,"1st"]]}
+{"id":289,"text":"2744\tPak guru, ini ibu saya.","label":[[23,27,"1st"],[5,13,"address"]]}
+{"id":290,"text":"2751\tSaya minum obat karena masuk angin.","label":[[5,9,"1st"]]}
+{"id":291,"text":"2753\tBanyak orang meninggal.","label":[]}
+{"id":292,"text":"2754\tSaya menggosok gigi setelah makan nasi.","label":[[5,9,"1st"]]}
+{"id":293,"text":"2755\tMbak Kimura sangat pandai.","label":[]}
+{"id":294,"text":"2756\tKantor pos ada di sebelah stasiun.","label":[]}
+{"id":295,"text":"2757\tBesok barangnya akan datang.","label":[]}
+{"id":296,"text":"2758\tKereta akan tiba di stasiun.","label":[]}
+{"id":297,"text":"2759\tSaya menulis nama di amplop.","label":[[5,9,"1st"]]}
+{"id":298,"text":"2761\tDi belakang stasiun ada supermarket.","label":[]}
+{"id":299,"text":"2762\tKarena kemarin sangat dingin, saya masuk angin.","label":[[35,39,"1st"]]}
+{"id":300,"text":"2763\tKarena sakit kepala, malam ini saya tidur awal.","label":[[36,40,"1st"]]}
+{"id":301,"text":"2764\tKarena sakit perut, saya pergi ke rumah sakit.","label":[[25,29,"1st"]]}
+{"id":302,"text":"2766\tKarena sakit gigi, saya tidak bisa makan apa-apa.","label":[[24,28,"1st"]]}
+{"id":303,"text":"2767\tSaya duduk di kursi dan bercerita.","label":[[5,9,"1st"]]}
+{"id":304,"text":"2769\tDi dalam kulkas tidak ada apa pun.","label":[]}
+{"id":305,"text":"2771\tSaya mendengar berita di radio.","label":[[5,9,"1st"]]}
+{"id":306,"text":"2772\tKita bisa mendengarkan radio dan juga musik dengan radio kaset.","label":[[5,9,"1st"]]}
+{"id":307,"text":"2774\tSaya dipinjami pensil oleh Pak Matsui.","label":[[5,9,"1st"]]}
+{"id":308,"text":"2775\tMinggu depan saya pergi ke agen real estat dan mencari kamar baru.","label":[[18,22,"1st"]]}
+{"id":309,"text":"2776\tSaya membersihkan pintu masuk rumah dan koridor.","label":[[5,9,"1st"]]}
+{"id":310,"text":"2777\tDi pintu masuk rumah diletakkan vas bunga.","label":[]}
+{"id":311,"text":"2778\tRumah baru sangat nyaman karena dapurnya luas.","label":[]}
+{"id":312,"text":"2779\tSaya makan malam, mandi, dan tidur.","label":[[5,9,"1st"]]}
+{"id":313,"text":"2780\tSepatu ini tua.","label":[]}
+{"id":314,"text":"2781\tKarena dari stasiun sampai sekolah jauh, saya naik bus.","label":[[46,50,"1st"]]}
+{"id":315,"text":"2782\tRumah baru saya sangat mudah dijangkau karena dekat stasiun.","label":[[16,20,"1st"]]}
+{"id":316,"text":"2783\tPak Matsui memakai baju putih.","label":[]}
+{"id":317,"text":"2784\tSaya keluar memakai topi saat hari panas.","label":[[5,9,"1st"]]}
+{"id":318,"text":"2785\tSaya membuka sepatu di pintu masuk rumah.","label":[[5,9,"1st"]]}
+{"id":319,"text":"2786\tSaya ketinggalan payung di kereta.","label":[[5,9,"1st"]]}
+{"id":320,"text":"2787\tSaya kemarin membeli dompet baru.","label":[[5,9,"1st"]]}
+{"id":321,"text":"2788\tOrang yang memakai kacamata itu adalah Pak Matsui.","label":[]}
+{"id":322,"text":"2789\tSaya membeli majalah di toko buku.","label":[[5,9,"1st"]]}
+{"id":323,"text":"2790\tDi sini lantai dua.","label":[]}
+{"id":324,"text":"2791\tSaya mengirimkan kartu pos kepada Pak Matsui.","label":[[5,9,"1st"]]}
+{"id":325,"text":"2792\tSaya menempelkan prangko di amplop.","label":[[5,9,"1st"]]}
+{"id":326,"text":"2793\tAda sehelai baju.","label":[]}
+{"id":327,"text":"2794\tSaya mengambil dua buah foto.","label":[[5,9,"1st"]]}
+{"id":328,"text":"2795\tBank buka dari pukul sembilan pagi sampai pukul tiga sore.","label":[]}
+{"id":329,"text":"2796\tSaya mengembalikan uang ke Mbak Matsui.","label":[[5,9,"1st"]]}
+{"id":330,"text":"2797\tSaya mengembalikan buku ke perpustakaan.","label":[[5,9,"1st"]]}
+{"id":331,"text":"2798\tSetelah memasukkan uang, saya menekan tombol.","label":[[30,34,"1st"]]}
+{"id":332,"text":"2800\tSaya naik bus nomor lima belas dari stasiun.","label":[[5,9,"1st"]]}
+{"id":333,"text":"2801\tJam ini harganya seribu lima ratus yen.","label":[]}
+{"id":334,"text":"2802\tSaya membeli kamera dengan harga tiga puluh ribu yen.","label":[[5,9,"1st"]]}
+{"id":335,"text":"2803\tSaya lupa nama orang itu.","label":[[5,9,"1st"]]}
+{"id":336,"text":"2805\tHari ini saya makan malam di restoran.","label":[[14,18,"1st"]]}
+{"id":337,"text":"2806\tMakanan Jepang enak tetapi mahal.","label":[]}
+{"id":338,"text":"2807\tSaya suka baik roti maupun nasi.","label":[[5,9,"1st"]]}
+{"id":339,"text":"2808\tMalam ini saya makan nasi di rumah teman.","label":[[15,19,"1st"]]}
+{"id":340,"text":"2809\tSaya bermaksud membuat kare untuk makan malam hari ini.","label":[[5,9,"1st"]]}
+{"id":341,"text":"2810\tKare adalah makanan India.","label":[]}
+{"id":342,"text":"2811\tSaya tidak begitu banyak minum arak.","label":[[5,9,"1st"]]}
+{"id":343,"text":"2812\tSaya memasukkan gula ke dalam kopi dengan sendok.","label":[[5,9,"1st"]]}
+{"id":344,"text":"2813\tSaya menggunakan garpu ketika makan keik.","label":[[5,9,"1st"]]}
+{"id":345,"text":"2814\tMasakan Prancis dimakan dengan menggunakan pisau dan garpu.","label":[]}
+{"id":346,"text":"2815\tTidak boleh menggunakan pisau karena berbahaya.","label":[]}
+{"id":347,"text":"2817\tSaya akan memakai piring baru.","label":[[5,9,"1st"]]}
+{"id":348,"text":"2818\tSaya setiap hari sarapan.","label":[[5,9,"1st"]]}
+{"id":349,"text":"2819\tSetelah pulang sekolah, saya minum teh di kedai kopi bersama teman.","label":[[29,33,"1st"]]}
+{"id":350,"text":"2820\tSaya setiap pagi minum kopi.","label":[[5,9,"1st"]]}
+{"id":351,"text":"2821\tSaya lebih suka teh daripada kopi.","label":[[5,9,"1st"]]}
+{"id":352,"text":"2822\tSaya jarang minum susu sapi karena tidak suka.","label":[[5,9,"1st"]]}
+{"id":353,"text":"2823\tSetelah minum arak, sebaiknya minum air.","label":[]}
+{"id":354,"text":"2824\tSetelah minum, saya mencuci gelas sampai bersih.","label":[[20,24,"1st"]]}
+{"id":355,"text":"2825\tSaya mendapat gelas imut dari teman saya.","label":[[5,9,"1st"],[41,45,"1st"]]}
+{"id":356,"text":"2826\tSaya minum kopi dengan memasukkan gula.","label":[[5,9,"1st"]]}
+{"id":357,"text":"2828\tSaya memasukkan uang ke dompet.","label":[[5,9,"1st"]]}
+{"id":358,"text":"2829\tIbu Matsui menuangkan kopi untuk saya.","label":[[38,42,"1st"]]}
+{"id":359,"text":"2830\tKereta ini pergi ke Tokyo.","label":[]}
+{"id":360,"text":"2831\tKereta bawah tanah murah, cepat, dan sangat praktis.","label":[]}
+{"id":361,"text":"2832\tSaya membeli karcis ketika naik kereta.","label":[[5,9,"1st"]]}
+{"id":362,"text":"2833\tSaya tidak naik lift, tetapi naik tangga.","label":[[5,9,"1st"]]}
+{"id":363,"text":"2834\tToilet ada di lantai dua.","label":[]}
+{"id":364,"text":"2835\tSaya mencuci tangan ketika keluar dari toilet.","label":[[5,9,"1st"]]}
+{"id":365,"text":"2836\tSaya menunjukkan karcis di pintu masuk stasiun.","label":[[5,9,"1st"]]}
+{"id":366,"text":"2837\tKalau keluar dari pintu keluar ini, paling dekat dengan perpustakaan.","label":[]}
+{"id":367,"text":"2838\tKalau pergi ke kedutaan, Anda turun di stasiun berikutnya.","label":[[30,34,"2nd"]]}
+{"id":368,"text":"2839\tSaya naik bus ke sekolah, tidak berjalan kaki.","label":[[5,9,"1st"]]}
+{"id":369,"text":"2840\tKarena supermarket tutup, saya tidak bisa belanja.","label":[[31,35,"1st"]]}
+{"id":370,"text":"2841\tTasnya tidak tertutup.","label":[]}
+{"id":371,"text":"2842\tSaya sekelas dengan Pak Matsui.","label":[[5,9,"1st"]]}
+{"id":372,"text":"2843\tDi kelas ada meja dan kursi.","label":[]}
+{"id":373,"text":"2844\tSaya membersihkan pintu masuk rumah dan juga koridor.","label":[[5,9,"1st"]]}
+{"id":374,"text":"2845\tSaya tidak begitu suka belajar.","label":[[5,9,"1st"]]}
+{"id":375,"text":"2846\tMinggu lalu saya tidak bisa belajar karena sibuk.","label":[[17,21,"1st"]]}
+{"id":376,"text":"2847\tAnak-anak yang ada di sini adalah murid-murid satu sekolah.","label":[]}
+{"id":377,"text":"2848\tSelama pelajaran, guru bertanya kepada murid.","label":[]}
+{"id":378,"text":"2851\tMinggu depan saya pergi bermain ke Tokyo bersama teman.","label":[[18,22,"1st"]]}
+{"id":379,"text":"2852\tKarena kemarin seharian belajar, hari ini saya bermain.","label":[[47,51,"1st"]]}
+{"id":380,"text":"2853\tMalam ini saya akan belajar karena besok ada ujian.","label":[[15,19,"1st"]]}
+{"id":381,"text":"2854\tSaya membaca karangan yang ditulis oleh Pak Matsui.","label":[[5,9,"1st"]]}
+{"id":382,"text":"2855\tBesok saya akan mengumpulkan karangan kepada guru.","label":[[11,15,"1st"]]}
+{"id":383,"text":"2856\tSoal harus dibaca dengan baik ketika menulis jawaban.","label":[]}
+{"id":384,"text":"2857\tSoal ini sangat mudah.","label":[]}
+{"id":385,"text":"2858\tDi sekolah setiap hari ada ujian kanji.","label":[]}
+{"id":386,"text":"2860\tKalau banyak berlatih, Anda akan menjadi pandai berbahasa Jepang.","label":[[28,32,"2nd"]]}
+{"id":387,"text":"2861\tUjian kemarin mudah.","label":[]}
+{"id":388,"text":"2862\tSaya mengajar bahasa Jepang kepada orang asing.","label":[[5,9,"1st"]]}
+{"id":389,"text":"2863\tKarena soalnya sulit, saya tidak bisa menjawab.","label":[[27,31,"1st"]]}
+{"id":390,"text":"2864\tSetelah pulang sekolah, setiap hari saya berlatih tenis.","label":[[41,45,"1st"]]}
+{"id":391,"text":"2865\tMinggu depan saya berencana memotong rambut di salon.","label":[[18,22,"1st"]]}
+{"id":392,"text":"2866\tSaya memegang sumpit dengan tangan kiri.","label":[[5,9,"1st"]]}
+{"id":393,"text":"2867\tSaya belok kanan di belokan berikutnya.","label":[[5,9,"1st"]]}
+{"id":394,"text":"2868\tMbak Matsui duduk di depan saya.","label":[[32,36,"1st"]]}
+{"id":395,"text":"2869\tBanyak orang berbaris di belakang saya.","label":[[39,43,"1st"]]}
+{"id":396,"text":"2870\tPensil ini menjadi pendek karena selalu digunakan.","label":[]}
+{"id":397,"text":"2871\tSaya memotong keik dengan pisau menjadi empat bagian.","label":[[5,9,"1st"]]}
+{"id":398,"text":"2873\tAdik perempuan saya badannya pendek dan rambutnya panjang.","label":[[20,24,"1st"]]}
+{"id":399,"text":"2874\tSaya duduk beristirahat karena lelah.","label":[[5,9,"1st"]]}
+{"id":400,"text":"2875\tSaya menanyakan jalan ke polisi di pos polisi.","label":[[5,9,"1st"]]}
+{"id":401,"text":"2876\tDi pos polisi tertempel peta kota.","label":[]}
+{"id":402,"text":"2877\tDi perempatan ada banyak polisi.","label":[]}
+{"id":403,"text":"2878\tSaya ditanyai polisi nama saya.","label":[[5,9,"1st"],[31,35,"1st"]]}
+{"id":404,"text":"2879\tPolisi menunjukkan jalan sampai stasiun kepada saya.","label":[[52,56,"1st"]]}
+{"id":405,"text":"2880\tKarena tidak tahu jalan, saya melihat peta.","label":[[30,34,"1st"]]}
+{"id":406,"text":"2881\tKemarin saya pergi ke dekat stasiun untuk berbelanja.","label":[[13,17,"1st"]]}
+{"id":407,"text":"2882\tSaya menanyakan nomor telepon restoran yang akan saya kunjungi malam ini kepada Pak Matsui.","label":[[5,9,"1st"],[54,58,"1st"]]}
+{"id":408,"text":"2884\tKalau belok kiri di bangunan itu, ada rumah sakit.","label":[]}
+{"id":409,"text":"2885\tTidak boleh masuk ke sini karena berbahaya.","label":[]}
+{"id":410,"text":"2886\tKarena sudah larut malam, pulang sendirian berbahaya.","label":[]}
+{"id":411,"text":"2887\tTidak boleh berbicara dengan orang di sebelah saat pelajaran.","label":[]}
+{"id":412,"text":"2888\tKedai kopi itu ada di sebelah toko buku.","label":[]}
+{"id":413,"text":"2889\tRumah Pak Matsui di sebelah rumah saya.","label":[[39,43,"1st"]]}
+{"id":414,"text":"2890\tSaya menyerahkan tas yang terletak di samping saya ke Pak Matsui.","label":[[5,9,"1st"],[51,55,"1st"]]}
+{"id":415,"text":"2891\tSaya pergi ke pos polisi karena kehilangan dompet.","label":[[5,9,"1st"]]}
+{"id":416,"text":"2892\tSaya kehilangan majalah yang saya pinjam dari Pak Matsui.","label":[[5,9,"1st"],[34,38,"1st"]]}
+{"id":417,"text":"2893\tSaya membersihkan kamar karena teman saya akan datang.","label":[[5,9,"1st"],[42,46,"1st"]]}
+{"id":418,"text":"2894\tKamar ini tidak ada jendelanya.","label":[]}
+{"id":419,"text":"2895\tDi atas meja diletakkan kalender.","label":[]}
+{"id":420,"text":"2896\tSaya membeli kalender tahun depan di toserba.","label":[[5,9,"1st"]]}
+{"id":421,"text":"2898\tKarena kamarnya gelap, saya menyalakan lampu.","label":[[28,32,"1st"]]}
+{"id":422,"text":"2899\tKarena kemarin lelah, saya segera tidur.","label":[[27,31,"1st"]]}
+{"id":423,"text":"2900\tKarena saya tidak tahu pukul berapa, saya melihat jam di kelas.","label":[[12,16,"1st"],[12,16,"1st"]]}
+{"id":424,"text":"2901\tSaya menyalakan lampu kamar dan belajar.","label":[[5,9,"1st"]]}
+{"id":425,"text":"2902\tDi pintu masuk rumah diletakkan vas bunga.","label":[]}
+{"id":426,"text":"2906\tJalan ini berbahaya karena sangat sempit.","label":[]}
+{"id":427,"text":"2907\tSaya menyeberang perempatan itu dan belok kiri.","label":[[5,9,"1st"]]}
+{"id":428,"text":"2908\tMobil Jepang mahal tetapi bagus.","label":[]}
+{"id":429,"text":"2909\tMobil Jepang dijual di luar negeri.","label":[]}
+{"id":430,"text":"2910\tIni majalah otomotif.","label":[]}
+{"id":431,"text":"2911\tDari stasiun sampai perusahaan saya naik taksi.","label":[[36,40,"1st"]]}
+{"id":432,"text":"2912\tSaya pulang ke rumah dengan taksi.","label":[[5,9,"1st"]]}
+{"id":433,"text":"2913\tSaya dibonceng di belakang sepeda teman.","label":[[5,9,"1st"]]}
+{"id":434,"text":"2914\tWalaupun hujan turun, saya pergi naik sepeda.","label":[[27,31,"1st"]]}
+{"id":435,"text":"2915\tKemarin saya pergi ke sungai dengan teman dan bermain bersama.","label":[[13,17,"1st"]]}
+{"id":436,"text":"2916\tRumah saya ada di seberang sungai itu.","label":[[11,15,"1st"]]}
+{"id":437,"text":"2917\tSetelah menyeberang jembatan, akan ada taman.","label":[]}
+{"id":438,"text":"2918\tSaya setiap pagi pergi jalan-jalan.","label":[[5,9,"1st"]]}
+{"id":439,"text":"2919\tSaya berjalan-jalan setiap pagi.","label":[[5,9,"1st"]]}
+{"id":440,"text":"2920\tSetelah menyeberang jalan, mari kita berjalan di sebelah kiri.","label":[[37,41,"1st"]]}
+{"id":441,"text":"2921\tKarena saya ingin pergi ke seberang sungai, saya menyeberang jembatan.","label":[[12,16,"1st"],[12,16,"1st"]]}
+{"id":442,"text":"2923\tKarena hawa panas, saya berenang di kolam renang.","label":[[24,28,"1st"]]}
+{"id":443,"text":"2924\tKarena tidak pandai bernyanyi, saya akan berlatih.","label":[[36,40,"1st"]]}
+{"id":444,"text":"2925\tSaya diajari adik laki-laki saya bermain sepak bola karena dia pandai bermain.","label":[[5,9,"1st"],[33,37,"1st"]]}
+{"id":445,"text":"2926\tPak Matsui pandai memasak.","label":[]}
+{"id":446,"text":"2927\tSaya tidak pandai menggambar.","label":[[5,9,"1st"]]}
+{"id":447,"text":"2928\tSaya kira kereta lebih cepat daripada bus sampai ke sekolah.","label":[[5,9,"1st"]]}
+{"id":448,"text":"2929\tPak Matsui larinya cepat.","label":[]}
+{"id":449,"text":"2931\tSaya jalannya sangat pelan.","label":[[5,9,"1st"]]}
+{"id":450,"text":"2933\tSaya tidak bisa berlari lagi karena kaki saya sakit.","label":[[5,9,"1st"],[46,50,"1st"]]}
+{"id":451,"text":"2934\tAda burung sedang terbang di langit sana.","label":[]}
+{"id":452,"text":"2935\tSaya berencana jalan-jalan ke luar negeri tahun depan.","label":[[5,9,"1st"]]}
+{"id":453,"text":"2936\tSaya bisa berbicara bahasa Inggris.","label":[[5,9,"1st"]]}
+{"id":454,"text":"2937\tSaya belajar bahasa Inggris dengan menggunakan kamus.","label":[[5,9,"1st"]]}
+{"id":455,"text":"2939\tBesok saya akan bertemu dengan teman orang luar negeri.","label":[[11,15,"1st"]]}
+{"id":456,"text":"2940\tKalau belok kanan di perempatan itu, akan ada kedutaan.","label":[]}
+{"id":457,"text":"2941\tSaya besok pergi ke kedutaan.","label":[[5,9,"1st"]]}
+{"id":458,"text":"2943\tJepang adalah negara yang sempit.","label":[]}
+{"id":459,"text":"2944\tKamar hotel ini sangat cantik.","label":[]}
+{"id":460,"text":"2946\tMbak Matsui sudah tinggal di luar negeri selama tiga tahun.","label":[]}
+{"id":461,"text":"2947\tSaya bermaksud pergi jalan-jalan ke luar negeri tahun depan.","label":[[5,9,"1st"]]}
+{"id":462,"text":"2948\tSaya membeli buku jalan-jalan di toko buku.","label":[[5,9,"1st"]]}
+{"id":463,"text":"2949\tHari ini toko ini dagingnya murah.","label":[]}
+{"id":464,"text":"2950\tDi sana banyak toko berjejer.","label":[]}
+{"id":465,"text":"2951\tSaya membeli buah dan sayur di toko sayur.","label":[[5,9,"1st"]]}
+{"id":466,"text":"2952\tToko sayur lebih murah daripada supermarket.","label":[]}
+{"id":467,"text":"2953\tMakan malam kemarin adalah masakan daging.","label":[]}
+{"id":468,"text":"2954\tSaya lebih suka ikan daripada daging.","label":[[5,9,"1st"]]}
+{"id":469,"text":"2955\tDaging sapi adalah daging yang paling mahal.","label":[]}
+{"id":470,"text":"2956\tSaya tidak bisa makan daging babi.","label":[[5,9,"1st"]]}
+{"id":471,"text":"2957\tDaging ayam murah, tetapi daging sapi lebih enak.","label":[]}
+{"id":472,"text":"2958\tTempat yang dekat laut ikannya enak.","label":[]}
+{"id":473,"text":"2959\tDi dalam kulkas ada sayur dan telur.","label":[]}
+{"id":474,"text":"2960\tSaya memotong sayur dan mencucinya.","label":[[5,9,"1st"]]}
+{"id":475,"text":"2961\tSaya setiap pagi makan sayur dan buah.","label":[[5,9,"1st"]]}
+{"id":476,"text":"2962\tMobil mahal, tetapi praktis.","label":[]}
+{"id":477,"text":"2965\tSaya meminjam tiga buah buku di perpustakaan.","label":[[5,9,"1st"]]}
+{"id":478,"text":"2966\tPerpustakaan buka dari pukul sembilan pagi sampai pukul delapan malam.","label":[]}
+{"id":479,"text":"2967\tDi perpustakaan banyak rak buku berjejer.","label":[]}
+{"id":480,"text":"2968\tKamus ada di rak buku sana.","label":[]}
+{"id":481,"text":"2969\tMajalah tidak bisa dipinjam di perpustakaan.","label":[]}
+{"id":482,"text":"2970\tMajalah ini menarik.","label":[]}
+{"id":483,"text":"2971\tItu koran hari ini.","label":[]}
+{"id":484,"text":"2973\tSaya mengopi lima lembar.","label":[[5,9,"1st"]]}
+{"id":485,"text":"2974\tSaya belajar bahasa Jepang dengan melihat kamus.","label":[[5,9,"1st"]]}
+{"id":486,"text":"2975\tSaya mengopi buku di perpustakaan.","label":[[5,9,"1st"]]}
+{"id":487,"text":"2976\tPak guru menyerahkan salinan koran kepada muridnya.","label":[]}
+{"id":488,"text":"2977\tPak Hayashi bekerja di perusahaan komputer.","label":[]}
+{"id":489,"text":"2978\tBesok saya pergi ke kantor awal.","label":[[11,15,"1st"]]}
+{"id":490,"text":"2979\tSaya keluar bersama teman saat hari libur.","label":[[5,9,"1st"]]}
+{"id":491,"text":"2981\tIni dasi Italia.","label":[]}
+{"id":492,"text":"2982\tTidak boleh merokok di kamar ini.","label":[]}
+{"id":493,"text":"2983\tKarena setiap hari sibuk, saya tidak begitu bisa beristirahat.","label":[[31,35,"1st"]]}
+{"id":494,"text":"2984\tPekerjaan saya sibuk tetapi menarik.","label":[[15,19,"1st"]]}
+{"id":495,"text":"2986\tSaya tidak melakukan apa-apa saat liburan minggu lalu.","label":[[5,9,"1st"]]}
+{"id":496,"text":"2987\tSaya bekerja di perusahaan mobil.","label":[[5,9,"1st"]]}
+{"id":497,"text":"2988\tSaya merokok.","label":[[5,9,"1st"]]}
+{"id":498,"text":"2989\tMerokok tidak baik untuk kesehatan.","label":[]}
+{"id":499,"text":"2991\tHari ini saya tidak pergi ke sekolah karena demam.","label":[[14,18,"1st"]]}
+{"id":500,"text":"2992\tSaya juga bekerja pada hari Minggu.","label":[[5,9,"1st"]]}
+{"id":501,"text":"2993\tSetiap hari saya bekerja delapan jam.","label":[[17,21,"1st"]]}
+{"id":502,"text":"2994\tBanyak rumah berjejer di seberang jalan.","label":[]}
+{"id":503,"text":"2995\tBesok pagi saya harus mencuci pakaian.","label":[[16,20,"1st"]]}
+{"id":504,"text":"2996\tKarena panas, saya pulang ke rumah dan mandi.","label":[[19,23,"1st"]]}
+{"id":505,"text":"2997\tSetiap malam setelah mandi, saya tidur.","label":[[33,37,"1st"]]}
+{"id":506,"text":"2998\tSaya bermaksud bersih-bersih setelah pulang ke rumah.","label":[[5,9,"1st"]]}
+{"id":507,"text":"2999\tBesok pagi saya harus mencuci pakaian.","label":[[16,20,"1st"]]}
+{"id":508,"text":"3000\tBesok malam saya keluar karena akan bertemu dengan teman.","label":[[17,21,"1st"]]}
+{"id":509,"text":"3001\tKemarin saya tidak keluar ke mana-mana.","label":[[13,17,"1st"]]}
+{"id":510,"text":"3002\tMasakan ini bisa dibuat di rumah.","label":[]}
+{"id":511,"text":"3005\tPak Matsui bisa bermain gitar.","label":[]}
+{"id":512,"text":"3006\tSaya setiap hari berlatih piano.","label":[[5,9,"1st"]]}
+{"id":513,"text":"3007\tKamera ini mahal, tetapi sangat praktis.","label":[]}
+{"id":514,"text":"3008\tSaya membeli kamera baru.","label":[[5,9,"1st"]]}
+{"id":515,"text":"3009\tIni film kuno Jepang.","label":[]}
+{"id":516,"text":"3010\tAdik perempuan saya pandai menggambar.","label":[[20,24,"1st"]]}
+{"id":517,"text":"3011\tKarena Pak Matsui tidak suka rokok, dia tidak merokok.","label":[]}
+{"id":518,"text":"3012\tSaya tidak suka bersih-bersih dan mencuci baju.","label":[[5,9,"1st"]]}
+{"id":519,"text":"3013\tMakanan yang saya sukai adalah kare.","label":[[18,22,"1st"]]}
+{"id":520,"text":"3014\tIbu saya suka memasak.","label":[[9,13,"1st"]]}
+{"id":521,"text":"3015\tSaya selalu menyanyi lagu ini di karaoke.","label":[[5,9,"1st"]]}
+{"id":522,"text":"3016\tSaya bermain piano di konser bulan depan.","label":[[5,9,"1st"]]}
+{"id":523,"text":"3017\tSaya mengambil banyak foto saat jalan-jalan.","label":[[5,9,"1st"]]}
+{"id":524,"text":"3018\tSaya selalu tidur di tempat tidur.","label":[[5,9,"1st"]]}
+{"id":525,"text":"3019\tKalau penghangat dinyalakan, udara akan hangat.","label":[]}
+{"id":526,"text":"3021\tSaya mematikan penghangat sebelum tidur.","label":[[5,9,"1st"]]}
+{"id":527,"text":"3022\tSaya menulis jawaban ujian dengan bolpoin.","label":[[5,9,"1st"]]}
+{"id":528,"text":"3023\tCuaca besok hujan.","label":[]}
+{"id":529,"text":"3024\tHari ini cuacanya bagus.","label":[]}
+{"id":530,"text":"3025\tKalau besok cerah, mari kita bermain tenis.","label":[[29,33,"1st"]]}
+{"id":531,"text":"3026\tSaya dengar besok akan mendung.","label":[[5,9,"1st"]]}
+{"id":532,"text":"3027\tKemarin terus-menerus mendung.","label":[]}
+{"id":533,"text":"3028\tKalau hujan, saya tidak keluar pada hari libur.","label":[[18,22,"1st"]]}
+{"id":534,"text":"3029\tKarena besok hujan, saya akan pergi ke sekolah dengan bus.","label":[[25,29,"1st"]]}
+{"id":535,"text":"3030\tHari ini tidak ada angin.","label":[]}
+{"id":536,"text":"3034\tMusim panas di Jepang panas.","label":[]}
+{"id":537,"text":"3035\tKetika musim semi datang, hawanya akan menjadi hangat.","label":[]}
+{"id":538,"text":"3036\tKarena hari ini sangat hangat, saya pergi jalan-jalan.","label":[[36,40,"1st"]]}
+{"id":539,"text":"3037\tKarena besok hawanya panas, saya bermaksud berenang di kolam renang.","label":[[33,37,"1st"]]}
+{"id":540,"text":"3038\tKalau jendela dibuka, hawanya akan sedikit sejuk.","label":[]}
+{"id":541,"text":"3039\tMusim gugur sejuk.","label":[]}
+{"id":542,"text":"3040\tPagi ini hujan, tetapi sekarang cerah.","label":[]}
+{"id":543,"text":"3041\tKalau besok cerah, mari kita bermain tenis.","label":[[29,33,"1st"]]}
+{"id":544,"text":"3042\tTahun lalu tidak begitu banyak salju yang turun.","label":[]}
+{"id":545,"text":"3043\tHawanya dingin karena angin sedang bertiup.","label":[]}
+{"id":546,"text":"3044\tSaya dengar besok angin bertiup kencang.","label":[[5,9,"1st"]]}
+{"id":547,"text":"3045\tBesok suhu naik sampai tiga puluh derajat, jadi akan panas.","label":[]}
+{"id":548,"text":"3046\tKarena masuk angin, suhu badan saya tiga puluh delapan derajat.","label":[[36,40,"1st"]]}
+{"id":549,"text":"3047\tLangit menjadi sedikit mendung.","label":[]}
+{"id":550,"text":"3048\tKemarin terus-menerus mendung.","label":[]}
+{"id":551,"text":"3050\tSaya paling suka lagu ini.","label":[[5,9,"1st"]]}
+{"id":552,"text":"3051\tSaya tidak keluar saat hari salju.","label":[[5,9,"1st"]]}
+{"id":553,"text":"3052\tKita tidak bisa bermain tenis saat angin bertiup kencang.","label":[[5,9,"1st"]]}
+{"id":554,"text":"3053\tKarena malam hari dingin, saya keluar membawa mantel.","label":[[31,35,"1st"]]}
+{"id":555,"text":"3056\tSaya menyampo rambut sebelum memotongnya.","label":[[5,9,"1st"]]}
+{"id":556,"text":"3057\tOrang yang berambut hitam itu Pak Matsui.","label":[]}
+{"id":557,"text":"3058\tPintu kereta akan menutup.","label":[]}
+{"id":558,"text":"3059\tSaya menunjukkan karcis kepada petugas stasiun.","label":[[5,9,"1st"]]}
+{"id":559,"text":"3060\tSaya kemarin memotong rambut.","label":[[5,9,"1st"]]}
+{"id":560,"text":"3062\tSalon ada di sebelah stasiun.","label":[]}
+{"id":561,"text":"3063\tMalam ini saya mengerjakan pekerjaan rumah di perpustakaan.","label":[[15,19,"1st"]]}
+{"id":562,"text":"3064\tSaya akan menulis jawaban di sini.","label":[[5,9,"1st"]]}
+{"id":563,"text":"3065\tBulan depan pelajar asing dari Tiongkok akan datang.","label":[]}
+{"id":564,"text":"3066\tOrang itu pelajar asing di sekolah ini.","label":[]}
+{"id":565,"text":"3067\tBesok saya akan pergi menonton film bersama teman.","label":[[11,15,"1st"]]}
+{"id":566,"text":"3068\tUjian kemarin sangat sulit.","label":[]}
+{"id":567,"text":"3069\tPelajaran guru itu menarik.","label":[]}
+{"id":568,"text":"3070\tPenata rambut itu ramping dan cantik.","label":[]}
+{"id":569,"text":"3071\tSetelah tamat sekolah, saya ingin menjadi penata rambut.","label":[[28,32,"1st"]]}
+{"id":570,"text":"3072\tKotak ini memanjang ke samping.","label":[]}
+{"id":571,"text":"3073\tKemarin saya tidak pergi ke perusahaan, tetapi pergi ke rumah sakit.","label":[[13,17,"1st"]]}
+{"id":572,"text":"3074\tHari ini saya tidak pergi karena demam.","label":[[14,18,"1st"]]}
+{"id":573,"text":"3075\tDi atas meja ada vas bunga.","label":[]}
+{"id":574,"text":"3076\tSetiap hari saya mendengar berita di radio.","label":[[17,21,"1st"]]}
+{"id":575,"text":"3077\tSaya memberi tahu teman saya nomor telepon Bapak Kimura.","label":[[5,9,"1st"],[29,33,"1st"]]}
+{"id":576,"text":"3078\tKarena tidak ada kabar dari ibu, saya khawatir.","label":[[38,42,"1st"]]}
+{"id":577,"text":"3079\tKemarin saya mendapat kabar dari Pak Matsui.","label":[[13,17,"1st"]]}
+{"id":578,"text":"3080\tTolong hubungi perusahaan melalui telepon.","label":[]}
+{"id":579,"text":"3081\tSaya akan menghubungi Anda setelah sampai di rumah.","label":[[5,9,"1st"],[27,31,"2nd"]]}
+{"id":580,"text":"3084\tApartemen ini biaya sewanya mahal.","label":[]}
+{"id":581,"text":"3086\tSaya akan mencari kamar yang lebih murah.","label":[[5,9,"1st"]]}
+{"id":582,"text":"3087\tKarena tidak menemukan kunci, saya mencarinya di dalam tas.","label":[[35,39,"1st"]]}
+{"id":583,"text":"3088\tKetika merokok, saya menggunakan asbak.","label":[[21,25,"1st"]]}
+{"id":584,"text":"3089\tDi atas meja ada asbak.","label":[]}
+{"id":585,"text":"3091\tSaya selalu makan menu set ini saat makan siang.","label":[[5,9,"1st"]]}
+{"id":586,"text":"3092\tMenu set di kantin itu murah dan enak.","label":[]}
+{"id":587,"text":"3093\tSaya memesan makanan kepada pelayan kedai.","label":[[5,9,"1st"]]}
+{"id":588,"text":"3094\tPelayan restoran ini kelihatannya sibuk.","label":[]}
+{"id":589,"text":"3095\tSaya minum kopi tanpa susu.","label":[[5,9,"1st"]]}
+{"id":590,"text":"3096\tSetiap pagi saya makan roti dan minum susu.","label":[[17,21,"1st"]]}
+{"id":591,"text":"3097\tTempat penjualan kaus kaki ada di lantai satu.","label":[]}
+{"id":592,"text":"3098\tTas ini dibeli dengan kartu.","label":[]}
+{"id":593,"text":"3099\tSaya memasukkan kartu ke dompet.","label":[[5,9,"1st"]]}
+{"id":594,"text":"3100\tKetika berbelanja, saya menggunakan kartu.","label":[[24,28,"1st"]]}
+{"id":595,"text":"3102\tPos laut makan waktu tetapi murah.","label":[]}
+{"id":596,"text":"3103\tPos udara lebih cepat sampai daripada pos laut.","label":[]}
+{"id":597,"text":"3104\tKemarin saya mengirim barang untuk ibu saya.","label":[[13,17,"1st"],[13,17,"1st"]]}
+{"id":598,"text":"3105\tBiayanya sedikit mahal karena dikirim melalui pos udara.","label":[]}
+{"id":599,"text":"3106\tSaya tidak ingin memakai jas karena panas saat musim panas.","label":[[5,9,"1st"]]}
+{"id":600,"text":"3107\tSaya memakai jas ketika pergi ke perusahaan.","label":[[5,9,"1st"]]}
+{"id":601,"text":"3108\tSaya menerima baju dari teman pada hari ulang tahun saya.","label":[[5,9,"1st"],[57,61,"1st"]]}
+{"id":602,"text":"3110\tMbak Kimura seorang pelajar, tetapi Pak Tanaka seorang pegawai perusahaan.","label":[]}
+{"id":603,"text":"3111\tSaya pergi berbelanja ke supermarket.","label":[[5,9,"1st"]]}
+{"id":604,"text":"3114\tBerapa buah roti yang Anda beli?","label":[[27,31,"2nd"]]}
+{"id":605,"text":"3115\tDi atas meja ada berapa buah gelas?","label":[]}
+{"id":606,"text":"3116\tOrang Jepang makan nasi dengan sumpit.","label":[]}
+{"id":607,"text":"3117\tSetelah jalan-jalan di taman, saya pulang ke rumah.","label":[[35,39,"1st"]]}
+{"id":608,"text":"3118\tSaya setiap hari berlatih tenis.","label":[[5,9,"1st"]]}
+{"id":609,"text":"3119\tOlahraga yang paling saya sukai adalah bisbol.","label":[[26,30,"1st"]]}
+{"id":610,"text":"3120\tPak Matsui lebih pandai bermain bisbol daripada sepak bola.","label":[]}
+{"id":611,"text":"3121\tKarena hujan turun, tidak ada pertandingan bisbol.","label":[]}
+{"id":612,"text":"3122\tBesok ada pertandingan tenis.","label":[]}
+{"id":613,"text":"3123\tBrazil adalah negara yang sepak bolanya sangat kuat.","label":[]}
+{"id":614,"text":"3124\tSaya tidak bisa berolahraga karena badan saya lemah.","label":[[5,9,"1st"],[46,50,"1st"]]}
+{"id":615,"text":"3126\tSaya membersihkan kamar karena kotor.","label":[[5,9,"1st"]]}
+{"id":616,"text":"3127\tLaut di sekitar sini kotor.","label":[]}
+{"id":617,"text":"3128\tKetika keluar, saya lupa mematikan lampu.","label":[[20,24,"1st"]]}
+{"id":618,"text":"3129\tSaya mematikan lampu sebelum tidur.","label":[[5,9,"1st"]]}
+{"id":619,"text":"3130\tSudah saatnya saya pulang ke rumah hari ini.","label":[[19,23,"1st"]]}
+{"id":620,"text":"3131\tKemarin saya kehilangan kunci.","label":[[13,17,"1st"]]}
+{"id":621,"text":"3132\tIni kunci rumah saya.","label":[[21,25,"1st"]]}
+{"id":622,"text":"3133\tDi depan pintu pagar rumah ada kucing.","label":[]}
+{"id":623,"text":"3134\tAir sungai ini bersih.","label":[]}
+{"id":624,"text":"3135\tPak Lee bisa bahasa Jepang.","label":[]}
+{"id":625,"text":"3136\tSaya meminjam uang di bank.","label":[[5,9,"1st"]]}
+{"id":626,"text":"3137\tAyah saya pegawai bank.","label":[[10,14,"1st"]]}
+{"id":627,"text":"3138\tPegawai bank di loket kebanyakan wanita.","label":[]}
+{"id":628,"text":"3139\tSaya menyetorkan uang di loket.","label":[[5,9,"1st"]]}
+{"id":629,"text":"3140\tSaya pergi ke bank dan menyetor uang.","label":[[5,9,"1st"]]}
+{"id":630,"text":"3141\tSaya menerima formulir penyetoran uang di loket.","label":[[5,9,"1st"]]}
+{"id":631,"text":"3142\tSaya menulis nama dan alamat di formulir ini.","label":[[5,9,"1st"]]}
+{"id":632,"text":"3143\tSaya ingat nomor yang tertulis di formulir.","label":[[5,9,"1st"]]}
+{"id":633,"text":"3144\tSaya memberi tahu teman saya alamat yang baru.","label":[[5,9,"1st"],[29,33,"1st"]]}
+{"id":634,"text":"3145\tBeliau guru sekolah ini.","label":[]}
+{"id":635,"text":"3146\tBerbicara dengan orang asing sangat menyenangkan.","label":[]}
+{"id":636,"text":"3147\tSaya datang ke negara ini tiga tahun yang lalu.","label":[[5,9,"1st"]]}
+{"id":637,"text":"3148\tDi dekat sini bandara baru telah dibuka.","label":[]}
+{"id":638,"text":"3149\tSaya menunjukkan paspor saya di bandara.","label":[[5,9,"1st"],[29,33,"1st"]]}
+{"id":639,"text":"3150\tSaya kehilangan paspor di stasiun.","label":[[5,9,"1st"]]}
+{"id":640,"text":"3151\tPaspor diperlukan ketika pergi ke luar negeri.","label":[]}
+{"id":641,"text":"3153\tSaya pergi berbelanja bersama teman saat hari libur.","label":[[5,9,"1st"]]}
+{"id":642,"text":"3154\tPemandu wisata memberi tahu kami tentang kota ini.","label":[[33,37,"1st"]]}
+{"id":643,"text":"3155\tTeman saya bekerja sebagai pemandu wisata.","label":[[11,15,"1st"]]}
+{"id":644,"text":"3156\tKarena tidak ada kereta untuk pulang, saya menginap di rumah teman.","label":[[43,47,"1st"]]}
+{"id":645,"text":"3157\tMalam ini saya menginap di hotel.","label":[[15,19,"1st"]]}
+{"id":646,"text":"3158\tSaya menerima oleh-oleh dari teman yang pergi jalan-jalan.","label":[[5,9,"1st"]]}
+{"id":647,"text":"3159\tSaya membeli oleh-oleh untuk keluarga.","label":[[5,9,"1st"]]}
+{"id":648,"text":"3160\tSaya menggunakan bolpoin saat menulis formulir setoran.","label":[[5,9,"1st"]]}
+{"id":649,"text":"3161\tPerusahaan itu membuat mobil.","label":[]}
+{"id":650,"text":"3162\tSaya membuat meja sendirian.","label":[[5,9,"1st"]]}
+{"id":651,"text":"3163\tSaya memakai dasi karena bertemu dengan orang saat bekerja.","label":[[5,9,"1st"]]}
+{"id":652,"text":"3165\tSetiap hari saya belajar bahasa Jepang, tetapi saya tidak bisa hafal huruf kanji.","label":[[17,21,"1st"],[17,21,"1st"]]}
+{"id":653,"text":"3167\tBapak Lee menulis surat dalam bahasa Jepang.","label":[]}
+{"id":654,"text":"3168\tBerbicara dalam bahasa Inggris sulit.","label":[]}
+{"id":655,"text":"3169\tPak Matsui sedang berbicara dengan Pak Kobayashi.","label":[]}
+{"id":656,"text":"3170\tSaya akan berbicara ke pak guru tentang hal itu.","label":[[5,9,"1st"]]}
+{"id":657,"text":"3171\tSaya menulis jawaban soal di kertas ini.","label":[[5,9,"1st"]]}
+{"id":658,"text":"3172\tKemarin saya menulis surat kepada teman.","label":[[13,17,"1st"]]}
+{"id":659,"text":"3173\tSaya tidak begitu suka menulis huruf.","label":[[5,9,"1st"]]}
+{"id":660,"text":"3174\tMbak Matsui pandai menulis huruf.","label":[]}
+{"id":661,"text":"3175\tSaya mendengar cerita menarik dari Pak Hayashi.","label":[[5,9,"1st"]]}
+{"id":662,"text":"3176\tPak Matsui sedang berbicara dengan Pak Kobayashi.","label":[]}
+{"id":663,"text":"3177\tSaya tidak mengerti maksud perkataan pak guru.","label":[[5,9,"1st"]]}
+{"id":664,"text":"3178\tSaya memberi tahu Pak Lee makna perkataan ini.","label":[[5,9,"1st"]]}
+{"id":665,"text":"3179\tAda banyak kata yang ditulis dengan katakana dalam bahasa Jepang.","label":[]}
+{"id":666,"text":"3180\tSaya bisa menulis hiragana, tetapi tidak bisa menulis katakana.","label":[[5,9,"1st"]]}
+{"id":667,"text":"3181\tKalimat ini mudah dibaca karena pendek.","label":[]}
+{"id":668,"text":"3182\tBelajar bahasa asing sulit.","label":[]}
+{"id":669,"text":"3183\tSaya membaca buku yang ditulis dalam bahasa Jepang.","label":[[5,9,"1st"]]}
+{"id":670,"text":"3184\tSaya menggunakan kamus ketika ada makna perkataan yang tidak saya mengerti.","label":[[5,9,"1st"],[66,70,"1st"]]}
+{"id":671,"text":"3185\tPada pagi hari saya bangun dan mencuci muka.","label":[[20,24,"1st"]]}
+{"id":672,"text":"3186\tSaya membeli pakaian baru gaya barat di toserba.","label":[[5,9,"1st"]]}
+{"id":673,"text":"3187\tSaya keluar membawa mantel.","label":[[5,9,"1st"]]}
+{"id":674,"text":"3188\tKarena di luar dingin, saya pergi ke perusahaan memakai mantel.","label":[[28,32,"1st"]]}
+{"id":675,"text":"3189\tSaya membuka sweter karena panas.","label":[[5,9,"1st"]]}
+{"id":676,"text":"3190\tSaya tidak bisa memakai celana ini karena kekecilan.","label":[[5,9,"1st"]]}
+{"id":677,"text":"3192\tMbak Kobayashi lebih suka celana daripada rok.","label":[]}
+{"id":678,"text":"3193\tSaya membuka sepatu dan memakai sandal.","label":[[5,9,"1st"]]}
+{"id":679,"text":"3194\tSaya memakai kacamata karena penglihatan saya buruk.","label":[[5,9,"1st"],[46,50,"1st"]]}
+{"id":680,"text":"3195\tKetika masuk rumah di Jepang, sepatu dibuka.","label":[]}
+{"id":681,"text":"3196\tSaya keluar memakai sepatu baru.","label":[[5,9,"1st"]]}
+{"id":682,"text":"3197\tMbak Kimura memakai rok imut.","label":[]}
+{"id":683,"text":"3198\tKarena akan masuk ke kamar mandi, saya membuka pakaian.","label":[[39,43,"1st"]]}
+{"id":684,"text":"3199\tKue ini manis.","label":[]}
+{"id":685,"text":"3201\tMasakan ini dimakan tanpa dibubuhi apa-apa.","label":[]}
+{"id":686,"text":"3202\tSaya makan sashimi dengan membubuhkan kecap.","label":[[5,9,"1st"]]}
+{"id":687,"text":"3204\tSaya menyusun mangkuk dan sumpit di atas meja.","label":[[5,9,"1st"]]}
+{"id":688,"text":"3205\tSaya makan nasi dengan mangkuk.","label":[[5,9,"1st"]]}
+{"id":689,"text":"3206\tHari ini saya makan malam bersama teman.","label":[[14,18,"1st"]]}
+{"id":690,"text":"3207\tSaya selalu makan siang di sini.","label":[[5,9,"1st"]]}
+{"id":691,"text":"3208\tHari ini saya tidak sarapan.","label":[[14,18,"1st"]]}
+{"id":692,"text":"3209\tMbak Kimura memberikan kue kepada saya.","label":[[39,43,"1st"]]}
+{"id":693,"text":"3210\tMasakan ini kelihatannya tidak enak.","label":[]}
+{"id":694,"text":"3211\tKedai itu murah, tetapi tidak enak.","label":[]}
+{"id":695,"text":"3212\tNasi kotak Pak Hayashi kelihatannya enak.","label":[]}
+{"id":696,"text":"3213\tKue ini enak.","label":[]}
+{"id":697,"text":"3214\tKarena sibuk, saya tidak bisa makan siang.","label":[[19,23,"1st"]]}
+{"id":698,"text":"3215\tKare ini sangat pedas.","label":[]}
+{"id":699,"text":"3216\tSaya selalu makan roti saat sarapan.","label":[[5,9,"1st"]]}
+{"id":700,"text":"3217\tMakan malam hari ini adalah kare.","label":[]}
+{"id":701,"text":"3218\tMakan malam hari ini adalah kare.","label":[]}
+{"id":702,"text":"3219\tSaya mengambilkan garam untuk Pak Lee.","label":[[5,9,"1st"]]}
+{"id":703,"text":"3220\tSaya memasak dengan memasukkan gula dan garam.","label":[[5,9,"1st"]]}
+{"id":704,"text":"3221\tAdik laki-laki saya badannya sangat kuat.","label":[[20,24,"1st"]]}
+{"id":705,"text":"3223\tMata saya lelah karena saya membaca buku di ruang gelap.","label":[[10,14,"1st"],[10,14,"1st"]]}
+{"id":706,"text":"3224\tPak Yamada memakai kacamata karena penglihatannya buruk.","label":[]}
+{"id":707,"text":"3225\tAnjing itu telinganya besar.","label":[]}
+{"id":708,"text":"3226\tAdik perempuan saya matanya besar dan hidungnya mancung.","label":[[20,24,"1st"]]}
+{"id":709,"text":"3227\tSaya tidak bisa membuka mulut karena sakit gigi.","label":[[5,9,"1st"]]}
+{"id":710,"text":"3229\tSebelum makan nasi, saya mencuci tangan.","label":[[25,29,"1st"]]}
+{"id":711,"text":"3230\tKaki saya lelah karena banyak berjalan.","label":[[10,14,"1st"]]}
+{"id":712,"text":"3231\tOrang itu kakinya sangat panjang.","label":[]}
+{"id":713,"text":"3232\tDi kamar mandi saya mencuci badan.","label":[[20,24,"1st"]]}
+{"id":714,"text":"3233\tSebelum tidur, saya selalu menggosok gigi.","label":[[20,24,"1st"]]}
+{"id":715,"text":"3234\tKarena hari ini sibuk, saya sangat lelah.","label":[[28,32,"1st"]]}
+{"id":716,"text":"3235\tPak Yamada ada di dalam kelas.","label":[]}
+{"id":717,"text":"3236\tPak Kobayashi mempunyai payung biru.","label":[]}
+{"id":718,"text":"3237\tSaya kemarin membeli sepatu putih di toserba.","label":[[5,9,"1st"]]}
+{"id":719,"text":"3238\tOrang yang memakai baju kuning adalah Pak Hayashi.","label":[]}
+{"id":720,"text":"3239\tMobil Pak Tanaka putih dan besar.","label":[]}
+{"id":721,"text":"3240\tSaya memakai jas hitam ketika pergi ke perusahaan.","label":[[5,9,"1st"]]}
+{"id":722,"text":"3241\tPak Tanaka memakai dasi hijau.","label":[]}
+{"id":723,"text":"3242\tWarna rambut Mbak Kimura coklat.","label":[]}
+{"id":724,"text":"3243\tSaya lebih suka biru daripada merah.","label":[[5,9,"1st"]]}
+{"id":725,"text":"3244\tWarna kesukaan saya adalah biru.","label":[[20,24,"1st"]]}
+{"id":726,"text":"3245\tWarna ini sangat cantik.","label":[]}
+{"id":727,"text":"3246\tSaya mendapat sapu tangan kuning pada hari ulang tahun.","label":[[5,9,"1st"]]}
+{"id":728,"text":"3247\tSaya meletakkan vas bunga di atas meja.","label":[[5,9,"1st"]]}
+{"id":729,"text":"3248\tDi bawah kursi ada kucing.","label":[]}
+{"id":730,"text":"3249\tKalau belok kanan di sudut jalan sana, ada supermarket.","label":[]}
+{"id":731,"text":"3250\tTas ini sebelah luarnya ada sakunya.","label":[]}
+{"id":732,"text":"3251\tToilet ada di sebelah kiri koridor.","label":[]}
+{"id":733,"text":"3252\tBuku tulis ada di dalam tas.","label":[]}
+{"id":734,"text":"3253\tDi kelas itu ada televisi.","label":[]}
+{"id":735,"text":"3254\tDi rumah saya ada anjing dan kucing.","label":[[14,18,"1st"]]}
+{"id":736,"text":"3255\tPak Lee sekarang ada di perpustakaan.","label":[]}
+{"id":737,"text":"3256\tKetika musim dingin datang, sebelah utara Jepang sangat dingin.","label":[]}
+{"id":738,"text":"3257\tKamar saya terang karena berada di sebelah selatan.","label":[[11,15,"1st"]]}
+{"id":739,"text":"3259\tSebelah timur kota ini semuanya hutan.","label":[]}
+{"id":740,"text":"3260\tKalau dari sini pergi sedikit ke barat, ada laut.","label":[]}
+{"id":741,"text":"3261\tKakak perempuan Mbak Kimura orang yang sangat cantik.","label":[]}
+{"id":742,"text":"3262\tSekarang kedua orang tua saya ada di luar negeri.","label":[[30,34,"1st"]]}
+{"id":743,"text":"3263\tSaya memberikan hadiah ulang tahun kepada ibu saya.","label":[[5,9,"1st"],[51,55,"1st"]]}
+{"id":744,"text":"3264\tSekarang kakak perempuan saya tinggal di Tokyo sendirian.","label":[[30,34,"1st"]]}
+{"id":745,"text":"3265\tIstri Pak Tanaka dosen universitas.","label":[]}
+{"id":746,"text":"3266\tMinggu depan kakak laki-laki Pak Lee datang bermain ke Jepang.","label":[]}
+{"id":747,"text":"3267\tIbu Pak Yamada sangat pandai memasak.","label":[]}
+{"id":748,"text":"3268\tSuami Ibu Hayashi bekerja di rumah sakit.","label":[]}
+{"id":749,"text":"3269\tAdik perempuan Pak Yamada badannya pendek dan imut.","label":[]}
+{"id":750,"text":"3270\tAdik laki-laki Pak Kobayashi sedang bermain sepak bola.","label":[]}
+{"id":751,"text":"3271\tSaya ada dua saudara laki-laki.","label":[[5,9,"1st"]]}
+{"id":752,"text":"3272\tPerempuan cantik itu adalah Mbak Kimura.","label":[]}
+{"id":753,"text":"3273\tAnak-anak sedang bermain di taman.","label":[]}
+{"id":754,"text":"3274\tDi sana ada anak perempuan kecil.","label":[]}
+{"id":755,"text":"3275\tPaman di toko sayur itu selalu ceria.","label":[]}
+{"id":756,"text":"3276\tBibi Pak Kobayashi tinggal di Tokyo.","label":[]}
+{"id":757,"text":"3277\tSaya menunjukkan jalan kepada kakek.","label":[[5,9,"1st"]]}
+{"id":758,"text":"3278\tNenek Pak Hayashi memakai kacamata.","label":[]}
+{"id":759,"text":"3279\tKalau sudah dewasa, boleh minum arak.","label":[]}
+{"id":760,"text":"3280\tPak Matsui dan Pak Lee berteman.","label":[]}
+{"id":761,"text":"3281\tSaya ada teman orang Thailand.","label":[[5,9,"1st"]]}
+{"id":762,"text":"3282\tOrang laki-laki itu badannya tinggi dan kakinya panjang.","label":[]}
+{"id":763,"text":"3283\tDi sana ada anak laki-laki sedang memanjat pohon.","label":[]}
+{"id":764,"text":"3284\tSilakan tunggu dua menit.","label":[]}
+{"id":765,"text":"3285\tHari ini hari Minggu, tetapi saya pergi ke perusahaan.","label":[[34,38,"1st"]]}
+{"id":766,"text":"3287\tSaya dengar Pak Yamada bulan depan pergi ke Tokyo.","label":[[5,9,"1st"]]}
+{"id":767,"text":"3288\tSilakan bekerja di sana.","label":[]}
+{"id":768,"text":"3289\tGelas itu milik Anda.","label":[[21,25,"2nd"]]}
+{"id":769,"text":"3290\tMakan malam setiap hari saya masak sendiri.","label":[[29,33,"1st"]]}
+{"id":770,"text":"3291\tToilet di sini.","label":[]}
+{"id":771,"text":"3292\tIni Pak Kobayashi.","label":[]}
+{"id":772,"text":"3293\tKarena tidak bisa duduk di sini, saya akan duduk di sana.","label":[[38,42,"1st"]]}
+{"id":773,"text":"3294\tBangunan di sana dibangun pada tahun 794.","label":[]}
+{"id":774,"text":"3295\tItu Pak Yamada.","label":[]}
+{"id":775,"text":"3296\tKantin ada di bangunan itu.","label":[]}
+{"id":776,"text":"3297\tJangan pergi ke situ karena berbahaya.","label":[]}
+{"id":777,"text":"3298\tItu Pak Lee.","label":[]}
+{"id":778,"text":"3299\tKalau pergi ke situ, ada kantor pos dan bank.","label":[]}
+{"id":779,"text":"3300\tBulan lalu saya pergi jalan-jalan ke luar negeri.","label":[[16,20,"1st"]]}
+{"id":780,"text":"3301\tSetiap bulan saya menyimpan uang di bank.","label":[[18,22,"1st"]]}
+{"id":781,"text":"3302\tBulan ini supermarket itu libur pada hari Rabu.","label":[]}
+{"id":782,"text":"3303\tBulan ini pekerjaan saya sangat sibuk.","label":[[25,29,"1st"]]}
+{"id":783,"text":"3305\tSaya belajar bahasa Inggris tiga bulan di Amerika.","label":[[5,9,"1st"]]}
+{"id":784,"text":"3306\tUlang tahun Pak Matsui bulan Agustus.","label":[]}
+{"id":785,"text":"3307\tBesok tanggal satu April.","label":[]}
+{"id":786,"text":"3309\tSetiap bulan saya menulis surat untuk teman di luar negeri.","label":[[18,22,"1st"]]}
+{"id":787,"text":"3310\tPak Hayashi pergi bekerja ke luar negeri selama sebulan dari minggu depan.","label":[]}
+{"id":788,"text":"3311\tBulan lalu saya baru memotong rambut, tetapi sekarang sudah panjang.","label":[[16,20,"1st"]]}
+{"id":789,"text":"3312\tSetiap tahun saya pergi jalan-jalan bersama keluarga.","label":[[18,22,"1st"]]}
+{"id":790,"text":"3313\tTahun lalu tahun yang baik.","label":[]}
+{"id":791,"text":"3314\tSaya mendaki gunung ini dua tahun lalu.","label":[[5,9,"1st"]]}
+{"id":792,"text":"3315\tPak Tanaka dua tahun lalu lulus universitas.","label":[]}
+{"id":793,"text":"3316\tTahun ini lebih panas daripada tahun lalu.","label":[]}
+{"id":794,"text":"3317\tSaya belajar gitar mulai tahun ini.","label":[[5,9,"1st"]]}
+{"id":795,"text":"3318\tTahun depan saya akan membeli mobil baru.","label":[[17,21,"1st"]]}
+{"id":796,"text":"3319\tMulai tahun depan kakak laki-laki saya bekerja di bank.","label":[[39,43,"1st"]]}
+{"id":797,"text":"3320\tDua tahun yang akan datang saya akan pulang ke negara asal.","label":[[32,36,"1st"]]}
+{"id":798,"text":"3321\tSaya dengar dua tahun yang akan datang di sana akan dibuka perpustakaan.","label":[[5,9,"1st"]]}
+{"id":799,"text":"3322\tSetiap tahun saya memberikan hadiah ulang tahun kepada ibu saya.","label":[[18,22,"1st"],[18,22,"1st"]]}
+{"id":800,"text":"3323\tSaya menikahi istri saya lima tahun lalu.","label":[[5,9,"1st"],[25,29,"1st"]]}
+{"id":801,"text":"3324\tPak Lee berencana ada di Jepang selama tiga tahun.","label":[]}
+{"id":802,"text":"3326\tMalam ini saya bertemu dengan Mbak Kimura di stasiun.","label":[[15,19,"1st"]]}
+{"id":803,"text":"3327\tBesok saya akan bertemu dengan Pak Lee dan memberinya oleh-oleh.","label":[[11,15,"1st"]]}
+{"id":804,"text":"3328\tKarena hawa panas, saya membuka jendela.","label":[[24,28,"1st"]]}
+{"id":805,"text":"3329\tSaya membuka pintu dan masuk ke kamar.","label":[[5,9,"1st"]]}
+{"id":806,"text":"3331\tTidak boleh membuka jendela di sana karena berbahaya.","label":[]}
+{"id":807,"text":"3332\tSaya mengangkat tangan ke atas.","label":[[5,9,"1st"]]}
+{"id":808,"text":"3333\tSaya mengangkat barang yang tidak dipakai ke atas rak buku.","label":[[5,9,"1st"]]}
+{"id":809,"text":"3334\tBesok Pak Hayashi ada pekerjaan, jadi tidak bisa datang.","label":[]}
+{"id":810,"text":"3335\tSaya sekarang tidak ada uang.","label":[[5,9,"1st"]]}
+{"id":811,"text":"3336\tSaya tidak pergi ke sekolah karena demam kemarin.","label":[[5,9,"1st"]]}
+{"id":812,"text":"3337\tSaya pergi ke rumah teman setelah pelajaran selesai.","label":[[5,9,"1st"]]}
+{"id":813,"text":"3338\tSaya perlu kamus karena akan menulis karangan di pelajaran besok.","label":[[5,9,"1st"]]}
+{"id":814,"text":"3339\tKarcis diperlukan saat naik kereta.","label":[]}
+{"id":815,"text":"3340\tSaya menekan tombol dan menyalakan lampu.","label":[[5,9,"1st"]]}
+{"id":816,"text":"3341\tSaya menyalakan komputer.","label":[[5,9,"1st"]]}
+{"id":817,"text":"3342\tTempat lahir Pak Tanaka adalah Tokyo.","label":[]}
+{"id":818,"text":"3343\tSaya lahir pada tanggal dua puluh enam Agustus.","label":[[5,9,"1st"]]}
+{"id":819,"text":"3344\tToko itu menjual kue yang enak.","label":[]}
+{"id":820,"text":"3346\tIni makanan yang tidak dijual di Jepang.","label":[]}
+{"id":821,"text":"3347\tTidak boleh meletakkan barang di sini.","label":[]}
+{"id":822,"text":"3348\tKalau tekan di sini, kopinya akan keluar.","label":[]}
+{"id":823,"text":"3349\tSaya tidak ingat orang itu.","label":[[5,9,"1st"]]}
+{"id":824,"text":"3350\tSaya menghafal bahasa Jepang dengan menonton televisi setiap hari.","label":[[5,9,"1st"]]}
+{"id":825,"text":"3351\tSetelah selesai bekerja, saya pergi makan malam.","label":[[30,34,"1st"]]}
+{"id":826,"text":"3352\tKalau mengirim surat lewat pos laut, akan makan banyak waktu.","label":[]}
+{"id":827,"text":"3353\tDari stasiun sampai rumah sakit makan waktu sepuluh menit dengan bus.","label":[]}
+{"id":828,"text":"3354\tSaya menelepon rumah tetapi tidak ada siapa-siapa.","label":[[5,9,"1st"]]}
+{"id":829,"text":"3355\tMalam ini saya akan menelepon teman saya.","label":[[15,19,"1st"],[15,19,"1st"]]}
+{"id":830,"text":"3356\tKarena penghangatnya mati, segera saya hidupkan.","label":[[39,43,"1st"]]}
+{"id":831,"text":"3357\tLampu kamar mati.","label":[]}
+{"id":832,"text":"3358\tSaya mematikan komputer.","label":[[5,9,"1st"]]}
+{"id":833,"text":"3361\tKakak perempuan saya akan menikah pada musim semi tahun depan.","label":[[21,25,"1st"]]}
+{"id":834,"text":"3362\tPak Tanaka sudah menikah dan punya anak.","label":[]}
+{"id":835,"text":"3363\tDi taman banyak bunga cantik bermekaran.","label":[]}
+{"id":836,"text":"3364\tBunga ini mekar saat musim semi.","label":[]}
+{"id":837,"text":"3365\tSaya kesusahan karena kehilangan paspor di luar negeri.","label":[[5,9,"1st"]]}
+{"id":838,"text":"3366\tKarena hujan turun, saya pergi ke sekolah dengan memakai payung.","label":[[25,29,"1st"]]}
+{"id":839,"text":"3367\tDi depan universitas telah dibuka toko buku besar.","label":[]}
+{"id":840,"text":"3368\tSetelah masuk kamar, saya menutup pintu.","label":[[26,30,"1st"]]}
+{"id":841,"text":"3369\tPak Kobayashi tidak tahu restoran itu.","label":[]}
+{"id":842,"text":"3370\tSaya tahu nomor telepon Pak Yamada.","label":[[5,9,"1st"]]}
+{"id":843,"text":"3371\tSaya bernyanyi sambil berdiri.","label":[[5,9,"1st"]]}
+{"id":844,"text":"3372\tDi sana Mbak Kimura sedang berdiri.","label":[]}
+{"id":845,"text":"3373\tPak Tanaka diminta Pak Hayashi membantunya bekerja.","label":[]}
+{"id":846,"text":"3374\tIbu saya selalu meminta saya berbelanja.","label":[[9,13,"1st"],[9,13,"1st"]]}
+{"id":847,"text":"3375\tJepang dan luar negeri bahasanya berbeda.","label":[]}
+{"id":848,"text":"3376\tIni buku tulis saya.","label":[[20,24,"1st"]]}
+{"id":849,"text":"3377\tMalam ini saya keluar kantor awal dan pulang ke rumah.","label":[[15,19,"1st"]]}
+{"id":850,"text":"3378\tSaya mengambil makanan apa pun yang saya sukai.","label":[[5,9,"1st"],[41,45,"1st"]]}
+{"id":851,"text":"3379\tSaya mengambilkan kecap untuk Pak Lee.","label":[[5,9,"1st"]]}
+{"id":852,"text":"3380\tLift ini berhenti dari lantai dua sampai lantai sembilan.","label":[]}
+{"id":853,"text":"3381\tSebuah mobil berhenti di depan saya.","label":[[36,40,"1st"]]}
+{"id":854,"text":"3382\tBesok saya tidak akan lupa mengembalikan buku.","label":[[11,15,"1st"]]}
+{"id":855,"text":"3383\tKemarin saya ketinggalan payung di kereta.","label":[[13,17,"1st"]]}
+{"id":856,"text":"3384\tKarena ada soal yang tidak saya pahami, saya bertanya kepada guru.","label":[[32,36,"1st"],[32,36,"1st"]]}
+{"id":857,"text":"3385\tBapak Lee mengerti bahasa Jepang.","label":[]}
+{"id":858,"text":"3386\tKemarin saya menyerahkan peta kota ini kepada Mbak Kimura.","label":[[13,17,"1st"]]}
+{"id":859,"text":"3387\tSaya akan memanggil satu taksi.","label":[[5,9,"1st"]]}
+{"id":860,"text":"3388\tPak guru memanggil nama Pak Yamada.","label":[]}
+{"id":861,"text":"3389\tKarena bekerja dalam waktu lama, saya sedikit beristirahat.","label":[[38,42,"1st"]]}
+{"id":862,"text":"3390\tSaya sedang menunggu bus.","label":[[5,9,"1st"]]}
+{"id":863,"text":"3391\tMalam ini saya menunggu Pak Kobayashi di stasiun.","label":[[15,19,"1st"]]}
+{"id":864,"text":"3392\tMbak Kimura menunjukkan foto kepada saya.","label":[[41,45,"1st"]]}
+{"id":865,"text":"3394\tSaya pernah mendaki gunung itu.","label":[[5,9,"1st"]]}
+{"id":866,"text":"3395\tPada akhir minggu saya mendaki gunung bersama teman.","label":[[23,27,"1st"]]}
+{"id":867,"text":"3396\tSaya sedang belajar bahasa Jepang dari guru itu.","label":[[5,9,"1st"]]}
+{"id":868,"text":"3397\tKemarin Pak Lee belajar huruf kanji dari Pak Matsui.","label":[]}
+{"id":869,"text":"3398\tUniversitas mulai bulan April.","label":[]}
+{"id":870,"text":"3399\tPelajaran mulai pukul sembilan pagi.","label":[]}
+{"id":871,"text":"3402\tBanyak buku tersusun di rak buku.","label":[]}
+{"id":872,"text":"3403\tSaya menyusun piring di meja.","label":[[5,9,"1st"]]}
+{"id":873,"text":"3404\tDi depan restoran banyak orang antre berbaris.","label":[]}
+{"id":874,"text":"3405\tKemarin saya antre berbaris satu jam untuk menonton film.","label":[[13,17,"1st"]]}
+{"id":875,"text":"3406\tSetelah lulus universitas, saya ingin menjadi dokter.","label":[[32,36,"1st"]]}
+{"id":876,"text":"3407\tKetika musim panas datang, hawa menjadi panas.","label":[]}
+{"id":877,"text":"3408\tTahun depan saya akan lulus dari universitas.","label":[[17,21,"1st"]]}
+{"id":878,"text":"3409\tSaya pergi ke sekolah dari pagi hari pada hari Senin.","label":[[5,9,"1st"]]}
+{"id":879,"text":"3410\tSaya harus mengembalikan buku selambat-lambatnya hari Selasa.","label":[[5,9,"1st"]]}
+{"id":880,"text":"3411\tRumah sakit itu tutup pada hari Rabu dan Minggu.","label":[]}
+{"id":881,"text":"3412\tSaya pergi ke bank untuk menyetorkan uang pada hari Kamis siang.","label":[[5,9,"1st"]]}
+{"id":882,"text":"3413\tKarena hari esoknya libur, pada hari Jumat saya selalu bermain dengan teman.","label":[[48,52,"1st"]]}
+{"id":883,"text":"3414\tPada hari Sabtu saya makan malam di rumah Pak Hayashi.","label":[[21,25,"1st"]]}
+{"id":884,"text":"3415\tMinggu lalu adalah hari ulang tahun ibu saya.","label":[[45,49,"1st"]]}
+{"id":885,"text":"3416\tMinggu ini pelajaran bahasa Jepang libur.","label":[]}
+{"id":886,"text":"3417\tSaya belajar karena ada ujian minggu depan.","label":[[5,9,"1st"]]}
+{"id":887,"text":"3418\tMinggu depan kakak perempuan saya menikah.","label":[[34,38,"1st"]]}
+{"id":888,"text":"3419\tSetiap Sabtu saya berlatih sepak bola.","label":[[18,22,"1st"]]}
+{"id":889,"text":"3420\tTahun lalu saya pergi jalan-jalan ke luar negeri bersama teman.","label":[[16,20,"1st"]]}
+{"id":890,"text":"3421\tDua hari yang lalu saya membeli sepatu baru di toserba.","label":[[24,28,"1st"]]}
+{"id":891,"text":"3422\tKarena dua hari yang lalu dingin, salju turun.","label":[]}
+{"id":892,"text":"3423\tKemarin ada restoran baru buka di depan stasiun.","label":[]}
+{"id":893,"text":"3424\tKemarin saya mengirim surat kepada ibu saya.","label":[[13,17,"1st"],[13,17,"1st"]]}
+{"id":894,"text":"3425\tHari ini saya tidak pergi ke sekolah karena masuk angin.","label":[[14,18,"1st"]]}
+{"id":895,"text":"3426\tHari ini saya pergi menonton film dengan Bapak Lee.","label":[[14,18,"1st"]]}
+{"id":896,"text":"3427\tMulai besok saya akan belajar huruf kanji tiap hari.","label":[[17,21,"1st"]]}
+{"id":897,"text":"3428\tBesok saya harus pergi ke kedutaan.","label":[[11,15,"1st"]]}
+{"id":898,"text":"3429\tLusa saya akan pergi berenang ke laut.","label":[[10,14,"1st"]]}
+{"id":899,"text":"3430\tLusa ada pertandingan bisbol.","label":[]}
+{"id":900,"text":"3431\tTadi malam saya tidur awal karena lelah.","label":[[16,20,"1st"]]}
+{"id":901,"text":"3432\tTadi malam saya pergi makan malam bersama Mbak Kimura.","label":[[16,20,"1st"]]}
+{"id":902,"text":"3433\tMulai minggu depan setiap hari akan ada ujian.","label":[]}
+{"id":903,"text":"3434\tSetiap pagi saya membaca koran dan pergi ke perusahaan.","label":[[17,21,"1st"]]}
+{"id":904,"text":"3435\tSetiap pagi saya bangun pukul enam.","label":[[17,21,"1st"]]}
+{"id":905,"text":"3436\tSetiap malam saya membaca buku sebelum tidur.","label":[[18,22,"1st"]]}
+{"id":906,"text":"3437\tSetiap malam saya belajar bahasa Inggris selama dua jam.","label":[[18,22,"1st"]]}
+{"id":907,"text":"3438\tHotel ini satu hari biayanya tujuh ribu delapan ratus yen.","label":[]}
+{"id":908,"text":"3439\tKarena kemarin hujan, saya seharian berada di rumah.","label":[[27,31,"1st"]]}
+{"id":909,"text":"3441\tIbu saya lahir pada tanggal dua puluh sembilan November.","label":[[9,13,"1st"]]}
+{"id":910,"text":"3442\tPagi ini saya keluar rumah tanpa makan nasi.","label":[[14,18,"1st"]]}
+{"id":911,"text":"3443\tCuaca pagi ini cerah.","label":[]}
+{"id":912,"text":"3444\tMalam ini teman saya menginap di rumah.","label":[[21,25,"1st"]]}
+{"id":913,"text":"3445\tMalam ini sangat dingin.","label":[]}
+{"id":914,"text":"3446\tHari ini ada pelajaran dari pagi sampai sore.","label":[]}
+{"id":915,"text":"3447\tSaya selalu naik kereta pada pukul delapan pagi.","label":[[5,9,"1st"]]}
+{"id":916,"text":"3448\tKemarin siang saya pergi ke kedai kopi bersama dengan Pak Kimura.","label":[[19,23,"1st"]]}
+{"id":917,"text":"3449\tSetiap hari saat siang saya istirahat satu jam.","label":[[28,32,"1st"]]}
+{"id":918,"text":"3450\tSaya harus mengerjakan pekerjaan ini sampai malam.","label":[[5,9,"1st"]]}
+{"id":919,"text":"3451\tSaya pergi jalan-jalan ke taman pada malam hari.","label":[[5,9,"1st"]]}
+{"id":920,"text":"3452\tSupermarket di sana juga buka pada malam hari.","label":[]}
+{"id":921,"text":"3453\tWalaupun sudah pukul dua belas malam, saya tetap belajar.","label":[[43,47,"1st"]]}
+{"id":922,"text":"3454\tAyah saya setiap hari bekerja dari pagi sampai malam.","label":[[10,14,"1st"]]}
+{"id":923,"text":"3455\tKemarin malam saya belajar sampai larut.","label":[[19,23,"1st"]]}
+{"id":924,"text":"3456\tBesok saya ada di sekolah sepanjang pagi.","label":[[11,15,"1st"]]}
+{"id":925,"text":"3457\tSekarang pukul tujuh pagi.","label":[]}
+{"id":926,"text":"3458\tSekarang pukul tujuh malam.","label":[]}
+{"id":927,"text":"3459\tPagi ini karena ada waktu, saya keluar rumah setelah membaca koran.","label":[[32,36,"1st"]]}
+{"id":928,"text":"3460\tSaya tidak ada waktu bermain karena sibuk bekerja.","label":[[5,9,"1st"]]}
+{"id":929,"text":"3462\tKita harus mendengarkan perkataan pak guru dengan baik selama pelajaran.","label":[]}
+{"id":930,"text":"3463\tDari rumah ke sekolah makan waktu satu jam dengan kereta.","label":[]}
+{"id":931,"text":"3464\tKemarin saya tidur delapan jam.","label":[[13,17,"1st"]]}
+{"id":932,"text":"3465\tSetelah pulang rumah, saya mandi duluan.","label":[[27,31,"1st"]]}
+{"id":933,"text":"3466\tKetika naik kereta, dahulukan orang yang turun.","label":[]}
+{"id":934,"text":"3467\tSetelah memasukkan gula, kemudian saya memasukkan sedikit kecap.","label":[[39,43,"1st"]]}
+{"id":935,"text":"3468\tKemudian, majalah ini saya pinjamkan ke Ibu Yamada.","label":[[27,31,"1st"]]}
+{"id":936,"text":"3469\tNanti saya pergi mengembalikan buku ke perpustakaan.","label":[[11,15,"1st"]]}
+{"id":937,"text":"3470\tLima menit lagi pelajaran selesai.","label":[]}
+{"id":938,"text":"3472\tRestoran ini besar dan cantik.","label":[]}
+{"id":939,"text":"3473\tBinatang kecil sangat imut.","label":[]}
+{"id":940,"text":"3474\tRumah saya kecil dan sempit.","label":[[11,15,"1st"]]}
+{"id":941,"text":"3476\tMalam hari berbahaya karena gelap.","label":[]}
+{"id":942,"text":"3477\tSaya belajar di tempat terang.","label":[[5,9,"1st"]]}
+{"id":943,"text":"3478\tKelas ini terang dan cantik.","label":[]}
+{"id":944,"text":"3479\tTeh ini panas.","label":[]}
+{"id":945,"text":"3480\tSaya ingin minum teh panas.","label":[[5,9,"1st"]]}
+{"id":946,"text":"3481\tSetiap pagi saya minum segelas susu dingin.","label":[[17,21,"1st"]]}
+{"id":947,"text":"3482\tAir kolam renang dingin.","label":[]}
+{"id":948,"text":"3483\tDi taman ada pohon besar.","label":[]}
+{"id":949,"text":"3484\tKarena setiap hari saya berlari, saya menjadi sedikit kurus.","label":[[24,28,"1st"],[24,28,"1st"]]}
+{"id":950,"text":"3485\tOrang itu kakinya kurus dan panjang.","label":[]}
+{"id":951,"text":"3486\tMajalah ini tebal dan berat.","label":[]}
+{"id":952,"text":"3487\tPen ini besar.","label":[]}
+{"id":953,"text":"3488\tSaya makan daging tebal.","label":[[5,9,"1st"]]}
+{"id":954,"text":"3489\tSaya membeli kamus tipis.","label":[[5,9,"1st"]]}
+{"id":955,"text":"3490\tKarena tembok kamar ini tipis, saya berbicara dengan suara kecil.","label":[[36,40,"1st"]]}
+{"id":956,"text":"3491\tKotak yang berat, laki-laki yang bawa.","label":[]}
+{"id":957,"text":"3492\tTas ini besar dan berat.","label":[]}
+{"id":958,"text":"3493\tSaya ingin sepatu yang ringan.","label":[[5,9,"1st"]]}
+{"id":959,"text":"3494\tBarang Mbak Kimura kecil dan ringan.","label":[]}
+{"id":960,"text":"3495\tPak Yamada paling tinggi sekelas.","label":[]}
+{"id":961,"text":"3496\tSaya ingin tinggal di tempat tinggi.","label":[[5,9,"1st"]]}
+{"id":962,"text":"3497\tMalam ini saya berencana belajar dalam waktu lama.","label":[[15,19,"1st"]]}
+{"id":963,"text":"3498\tPelajaran kemarin lama.","label":[]}
+{"id":964,"text":"3499\tOrang yang badannya pendek itu Mbak Kimura.","label":[]}
+{"id":965,"text":"3500\tGunung ini rendah.","label":[]}
+{"id":966,"text":"3501\tSaya harus mengerjakan pekerjaan ini dalam waktu singkat.","label":[[5,9,"1st"]]}
+{"id":967,"text":"3502\tSatu hari itu sangat singkat.","label":[]}
+{"id":968,"text":"3503\tFilm ini tidak begitu bagus.","label":[]}
+{"id":969,"text":"3504\tSaya tahu toko yang bagus.","label":[[5,9,"1st"]]}
+{"id":970,"text":"3505\tKomputer ini mahal tetapi sangat bagus.","label":[]}
+{"id":971,"text":"3506\tIni makanan yang buruk bagi tubuh.","label":[]}
+{"id":972,"text":"3507\tHari ini cuacanya buruk.","label":[]}
+{"id":973,"text":"3508\tPak Yamada orang yang lucu.","label":[]}
+{"id":974,"text":"3509\tPelajaran ini sangat menarik.","label":[]}
+{"id":975,"text":"3510\tPesta kemarin sangat menyenangkan.","label":[]}
+{"id":976,"text":"3511\tPelajaran bahasa Jepang menyenangkan.","label":[]}
+{"id":977,"text":"3512\tSaya mendengarkan cerita membosankan dari teman saya.","label":[[5,9,"1st"],[53,57,"1st"]]}
+{"id":978,"text":"3513\tBuku ini membosankan.","label":[]}
+{"id":979,"text":"3514\tKemarin saya mendengar cerita yang tidak mengenakkan.","label":[[13,17,"1st"]]}
+{"id":980,"text":"3515\tSaya tidak suka bersih-bersih dan mencuci baju.","label":[[5,9,"1st"]]}
+{"id":981,"text":"3516\tIni makanan yang sangat disukai Pak Kobayashi.","label":[]}
+{"id":982,"text":"3517\tSaya sangat suka binatang.","label":[[5,9,"1st"]]}
+{"id":983,"text":"3518\tSaya ingin pergi ke tempat tenang dan cantik.","label":[[5,9,"1st"]]}
+{"id":984,"text":"3519\tPak Matsui tinggal di kota yang tenang.","label":[]}
+{"id":985,"text":"3520\tDi sini kota besar dan ramai.","label":[]}
+{"id":986,"text":"3521\tKelas sebelah sangat ramai.","label":[]}
+{"id":987,"text":"3522\tKarena anjing di rumah tetangga ribut, saya tidak bisa belajar.","label":[[44,48,"1st"]]}
+{"id":988,"text":"3523\tOrang itu selalu ribut selama pelajaran.","label":[]}
+{"id":989,"text":"3524\tPak Hayashi tinggal di kota yang orangnya banyak.","label":[]}
+{"id":990,"text":"3525\tSekolah ini pelajar asingnya banyak.","label":[]}
+{"id":991,"text":"3526\tSaya ingin pergi ke tempat yang orangnya sedikit.","label":[[5,9,"1st"]]}
+{"id":992,"text":"3527\tSupermarket di sana ikannya sedikit.","label":[]}
+{"id":993,"text":"3528\tHari ini keluar rumah lebih awal.","label":[]}
+{"id":994,"text":"3529\tBesok pagi saya bangun awal.","label":[[16,20,"1st"]]}
+{"id":995,"text":"3530\tKarena kemarin lelah, pagi ini saya bangun terlambat.","label":[[36,40,"1st"]]}
+{"id":996,"text":"3531\tKarena sudah larut, saya pulang ke rumah.","label":[[25,29,"1st"]]}
+{"id":997,"text":"3532\tSaya setiap pagi makan satu buah telur.","label":[[5,9,"1st"]]}
+{"id":998,"text":"3533\tSaya menyusun dua buah vas di atas meja.","label":[[5,9,"1st"]]}
+{"id":999,"text":"3534\tJawaban pertanyaan ini ada tiga buah.","label":[]}
+{"id":1000,"text":"3535\tSaya memesan empat masakan di restoran.","label":[[5,9,"1st"]]}
+{"id":1001,"text":"3536\tPak Tanaka membeli lima buah keik.","label":[]}
+{"id":1002,"text":"3537\tDi kamar diletakkan enam buah kotak.","label":[]}
+{"id":1003,"text":"3538\tMbak Kimura membuat tujuh buah kue.","label":[]}
+{"id":1004,"text":"3539\tSaya harus membeli delapan buah oleh-oleh dari jalan-jalan.","label":[[5,9,"1st"]]}
+{"id":1005,"text":"3540\tDi kelas ini ada sembilan buah tas.","label":[]}
+{"id":1006,"text":"3541\tLibur musim panas dari tanggal satu Agustus.","label":[]}
+{"id":1007,"text":"3542\tPak Tanaka pergi ke luar negeri pada tanggal dua bulan depan.","label":[]}
+{"id":1008,"text":"3543\tSekolah dan perusahaan libur dari tanggal tiga Mei sampai tanggal lima Mei.","label":[]}
+{"id":1009,"text":"3544\tSaya harus menulis karangan dalam bahasa Inggris selambat-lambatnya tanggal empat.","label":[[5,9,"1st"]]}
+{"id":1010,"text":"3545\tHari ulang tahun ayah saya tanggal lima Juni.","label":[[27,31,"1st"]]}
+{"id":1011,"text":"3546\tToko sayur ini menjual dengan harga murah pada tanggal delapan setiap bulan.","label":[]}
+{"id":1012,"text":"3547\tSaya mengirim barang di kantor pos pada tanggal enam.","label":[[5,9,"1st"]]}
+{"id":1013,"text":"3548\tSaya akan menyetor uang selambat-lambatnya tanggal tujuh.","label":[[5,9,"1st"]]}
+{"id":1014,"text":"3549\tKedua orang tua saya akan datang bermain ke rumah saya pada tanggal sembilan bulan depan.","label":[[21,25,"1st"],[21,25,"1st"]]}
+{"id":1015,"text":"3550\tSaya harus mengerjakan pekerjaan ini selambat-lambatnya tanggal sepuluh.","label":[[5,9,"1st"]]}
+{"id":1016,"text":"3551\tTanggal dua puluh bulan ini ada ujian bahasa Jepang.","label":[]}
+{"id":1017,"text":"3552\tPak Lee tinggal di Jepang sendirian.","label":[]}
+{"id":1018,"text":"3553\tDi kelas ada seorang murid.","label":[]}
+{"id":1019,"text":"3554\tBesok saya pergi ke kolam renang berdua dengan Pak Kimura.","label":[[11,15,"1st"]]}
+{"id":1020,"text":"3555\tDi depan rumah ada dua orang tak dikenal.","label":[]}
+{"id":1021,"text":"3556\tDi Jepang arak boleh diminum dari umur dua puluh tahun.","label":[]}
+{"id":1022,"text":"3557\tBulan depan adik laki-laki saya berumur dua puluh tahun.","label":[[32,36,"1st"]]}
+{"id":1023,"text":"3558\tSetiap hari saya makan nasi tiga kali.","label":[[17,21,"1st"]]}
+{"id":1024,"text":"3559\tSetahun sekali saya pergi ke luar negeri.","label":[[20,24,"1st"]]}
+{"id":1025,"text":"3560\tMasakan ini menggunakan dua butir telur.","label":[]}
+{"id":1026,"text":"3561\tSaya makan satu kue yang saya terima dari Pak Lee.","label":[[5,9,"1st"],[30,34,"1st"]]}
+{"id":1027,"text":"3562\tDi Jepang bisa mengendarai mobil mulai umur delapan belas tahun.","label":[]}
+{"id":1028,"text":"3563\tAdik perempuan saya berumur empat tahun.","label":[[20,24,"1st"]]}
+{"id":1029,"text":"3564\tDi kelas ini ada tujuh buah komputer.","label":[]}
+{"id":1030,"text":"3565\tEmpat buah mobil berhenti di depan toko.","label":[]}
+{"id":1031,"text":"3568\tSaya memasukkan tiga sendok gula dengan sendok.","label":[[5,9,"1st"]]}
+{"id":1032,"text":"3569\tKemarin saya minum dua gelas arak.","label":[[13,17,"1st"]]}
+{"id":1033,"text":"3570\tSetiap pagi saya minum segelas susu.","label":[[17,21,"1st"]]}
+{"id":1034,"text":"3571\tKemarin saya membeli tiga ekor ikan di supermarket.","label":[[13,17,"1st"]]}
+{"id":1035,"text":"3572\tDi sana ada dua ekor anjing.","label":[]}
+{"id":1036,"text":"3573\tDi rumah Pak Hayashi ada seekor kucing.","label":[]}
+{"id":1037,"text":"3574\tSaya selalu membawa tiga batang pensil ke sekolah.","label":[[5,9,"1st"]]}
+{"id":1038,"text":"3575\tDi halaman rumah ada dua batang pohon.","label":[]}
+{"id":1039,"text":"3576\tSaya makan nasi dan menghisap satu batang rokok.","label":[[5,9,"1st"]]}
+{"id":1040,"text":"3577\tSekarang berat saya empat puluh lima kilogram.","label":[[20,24,"1st"]]}
+{"id":1041,"text":"3578\tBarang ini berat karena beratnya lima kilogram.","label":[]}
+{"id":1042,"text":"3579\tDari stasiun ke perpustakaan jaraknya dua kilometer.","label":[]}
+{"id":1043,"text":"3580\tSaya berlari tiga kilometer setiap pagi.","label":[[5,9,"1st"]]}
+{"id":1044,"text":"3581\tSaya memasukkan tiga puluh gram gula dan lima belas gram garam.","label":[[5,9,"1st"]]}
+{"id":1045,"text":"3582\tSaya membeli dua ratus gram daging babi.","label":[[5,9,"1st"]]}
+{"id":1046,"text":"3583\tRak buku ini tingginya 1 meter dan lebarnya 1,5 meter.","label":[]}
+{"id":1047,"text":"3584\tPak Yamada bisa berenang seratus meter.","label":[]}
+{"id":1048,"text":"3585\tSaya suka binatang kecil dan imut.","label":[[5,9,"1st"]]}
+{"id":1049,"text":"3586\tMbak Kimura sangat lucu.","label":[]}
+{"id":1050,"text":"3587\tOrang yang muda dan ceria itu Pak Yamada.","label":[]}
+{"id":1051,"text":"3588\tGuru kelas sebelah masih muda.","label":[]}
+{"id":1052,"text":"3589\tDi sana ada peti bundar.","label":[]}
+{"id":1053,"text":"3590\tMeja ini bundar.","label":[]}
+{"id":1054,"text":"3591\tBenda yang paling saya inginkan sekarang adalah komputer baru.","label":[[23,27,"1st"]]}
+{"id":1055,"text":"3592\tSaya mau kamus bahasa Jepang.","label":[[5,9,"1st"]]}
+{"id":1056,"text":"3593\tPak Lee tidak sehat karena masuk angin.","label":[]}
+{"id":1057,"text":"3594\tPak Yamada orang yang sangat ceria.","label":[]}
+{"id":1058,"text":"3595\tKalau banyak makan nasi, badan akan menjadi kuat.","label":[]}
+{"id":1059,"text":"3596\tPak Yamada kuat dan sehat.","label":[]}
+{"id":1060,"text":"3597\tKarena bulan depan saya bermain bersama Pak Lee, saya memberi tahu dia hari yang saya bisa.","label":[[24,28,"1st"],[24,28,"1st"],[24,28,"1st"]]}
+{"id":1061,"text":"3598\tHari ini saya harus belajar tetapi besok tidak.","label":[[14,18,"1st"]]}
+{"id":1062,"text":"3599\tJangan hilangkan buku ini karena sangat penting.","label":[]}
+{"id":1063,"text":"3600\tIni surat yang penting.","label":[]}
+{"id":1064,"text":"3603\tPak Tanaka bekerja dengan susah payah.","label":[]}
+{"id":1065,"text":"3604\tSaya kesusahan karena harus menghafal banyak huruf kanji.","label":[[5,9,"1st"]]}
+{"id":1066,"text":"3605\tIni kamus yang sangat ringan dan praktis.","label":[]}
+{"id":1067,"text":"3606\tPesawat terbang cepat dan praktis.","label":[]}
+{"id":1068,"text":"3607\tDi sini tempat yang sangat terkenal di Jepang.","label":[]}
+{"id":1069,"text":"3608\tUniversitas ini tua dan terkenal.","label":[]}
+{"id":1070,"text":"3609\tKarena bulan ini sibuk, tidak ada hari luang.","label":[]}
+{"id":1071,"text":"3610\tBesok saya bermain dengan teman karena ada waktu luang.","label":[[11,15,"1st"]]}
+{"id":1072,"text":"3611\tTidak boleh menggunakan barang yang ada di sana.","label":[]}
+{"id":1073,"text":"3612\tMbak Kimura sangat suka barang imut.","label":[]}
+{"id":1074,"text":"3613\tSaya ingin tinggal di tempat tenang dan cantik.","label":[[5,9,"1st"]]}
+{"id":1075,"text":"3614\tDi sini tempat yang sangat ramai.","label":[]}
+{"id":1076,"text":"3615\tKemarin saya mendengar berita menarik dari teman saya.","label":[[13,17,"1st"],[13,17,"1st"]]}
+{"id":1077,"text":"3616\tPagi ini saya menonton acara berita di televisi.","label":[[14,18,"1st"]]}
+{"id":1078,"text":"3617\tSaya belanja untuk makan malam di supermarket.","label":[[5,9,"1st"]]}
+{"id":1079,"text":"3618\tMinggu lalu ada pesta pernikahan kakak perempuan saya.","label":[[54,58,"1st"]]}
+{"id":1080,"text":"3619\tPak Yamada memberikan jam pada hari ulang tahun Pak Kobayashi.","label":[]}
+{"id":1081,"text":"3620\tHari ulang tahun saya tanggal dua puluh enam Agustus.","label":[[22,26,"1st"]]}
+{"id":1082,"text":"3621\tBuku tulis ini ukuran horizontalnya lebih panjang daripada ukuran vertikalnya.","label":[]}
+{"id":1083,"text":"3622\tSaya memotong kertas ini dari bawah ke atas.","label":[[5,9,"1st"]]}
+{"id":1084,"text":"3623\tSaya makan telur dengan dibubuhi garam.","label":[[5,9,"1st"]]}
+{"id":1085,"text":"3624\tSaya setiap pagi makan roti dan telur.","label":[[5,9,"1st"]]}
+{"id":1086,"text":"3625\tTidak boleh membuka pintu di situ.","label":[]}
+{"id":1087,"text":"3626\tPintu kamar saya tidak bisa ditutup.","label":[[17,21,"1st"]]}
+{"id":1088,"text":"3627\tBuku ini ada seratus dua puluh halaman.","label":[]}
+{"id":1089,"text":"3628\tSaya meminjam telepon dari Ibu Kimura.","label":[[5,9,"1st"]]}
+{"id":1090,"text":"3629\tBesok saya akan menelepon Pak Lee.","label":[[11,15,"1st"]]}
+{"id":1091,"text":"3630\tKarena saya sudah mengambil banyak foto, saya tidak ada film lagi.","label":[[12,16,"1st"],[12,16,"1st"]]}
+{"id":1092,"text":"3631\tSaya memasukkan film ke kamera.","label":[]}
+{"id":1093,"text":"3632\tKarena sudah pukul dua belas malam, saya berbicara dengan suara kecil.","label":[[41,45,"1st"]]}
+{"id":1094,"text":"3633\tPak Matsui suaranya besar.","label":[]}
+{"id":1095,"text":"3634\tKami berbaris dari orang yang badannya pendek.","label":[[5,9,"1st"]]}
+{"id":1096,"text":"3635\tJaket ini praktis karena sakunya ada banyak.","label":[]}
+{"id":1097,"text":"3636\tSaya memasukkan uang ke dalam saku.","label":[[5,9,"1st"]]}
+{"id":1098,"text":"3637\tSaya membawa sapu tangan saat keluar.","label":[[5,9,"1st"]]}
+{"id":1099,"text":"3638\tKemarin sapu tangan saya ketinggalan di kelas.","label":[[25,29,"1st"]]}
+{"id":1100,"text":"3639\tDi kamar mandi tidak ada sampo.","label":[]}
+{"id":1101,"text":"3640\tSaya mencuci tangan dengan sabun.","label":[[5,9,"1st"]]}
+{"id":1102,"text":"3641\tDi kamar mandi tidak ada sabun.","label":[]}
+{"id":1103,"text":"3642\tSaya merokok dengan menggunakan korek api.","label":[[5,9,"1st"]]}
+{"id":1104,"text":"3643\tDi atas meja ada korek api.","label":[]}
+{"id":1105,"text":"3644\tMinggu lalu saya pergi ke bioskop dengan Pak Lee dan menonton film.","label":[[17,21,"1st"]]}
+{"id":1106,"text":"3645\tGedung bioskop itu baru dan cantik.","label":[]}
+{"id":1107,"text":"3646\tSaya memasukkan buku tulis dan pen ke dalam kotak.","label":[[5,9,"1st"]]}
+{"id":1108,"text":"3647\tKotak ini sangat berat.","label":[]}
+{"id":1109,"text":"3648\tSaya menulis jawaban soal di kertas ini.","label":[[5,9,"1st"]]}
+{"id":1110,"text":"3649\tDi atas meja ada kertas dan pensil.","label":[]}
+{"id":1111,"text":"3650\tKarena jalan baru sudah jadi, desa menjadi lebih mudah dijangkau.","label":[]}
+{"id":1112,"text":"3651\tDesa ini tenang dan cantik.","label":[]}
+{"id":1113,"text":"3652\tBulan lalu ada toserba dibuka di kota sebelah.","label":[]}
+{"id":1114,"text":"3653\tSaya akan tinggal di kota ini mulai tahun depan.","label":[[5,9,"1st"]]}
+{"id":1115,"text":"3654\tSurat dari ibu yang ada di negara asal sudah sampai.","label":[]}
+{"id":1116,"text":"3655\tSaya pulang ke negara asal saat libur musim panas.","label":[[5,9,"1st"]]}
+{"id":1117,"text":"3656\tBurung sedang minum air.","label":[]}
+{"id":1118,"text":"3657\tDi atas pohon sana ada burung.","label":[]}
+{"id":1119,"text":"3658\tDi rumah Pak Hayashi ada anjing dan kucing.","label":[]}
+{"id":1120,"text":"3659\tDi sana ada kucing sedang tidur.","label":[]}
+{"id":1121,"text":"3660\tSaya pergi jalan-jalan ke taman dengan anjing saya pada malam hari.","label":[[5,9,"1st"],[51,55,"1st"]]}
+{"id":1122,"text":"3661\tAnjing kami sangat besar.","label":[[12,16,"1st"]]}
+{"id":1123,"text":"3662\tKemarin saya bermain dengan binatang peliharaan.","label":[[13,17,"1st"]]}
+{"id":1124,"text":"3663\tDi rumah Pak Kobayashi ada binatang peliharaan.","label":[]}
+{"id":1125,"text":"3664\tBinatang kecil sangat imut.","label":[]}
+{"id":1126,"text":"3666\tLaut sana sangat cantik.","label":[]}
+{"id":1127,"text":"3667\tKedua orang tua saya tinggal dekat laut.","label":[[21,25,"1st"]]}
+{"id":1128,"text":"3668\tDi gunung itu ada banyak binatang.","label":[]}
+{"id":1129,"text":"3669\tSekolah ada di dekat gunung itu.","label":[]}
+{"id":1130,"text":"3670\tDi dalam kolam ada ikan.","label":[]}
+{"id":1131,"text":"3671\tDi taman ada kolam besar.","label":[]}
+{"id":1132,"text":"3672\tBunga ini merah dan cantik.","label":[]}
+{"id":1133,"text":"3673\tMbak Kimura suka bunga.","label":[]}
+{"id":1134,"text":"3674\tKemarin saya memotong pohon.","label":[[13,17,"1st"]]}
+{"id":1135,"text":"3675\tDi halaman rumah Pak Tanaka ada pohon dan bunga.","label":[]}
+{"id":1136,"text":"3676\tLangit timur mendung.","label":[]}
+{"id":1137,"text":"3677\tLangit luas.","label":[]}
+{"id":1138,"text":"3678\tSalju turun saat musim dingin di Jepang.","label":[]}
+{"id":1139,"text":"3679\tKarena musim dingin dingin, saya menyalakan penghangat.","label":[[33,37,"1st"]]}
+{"id":1140,"text":"3680\tMusim gugur datang setelah musim panas berakhir.","label":[]}
+{"id":1141,"text":"3681\tSaya lebih suka musim gugur daripada musim semi.","label":[[5,9,"1st"]]}
+{"id":1142,"text":"3682\tSetiap hari saat musim panas saya keluar memakai topi.","label":[[34,38,"1st"]]}
+{"id":1143,"text":"3683\tMusim panas di Jepang sangat panas.","label":[]}
+{"id":1144,"text":"3684\tBanyak bunga mekar saat musim semi.","label":[]}
+{"id":1145,"text":"3685\tDi Jepang musim semi anginnya kencang.","label":[]}
+{"id":1146,"text":"3686\tMinggu ini ada empat ujian.","label":[]}
+{"id":1147,"text":"3687\tTahun depan adik perempuan saya akan masuk universitas.","label":[[32,36,"1st"]]}
+{"id":1148,"text":"3688\tSaya belanja bersama teman dan masuk ke kedai kopi.","label":[[5,9,"1st"]]}
+{"id":1149,"text":"3689\tSaya selalu mandi sebelum tidur.","label":[[5,9,"1st"]]}
+{"id":1150,"text":"3690\tSaya menangis ketika menonton film.","label":[[5,9,"1st"]]}
+{"id":1151,"text":"3691\tAdik perempuan saya menangis di kamar.","label":[[20,24,"1st"]]}
+{"id":1152,"text":"3692\tBesok saya ingin beristirahat seharian, tetapi saya harus pergi ke sekolah.","label":[[11,15,"1st"],[11,15,"1st"]]}
+{"id":1153,"text":"3693\tSetiap hari sibuk tetapi sangat menyenangkan.","label":[]}
+{"id":1154,"text":"3694\tRestoran itu murah. Tetapi, tidak begitu enak.","label":[]}
+{"id":1155,"text":"3695\tPesta kemarin menyenangkan. Tetapi, saya sedikit lelah.","label":[[41,45,"1st"]]}
+{"id":1156,"text":"3696\tNasi di kantin murah dan enak.","label":[]}
+{"id":1157,"text":"3697\tSaya keluar rumah pukul delapan, lalu pergi ke sekolah dengan bus.","label":[[5,9,"1st"]]}
+{"id":1158,"text":"3698\tSaya akan membeli gelas ini. Kemudian, saya juga akan membeli piring ini.","label":[[5,9,"1st"],[44,48,"1st"]]}
+{"id":1159,"text":"3699\tKemarin saya menonton televisi. Kemudian, saya belajar bahasa Jepang.","label":[[13,17,"1st"],[13,17,"1st"]]}
+{"id":1160,"text":"3700\tKamus ini tidak begitu bagus.","label":[]}
+{"id":1161,"text":"3701\tNanti mari kita makan siang bersama-sama.","label":[[16,20,"1st"]]}
+{"id":1162,"text":"3702\tPak Tanaka selalu kelihatan sibuk.","label":[]}
+{"id":1163,"text":"3703\tSaya selalu belanja di supermarket ini.","label":[[5,9,"1st"]]}
+{"id":1164,"text":"3704\tTerima kasih atas segalanya.","label":[]}
+{"id":1165,"text":"3705\tDi meja berjejer macam-macam masakan.","label":[]}
+{"id":1166,"text":"3706\tTerima kasih. Ini sudah cukup.","label":[]}
+{"id":1167,"text":"3707\tPak Kobayashi sangat pintar.","label":[]}
+{"id":1168,"text":"3708\tSaya membaca buku sedikit, lalu tidur.","label":[[5,9,"1st"]]}
+{"id":1169,"text":"3709\tKemarin saya minum arak sedikit.","label":[[13,17,"1st"]]}
+{"id":1170,"text":"3710\tSekarang ini saya sedang makan malam.","label":[[18,22,"1st"]]}
+{"id":1171,"text":"3711\tSekarang ini pertandingan dimulai.","label":[]}
+{"id":1172,"text":"3712\tSetelah tamat universitas, saya akan segera bekerja.","label":[[32,36,"1st"]]}
+{"id":1173,"text":"3713\tIstri saya segera pulang.","label":[[11,15,"1st"]]}
+{"id":1174,"text":"3714\tHari ini sangat menyenangkan.","label":[]}
+{"id":1175,"text":"3715\tFilm ini sangat menarik.","label":[]}
+{"id":1176,"text":"3716\tPak Lee semakin pandai berbahasa Jepang.","label":[]}
+{"id":1177,"text":"3717\tMulai bulan Juli hawanya akan semakin panas.","label":[]}
+{"id":1178,"text":"3718\tB: Maaf. Besok sepertinya agak susah....","label":[]}
+{"id":1179,"text":"3719\tA: Bagaimana kalau besok kita pergi berbelanja?","label":[[30,34,"1st"]]}
+{"id":1180,"text":"3720\tSaya kadang-kadang berbelanja di toko sayur ini.","label":[[5,9,"1st"]]}
+{"id":1181,"text":"3721\tMbak Kimura kadang-kadang membuat makan malam.","label":[]}
+{"id":1182,"text":"3722\tOrang yang ada di sana mungkin Pak Yamada.","label":[]}
+{"id":1183,"text":"3723\tPak Hayashi mungkin tahu berita itu.","label":[]}
+{"id":1184,"text":"3724\tPara murid berbaris lurus di koridor.","label":[]}
+{"id":1185,"text":"3725\tSetelah keluar dari stasiun, jalan lurus mengikuti jalan itu.","label":[]}
+{"id":1186,"text":"3726\tKemarin pertama kali saya belajar piano.","label":[[26,30,"1st"]]}
+{"id":1187,"text":"3727\tSaya pertama kali bertemu dengan Pak Hayashi.","label":[[5,9,"1st"]]}
+{"id":1188,"text":"3728\tSaya akan datang lagi nanti.","label":[[5,9,"1st"]]}
+{"id":1189,"text":"3729\tMinggu depan saya akan bermain lagi dengan Pak Kobayashi.","label":[[18,22,"1st"]]}
+{"id":1190,"text":"3730\tPak Matsui belum membuat pekerjaan rumah.","label":[]}
+{"id":1191,"text":"3731\tSekarang masih pukul sepuluh.","label":[]}
+{"id":1192,"text":"3732\tSaya sudah makan siang di kantin.","label":[[5,9,"1st"]]}
+{"id":1193,"text":"3733\tAdik perempuan saya sudah tidur.","label":[[20,24,"1st"]]}
+{"id":1194,"text":"3734\tSaya akan bekerja sedikit lagi, lalu pulang.","label":[[5,9,"1st"]]}
+{"id":1195,"text":"3735\tSaya minum air satu gelas lagi.","label":[[5,9,"1st"]]}
+{"id":1196,"text":"3736\tTolong berbicara dengan lebih pelan.","label":[]}
+{"id":1197,"text":"3737\tSaya berjalan pelan-pelan karena kaki saya sakit.","label":[[5,9,"1st"],[43,47,"1st"]]}
+{"id":1198,"text":"3738\tSaya ingin lebih pandai berbahasa Inggris.","label":[[5,9,"1st"]]}
+{"id":1199,"text":"3739\tSaya membeli baju yang lebih murah.","label":[[5,9,"1st"]]}
+{"id":1200,"text":"3740\tKarangan ini ditulis dengan sangat baik.","label":[]}
+{"id":1201,"text":"3741\tSaya bisa mengerjakan ujian kemarin dengan baik.","label":[[5,9,"1st"]]}
+{"id":1202,"text":"3742\tHari ini saya sering bertemu dengan Pak Kobayashi.","label":[[14,18,"1st"]]}
+{"id":1203,"text":"3743\tSaya sering pergi ke kedai kopi itu dengan Pak Kimura.","label":[[5,9,"1st"]]}
+{"id":1204,"text":"3744\tKalau sudah pulang rumah, pertama-tama saya mengerjakan pekerjaan rumah.","label":[[44,48,"1st"]]}
+{"id":1205,"text":"3745\tAwal bulan depan saya akan pulang ke negara saya.","label":[[22,26,"1st"],[22,26,"1st"]]}
+{"id":1206,"text":"3746\tBesok Anda akan bertemu dengan siapa?","label":[[11,15,"2nd"]]}
+{"id":1207,"text":"3747\tApakah ada seseorang di kamar sebelah?","label":[]}
+{"id":1208,"text":"3748\tAda yang membawa bolpoin saya?","label":[[30,34,"1st"]]}
+{"id":1209,"text":"3749\tAnda selalu makan siang di mana?","label":[[5,9,"2nd"]]}
+{"id":1210,"text":"3750\tMengapa Anda belajar bahasa Jepang?","label":[[13,17,"2nd"]]}
+{"id":1211,"text":"3751\tDengan apa Anda pergi ke perusahaan?","label":[[16,20,"2nd"]]}
+{"id":1212,"text":"3752\tYang mana yang paling enak?","label":[]}
+{"id":1213,"text":"3753\tIbu Kobayashi membeli yang mana?","label":[]}
+{"id":1214,"text":"3754\tItu makanan yang bagaimana?","label":[]}
+{"id":1215,"text":"3755\tAnda ingin menikah dengan orang yang bagaimana?","label":[[5,9,"2nd"]]}
+{"id":1216,"text":"3756\tPak Lee mau minuman yang mana?","label":[[5,12,"2nd"]]}
+{"id":1217,"text":"3757\tMbak Kimura suka yang mana?","label":[[5,16,"2nd"]]}
+{"id":1218,"text":"3758\tApakah Anda mau kopi?","label":[[12,16,"2nd"]]}
+{"id":1219,"text":"3759\tApakah Anda mau kuenya satu?","label":[[12,16,"2nd"]]}
+{"id":1220,"text":"3760\tPelajaran guru mana yang paling menarik?","label":[]}
+{"id":1221,"text":"3761\tPak Hayashi orang yang mana?","label":[]}
+{"id":1222,"text":"3762\tPak Kobayashi siapa?","label":[]}
+{"id":1223,"text":"3763\tSiapa guru barunya?","label":[]}
+{"id":1224,"text":"3764\tPak Yamada ingin makan yang mana?","label":[[5,15,"2nd"]]}
+{"id":1225,"text":"3765\tNegara Anda di mana?","label":[[12,16,"2nd"]]}
+{"id":1226,"text":"3766\tHai, Pak Tanaka, selamat malam.","label":[[10,20,"address"]]}
+{"id":1227,"text":"3767\tOh, baguslah.","label":[]}
+{"id":1228,"text":"3768\tFoto itu diambil bulan lalu.","label":[]}
+{"id":1229,"text":"3769\tOrang itu Pak Kobayashi.","label":[]}
+{"id":1230,"text":"3770\tEntahlah, saya tidak mengerti.","label":[[15,19,"1st"]]}
+{"id":1231,"text":"3771\tBaiklah, mari kita mulai pelajaran.","label":[[19,23,"1st"]]}
+{"id":1232,"text":"3772\tHalo, ini Kimura.","label":[]}
+{"id":1233,"text":"3773\tYa, halo, ini Matsui.","label":[]}
+{"id":1234,"text":"3774\tSaya minta maaf.","label":[[5,9,"1st"]]}
+{"id":1235,"text":"3775\tTerima kasih banyak.","label":[]}
+{"id":1236,"text":"3776\tTerima kasih.","label":[]}
+{"id":1237,"text":"3777\tYa, betul.","label":[]}
+{"id":1238,"text":"3778\tYa, ada apa?","label":[]}
+{"id":1239,"text":"3779\tKalau begitu, saya mohon bantuannya.","label":[[19,23,"1st"]]}
+{"id":1240,"text":"3780\tKalau begitu, pelajaran dimulai.","label":[]}
+{"id":1241,"text":"3781\tKalau begitu, saya pergi ke rumah sakit dengan bus.","label":[[19,23,"1st"]]}
+{"id":1242,"text":"3782\tBegitu ya.","label":[]}
+{"id":1243,"text":"3784\tBukan.","label":[]}
+{"id":1244,"text":"3785\tMinuman yang paling saya sukai adalah teh.","label":[[25,29,"1st"]]}
+{"id":1245,"text":"3786\tDaging ini yang paling murah.","label":[]}
+{"id":1246,"text":"3787\tSaya memesan masakan ini.","label":[[5,9,"1st"]]}
+{"id":1247,"text":"3788\tBangunan ini tua dan terkenal.","label":[]}
+{"id":1248,"text":"3789\tTidak boleh masuk ke kamar itu.","label":[]}
+{"id":1249,"text":"3790\tSaya sedang mencari dompet hitam seperti ini.","label":[[5,9,"1st"]]}
+{"id":1250,"text":"3791\tSaya ingin topi seperti ini.","label":[[5,9,"1st"]]}
+{"id":1251,"text":"3792\tSaya mohon bantuannya.","label":[[5,9,"1st"]]}
+{"id":1252,"text":"3795\tSaya pulang bersama dengan semuanya.","label":[[5,9,"1st"]]}
+{"id":1253,"text":"3796\tSaya belajar bersama Pak Yamada di perpustakaan.","label":[[5,9,"1st"]]}
+{"id":1254,"text":"3797\tBagaimana kalau kita pergi jalan-jalan bersama?","label":[[21,25,"1st"]]}
+{"id":1255,"text":"3798\tTas yang besar praktis.","label":[]}
+{"id":1256,"text":"3799\tPak Tanaka tinggal di rumah besar.","label":[]}
+{"id":1257,"text":"3800\tDi kamar saya ada kursi kecil.","label":[[14,18,"1st"]]}
+{"id":1258,"text":"3801\tSaya lahir di kota kecil.","label":[[5,9,"1st"]]}
+{"id":1259,"text":"3802\tSaya memotong buah menjadi separuh.","label":[[5,9,"1st"]]}
+{"id":1260,"text":"3803\tSaya makan separuh roti.","label":[[5,9,"1st"]]}
+{"id":1261,"text":"3804\tTolong buka jendela di sana.","label":[]}
+{"id":1262,"text":"3805\tRumah sakit di seberang stasiun.","label":[]}
+{"id":1263,"text":"3806\tSemuanya seribu enam ratus yen.","label":[]}
+{"id":1264,"text":"3807\tPekerjaan rumah semuanya sudah selesai.","label":[]}
+{"id":1265,"text":"3808\tDi laut banyak orang sedang berenang.","label":[]}
+{"id":1266,"text":"3809\tBanyak orang datang ke pesta.","label":[]}
+{"id":1267,"text":"3810\tSepatu saya dan sepatu Mbak Kobayashi sama.","label":[[12,16,"1st"]]}
+{"id":1268,"text":"3811\tPak Matsui dan Pak Lee sekelas.","label":[]}
+{"id":1269,"text":"3812\tSaya memasukkan banyak susu ke kopi.","label":[[5,9,"1st"]]}
+{"id":1270,"text":"3813\tHari ini saya banyak berjalan kaki.","label":[[14,18,"1st"]]}
+{"id":1271,"text":"3814\tPak Tanaka bisa menyanyikan lagu sambil bermain gitar.","label":[]}
+{"id":1272,"text":"3815\tSaya makan nasi sambil menonton televisi.","label":[[5,9,"1st"]]}
+{"id":1273,"text":"3816\tKemarin saya membeli sweter, rok, dan lain-lain di toserba.","label":[[13,17,"1st"]]}
+{"id":1274,"text":"3817\tDi kulkas ada telur, sayur, buah, dan lain-lain.","label":[]}
+{"id":1275,"text":"3818\tAnda akan jadi lebih pandai berbahasa Jepang sedikit demi sedikit kalau belajar.","label":[[5,9,"2nd"]]}
+{"id":1276,"text":"3819\tSilakan ambil kertas satu demi satu.","label":[]}
+{"id":1277,"text":"3820\tAnak-anak sedang bermain di taman.","label":[]}
+{"id":1278,"text":"3821\tOrang-orang itu teman saya.","label":[[27,31,"1st"]]}
+{"id":1279,"text":"3822\tSaya mandi sebelum tidur.","label":[[5,9,"1st"]]}
+{"id":1280,"text":"3823\tKelas kalian di lantai tiga.","label":[[11,17,"2nd"]]}
+{"id":1281,"text":"3824\tKalau semua pergi, saya juga pergi.","label":[[24,28,"1st"]]}
+{"id":1282,"text":"3825\tKalian akan ujian kanji minggu depan.","label":[[5,11,"2nd"]]}
+{"id":1283,"text":"3826\tSemuanya menyanyikan lagu bersama-sama.","label":[]}
+{"id":1284,"text":"3827\tSemuanya sedang menunggu guru di kelas.","label":[]}
+{"id":1285,"text":"3828\tSemuanya mahasiswa universitas ini.","label":[]}
+{"id":1286,"text":"3829\tPak Hayashi bekerja di luar negeri satu setengah tahun.","label":[]}
+{"id":1287,"text":"3830\tKarena sudah jam setengah delapan, saya harus keluar rumah.","label":[[40,44,"1st"]]}
+{"id":1288,"text":"3831\tPak Lee ingin bermain tenis.","label":[]}
+{"id":1289,"text":"3832\tAnak-anak ingin kue.","label":[]}
+{"id":1290,"text":"3833\tPekerjaan rumah sudah selesai kira-kira separuh.","label":[]}
+{"id":1291,"text":"3834\tSatu butir telur kira-kira lima puluh gram.","label":[]}
+{"id":1292,"text":"3835\tPak Tanaka sampai di stasiun sekitar pukul sepuluh.","label":[]}
+{"id":1293,"text":"3836\tSaya sering bermain di taman itu saat saya kanak-kanak.","label":[[5,9,"1st"],[43,47,"1st"]]}
+{"id":1294,"text":"3837\tPelajaran selalu mulai pada pukul sembilan lewat.","label":[]}
+{"id":1295,"text":"3838\tSekarang pukul dua belas lewat.","label":[]}
+{"id":1296,"text":"3839\tMari kita beristirahat sebentar di dekat sini.","label":[[10,14,"1st"]]}
+{"id":1297,"text":"3840\tDi dekat sana ada rumah Pak Hayashi.","label":[]}
+{"id":1298,"text":"3841\tKamar adik laki-laki saya lebih sempit daripada kamar saya.","label":[[26,30,"1st"],[26,30,"1st"]]}
+{"id":1299,"text":"3842\tSaya lebih suka bisbol daripada sepak bola.","label":[[5,9,"1st"]]}
+{"id":1300,"text":"3843\tTiga hari yang lalu saya memotong rambut.","label":[[25,29,"1st"]]}
+{"id":1301,"text":"3844\tSaya kadang-kadang pergi ke toko buku di sana.","label":[[5,9,"1st"]]}
+{"id":1302,"text":"3845\tBibi saya bekerja di toko bunga.","label":[[10,14,"1st"]]}
+{"id":1303,"text":"3846\tAnjing kami benar-benar lucu.","label":[[12,16,"1st"]]}
+{"id":1304,"text":"3847\tCerita ini benar.","label":[]}
+{"id":1305,"text":"3848\tTidak boleh berbicara kepada orang lain.","label":[]}
+{"id":1306,"text":"3849\tAda barang lain yang Anda mau?","label":[[26,30,"2nd"]]}
+{"id":1307,"text":"3850\tSaya ingin jalan-jalan ke semua tempat di Jepang.","label":[[5,9,"1st"]]}
+{"id":1308,"text":"3851\tKemarin seharian saya tidak ada di rumah.","label":[[22,26,"1st"]]}
+{"id":1309,"text":"3852\tSaya meminjam buku dari perpustakaan dan membacanya.","label":[[5,9,"1st"]]}
+{"id":1310,"text":"3853\tDi dekat stasiun telah dibuka restoran baru.","label":[]}
+{"id":1311,"text":"3854\tDinding kelas ini tebal.","label":[]}
+{"id":1312,"text":"3855\tIbu saya sangat suka keik.","label":[[9,13,"1st"]]}
+{"id":1313,"text":"3856\tSetiap hari ulang tahun saya makan keik.","label":[[29,33,"1st"]]}
+{"id":1314,"text":"3857\tKemarin saya pergi ke konser bersama teman.","label":[[13,17,"1st"]]}
+{"id":1315,"text":"3858\tJangan khawatir karena saya tidak sakit.","label":[[28,32,"1st"]]}
+{"id":1316,"text":"3859\tIbu saya khawatir karena adik perempuan saya belum pulang.","label":[[9,13,"1st"],[9,13,"1st"]]}
+{"id":1317,"text":"3860\tSaya bekerja dengan menggunakan komputer.","label":[[5,9,"1st"]]}
+{"id":1318,"text":"3861\tSaya menyalakan televisi.","label":[[5,9,"1st"]]}
+{"id":1319,"text":"3862\tKemarin saya pergi ke karaoke tetapi tidak banyak menyanyi.","label":[[13,17,"1st"]]}
+{"id":1320,"text":"3863\tSaya seminggu sekali pergi ke karaoke.","label":[[5,9,"1st"]]}
+{"id":1321,"text":"3864\tSaya memberi tahu teman saya nomor ponsel saya.","label":[[5,9,"1st"],[29,33,"1st"],[29,33,"1st"]]}
+{"id":1322,"text":"3865\tPonsel kecil dan sangat praktis.","label":[]}
+{"id":1323,"text":"3866\tLebih baik berhenti membaca buku di tempat gelap.","label":[]}
+{"id":1324,"text":"3867\tBulan lalu saya berhenti bekerja.","label":[[16,20,"1st"]]}
+{"id":1325,"text":"3868\tSaya makan kue yang saya dapat dari Pak Tanaka.","label":[[5,9,"1st"],[25,29,"1st"]]}
+{"id":1326,"text":"3869\tSaya kemarin mendapat oleh-oleh dari Pak Yamada yang pergi jalan-jalan.","label":[[5,9,"1st"]]}
+{"id":1327,"text":"3870\tPak Kobayashi memberi separuh roti kepada Mbak Kimura.","label":[]}
+{"id":1328,"text":"3871\tPak Matsui memberi dasi pada hari ulang tahun Pak Tanaka.","label":[]}
+{"id":1329,"text":"3872\tPelajaran hari ini sampai di sini. Kalau begitu, sampai jumpa minggu depan.","label":[]}
+{"id":1330,"text":"3873\tApakah ujiannya sudah selesai? Kalau begitu, tolong kumpulkan.","label":[]}
+{"id":1331,"text":"3874\tMaaf, mau tanya. Perpustakaan di mana?","label":[]}
+{"id":1332,"text":"3875\tGuru itu orang yang sangat terhormat.","label":[]}
+{"id":1333,"text":"3876\tSaya ingin menjadi orang dewasa yang terhormat.","label":[[5,9,"1st"]]}
+{"id":1334,"text":"3877\tSemuanya ada sepuluh.","label":[]}
+{"id":1335,"text":"3878\tTidak boleh memakai topi selama pelajaran.","label":[]}
+{"id":1336,"text":"3879\tSaya pergi jalan-jalan ke luar negeri dua minggu mulai minggu depan.","label":[[5,9,"1st"]]}
+{"id":1337,"text":"3880\tSaya menunjukkan foto jalan-jalan ke Mbak Kimura.","label":[[5,9,"1st"]]}
+{"id":1338,"text":"3881\tSaya paling suka warna putih.","label":[[5,9,"1st"]]}
+{"id":1339,"text":"3882\tDi sini sangat dingin karena suhunya nol derajat.","label":[]}
+{"id":1340,"text":"3883\t"Kosong" sama dengan "nol".","label":[]}
+{"id":1341,"text":"3884\tSaya membeli satu lembar kartu pos di kantor pos.","label":[[5,9,"1st"]]}
+{"id":1342,"text":"3885\tDi rumah Pak Tanaka ada dua buah mobil.","label":[]}
+{"id":1343,"text":"3886\tDi rumah saya ada tiga buah televisi.","label":[[14,18,"1st"]]}
+{"id":1344,"text":"3887\t"4" dibaca "empat".","label":[]}
+{"id":1345,"text":"3888\tKeluarga saya lima orang.","label":[[14,18,"1st"]]}
+{"id":1346,"text":"3889\tSaya menjejerkan enam buah piring di atas meja.","label":[[5,9,"1st"]]}
+{"id":1347,"text":"3890\tCuaca akan semakin panas setelah masuk bulan Juli.","label":[]}
+{"id":1348,"text":"3891\tDi sini ada delapan lembar prangko.","label":[]}
+{"id":1349,"text":"3892\tAdik laki-laki saya berumur sembilan tahun.","label":[[20,24,"1st"]]}
+{"id":1350,"text":"3893\tTanggal sepuluh Oktober hari ulang tahun kakak laki-laki saya.","label":[[62,66,"1st"]]}
+{"id":1351,"text":"3894\tKelas sebelah bisa menampung seratus orang.","label":[]}
+{"id":1352,"text":"3895\tKemarin saya meminjam seribu yen dari Pak Yamada.","label":[[13,17,"1st"]]}
+{"id":1353,"text":"3896\tMantel ini sepuluh ribu yen.","label":[]}
+{"id":1354,"text":"3898\tAyah Mbak Kimura berumur lima puluh dua tahun.","label":[]}
+{"id":1355,"text":"3899\tSaya khawatir karena adik perempuan saya hari ini juga demam tinggi terus-menerus.","label":[[5,9,"1st"],[41,45,"1st"]]}
+{"id":1356,"text":"3900\tMinggu lalu terus-menerus hujan.","label":[]}
+{"id":1357,"text":"3901\tSebelum keluar rumah, saya memeriksa barang saya.","label":[[27,31,"1st"],[27,31,"1st"]]}
+{"id":1358,"text":"3902\tSaya memeriksa jawaban ujian.","label":[[5,9,"1st"]]}
+{"id":1359,"text":"3903\tSaya akan pulang ke rumah lebih awal karena hari ini hari ulang tahun istri saya.","label":[[5,9,"1st"],[81,85,"1st"]]}
+{"id":1360,"text":"3904\tSaya rasa buku ini sangat menarik.","label":[[5,9,"1st"]]}
+{"id":1361,"text":"3905\tBus yang pergi ke bandara akan tiba di jalan yang berlawanan.","label":[]}
+{"id":1362,"text":"3906\tLawan kata "berat" adalah "ringan".","label":[]}
+{"id":1363,"text":"3907\tTidak boleh masuk kamar ini.","label":[]}
+{"id":1364,"text":"3908\tKalau ditekan di sini, bunyinya akan menjadi besar.","label":[]}
+{"id":1365,"text":"3909\tSaya sekelompok dengan Bapak Lee.","label":[[5,9,"1st"]]}
+{"id":1366,"text":"3911\tSaya selalu membaca buku tiga puluh menit saja sebelum tidur.","label":[[5,9,"1st"]]}
+{"id":1367,"text":"3912\tSaya makan kue sebuah saja.","label":[[5,9,"1st"]]}
+{"id":1368,"text":"3913\tB: Satu, dua, tiga, empat....","label":[]}
+{"id":1369,"text":"3914\tA: Ada berapa?","label":[]}
+{"id":1370,"text":"3915\tDi dalam kulkas ada tujuh butir telur.","label":[]}
+{"id":1371,"text":"3916\tSaya pergi ke perusahaan setiap pagi pukul sembilan.","label":[[5,9,"1st"]]}

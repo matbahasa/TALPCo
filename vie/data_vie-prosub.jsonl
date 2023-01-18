@@ -1,0 +1,1372 @@
+{"id":0,"text":"1176\tAnh Tanaka không phải là học sinh.","label":[]}
+{"id":1,"text":"1178\tBố tôi là giáo viên.","label":[[8,11,"1st"]]}
+{"id":2,"text":"1180\tTrường nghỉ dạy.","label":[]}
+{"id":3,"text":"1194\tTokyo trời nắng.","label":[]}
+{"id":4,"text":"1222\tỞ công viên có cây.","label":[]}
+{"id":5,"text":"1229\tAnh Tanaka ở đâu?","label":[]}
+{"id":6,"text":"1233\tTôi không có tiền.","label":[[5,8,"1st"]]}
+{"id":7,"text":"1244\tTrên bàn có quyển sách.","label":[]}
+{"id":8,"text":"1245\tDưới bàn có cái cặp.","label":[]}
+{"id":9,"text":"1246\tTrong cặp có quyển vở.","label":[]}
+{"id":10,"text":"1247\tBên phải anh Tanaka là anh Yamada.","label":[]}
+{"id":11,"text":"1248\tBên trái anh Tanaka là chị Kimura.","label":[]}
+{"id":12,"text":"1249\tTrước nhà có con mèo.","label":[]}
+{"id":13,"text":"1250\tSau nhà có chiếc xe hơi.","label":[]}
+{"id":14,"text":"1251\tThùng thư ở đối diện nhà tôi.","label":[[30,33,"1st"]]}
+{"id":15,"text":"1254\tAnh Yamada ở ngoài phòng học.","label":[]}
+{"id":16,"text":"1255\tPhía trước nhà là công viên.","label":[]}
+{"id":17,"text":"1257\tTrường học ở gần nhà.","label":[]}
+{"id":18,"text":"1258\tQuyển sách ở trong cặp.","label":[]}
+{"id":19,"text":"1259\tCây bút của tôi là cây này.","label":[[17,20,"1st"]]}
+{"id":20,"text":"1264\tPhòng học tiếng Nhật ở đâu?","label":[]}
+{"id":21,"text":"1268\tĐó là tờ báo ra khi nào vậy?","label":[]}
+{"id":22,"text":"1274\tTrong phòng họp có máy vi tính mới.","label":[]}
+{"id":23,"text":"1275\tTrong thùng có con chó nhỏ.","label":[]}
+{"id":24,"text":"1276\tAnh Tanaka là người khỏe mạnh.","label":[]}
+{"id":25,"text":"1280\tBộ phim như thế nào vậy?","label":[]}
+{"id":26,"text":"1281\tBộ phim cũ của Nhật.","label":[]}
+{"id":27,"text":"1286\tBạn sẽ mua đôi giày nào?","label":[[5,8,"2nd"]]}
+{"id":28,"text":"1291\tTừ điển tiếng Nhật là quyển đó.","label":[]}
+{"id":29,"text":"1296\tCái cặp của chị Tanaka ở chỗ đó.","label":[]}
+{"id":30,"text":"1297\tThầy giáo ở đằng kia.","label":[]}
+{"id":31,"text":"1299\tQuyển sách đó là của tôi.","label":[[26,29,"1st"]]}
+{"id":32,"text":"1302\tCái cặp lớn đó là của tôi.","label":[[27,30,"1st"]]}
+{"id":33,"text":"1305\tXin lỗi cho tôi hỏi, nhà vệ sinh ở đâu?","label":[[17,20,"1st"]]}
+{"id":34,"text":"1308\tCái cặp kia là của ai?","label":[]}
+{"id":35,"text":"1311\tCái kia là của anh Tanaka.","label":[]}
+{"id":36,"text":"1312\tXe hơi của thầy giáo ở đâu?","label":[]}
+{"id":37,"text":"1319\tCó bảy cái bánh kem.","label":[]}
+{"id":38,"text":"1320\tCây bút bi này bao nhiêu tiền?","label":[]}
+{"id":39,"text":"1322\tTôi sẽ mua mười con tem và ba tấm thiệp.","label":[[5,8,"1st"]]}
+{"id":40,"text":"1323\tTrên bàn của thầy giáo có ba quyển từ điển và một quyển tạp chí.","label":[]}
+{"id":41,"text":"1326\tỞ chỗ đó có mấy cái khăn tay?","label":[]}
+{"id":42,"text":"1330\tBây giờ là năm giờ.","label":[]}
+{"id":43,"text":"1333\tBây giờ là mấy giờ mấy phút?","label":[]}
+{"id":44,"text":"1334\tMười giờ năm mươi mốt phút.","label":[]}
+{"id":45,"text":"1335\tHôm nay là ngày mấy tháng mấy?","label":[]}
+{"id":46,"text":"1341\tTi-vi đặt bên cạnh đàn dương cầm.","label":[]}
+{"id":47,"text":"1348\tNgày mai tôi sẽ kết thúc giờ học vào buổi sáng.","label":[[14,17,"1st"]]}
+{"id":48,"text":"1349\tMỗi ngày tôi đều đi đến trường.","label":[[14,17,"1st"]]}
+{"id":49,"text":"1350\tAnh Tanaka học ở thư viện nhưng tôi học ở nhà.","label":[[37,40,"1st"]]}
+{"id":50,"text":"1356\tNgày hôm qua tôi đã học bài.","label":[[18,21,"1st"]]}
+{"id":51,"text":"1367\tTôi sẽ về nhà.","label":[[5,8,"1st"]]}
+{"id":52,"text":"1369\tKhông, tôi sẽ không đi.","label":[[12,15,"1st"]]}
+{"id":53,"text":"1371\tAnh Tanaka uống coca.","label":[]}
+{"id":54,"text":"1378\tTôi sẽ gửi thư cho anh Tanaka.","label":[[5,8,"1st"]]}
+{"id":55,"text":"1379\tTôi sẽ cho anh Yamada mượn tiền.","label":[[5,8,"1st"]]}
+{"id":56,"text":"1380\tTôi sẽ dạy tiếng Anh cho chị Kimura.","label":[[5,8,"1st"]]}
+{"id":57,"text":"1382\tTôi sẽ mượn tiền của anh Yamada.","label":[[5,8,"1st"]]}
+{"id":58,"text":"1386\tTôi sẽ đặt quyển sách lên bàn.","label":[[5,8,"1st"]]}
+{"id":59,"text":"1388\tTôi thức dậy vào lúc bảy giờ ba mươi phút.","label":[[5,8,"1st"]]}
+{"id":60,"text":"1389\tTôi ngủ vào lúc mười một giờ.","label":[[5,8,"1st"]]}
+{"id":61,"text":"1392\tTôi chơi ten-nít vào ngày chủ nhật.","label":[[5,8,"1st"]]}
+{"id":62,"text":"1393\tBạn chơi ten-nít khi nào?","label":[[5,8,"2nd"]]}
+{"id":63,"text":"1396\tTôi đã xem phim rồi.","label":[[5,8,"1st"]]}
+{"id":64,"text":"1397\tTôi đã đi du lịch vào kì nghỉ hè.","label":[[5,8,"1st"]]}
+{"id":65,"text":"1398\tTôi sẽ tổ chức tiệc vào dịp sinh nhật của anh Yamada.","label":[[5,8,"1st"]]}
+{"id":66,"text":"1401\tCon chó của nhà tôi thì to.","label":[[21,24,"1st"]]}
+{"id":67,"text":"1402\tCon chó của nhà bên cạnh thì không to.","label":[]}
+{"id":68,"text":"1403\tHôm nay trời không lạnh.","label":[]}
+{"id":69,"text":"1408\tMón ăn Nhật Bản có cay không?","label":[]}
+{"id":70,"text":"1409\tKhông, không cay.","label":[]}
+{"id":71,"text":"1410\tBên ngoài có lạnh không?","label":[]}
+{"id":72,"text":"1414\tMón ăn Nhật Bản như thế nào?","label":[]}
+{"id":73,"text":"1418\tCái cặp này đắt tiền.","label":[]}
+{"id":74,"text":"1419\tCác món ăn trong buổi tiệc không ngon.","label":[]}
+{"id":75,"text":"1423\tBộ phim hôm qua như thế nào?","label":[]}
+{"id":76,"text":"1426\tPhòng của tôi không rộng lắm.","label":[[15,18,"1st"]]}
+{"id":77,"text":"1427\tTôi đã rất mệt.","label":[[5,8,"1st"]]}
+{"id":78,"text":"1428\tTôi đã không mệt lắm.","label":[[5,8,"1st"]]}
+{"id":79,"text":"1431\tỞ quanh đây không có nhiều nhà cao tầng lắm.","label":[]}
+{"id":80,"text":"1433\tTrước ga có cửa hàng tốt.","label":[]}
+{"id":81,"text":"1434\tĐây là căn phòng rất yên tĩnh.","label":[]}
+{"id":82,"text":"1435\tBộ quần áo đẹp nhỉ!","label":[]}
+{"id":83,"text":"1446\tAnh Tanaka thì cao.","label":[]}
+{"id":84,"text":"1449\tTôi bị đau họng từ hôm qua.","label":[[5,8,"1st"]]}
+{"id":85,"text":"1450\tBạn bị đau đầu phải không?","label":[[5,8,"2nd"]]}
+{"id":86,"text":"1451\tKhông, không đau.","label":[]}
+{"id":87,"text":"1454\tKhu phố này đường hẹp.","label":[]}
+{"id":88,"text":"1455\tBức tranh này màu sắc đẹp.","label":[]}
+{"id":89,"text":"1457\tTôi hát dở.","label":[[5,8,"1st"]]}
+{"id":90,"text":"1459\tBố anh Yamada làm việc rất chăm chỉ.","label":[]}
+{"id":91,"text":"1460\tAnh Yamada có bố là bác sĩ.","label":[]}
+{"id":92,"text":"1473\tĐừng quên làm bài tập nhé!","label":[]}
+{"id":93,"text":"1474\tCó thể học bài ở đây.","label":[]}
+{"id":94,"text":"1476\tTôi nghĩ người kia là giáo viên tiếng Nhật.","label":[[5,8,"1st"]]}
+{"id":95,"text":"1477\tĐây là cuộn băng mà tôi mua hôm qua.","label":[[25,28,"1st"]]}
+{"id":96,"text":"1478\tNếu không biết đường thì hãy gọi điện thoại.","label":[]}
+{"id":97,"text":"1481\tAnh Kobayashi mặc chiếc áo sơ mi màu xanh da trời.","label":[]}
+{"id":98,"text":"1482\tĐiều đó có viết trong thư.","label":[]}
+{"id":99,"text":"1484\tSau khi ăn cơm thì tôi đánh răng.","label":[[24,27,"1st"]]}
+{"id":100,"text":"1485\tHãy đứng dậy.","label":[]}
+{"id":101,"text":"1491\tBây giờ, anh Kobayashi đang đọc sách ở thư viện.","label":[]}
+{"id":102,"text":"1492\tAnh Tanaka đang làm gì vậy?","label":[]}
+{"id":103,"text":"1494\tBạn học tiếng Nhật từ khi nào?","label":[[5,8,"2nd"]]}
+{"id":104,"text":"1495\tTôi học từ năm ngoái.","label":[[5,8,"1st"]]}
+{"id":105,"text":"1501\tCửa sổ đang mở.","label":[]}
+{"id":106,"text":"1507\tCon đường này quanh co.","label":[]}
+{"id":107,"text":"1512\tCửa sổ đang đóng.","label":[]}
+{"id":108,"text":"1513\tĐiện tắt.","label":[]}
+{"id":109,"text":"1515\tCâu hỏi được ghi ở trang mười lăm.","label":[]}
+{"id":110,"text":"1520\tCửa sổ đang mở.","label":[]}
+{"id":111,"text":"1527\tTrên bàn có quyển sách và quyển vở.","label":[]}
+{"id":112,"text":"1528\tTôi có buổi tập đá bóng vào thứ hai, tư, sáu.","label":[[5,8,"1st"]]}
+{"id":113,"text":"1530\tTôi sẽ mua đồ tại trung tâm thương mại hoặc siêu thị.","label":[[5,8,"1st"]]}
+{"id":114,"text":"1531\tTrước bưu điện hoặc bên cạnh ga thường có hộp thư.","label":[]}
+{"id":115,"text":"1532\tTôi ăn trứng, bánh mì....","label":[[5,8,"1st"]]}
+{"id":116,"text":"1533\tTrong căn phòng của tôi có bàn, giường, ti-vi....","label":[[25,28,"1st"]]}
+{"id":117,"text":"1534\tCái cặp to, màu đen là của tôi.","label":[[32,35,"1st"]]}
+{"id":118,"text":"1535\tTôi sống trong một căn hộ sạch sẽ và yên tĩnh.","label":[[5,8,"1st"]]}
+{"id":119,"text":"1537\tBông hoa này nhỏ và có màu đỏ.","label":[]}
+{"id":120,"text":"1542\tĐôi tất này bền và rẻ.","label":[]}
+{"id":121,"text":"1544\tQuyển sách này nhiều chữ Hán nên khó.","label":[]}
+{"id":122,"text":"1545\tTôi bị sốt nên không thể nào đi học được.","label":[[5,8,"1st"]]}
+{"id":123,"text":"1546\tTôi đã chơi quần vợt, bơi lội vào kì nghỉ hè.","label":[[5,8,"1st"]]}
+{"id":124,"text":"1547\tVào ngày chủ nhật, em trai tôi thường đọc sách, xem ti-vi.","label":[[32,35,"1st"]]}
+{"id":125,"text":"1548\tTôi hay đi xem phim, đi bơi cùng bạn bè.","label":[[5,8,"1st"]]}
+{"id":126,"text":"1549\tTôi đi đi về về giữa Tokyo và Osaka bằng máy bay.","label":[[5,8,"1st"]]}
+{"id":127,"text":"1551\tNgày mai tôi sẽ gặp bạn ở ga, sau đó cùng nhau đi xem hòa nhạc.","label":[[14,17,"1st"]]}
+{"id":128,"text":"1553\tTôi thường thức dậy vào lúc bảy giờ sáng, ăn sáng ở nhà ăn rồi bắt đầu luyện tập vào lúc tám giờ.","label":[[5,8,"1st"]]}
+{"id":129,"text":"1556\tChúng ta hãy ngồi đằng kia rồi ăn cơm thôi.","label":[[5,13,"1st"]]}
+{"id":130,"text":"1557\tTôi đi bộ đến trường mỗi ngày.","label":[[5,8,"1st"]]}
+{"id":131,"text":"1558\tTôi học tiếng Nhật bằng cách nghe băng.","label":[[5,8,"1st"]]}
+{"id":132,"text":"1562\tVì bão lớn đến nên tàu dừng.","label":[]}
+{"id":133,"text":"1586\tTôi sẽ đi bộ từ trường về nhà.","label":[[5,8,"1st"]]}
+{"id":134,"text":"1588\tTôi ăn cơm ở nhà ăn.","label":[[5,8,"1st"]]}
+{"id":135,"text":"1592\tBầu trời trong xanh.","label":[]}
+{"id":136,"text":"1599\tTôi đã đọc sách.","label":[[5,8,"1st"]]}
+{"id":137,"text":"1601\tTôi sẽ rời nhà vào lúc chín giờ.","label":[[5,8,"1st"]]}
+{"id":138,"text":"1605\tTôi sẽ nghỉ học.","label":[[5,8,"1st"]]}
+{"id":139,"text":"1609\tTôi đã ăn mỗi bánh mì.","label":[[5,8,"1st"]]}
+{"id":140,"text":"1614\tTôi sẽ dán bức ảnh lên tường.","label":[[5,8,"1st"]]}
+{"id":141,"text":"1619\tTôi sẽ lên máy bay.","label":[[5,8,"1st"]]}
+{"id":142,"text":"1625\tTôi sẽ cho anh Tanaka xem quyển sách.","label":[[5,8,"1st"]]}
+{"id":143,"text":"1630\tTi-vi không tốt cho mắt.","label":[]}
+{"id":144,"text":"1634\tTôi nghỉ lại ở khách sạn.","label":[[5,8,"1st"]]}
+{"id":145,"text":"1636\tHoa nở trong vườn.","label":[]}
+{"id":146,"text":"1637\tTôi rời nhà vào lúc bảy giờ.","label":[[5,8,"1st"]]}
+{"id":147,"text":"1638\tTôi đã đến Nhật vào ngày mười lăm tháng ba năm nay.","label":[[5,8,"1st"]]}
+{"id":148,"text":"1640\tTôi sẽ đi mua cái áo sơ mi.","label":[[5,8,"1st"]]}
+{"id":149,"text":"1645\tMáy bay bay theo hướng Nam.","label":[]}
+{"id":150,"text":"1646\tKì nghỉ hè bắt đầu từ ngày một tháng tám đến ba mươi tháng chín.","label":[]}
+{"id":151,"text":"1647\tNgười có số thứ tự từ một đến mười hãy bước vào.","label":[]}
+{"id":152,"text":"1650\tTôi ra khỏi phòng học.","label":[[5,8,"1st"]]}
+{"id":153,"text":"1654\tThầy giáo đã đưa ra một câu hỏi.","label":[]}
+{"id":154,"text":"1660\tBuổi hòa nhạc diễn ra tại công viên.","label":[]}
+{"id":155,"text":"1667\tTôi viết chữ bằng bút.","label":[[5,8,"1st"]]}
+{"id":156,"text":"1668\tTôi đi đến trường bằng xe buýt.","label":[[5,8,"1st"]]}
+{"id":157,"text":"1671\tTôi đã nghỉ học vì bị bệnh.","label":[[5,8,"1st"]]}
+{"id":158,"text":"1672\tVì bão nên tàu đến trễ.","label":[]}
+{"id":159,"text":"1675\tLúc nào tôi cũng học một mình.","label":[[13,16,"1st"]]}
+{"id":160,"text":"1679\tMười phút nữa là năm giờ.","label":[]}
+{"id":161,"text":"1682\tTôi đã đi du lịch cùng với lớp.","label":[[5,8,"1st"]]}
+{"id":162,"text":"1683\tCông việc đó tự tôi làm.","label":[[21,24,"1st"]]}
+{"id":163,"text":"1692\tCái cặp kia giống với cái cặp của tôi.","label":[[39,42,"1st"]]}
+{"id":164,"text":"1693\tQuyển vở này khác với quyển vở của tôi.","label":[[40,43,"1st"]]}
+{"id":165,"text":"1694\tLúc thức dậy vào buổi sáng, chúng tôi nói "Chào buổi sáng".","label":[[33,42,"1st"]]}
+{"id":166,"text":"1696\tChữ Hán này đọc là "yama".","label":[]}
+{"id":167,"text":"1710\tCho tôi hai ly coca.","label":[[9,12,"1st"]]}
+{"id":168,"text":"1714\tHãy viết tên của bạn.","label":[[22,25,"2nd"]]}
+{"id":169,"text":"1715\tVâng, tôi hiểu rồi.","label":[[11,14,"1st"]]}
+{"id":170,"text":"1720\tXin chờ một chút.","label":[]}
+{"id":171,"text":"1727\tVâng, được thôi.","label":[]}
+{"id":172,"text":"1728\tĂn cơm trong phòng này cũng không sao.","label":[]}
+{"id":173,"text":"1734\tTôi ra ngoài có được không?","label":[[5,8,"1st"]]}
+{"id":174,"text":"1738\tKhông được sử dụng điện thoại di động trong bệnh viện.","label":[]}
+{"id":175,"text":"1745\tNgày hôm này đừng tắm bồn.","label":[]}
+{"id":176,"text":"1748\tTôi đang dùng máy vi tính nên đừng có tắt công tắc.","label":[[5,8,"1st"]]}
+{"id":177,"text":"1768\tChiều thứ bảy chúng ta chơi ten-nít nhé!","label":[[19,27,"1st"]]}
+{"id":178,"text":"1778\tChúng ta đi bơi nhé!","label":[[5,13,"1st"]]}
+{"id":179,"text":"1794\tHành lý đó tôi sẽ cầm cho.","label":[[16,19,"1st"]]}
+{"id":180,"text":"1799\tCông việc đó tôi sẽ làm cho.","label":[[18,21,"1st"]]}
+{"id":181,"text":"1801\tTôi đã định học bài ở thư viện nhưng nó lại đóng cửa.","label":[[5,8,"1st"]]}
+{"id":182,"text":"1810\tTôi định sau khi trở về nhà sẽ dọn dẹp.","label":[[5,8,"1st"]]}
+{"id":183,"text":"1811\tEm gái tôi dự định trở thành giáo viên tiếng Nhật.","label":[[12,15,"1st"]]}
+{"id":184,"text":"1813\tTối hôm nay tôi không muốn đi đâu cả.","label":[[17,20,"1st"]]}
+{"id":185,"text":"1817\tTôi muốn nghe nhạc Nhật.","label":[[5,8,"1st"]]}
+{"id":186,"text":"1818\tTôi muốn uống nước.","label":[[5,8,"1st"]]}
+{"id":187,"text":"1824\tVâng, được thôi.","label":[]}
+{"id":188,"text":"1826\tTôi đã muốn thi vào đại học ở Tokyo.","label":[[5,8,"1st"]]}
+{"id":189,"text":"1831\tTôi muốn có một cái máy vi tính.","label":[[5,8,"1st"]]}
+{"id":190,"text":"1836\tBạn muốn cái nào?","label":[[5,8,"2nd"]]}
+{"id":191,"text":"1837\tTôi muốn cái này với cái đó.","label":[[5,8,"1st"]]}
+{"id":192,"text":"1848\tTôi thích âm nhạc.","label":[[5,8,"1st"]]}
+{"id":193,"text":"1849\tTôi không thích thể thao.","label":[[5,8,"1st"]]}
+{"id":194,"text":"1860\tMón ăn yêu thích của bạn là món nào?","label":[[26,29,"2nd"]]}
+{"id":195,"text":"1862\tTôi thấy giờ học vui vẻ.","label":[[5,8,"1st"]]}
+{"id":196,"text":"1879\tKhông, không thể.","label":[]}
+{"id":197,"text":"1881\tAnh Tanaka có thể chơi ten-nít.","label":[]}
+{"id":198,"text":"1883\tCó thể gọi ra nước ngoài bằng cái điện thoại kia không?","label":[]}
+{"id":199,"text":"1885\tTôi có thể viết chữ Hán.","label":[[5,8,"1st"]]}
+{"id":200,"text":"1900\tCó người ở đằng kia nhỉ? Không biết người đó là ai vậy?","label":[]}
+{"id":201,"text":"1919\tCái đồng hồ này chắc chắn đắt tiền.","label":[]}
+{"id":202,"text":"1921\tVì bây giờ là mười giờ nên bưu điện chắc chắn mở cửa.","label":[]}
+{"id":203,"text":"1928\tNgôi nhà này hình như có ai đó đang sống.","label":[]}
+{"id":204,"text":"1931\tTrời sắp mưa.","label":[]}
+{"id":205,"text":"1935\tTrong vườn không có xe nên chắc mẹ tôi đi ra ngoài rồi.","label":[[40,43,"1st"]]}
+{"id":206,"text":"1942\tNghe nói tháng tới sẽ có học sinh mới đến.","label":[]}
+{"id":207,"text":"1947\tTôi đã nghe từ thầy giáo rằng tháng tới sẽ có học sinh mới đến.","label":[[5,8,"1st"]]}
+{"id":208,"text":"1965\tNgười viết bài văn này là ai? Không có ghi tên.","label":[]}
+{"id":209,"text":"1967\tMón ăn mà mẹ tôi nấu rất ngon.","label":[[18,21,"1st"]]}
+{"id":210,"text":"1971\tHãy nộp giấy đã ghi câu trả lời.","label":[]}
+{"id":211,"text":"1974\tTôi đã nhìn thấy anh Tanaka đang học ở thư viện.","label":[[5,8,"1st"]]}
+{"id":212,"text":"1990\tTôi đã nhìn thấy anh Tanaka đang chạy bộ.","label":[[5,8,"1st"]]}
+{"id":213,"text":"1993\tNgười đã ăn cái bánh ga-tô này là anh Yamada.","label":[]}
+{"id":214,"text":"2004\tTôi đã uống thuốc rồi nên sẽ ổn thôi.","label":[[5,8,"1st"]]}
+{"id":215,"text":"2005\tNgày mai không có tiết học nên tôi không đi đến trường.","label":[[36,39,"1st"]]}
+{"id":216,"text":"2007\tTại sao bạn lại biết số điện thoại của tôi vậy?","label":[[44,47,"1st"],[13,16,"2nd"]]}
+{"id":217,"text":"2011\tTại sao vậy?","label":[]}
+{"id":218,"text":"2017\tTại sao bạn lại nghỉ học vậy?","label":[[13,16,"2nd"]]}
+{"id":219,"text":"2018\tVì sốt nên tôi không thể nào dậy nổi.","label":[[16,19,"1st"]]}
+{"id":220,"text":"2019\tHôm nay thầy giáo bị ốm nên nghỉ học.","label":[]}
+{"id":221,"text":"2023\tAnh Yamada lúc nào cũng sôi nổi nhưng hôm nay lại im ắng.","label":[]}
+{"id":222,"text":"2024\tHôm nay tuy là chủ nhật nhưng tôi lại có việc.","label":[[35,38,"1st"]]}
+{"id":223,"text":"2030\tTôi thì sống ở Tokyo nhưng em trai lại sống ở Kyoto.","label":[[5,8,"1st"]]}
+{"id":224,"text":"2041\tNếu bạn đi đến đại học kia thì đi xe đạp tiện hơn.","label":[[9,12,"2nd"]]}
+{"id":225,"text":"2042\tBố tôi mỗi sáng khi thức dậy thì đọc báo.","label":[[8,11,"1st"]]}
+{"id":226,"text":"2043\tBấm cái nút này thì cửa sẽ mở ra.","label":[]}
+{"id":227,"text":"2047\tNếu rẻ thì tôi sẽ mua.","label":[[16,19,"1st"]]}
+{"id":228,"text":"2055\tVì gần nên chúng ta đi bộ thôi.","label":[[16,24,"1st"]]}
+{"id":229,"text":"2056\tNếu không thích thì bạn không làm cũng không sao đâu.","label":[[25,28,"2nd"]]}
+{"id":230,"text":"2060\tNếu mua xe thì sẽ tốn tiền.","label":[]}
+{"id":231,"text":"2061\tNếu mua xe thì có thể đi bất cứ đâu.","label":[]}
+{"id":232,"text":"2064\tLàm thế nào để có thể nhớ được chữ Hán?","label":[]}
+{"id":233,"text":"2065\tNếu đọc báo mỗi ngày thì có thể nhớ được đấy.","label":[]}
+{"id":234,"text":"2068\tDù tuyết rơi tôi vẫn đi học.","label":[[18,21,"1st"]]}
+{"id":235,"text":"2069\tDù trời lạnh tôi vẫn bơi.","label":[[18,21,"1st"]]}
+{"id":236,"text":"2079\tAnh Yamada đã tặng cho em gái tôi quyển sách.","label":[[35,38,"1st"]]}
+{"id":237,"text":"2086\tTôi đã tặng hoa cho bố.","label":[[5,8,"1st"]]}
+{"id":238,"text":"2088\tTôi đã nhận được quyển sách từ bố.","label":[[5,8,"1st"]]}
+{"id":239,"text":"2090\tTôi cho anh Kobayashi mượn quyển vở.","label":[[5,8,"1st"]]}
+{"id":240,"text":"2092\tTôi được anh Kimura cho mượn quyển sách.","label":[[5,8,"1st"]]}
+{"id":241,"text":"2093\tTôi cho em trai tôi mượn tiền.","label":[[5,8,"1st"],[21,24,"1st"]]}
+{"id":242,"text":"2097\tEm gái tôi làm cơm hộp cho bố.","label":[[12,15,"1st"]]}
+{"id":243,"text":"2099\tTôi kiểm tra bài tập cho em gái tôi.","label":[[5,8,"1st"],[37,40,"1st"]]}
+{"id":244,"text":"2100\tAnh Kimura đã khiêng hành lý giúp tôi.","label":[[39,42,"1st"]]}
+{"id":245,"text":"2104\tTôi đã được mẹ hướng dẫn cách nấu ăn.","label":[[5,8,"1st"]]}
+{"id":246,"text":"2115\tTôi đi bộ đến ga.","label":[[5,8,"1st"]]}
+{"id":247,"text":"2120\tTuần sau khi đi đến đó thì tôi sẽ mua đồ uống đến.","label":[[32,35,"1st"]]}
+{"id":248,"text":"2123\tHôm nay tôi đã đi ăn cơm tối với bạn.","label":[[13,16,"1st"]]}
+{"id":249,"text":"2130\tXin lỗi, tôi có thể mặc thử bộ đồ này được không?","label":[[14,17,"1st"]]}
+{"id":250,"text":"2153\tTôi là sinh viên.","label":[[5,8,"1st"]]}
+{"id":251,"text":"2154\tBộ phim tôi xem hôm qua rất thú vị.","label":[[13,16,"1st"]]}
+{"id":252,"text":"2158\tTôi là sinh viên còn anh trai tôi là nhân viên công ty.","label":[[5,8,"1st"],[35,38,"1st"]]}
+{"id":253,"text":"2170\tCông việc của bạn là gì?","label":[[19,22,"2nd"]]}
+{"id":254,"text":"2178\tLúc tôi đang ăn cơm thì bạn tới nhà.","label":[[9,12,"1st"],[29,32,"2nd"]]}
+{"id":255,"text":"2179\tKhi đi nước ngoài thì cầm theo hộ chiếu.","label":[]}
+{"id":256,"text":"2180\tTôi đã chụp ảnh tại sân bay lúc lên đường đến Nhật.","label":[[5,8,"1st"]]}
+{"id":257,"text":"2187\tTôi đã gọi điện thoại lúc ở trong phòng.","label":[[5,8,"1st"]]}
+{"id":258,"text":"2189\tTôi đã bơi tốt khi còn trẻ.","label":[[5,8,"1st"]]}
+{"id":259,"text":"2192\tTôi vừa ăn vừa xem ti-vi.","label":[[5,8,"1st"]]}
+{"id":260,"text":"2205\tKì nghỉ hè năm nay tôi đã đi biển rồi đi leo núi nữa.","label":[[24,27,"1st"]]}
+{"id":261,"text":"2206\tKhi đọc sách trong bóng tối thì mắt sẽ kém đi.","label":[]}
+{"id":262,"text":"2213\tBạn có muốn uống trà không?","label":[[5,8,"2nd"]]}
+{"id":263,"text":"2220\tMùa xuân đã đến nhưng trời vẫn chưa ấm lên.","label":[]}
+{"id":264,"text":"2227\tNgày hôm qua tôi đã đi đến trường đại học.","label":[[18,21,"1st"]]}
+{"id":265,"text":"2229\tTôi đã bỏ thuốc lá.","label":[[5,8,"1st"]]}
+{"id":266,"text":"2232\tHôm nay không có ai đến cả.","label":[]}
+{"id":267,"text":"2234\tBạn cũng làm việc chăm chỉ nhỉ!","label":[[5,8,"2nd"]]}
+{"id":268,"text":"2247\tCòn trà thì sao?","label":[]}
+{"id":269,"text":"2249\tAi không đem theo bút bi thì dùng bút chì cũng được.","label":[]}
+{"id":270,"text":"2332\tVâng, xin mời.","label":[]}
+{"id":271,"text":"2369\tXin mời.","label":[]}
+{"id":272,"text":"2383\tTuy chỉ là một món quà nhỏ nhưng mong anh vui lòng nhận lấy.","label":[[43,46,"2nd"]]}
+{"id":273,"text":"2391\tXin cảm ơn.","label":[]}
+{"id":274,"text":"2396\tĐúng vậy.","label":[]}
+{"id":275,"text":"2409\tBao nhiêu tiền vậy?","label":[]}
+{"id":276,"text":"2415\tVậy thì xin nhờ anh.","label":[[21,24,"2nd"]]}
+{"id":277,"text":"2429\tTôi dự định đi du lịch châu Âu với bạn bè.","label":[[5,8,"1st"]]}
+{"id":278,"text":"2495\tỞ tầng ba của tòa nhà này.","label":[]}
+{"id":279,"text":"2497\tĐi lên tầng ba thì đi như thế nào vậy?","label":[]}
+{"id":280,"text":"2498\tỞ đằng kia có thang máy.","label":[]}
+{"id":281,"text":"2520\tVâng, tôi thích nó.","label":[[11,14,"1st"]]}
+{"id":282,"text":"2548\tAlo.","label":[]}
+{"id":283,"text":"2562\tHẹn gặp lại sau.","label":[]}
+{"id":284,"text":"2599\tSao lại thế?","label":[]}
+{"id":285,"text":"2637\tÀ, như vậy sao?","label":[]}
+{"id":286,"text":"2651\tTôi sẽ trả lại vào buổi trưa có được không vậy?","label":[[5,8,"1st"]]}
+{"id":287,"text":"2672\tXin làm phiền anh một chút.","label":[[19,22,"2nd"]]}
+{"id":288,"text":"2734\tTôi muốn làm việc ở nước ngoài.","label":[[5,8,"1st"]]}
+{"id":289,"text":"2744\tThầy ơi, đây là mẹ của em.","label":[[28,30,"1st"],[5,9,"address"]]}
+{"id":290,"text":"2751\tDo bị cảm nên tôi uống thuốc.","label":[[19,22,"1st"]]}
+{"id":291,"text":"2753\tRất nhiều người chết.","label":[]}
+{"id":292,"text":"2754\tKhi ăn cơm xong thì tôi đánh răng.","label":[[25,28,"1st"]]}
+{"id":293,"text":"2755\tChị Kimura rất thông minh.","label":[]}
+{"id":294,"text":"2756\tBưu điện ở bên cạnh ga.","label":[]}
+{"id":295,"text":"2757\tNgày mai hành lý sẽ đến.","label":[]}
+{"id":296,"text":"2758\tTàu điện sắp vào ga.","label":[]}
+{"id":297,"text":"2759\tTôi viết tên trên phong bì.","label":[[5,8,"1st"]]}
+{"id":298,"text":"2761\tCó cái siêu thị ở phía sau ga.","label":[]}
+{"id":299,"text":"2762\tDo ngày hôm qua rất lạnh nên tôi đã bị cảm.","label":[[34,37,"1st"]]}
+{"id":300,"text":"2763\tVì đau đầu nên tối nay tôi ngủ sớm.","label":[[28,31,"1st"]]}
+{"id":301,"text":"2764\tVì bị đau bụng nên tôi đi đến bệnh viện.","label":[[24,27,"1st"]]}
+{"id":302,"text":"2766\tVì bị đau răng nên tôi không thể ăn cái gì cả.","label":[[24,27,"1st"]]}
+{"id":303,"text":"2767\tTôi ngồi xuống ghế và nói chuyện.","label":[[5,8,"1st"]]}
+{"id":304,"text":"2769\tTrong tủ lạnh không còn cái gì cả.","label":[]}
+{"id":305,"text":"2771\tTôi nghe tin tức qua radio.","label":[[5,8,"1st"]]}
+{"id":306,"text":"2772\tMáy cát sét có thể vừa nghe radio vừa nghe nhạc.","label":[]}
+{"id":307,"text":"2774\tTôi được anh Matsui cho mượn cây bút chì.","label":[[5,8,"1st"]]}
+{"id":308,"text":"2775\tTuần tới tôi sẽ đi đến văn phòng bất động sản để tìm phòng mới.","label":[[14,17,"1st"]]}
+{"id":309,"text":"2776\tTôi quét dọn lối đi vào và hành lang.","label":[[5,8,"1st"]]}
+{"id":310,"text":"2777\tỞ lối đi vào có đặt lọ hoa.","label":[]}
+{"id":311,"text":"2778\tNgôi nhà mới có bếp rộng nên rất tiện.","label":[]}
+{"id":312,"text":"2779\tTôi ăn tối xong, tắm rồi đi ngủ.","label":[[5,8,"1st"]]}
+{"id":313,"text":"2780\tĐôi giày này cũ rồi.","label":[]}
+{"id":314,"text":"2781\tVì từ ga đến trường xa nên tôi đi xe buýt.","label":[[32,35,"1st"]]}
+{"id":315,"text":"2782\tNhà mới gần ga nên rất tiện.","label":[]}
+{"id":316,"text":"2783\tAnh Matsui mặc đồ màu trắng.","label":[]}
+{"id":317,"text":"2784\tVào ngày nắng khi đi ra ngoài tôi sẽ đội mũ.","label":[[35,38,"1st"]]}
+{"id":318,"text":"2785\tTôi cởi giày ở lối đi vào.","label":[[5,8,"1st"]]}
+{"id":319,"text":"2786\tTôi đã để quên mất cây dù trên tàu điện.","label":[[5,8,"1st"]]}
+{"id":320,"text":"2787\tNgày hôm qua tôi đã mua một cái ví mới.","label":[[18,21,"1st"]]}
+{"id":321,"text":"2788\tNgười đeo cái kính kia là anh Matsui.","label":[]}
+{"id":322,"text":"2789\tTôi đã mua quyển tạp chí tại hiệu sách.","label":[[5,8,"1st"]]}
+{"id":323,"text":"2790\tĐây là tầng hai.","label":[]}
+{"id":324,"text":"2791\tTôi sẽ gửi thiệp cho anh Matsui.","label":[[5,8,"1st"]]}
+{"id":325,"text":"2792\tTôi dán tem lên phong bì.","label":[[5,8,"1st"]]}
+{"id":326,"text":"2793\tCó một chiếc áo sơ mi.","label":[]}
+{"id":327,"text":"2794\tTôi đã chụp hai tấm ảnh.","label":[[5,8,"1st"]]}
+{"id":328,"text":"2795\tNgân hàng mở cửa từ chín giờ sáng đến ba giờ chiều.","label":[]}
+{"id":329,"text":"2796\tTôi sẽ trả lại tiền cho chị Matsui.","label":[[5,8,"1st"]]}
+{"id":330,"text":"2797\tTôi sẽ trả sách lại cho thư viện.","label":[[5,8,"1st"]]}
+{"id":331,"text":"2798\tCho tiền vào sau đó ấn nút.","label":[]}
+{"id":332,"text":"2800\tTôi sẽ lên xe buýt số mười lăm từ ga.","label":[[5,8,"1st"]]}
+{"id":333,"text":"2801\tCái đồng hồ này một nghìn năm trăm yên.","label":[]}
+{"id":334,"text":"2802\tTôi đã mua cái máy ảnh này hết ba mươi nghìn yên.","label":[[5,8,"1st"]]}
+{"id":335,"text":"2803\tTôi đã quên mất tên của người kia.","label":[[5,8,"1st"]]}
+{"id":336,"text":"2805\tHôm nay tôi sẽ ăn cơm tối tại nhà hàng.","label":[[13,16,"1st"]]}
+{"id":337,"text":"2806\tMón Nhật thì ngon nhưng đắt.","label":[]}
+{"id":338,"text":"2807\tTôi thích cả cơm lẫn bánh mì.","label":[[5,8,"1st"]]}
+{"id":339,"text":"2808\tTối hôm nay tôi sẽ ăn cơm tại nhà bạn.","label":[[17,20,"1st"]]}
+{"id":340,"text":"2809\tCơm tối nay tôi định làm món cà-ri.","label":[[17,20,"1st"]]}
+{"id":341,"text":"2810\tCà-ri là món ăn của Ấn Độ.","label":[]}
+{"id":342,"text":"2811\tTôi không uống được nhiều rượu lắm.","label":[[5,8,"1st"]]}
+{"id":343,"text":"2812\tTôi lấy muỗng cho đường vào cà phê.","label":[[5,8,"1st"]]}
+{"id":344,"text":"2813\tDùng dĩa khi ăn bánh ga-tô.","label":[]}
+{"id":345,"text":"2814\tMón Pháp thì dùng dao vào dĩa để ăn.","label":[]}
+{"id":346,"text":"2815\tVì nguy hiểm nên bạn không được dùng dao.","label":[[22,25,"2nd"]]}
+{"id":347,"text":"2817\tTôi sẽ dùng cái đĩa mới.","label":[[5,8,"1st"]]}
+{"id":348,"text":"2818\tTôi ăn sáng mỗi ngày.","label":[[5,8,"1st"]]}
+{"id":349,"text":"2819\tSau giờ học, tôi đã đi uống trà ở quán cà phê cùng với bạn.","label":[[18,21,"1st"]]}
+{"id":350,"text":"2820\tTôi uống cà phê mỗi ngày.","label":[[5,8,"1st"]]}
+{"id":351,"text":"2821\tTôi thích hồng trà hơn cà phê.","label":[[5,8,"1st"]]}
+{"id":352,"text":"2822\tTôi ghét sữa nên không uống mấy.","label":[[5,8,"1st"]]}
+{"id":353,"text":"2823\tSau khi uống rượu thì nên uống nước.","label":[]}
+{"id":354,"text":"2824\tSau khi uống tôi rửa sạch cốc.","label":[[18,21,"1st"]]}
+{"id":355,"text":"2825\tTôi đã nhận được một cái cốc dễ thương từ bạn.","label":[[5,8,"1st"]]}
+{"id":356,"text":"2826\tTôi cho đường vào cà phê rồi uống.","label":[[5,8,"1st"]]}
+{"id":357,"text":"2828\tTôi cho tiền vào ví.","label":[[5,8,"1st"]]}
+{"id":358,"text":"2829\tChị Matsui đã rót cà phê cho tôi.","label":[[34,37,"1st"]]}
+{"id":359,"text":"2830\tTàu điện này chạy đến Tokyo.","label":[]}
+{"id":360,"text":"2831\tTàu điện ngầm vừa rẻ vừa nhanh nên rất tiện.","label":[]}
+{"id":361,"text":"2832\tKhi lên tàu tôi mua vé.","label":[[17,20,"1st"]]}
+{"id":362,"text":"2833\tTôi không đi thang máy mà sử dụng thang bộ.","label":[[5,8,"1st"]]}
+{"id":363,"text":"2834\tNhà vệ sinh ở tầng hai.","label":[]}
+{"id":364,"text":"2835\tKhi ra khỏi nhà vệ sinh tôi rửa tay.","label":[[29,32,"1st"]]}
+{"id":365,"text":"2836\tTôi xuất trình vé tại lối vào ga.","label":[[5,8,"1st"]]}
+{"id":366,"text":"2837\tNếu ra cổng này thì sẽ gần thư viện nhất.","label":[]}
+{"id":367,"text":"2838\tNếu đi đến đại sứ quán thì sẽ xuống ở ga tiếp theo.","label":[]}
+{"id":368,"text":"2839\tTôi không đi bộ đến trường mà đi xe buýt.","label":[[5,8,"1st"]]}
+{"id":369,"text":"2840\tVì siêu thị đóng cửa nên tôi không thể mua sắm.","label":[[30,33,"1st"]]}
+{"id":370,"text":"2841\tCái túi đã không được đóng lại.","label":[]}
+{"id":371,"text":"2842\tTôi cùng lớp với anh Matsui.","label":[[5,8,"1st"]]}
+{"id":372,"text":"2843\tTrong phòng học có bàn và ghế.","label":[]}
+{"id":373,"text":"2844\tTôi dọn dẹp cả lối đi vào lẫn hành lang.","label":[[5,8,"1st"]]}
+{"id":374,"text":"2845\tTôi không thích việc học hành cho lắm.","label":[[5,8,"1st"]]}
+{"id":375,"text":"2846\tTuần trước tôi bận nên không thể học được.","label":[[16,19,"1st"]]}
+{"id":376,"text":"2847\tNhững em ở đây là học sinh của cùng một trường.","label":[]}
+{"id":377,"text":"2848\tTrong giờ học giáo viên hỏi các em học sinh.","label":[]}
+{"id":378,"text":"2851\tTuần tới tôi sẽ đi Tokyo chơi cùng với bạn.","label":[[14,17,"1st"]]}
+{"id":379,"text":"2852\tNgày hôm qua tôi đã học cả ngày nên hôm nay tôi đi chơi.","label":[[18,21,"1st"],[18,21,"1st"]]}
+{"id":380,"text":"2853\tVì ngày mai có bài kiểm tra nên tối hôm nay tôi học bài.","label":[[49,52,"1st"]]}
+{"id":381,"text":"2854\tTôi đã đọc bài văn mà anh Matsui viết.","label":[[5,8,"1st"]]}
+{"id":382,"text":"2855\tNgày mai tôi sẽ nộp bài văn cho thầy giáo.","label":[[14,17,"1st"]]}
+{"id":383,"text":"2856\tKhi viết câu trả lời thì phải đọc kỹ câu hỏi.","label":[]}
+{"id":384,"text":"2857\tBài tập này rất dễ.","label":[]}
+{"id":385,"text":"2858\tỞ trường mỗi ngày đều có bài kiểm tra chữ Hán.","label":[]}
+{"id":386,"text":"2860\tNếu luyện tập nhiều thì tiếng Nhật sẽ giỏi.","label":[]}
+{"id":387,"text":"2861\tBài kiểm tra hôm qua dễ.","label":[]}
+{"id":388,"text":"2862\tTôi đang dạy tiếng Nhật cho người nước ngoài.","label":[[5,8,"1st"]]}
+{"id":389,"text":"2863\tVì đề thi khó nên tôi đã không thể trả lời được.","label":[[23,26,"1st"]]}
+{"id":390,"text":"2864\tMỗi ngày tôi đều tập luyện ten-nít sau giờ học.","label":[[14,17,"1st"]]}
+{"id":391,"text":"2865\tTuần tới tôi định đi cắt tóc ở tiệm.","label":[[14,17,"1st"]]}
+{"id":392,"text":"2866\tTôi cầm đũa tay trái.","label":[[5,8,"1st"]]}
+{"id":393,"text":"2867\tRẽ phải ở góc tiếp theo.","label":[]}
+{"id":394,"text":"2868\tChị Matsui ngồi phía trước tôi.","label":[[32,35,"1st"]]}
+{"id":395,"text":"2869\tCó rất nhiều người xếp hàng sau lưng tôi.","label":[[42,45,"1st"]]}
+{"id":396,"text":"2870\tVì tôi thường xuyên sử dụng cây bút chì này nên nó đã ngắn đi.","label":[[8,11,"1st"]]}
+{"id":397,"text":"2871\tLấy dao cắt bánh ga-tô làm bốn phần.","label":[]}
+{"id":398,"text":"2873\tEm gái của tôi thấp, tóc dài.","label":[[16,19,"1st"]]}
+{"id":399,"text":"2874\tVì mệt nên tôi ngồi xuống nghỉ.","label":[[16,19,"1st"]]}
+{"id":400,"text":"2875\tTôi đã hỏi đường anh cảnh sát ở đồn cảnh sát.","label":[[5,8,"1st"]]}
+{"id":401,"text":"2876\tỞ đồn cảnh sát có dán bản đồ của khu phố.","label":[]}
+{"id":402,"text":"2877\tCó nhiều cảnh sát đứng ở ngã tư.","label":[]}
+{"id":403,"text":"2878\tTôi bị cảnh sát hỏi tên.","label":[[5,8,"1st"]]}
+{"id":404,"text":"2879\tCảnh sát chỉ đường cho tôi đến ga.","label":[[28,31,"1st"]]}
+{"id":405,"text":"2880\tVì không biết đường nên tôi đã tra bản đồ.","label":[[29,32,"1st"]]}
+{"id":406,"text":"2881\tNgày hôm qua tôi đã đi mua sắm ở gần ga.","label":[[18,21,"1st"]]}
+{"id":407,"text":"2882\tTôi đã hỏi anh Matsui số điện thoại của nhà hàng tối nay sẽ đi ăn.","label":[[5,8,"1st"]]}
+{"id":408,"text":"2884\tRẽ trái tại tòa nhà đó sẽ tới bệnh viện.","label":[]}
+{"id":409,"text":"2885\tVì nguy hiểm nên không được phép vào đây.","label":[]}
+{"id":410,"text":"2886\tVì trễ rồi nên về một mình thì nguy hiểm.","label":[]}
+{"id":411,"text":"2887\tTrong giờ học thì không được nói chuyện với bạn bên cạnh.","label":[]}
+{"id":412,"text":"2888\tQuán cà phê đó ở gần tiệm sách.","label":[]}
+{"id":413,"text":"2889\tNhà của anh Matsui bên cạnh nhà tôi.","label":[[37,40,"1st"]]}
+{"id":414,"text":"2890\tTôi đã đưa cái cặp đặt bên cạnh tôi cho anh Matsui.","label":[[5,8,"1st"],[37,40,"1st"]]}
+{"id":415,"text":"2891\tDo làm mất ví nên tôi đi đến đồn cảnh sát.","label":[[23,26,"1st"]]}
+{"id":416,"text":"2892\tTôi đã lỡ làm mất quyển tạp chí mượn của anh Matsui.","label":[[5,8,"1st"]]}
+{"id":417,"text":"2893\tDo bạn đến nên tôi dọn dẹp phòng.","label":[[20,23,"1st"]]}
+{"id":418,"text":"2894\tCăn phòng này không có cửa sổ.","label":[]}
+{"id":419,"text":"2895\tTrên bàn có đặt quyển lịch.","label":[]}
+{"id":420,"text":"2896\tTôi đã mua lịch cho năm tới ở cửa hàng bách hóa.","label":[[5,8,"1st"]]}
+{"id":421,"text":"2898\tVì phòng tối nên tôi bật điện.","label":[[22,25,"1st"]]}
+{"id":422,"text":"2899\tHôm qua tôi mệt nên ngủ ngay lập tức.","label":[[13,16,"1st"]]}
+{"id":423,"text":"2900\tVì không biết mấy giờ nên tôi đã xem đồng hồ trong phòng học.","label":[[31,34,"1st"]]}
+{"id":424,"text":"2901\tTôi bật đèn phòng và học bài.","label":[[5,8,"1st"]]}
+{"id":425,"text":"2902\tỞ lối đi vào có đặt lọ hoa.","label":[]}
+{"id":426,"text":"2906\tCon đường này rất hẹp nên nguy hiểm.","label":[]}
+{"id":427,"text":"2907\tBăng qua ngã tư kia rồi rẽ trái.","label":[]}
+{"id":428,"text":"2908\tXe ô-tô của Nhật đắt nhưng tốt.","label":[]}
+{"id":429,"text":"2909\tXe ô-tô của Nhật được bán ở nước ngoài.","label":[]}
+{"id":430,"text":"2910\tĐây là tạp chí xe ô-tô.","label":[]}
+{"id":431,"text":"2911\tTôi đi taxi từ ga đến công ty.","label":[[5,8,"1st"]]}
+{"id":432,"text":"2912\tTôi về nhà bằng taxi.","label":[[5,8,"1st"]]}
+{"id":433,"text":"2913\tTôi đã ngồi lên phía sau xe đạp của bạn.","label":[[5,8,"1st"],[41,44,"2nd"]]}
+{"id":434,"text":"2914\tDù trời mưa thì tôi vẫn đi bằng xe đạp.","label":[[21,24,"1st"]]}
+{"id":435,"text":"2915\tNgày hôm qua tôi đi ra sông chơi với bạn.","label":[[18,21,"1st"]]}
+{"id":436,"text":"2916\tNhà tôi ở phía bên kia con sông kia.","label":[[9,12,"1st"]]}
+{"id":437,"text":"2917\tBăng qua cầu thì sẽ gặp ngay công viên.","label":[]}
+{"id":438,"text":"2918\tTôi đi dạo mỗi buổi sáng.","label":[[5,8,"1st"]]}
+{"id":439,"text":"2919\tTôi đi dạo mỗi buổi sáng.","label":[[5,8,"1st"]]}
+{"id":440,"text":"2920\tHãy băng qua đường và đi bộ ở phía bên trái!","label":[]}
+{"id":441,"text":"2921\tVì muốn đi qua phía bên kia sông nên tôi băng qua cầu.","label":[[42,45,"1st"]]}
+{"id":442,"text":"2923\tVì trời nóng nên tôi đi bơi ở bể bơi.","label":[[22,25,"1st"]]}
+{"id":443,"text":"2924\tVì hát dở nên tôi định luyện hát.","label":[[19,22,"1st"]]}
+{"id":444,"text":"2925\tEm trai tôi giỏi bóng đá nên tôi được em ấy chỉ cho.","label":[[13,16,"1st"],[13,16,"1st"]]}
+{"id":445,"text":"2926\tAnh Matsui nấu ăn ngon.","label":[]}
+{"id":446,"text":"2927\tTôi rất tệ khoản vẽ tranh.","label":[[5,8,"1st"]]}
+{"id":447,"text":"2928\tTôi nghĩ rằng đến trường bằng tàu điện sẽ nhanh hơn xe buýt.","label":[[5,8,"1st"]]}
+{"id":448,"text":"2929\tAnh Matsui chạy nhanh.","label":[]}
+{"id":449,"text":"2931\tTôi đi bộ rất chậm.","label":[[5,8,"1st"]]}
+{"id":450,"text":"2933\tVì đau chân nên tôi không thể chạy.","label":[[21,24,"1st"]]}
+{"id":451,"text":"2934\tNhững con chim đang bay phía bên kia bầu trời.","label":[]}
+{"id":452,"text":"2935\tTôi định sang năm sẽ đi du lịch nước ngoài.","label":[[5,8,"1st"]]}
+{"id":453,"text":"2936\tTôi có thể nói tiếng Anh.","label":[[5,8,"1st"]]}
+{"id":454,"text":"2937\tTôi sử dụng từ điển để học tiếng Anh.","label":[[5,8,"1st"]]}
+{"id":455,"text":"2939\tNgày mai tôi sẽ gặp bạn người nước ngoài.","label":[[14,17,"1st"]]}
+{"id":456,"text":"2940\tRẽ phải ở ngã tư kia sẽ thấy đại sứ quán.","label":[]}
+{"id":457,"text":"2941\tNgày mai tôi sẽ đi đến đại sứ quán.","label":[[14,17,"1st"]]}
+{"id":458,"text":"2943\tNhật Bản là một quốc gia nhỏ hẹp.","label":[]}
+{"id":459,"text":"2944\tPhòng của khách sạn này rất đẹp.","label":[]}
+{"id":460,"text":"2946\tChị Matsui đã sống ở nước ngoài ba năm.","label":[]}
+{"id":461,"text":"2947\tTôi định sang năm sẽ đi nước ngoài du lịch.","label":[[5,8,"1st"]]}
+{"id":462,"text":"2948\tTôi đã mua quyển sách du lịch ở tiệm sách.","label":[[5,8,"1st"]]}
+{"id":463,"text":"2949\tCửa hàng này ngày hôm nay thịt rẻ.","label":[]}
+{"id":464,"text":"2950\tỞ đằng kia có rất nhiều cửa tiệm.","label":[]}
+{"id":465,"text":"2951\tTrái cây hay rau củ thì tôi thường mua ở cửa hàng rau.","label":[[29,32,"1st"]]}
+{"id":466,"text":"2952\tCửa hàng rau thì rẻ hơn so với siêu thị.","label":[]}
+{"id":467,"text":"2953\tCơm tối ngày hôm qua là món thịt.","label":[]}
+{"id":468,"text":"2954\tTôi thích cá hơn thịt.","label":[[5,8,"1st"]]}
+{"id":469,"text":"2955\tThịt bò đắt nhất trong các loại thịt.","label":[]}
+{"id":470,"text":"2956\tTôi không ăn được thịt lợn.","label":[[5,8,"1st"]]}
+{"id":471,"text":"2957\tThịt gà rẻ nhưng thịt bò ngon hơn.","label":[]}
+{"id":472,"text":"2958\tỞ những nơi gần biển thì cá ngon.","label":[]}
+{"id":473,"text":"2959\tTrong tủ lạnh có rau, trứng....","label":[]}
+{"id":474,"text":"2960\tTôi cắt rau rồi rửa.","label":[[5,8,"1st"]]}
+{"id":475,"text":"2961\tTôi ăn rau và trái cây mỗi sáng.","label":[[5,8,"1st"]]}
+{"id":476,"text":"2962\tXe ô-tô tuy đắt nhưng tiện lợi.","label":[]}
+{"id":477,"text":"2965\tTôi mượn ba quyển sách ở thư viện.","label":[[5,8,"1st"]]}
+{"id":478,"text":"2966\tThư viện mở cửa từ chín giờ sáng tới tám giờ tối.","label":[]}
+{"id":479,"text":"2967\tTrong thư viện có rất nhiều kệ sách.","label":[]}
+{"id":480,"text":"2968\tTừ điển được đặt trên kệ sách đằng kia.","label":[]}
+{"id":481,"text":"2969\tTạp chí thì không thể mượn được tại thư viện.","label":[]}
+{"id":482,"text":"2970\tCuốn tạp chí này hay.","label":[]}
+{"id":483,"text":"2971\tĐó là tờ báo ngày hôm nay.","label":[]}
+{"id":484,"text":"2973\tTôi sẽ phô-tô cái này thành năm bản.","label":[[5,8,"1st"]]}
+{"id":485,"text":"2974\tTôi tra từ điển để học tiếng Nhật.","label":[[5,8,"1st"]]}
+{"id":486,"text":"2975\tTôi đã phô-tô sách tại thư viện.","label":[[5,8,"1st"]]}
+{"id":487,"text":"2976\tThầy giáo đưa cho học sinh bản phô-tô của tờ báo.","label":[]}
+{"id":488,"text":"2977\tAnh Hayashi đang làm việc tại công ty về máy vi tính.","label":[]}
+{"id":489,"text":"2978\tNgày mai tôi sẽ đi đến công ty sớm.","label":[[14,17,"1st"]]}
+{"id":490,"text":"2979\tNgày nghỉ tôi sẽ đi ra ngoài với bạn.","label":[[15,18,"1st"]]}
+{"id":491,"text":"2981\tĐây là cà vạt của Ý.","label":[]}
+{"id":492,"text":"2982\tKhông được hút thuốc trong căn phòng này.","label":[]}
+{"id":493,"text":"2983\tMỗi ngày tôi đều rất bận nên không thể nghỉ ngơi nhiều được.","label":[[14,17,"1st"]]}
+{"id":494,"text":"2984\tCông việc tuy bận rộn nhưng thú vị.","label":[]}
+{"id":495,"text":"2986\tNgày nghỉ tuần trước tôi đã không làm gì cả.","label":[[26,29,"1st"]]}
+{"id":496,"text":"2987\tTôi đang làm việc tại công ty sản xuất xe ô-tô.","label":[[5,8,"1st"]]}
+{"id":497,"text":"2988\tTôi hút thuốc lá.","label":[[5,8,"1st"]]}
+{"id":498,"text":"2989\tHút thuốc lá có hại cho cơ thể.","label":[]}
+{"id":499,"text":"2991\tVì bị sốt nên hôm nay tôi nghỉ học.","label":[[27,30,"1st"]]}
+{"id":500,"text":"2992\tTôi làm việc cả ngày chủ nhật.","label":[[5,8,"1st"]]}
+{"id":501,"text":"2993\tMỗi ngày tôi làm tám tiếng đồng hồ.","label":[[14,17,"1st"]]}
+{"id":502,"text":"2994\tPhía bên kia đường những ngôi nhà xếp san sát nhau.","label":[]}
+{"id":503,"text":"2995\tSáng mai tôi phải giặt đồ.","label":[[14,17,"1st"]]}
+{"id":504,"text":"2996\tVì nóng nên khi trở về nhà tôi đã tắm.","label":[[32,35,"1st"]]}
+{"id":505,"text":"2997\tMỗi tối sau khi tắm xong tôi đi ngủ.","label":[[30,33,"1st"]]}
+{"id":506,"text":"2998\tTôi định dọn dẹp sau khi trở về nhà.","label":[[5,8,"1st"]]}
+{"id":507,"text":"2999\tSáng ngày mai tôi phải giặt đồ.","label":[[19,22,"1st"]]}
+{"id":508,"text":"3000\tTối mai vì gặp bạn nên tôi sẽ ra ngoài.","label":[[28,31,"1st"]]}
+{"id":509,"text":"3001\tNgày hôm qua tôi không đi đâu cả.","label":[[18,21,"1st"]]}
+{"id":510,"text":"3002\tMón ăn này có thể nấu tại nhà.","label":[]}
+{"id":511,"text":"3005\tAnh Matsui có thể chơi ghi-ta được.","label":[]}
+{"id":512,"text":"3006\tTôi luyện đàn dương cầm mỗi ngày.","label":[[5,8,"1st"]]}
+{"id":513,"text":"3007\tCái mảy ảnh này tuy đắt nhưng vô cùng tiện lợi.","label":[]}
+{"id":514,"text":"3008\tTôi đã mua cái máy ảnh mới.","label":[[5,8,"1st"]]}
+{"id":515,"text":"3009\tĐây là bộ phim cũ của Nhật.","label":[]}
+{"id":516,"text":"3010\tEm gái tôi vẽ tranh rất giỏi.","label":[[12,15,"1st"]]}
+{"id":517,"text":"3011\tAnh Matsui ghét thuốc lá nên không có hút.","label":[]}
+{"id":518,"text":"3012\tTôi ghét những việc như dọn dẹp hay giặt giũ.","label":[[5,8,"1st"]]}
+{"id":519,"text":"3013\tMón ăn yêu thích của tôi là cà-ri.","label":[[26,29,"1st"]]}
+{"id":520,"text":"3014\tMẹ tôi thích nấu ăn.","label":[[8,11,"1st"]]}
+{"id":521,"text":"3015\tTôi rất hay hát bài hát này ở quán Karaoke.","label":[[5,8,"1st"]]}
+{"id":522,"text":"3016\tTôi sẽ chơi đàn dương cầm trong buổi hòa nhạc vào tháng tới.","label":[[5,8,"1st"]]}
+{"id":523,"text":"3017\tTôi đã chụp rất nhiều ảnh khi đi du lịch.","label":[[5,8,"1st"]]}
+{"id":524,"text":"3018\tTôi lúc nào cũng ngủ trên giường.","label":[[5,8,"1st"]]}
+{"id":525,"text":"3019\tBật lò sưởi lên sẽ ấm.","label":[]}
+{"id":526,"text":"3021\tTrước khi ngủ tôi tắt lò sưởi.","label":[[19,22,"1st"]]}
+{"id":527,"text":"3022\tViết đáp án của bài kiểm tra bằng bút bi.","label":[]}
+{"id":528,"text":"3023\tNgày mai trời mưa.","label":[]}
+{"id":529,"text":"3024\tNgày hôm nay thời tiết rất đẹp.","label":[]}
+{"id":530,"text":"3025\tNếu ngày mai trời nắng hãy chơi ten-nít nhé!","label":[]}
+{"id":531,"text":"3026\tNgày mai nghe nói trời có mây.","label":[]}
+{"id":532,"text":"3027\tNgày hôm qua trời mây mù cả ngày.","label":[]}
+{"id":533,"text":"3028\tNếu trời mưa vào ngày nghỉ thì tôi không đi ra ngoài.","label":[[36,39,"1st"]]}
+{"id":534,"text":"3029\tVì ngày mai trời mưa nên tôi sẽ đi học bằng xe buýt.","label":[[30,33,"1st"]]}
+{"id":535,"text":"3030\tNgày hôm nay không có gió.","label":[]}
+{"id":536,"text":"3034\tMùa hè ở Nhật rất nóng.","label":[]}
+{"id":537,"text":"3035\tTrời sẽ ấm lên khi mùa xuân đến.","label":[]}
+{"id":538,"text":"3036\tNgày hôm nay rất ấm áp nên tôi đi dạo.","label":[[32,35,"1st"]]}
+{"id":539,"text":"3037\tNgày mai trời sẽ nóng nên tôi định đi bơi.","label":[[31,34,"1st"]]}
+{"id":540,"text":"3038\tKhi tôi mở cửa sổ ra thì mát hơn một chút.","label":[[9,12,"1st"]]}
+{"id":541,"text":"3039\tMùa thu thì mát mẻ.","label":[]}
+{"id":542,"text":"3040\tBuổi sáng trời mưa nhưng bây giờ trời nắng.","label":[]}
+{"id":543,"text":"3041\tNếu ngày mai trời nắng chúng ta hãy chơi ten-nít nhé!","label":[[28,36,"1st"]]}
+{"id":544,"text":"3042\tNăm ngoái tuyết không rơi nhiều.","label":[]}
+{"id":545,"text":"3043\tGió thổi, trời lạnh.","label":[]}
+{"id":546,"text":"3044\tNghe nói ngày mai có gió thổi mạnh.","label":[]}
+{"id":547,"text":"3045\tNgày mai nhiệt độ sẽ lên ba mươi độ nên sẽ rất nóng.","label":[]}
+{"id":548,"text":"3046\tTôi sốt đến ba mươi tám độ do bị cảm.","label":[[5,8,"1st"]]}
+{"id":549,"text":"3047\tTrời trở mây một chút.","label":[]}
+{"id":550,"text":"3048\tHôm qua mây mù cả ngày.","label":[]}
+{"id":551,"text":"3050\tTôi thích nhất bài hát này.","label":[[5,8,"1st"]]}
+{"id":552,"text":"3051\tTôi không ra ngoài vào ngày tuyết.","label":[[5,8,"1st"]]}
+{"id":553,"text":"3052\tNgày có gió lớn thì không thể chơi ten-nít.","label":[]}
+{"id":554,"text":"3053\tBuổi tối trời lạnh nên tôi cầm theo áo khoác rồi đi ra ngoài.","label":[[28,31,"1st"]]}
+{"id":555,"text":"3056\tTôi gội đầu trước khi cắt tóc.","label":[[5,8,"1st"]]}
+{"id":556,"text":"3057\tNgười có mái tóc màu đen kia là anh Matsui.","label":[]}
+{"id":557,"text":"3058\tCửa tàu điện đóng lại.","label":[]}
+{"id":558,"text":"3059\tTôi đưa vé cho nhân viên nhà ga xem.","label":[[5,8,"1st"]]}
+{"id":559,"text":"3060\tTôi đã cắt tóc ngày hôm qua.","label":[[5,8,"1st"]]}
+{"id":560,"text":"3062\tTiệm cắt tóc bên cạnh ga.","label":[]}
+{"id":561,"text":"3063\tTối hôm nay tôi sẽ làm bài tập ở thư viện.","label":[[17,20,"1st"]]}
+{"id":562,"text":"3064\tViết đáp án ở đây.","label":[]}
+{"id":563,"text":"3065\tTháng sau sẽ có du học sinh từ Trung Quốc đến.","label":[]}
+{"id":564,"text":"3066\tNgười kia là du học sinh của trường này.","label":[]}
+{"id":565,"text":"3067\tNgày mai tôi sẽ đi xem phim cùng với bạn.","label":[[14,17,"1st"]]}
+{"id":566,"text":"3068\tBài kiểm tra ngày hôm qua rất khó.","label":[]}
+{"id":567,"text":"3069\tGiờ học của thầy giáo kia rất thú vị.","label":[]}
+{"id":568,"text":"3070\tThợ làm tóc kia dáng người thon và đẹp.","label":[]}
+{"id":569,"text":"3071\tSau khi ra trường thì tôi muốn trở thành thợ làm tóc.","label":[[27,30,"1st"]]}
+{"id":570,"text":"3072\tChiều thẳng đứng của cái hộp này ngắn nhưng chiều ngang lại dài.","label":[]}
+{"id":571,"text":"3073\tHôm qua tôi nghỉ làm để đi bệnh viện.","label":[[13,16,"1st"]]}
+{"id":572,"text":"3074\tVì bị sốt nên hôm nay tôi nghỉ học.","label":[[27,30,"1st"]]}
+{"id":573,"text":"3075\tTrên bàn có lọ hoa.","label":[]}
+{"id":574,"text":"3076\tTôi nghe tin tức trên radio mỗi ngày.","label":[[5,8,"1st"]]}
+{"id":575,"text":"3077\tTôi cho bạn tôi số điện thoại của anh Kimura.","label":[[5,8,"1st"],[17,20,"1st"]]}
+{"id":576,"text":"3078\tTôi lo lắng vì không nhận được liên lạc từ mẹ.","label":[[5,8,"1st"]]}
+{"id":577,"text":"3079\tNgày hôm qua tôi nhận được liên lạc từ anh Matsui.","label":[[18,21,"1st"]]}
+{"id":578,"text":"3080\tHãy liên lạc với công ty bằng điện thoại.","label":[]}
+{"id":579,"text":"3081\tTôi sẽ liên lạc với bạn khi tôi đến nhà.","label":[[5,8,"1st"],[33,36,"1st"]]}
+{"id":580,"text":"3084\tTiền thuê căn hộ này đắt.","label":[]}
+{"id":581,"text":"3086\tTôi định tìm một căn phòng rẻ hơn.","label":[[5,8,"1st"]]}
+{"id":582,"text":"3087\tVì không tìm thấy chìa khóa nên tôi đã tìm bên trong cặp.","label":[[37,40,"1st"]]}
+{"id":583,"text":"3088\tTôi dùng gạt tàn khi tôi hút thuốc.","label":[[5,8,"1st"],[26,29,"1st"]]}
+{"id":584,"text":"3089\tTrên bàn có cái gạt tàn.","label":[]}
+{"id":585,"text":"3091\tTôi luôn ăn suất ăn này cho bữa trưa.","label":[[5,8,"1st"]]}
+{"id":586,"text":"3092\tSuất ăn của nhà ăn kia rẻ mà lại ngon.","label":[]}
+{"id":587,"text":"3093\tTôi đã gọi nhân viên để đặt món ăn rồi.","label":[[5,8,"1st"]]}
+{"id":588,"text":"3094\tNhân viên của nhà hàng này trông có vẻ bận rộn.","label":[]}
+{"id":589,"text":"3095\tTôi uống cà phê mà không cho sữa vào.","label":[[5,8,"1st"]]}
+{"id":590,"text":"3096\tMỗi sáng tôi ăn bánh mì và uống sữa.","label":[[14,17,"1st"]]}
+{"id":591,"text":"3097\tCửa hàng bán tất ở tầng một.","label":[]}
+{"id":592,"text":"3098\tCái túi xách này tôi mua bằng thẻ.","label":[[22,25,"1st"]]}
+{"id":593,"text":"3099\tTôi cho thẻ vào ví.","label":[[5,8,"1st"]]}
+{"id":594,"text":"3100\tTôi dùng thẻ khi mua sắm.","label":[[5,8,"1st"]]}
+{"id":595,"text":"3102\tGửi bằng đường biển lâu hơn nhưng lại rẻ.","label":[]}
+{"id":596,"text":"3103\tGửi bằng hàng không thì nhanh đến hơn so với gửi bằng đường biển.","label":[]}
+{"id":597,"text":"3104\tTôi đã gửi hành lý cho mẹ vào ngày hôm qua.","label":[[5,8,"1st"]]}
+{"id":598,"text":"3105\tDo gửi bằng đường hàng không nên hơn đắt một chút.","label":[]}
+{"id":599,"text":"3106\tMùa hè trời nóng nên tôi không muốn mặc vét.","label":[[26,29,"1st"]]}
+{"id":600,"text":"3107\tTôi mặc vét khi đến công ty.","label":[[5,8,"1st"]]}
+{"id":601,"text":"3108\tTôi đã nhận được một chiếc áo sơ mi từ bạn vào dịp sinh nhật.","label":[[5,8,"1st"]]}
+{"id":602,"text":"3110\tChị Kimura là học sinh nhưng anh Tanaka là nhân viên công ty.","label":[]}
+{"id":603,"text":"3111\tTôi đi đến siêu thị mua sắm.","label":[[5,8,"1st"]]}
+{"id":604,"text":"3114\tBạn đã mua bao nhiêu miếng bánh mì?","label":[[5,8,"2nd"]]}
+{"id":605,"text":"3115\tTrên bàn có mấy cái ly?","label":[]}
+{"id":606,"text":"3116\tNgười Nhật dùng đũa để ăn cơm.","label":[]}
+{"id":607,"text":"3117\tTôi sẽ đi dạo ở công viên rồi trở về nhà.","label":[[5,8,"1st"]]}
+{"id":608,"text":"3118\tTôi luyện tập ten-nít mỗi ngày.","label":[[5,8,"1st"]]}
+{"id":609,"text":"3119\tTôi thích môn bóng chày nhất trong các môn thể thao.","label":[[5,8,"1st"]]}
+{"id":610,"text":"3120\tAnh Matsui giỏi bóng chày hơn bóng đá.","label":[]}
+{"id":611,"text":"3121\tVì mưa nên trận thi đấu bóng chày đã không diễn ra.","label":[]}
+{"id":612,"text":"3122\tNgày mai có trận đấu ten-nít.","label":[]}
+{"id":613,"text":"3123\tBrazil là đất nước có môn bóng đá rất mạnh.","label":[]}
+{"id":614,"text":"3124\tVì cơ thể yếu nên tôi không thể chơi thể thao.","label":[[23,26,"1st"]]}
+{"id":615,"text":"3126\tPhòng bẩn nên tôi dọn dẹp.","label":[[19,22,"1st"]]}
+{"id":616,"text":"3127\tBiển quanh đây bẩn.","label":[]}
+{"id":617,"text":"3128\tTôi đã quên tắt điện khi đi ra ngoài.","label":[[5,8,"1st"]]}
+{"id":618,"text":"3129\tTôi tắt điện trước khi ngủ.","label":[[5,8,"1st"]]}
+{"id":619,"text":"3130\tHôm nay tôi sẽ về nhà thôi.","label":[[13,16,"1st"]]}
+{"id":620,"text":"3131\tTôi đã lỡ làm mất chìa khóa ngày hôm qua.","label":[[5,8,"1st"]]}
+{"id":621,"text":"3132\tĐây là chìa khóa nhà của tôi.","label":[[30,33,"1st"]]}
+{"id":622,"text":"3133\tTrước cổng nhà tôi có con mèo.","label":[[20,23,"1st"]]}
+{"id":623,"text":"3134\tNước sông này sạch.","label":[]}
+{"id":624,"text":"3135\tAnh Lee có thể nói tiếng Nhật.","label":[]}
+{"id":625,"text":"3136\tTôi vay tiền ở ngân hàng.","label":[[5,8,"1st"]]}
+{"id":626,"text":"3137\tBố của tôi là nhân viên ngân hàng.","label":[[12,15,"1st"]]}
+{"id":627,"text":"3138\tNhân viên ngân hàng ở quầy lễ tân đa phần là nữ.","label":[]}
+{"id":628,"text":"3139\tTôi sẽ chuyển tiền tại quầy lễ tân.","label":[[5,8,"1st"]]}
+{"id":629,"text":"3140\tTôi sẽ đi đến ngân hàng để chuyển tiền.","label":[[5,8,"1st"]]}
+{"id":630,"text":"3141\tTôi đã nhận giấy điền thông tin chuyển khoản tại quầy lễ tân.","label":[[5,8,"1st"]]}
+{"id":631,"text":"3142\tTôi điền tên và địa chỉ lên giấy này.","label":[[5,8,"1st"]]}
+{"id":632,"text":"3143\tTôi ghi nhớ số ghi trên tờ giấy.","label":[[5,8,"1st"]]}
+{"id":633,"text":"3144\tTôi đã đưa địa chỉ mới cho bạn tôi.","label":[[5,8,"1st"],[36,39,"1st"]]}
+{"id":634,"text":"3145\tNgười kia là giáo viên của trường này.","label":[]}
+{"id":635,"text":"3146\tNói chuyện với người nước ngoài rất vui.","label":[]}
+{"id":636,"text":"3147\tTôi đã đến đất nước này ba năm trước.","label":[[5,8,"1st"]]}
+{"id":637,"text":"3148\tMột sân bay mới đã được xây dựng ở gần đây.","label":[]}
+{"id":638,"text":"3149\tTôi trình hộ chiếu tại sân bay.","label":[[5,8,"1st"]]}
+{"id":639,"text":"3150\tTôi đã làm mất hộ chiếu tại ga.","label":[[5,8,"1st"]]}
+{"id":640,"text":"3151\tKhi đi nước ngoài thì cần hộ chiếu.","label":[]}
+{"id":641,"text":"3153\tVào ngày nghỉ tôi đi mua sắm với bạn.","label":[[19,22,"1st"]]}
+{"id":642,"text":"3154\tHướng dẫn viên đã giới thiệu cho tôi về khu phố này.","label":[[38,41,"1st"]]}
+{"id":643,"text":"3155\tBạn tôi đang làm hướng dẫn viên.","label":[[9,12,"1st"]]}
+{"id":644,"text":"3156\tVì không có tàu đi về nên tôi đã ngủ lại ở nhà bạn.","label":[[31,34,"1st"]]}
+{"id":645,"text":"3157\tTối hôm nay tôi sẽ ngủ lại khách sạn.","label":[[17,20,"1st"]]}
+{"id":646,"text":"3158\tTôi nhận quà lưu niệm khi đi du lịch từ bạn.","label":[[5,8,"1st"]]}
+{"id":647,"text":"3159\tTôi mua quà lưu niệm cho gia đình.","label":[[5,8,"1st"]]}
+{"id":648,"text":"3160\tKhi viết vào giấy chuyển khoản thì sử dụng bút bi.","label":[]}
+{"id":649,"text":"3161\tCông ty kia sản xuất xe hơi.","label":[]}
+{"id":650,"text":"3162\tTôi tự làm cái bàn.","label":[[5,8,"1st"]]}
+{"id":651,"text":"3163\tVì gặp người khác để làm việc nên tôi thắt cà vạt.","label":[[39,42,"1st"]]}
+{"id":652,"text":"3165\tTôi học tiếng Nhật mỗi ngày nhưng không thể nhớ được chữ Hán.","label":[[5,8,"1st"]]}
+{"id":653,"text":"3167\tAnh Lee đã viết thư bằng tiếng Nhật.","label":[]}
+{"id":654,"text":"3168\tNói chuyện bằng tiếng Anh thì khó.","label":[]}
+{"id":655,"text":"3169\tAnh Matsui đang nói chuyện với anh Kobayashi.","label":[]}
+{"id":656,"text":"3170\tChuyện đó tôi sẽ nói với thầy giáo.","label":[[15,18,"1st"]]}
+{"id":657,"text":"3171\tTôi viết đáp án bài thi vào tờ giấy này.","label":[[5,8,"1st"]]}
+{"id":658,"text":"3172\tTôi đã viết thư cho bạn tôi vào ngày hôm qua.","label":[[5,8,"1st"],[29,32,"1st"]]}
+{"id":659,"text":"3173\tTôi không thích viết tay cho lắm.","label":[[5,8,"1st"]]}
+{"id":660,"text":"3174\tChị Matsui viết chữ đẹp.","label":[]}
+{"id":661,"text":"3175\tTôi đã nghe một câu chuyện thú vị từ anh Hayashi.","label":[[5,8,"1st"]]}
+{"id":662,"text":"3176\tAnh Matsui đang nói chuyện với anh Kobayashi.","label":[]}
+{"id":663,"text":"3177\tTôi không hiểu lời thầy giáo nói.","label":[[5,8,"1st"]]}
+{"id":664,"text":"3178\tTôi đã chỉ cho anh Lee ý nghĩa của từ này.","label":[[5,8,"1st"]]}
+{"id":665,"text":"3179\tCó nhiều từ Katakana trong tiếng Nhật.","label":[]}
+{"id":666,"text":"3180\tTôi có thể viết chữ Hiragana nhưng vẫn chưa thể viết chữ Katakana.","label":[[5,8,"1st"]]}
+{"id":667,"text":"3181\tCâu văn này ngắn nên dễ đọc.","label":[]}
+{"id":668,"text":"3182\tHọc ngoại ngữ thì khó.","label":[]}
+{"id":669,"text":"3183\tTôi sẽ đọc sách viết bằng tiếng Nhật.","label":[[5,8,"1st"]]}
+{"id":670,"text":"3184\tKhi không hiểu ý nghĩa của từ thì tôi sử dụng từ điển.","label":[[39,42,"1st"]]}
+{"id":671,"text":"3185\tBuổi sáng tôi thức dậy sau đó rửa mặt.","label":[[15,18,"1st"]]}
+{"id":672,"text":"3186\tTôi đã mua quần áo mới ở trung tâm thương mại.","label":[[5,8,"1st"]]}
+{"id":673,"text":"3187\tTôi cầm theo áo khoác ra ngoài.","label":[[5,8,"1st"]]}
+{"id":674,"text":"3188\tVì bên ngoài trời lạnh nên tôi mặc áo ấm rồi đi đến công ty.","label":[[32,35,"1st"]]}
+{"id":675,"text":"3189\tVì trời nóng nên tôi cởi áo len.","label":[[22,25,"1st"]]}
+{"id":676,"text":"3190\tCái quần này thì nhỏ so với tôi nên tôi không thể mặc vừa.","label":[[33,36,"1st"],[33,36,"1st"]]}
+{"id":677,"text":"3192\tChị Kobayashi thích mặc quần hơn so với mặc váy.","label":[]}
+{"id":678,"text":"3193\tCởi giày và đi dép vào.","label":[]}
+{"id":679,"text":"3194\tVì mắt kém nên tôi đeo kính.","label":[[20,23,"1st"]]}
+{"id":680,"text":"3195\tỞ Nhật khi vào nhà sẽ cởi giày.","label":[]}
+{"id":681,"text":"3196\tTôi mang đôi giày mới đi ra ngoài.","label":[[5,8,"1st"]]}
+{"id":682,"text":"3197\tChị Kimura đang mặc một chiếc váy dễ thương.","label":[]}
+{"id":683,"text":"3198\tVì đi tắm nên tôi cởi quần áo ra.","label":[[19,22,"1st"]]}
+{"id":684,"text":"3199\tCái bánh này ngọt.","label":[]}
+{"id":685,"text":"3201\tMón ăn này ăn mà không chấm thêm một cái gì.","label":[]}
+{"id":686,"text":"3202\tTôi ăn sashimi chấm xì dầu.","label":[[5,8,"1st"]]}
+{"id":687,"text":"3204\tTôi bày bát và đũa trên bàn.","label":[[5,8,"1st"]]}
+{"id":688,"text":"3205\tTôi ăn cơm bằng bát.","label":[[5,8,"1st"]]}
+{"id":689,"text":"3206\tHôm nay tôi sẽ ăn tối cùng bạn bè.","label":[[13,16,"1st"]]}
+{"id":690,"text":"3207\tTôi luôn ăn trưa ở đây.","label":[[5,8,"1st"]]}
+{"id":691,"text":"3208\tHôm nay tôi đã không ăn sáng.","label":[[13,16,"1st"]]}
+{"id":692,"text":"3209\tChị Kimura đã cho tôi bánh kẹo.","label":[[23,26,"1st"]]}
+{"id":693,"text":"3210\tMón ăn này có vẻ không ngon.","label":[]}
+{"id":694,"text":"3211\tNhà hàng đó tuy rẻ nhưng đồ ăn chán.","label":[]}
+{"id":695,"text":"3212\tHộp cơm của anh Hayashi có vẻ ngon.","label":[]}
+{"id":696,"text":"3213\tBánh kẹo này thì ngon.","label":[]}
+{"id":697,"text":"3214\tVì bận nên tôi đã không thể ăn trưa.","label":[[16,19,"1st"]]}
+{"id":698,"text":"3215\tMón cà-ri này rất cay.","label":[]}
+{"id":699,"text":"3216\tBữa sáng của tôi luôn là bánh mì.","label":[[18,21,"1st"]]}
+{"id":700,"text":"3217\tBữa tối nay là cà-ri.","label":[]}
+{"id":701,"text":"3218\tCơm tối nay là cà-ri.","label":[]}
+{"id":702,"text":"3219\tTôi đã lấy muối giúp anh Lee.","label":[[5,8,"1st"]]}
+{"id":703,"text":"3220\tTôi cho đường và muối vào khi nấu ăn.","label":[[5,8,"1st"]]}
+{"id":704,"text":"3221\tEm trai tôi có thân thể rắn rỏi.","label":[[13,16,"1st"]]}
+{"id":705,"text":"3223\tVì đọc sách trong phòng tối nên mắt tôi đã mỏi.","label":[[41,44,"1st"]]}
+{"id":706,"text":"3224\tVì mắt kém nên anh Yamada phải đeo kính.","label":[]}
+{"id":707,"text":"3225\tCon chó kia có đôi tai to.","label":[]}
+{"id":708,"text":"3226\tEm gái tôi mắt vừa to, mũi lại cao.","label":[[12,15,"1st"]]}
+{"id":709,"text":"3227\tVì đau răng nên tôi không mở được miệng.","label":[[21,24,"1st"]]}
+{"id":710,"text":"3229\tTôi rửa tay trước khi ăn cơm.","label":[[5,8,"1st"]]}
+{"id":711,"text":"3230\tVì đã đi rất nhiều nên chân tôi mỏi.","label":[[33,36,"1st"]]}
+{"id":712,"text":"3231\tChân người kia rất dài.","label":[]}
+{"id":713,"text":"3232\tTôi tắm bằng bồn tắm.","label":[[5,8,"1st"]]}
+{"id":714,"text":"3233\tTôi luôn đánh răng trước khi đi ngủ.","label":[[5,8,"1st"]]}
+{"id":715,"text":"3234\tHôm qua vì bận nên tôi rất mệt.","label":[[24,27,"1st"]]}
+{"id":716,"text":"3235\tAnh Yamada đang ở trong phòng học.","label":[]}
+{"id":717,"text":"3236\tAnh Kobayashi đang cầm một chiếc ô xanh.","label":[]}
+{"id":718,"text":"3237\tHôm qua tôi mua một đôi giày trắng ở trung tâm thương mại.","label":[[13,16,"1st"]]}
+{"id":719,"text":"3238\tNgười đang mặc chiếc áo sơ mi vàng là anh Hayashi.","label":[]}
+{"id":720,"text":"3239\tÔ-tô của anh Tanaka màu trắng và to.","label":[]}
+{"id":721,"text":"3240\tKhi đến công ty tôi mặc một bộ com lê đen.","label":[[21,24,"1st"]]}
+{"id":722,"text":"3241\tAnh Tanaka đang đeo chiếc cà vạt màu xanh lá.","label":[]}
+{"id":723,"text":"3242\tMàu tóc của chị Kimura là màu nâu.","label":[]}
+{"id":724,"text":"3243\tTôi thích màu xanh hơn màu đỏ.","label":[[5,8,"1st"]]}
+{"id":725,"text":"3244\tMàu tôi thích là màu xanh.","label":[[9,12,"1st"]]}
+{"id":726,"text":"3245\tMàu này rất đẹp.","label":[]}
+{"id":727,"text":"3246\tTôi được tặng một chiếc khăn tay màu vàng vào ngày sinh nhật.","label":[[5,8,"1st"]]}
+{"id":728,"text":"3247\tTôi đã đặt lọ hoa ở trên bàn.","label":[[5,8,"1st"]]}
+{"id":729,"text":"3248\tDưới ghế có con mèo.","label":[]}
+{"id":730,"text":"3249\tRẽ phải ở góc kia sẽ thấy siêu thị.","label":[]}
+{"id":731,"text":"3250\tCái cặp sách này có túi ở bên ngoài.","label":[]}
+{"id":732,"text":"3251\tNhà vệ sinh ở bên tay trái của hành lang.","label":[]}
+{"id":733,"text":"3252\tVở thì ở trong cặp sách.","label":[]}
+{"id":734,"text":"3253\tPhòng học bên kia có ti-vi.","label":[]}
+{"id":735,"text":"3254\tNhà tôi có chó và mèo.","label":[[9,12,"1st"]]}
+{"id":736,"text":"3255\tBây giờ anh Lee đang ở thư viện.","label":[]}
+{"id":737,"text":"3256\tĐến mùa đông thì phía bắc Nhật Bản sẽ rất lạnh.","label":[]}
+{"id":738,"text":"3257\tPhòng tôi ở phía nam nên sáng sủa.","label":[[11,14,"1st"]]}
+{"id":739,"text":"3259\tToàn bộ khu phía đông của thị trấn này là rừng rậm.","label":[]}
+{"id":740,"text":"3260\tTừ đây đi một chút về hướng Tây sẽ có biển.","label":[]}
+{"id":741,"text":"3261\tChị gái của chị Kimura là một người rất xinh đẹp.","label":[]}
+{"id":742,"text":"3262\tBố mẹ tôi hiện đang ở nước ngoài.","label":[[11,14,"1st"]]}
+{"id":743,"text":"3263\tTôi đã tặng mẹ quà sinh nhật.","label":[[5,8,"1st"]]}
+{"id":744,"text":"3264\tChị tôi hiện đang sống một mình tại Tokyo.","label":[[9,12,"1st"]]}
+{"id":745,"text":"3265\tVợ anh Tanaka là giảng viên đại học.","label":[]}
+{"id":746,"text":"3266\tTuần sau anh trai của anh Lee sẽ tới Nhật Bản chơi.","label":[]}
+{"id":747,"text":"3267\tMẹ anh Yamada nấu ăn rất ngon.","label":[]}
+{"id":748,"text":"3268\tChồng chị Hayashi đang làm việc tại bệnh viện.","label":[]}
+{"id":749,"text":"3269\tEm gái anh Yamada vừa thấp vừa đáng yêu.","label":[]}
+{"id":750,"text":"3270\tEm trai anh Kobayashi đang chơi bóng đá.","label":[]}
+{"id":751,"text":"3271\tTôi có hai anh em trai.","label":[[5,8,"1st"]]}
+{"id":752,"text":"3272\tNgười phụ nữ xinh đẹp kia là chị Kimura.","label":[]}
+{"id":753,"text":"3273\tBọn trẻ con đang chơi ở công viên.","label":[]}
+{"id":754,"text":"3274\tỞ đằng kia có một em gái nhỏ.","label":[]}
+{"id":755,"text":"3275\tÔng chú của cửa hàng rau kia vẫn luôn khỏe mạnh.","label":[]}
+{"id":756,"text":"3276\tBà của anh Kobayashi đang sống ở Tokyo.","label":[]}
+{"id":757,"text":"3277\tTôi đã chỉ đường cho ông tôi.","label":[[5,8,"1st"],[30,33,"1st"]]}
+{"id":758,"text":"3278\tBà của anh Hayashi đang đeo kính mắt.","label":[]}
+{"id":759,"text":"3279\tThành người lớn rồi sẽ có thể uống rượu.","label":[]}
+{"id":760,"text":"3280\tAnh Matsui và anh Lee là bạn bè.","label":[]}
+{"id":761,"text":"3281\tTôi có bạn bè người Thái.","label":[[5,8,"1st"]]}
+{"id":762,"text":"3282\tNgười đàn ông kia vừa cao chân vừa dài.","label":[]}
+{"id":763,"text":"3283\tMột cậu bé đang trèo cây ở đằng kia.","label":[]}
+{"id":764,"text":"3284\tHãy đợi hai phút.","label":[]}
+{"id":765,"text":"3285\tHôm nay là chủ nhật nhưng tôi sẽ đến công ty.","label":[[31,34,"1st"]]}
+{"id":766,"text":"3287\tHình như anh Yamada sẽ đi Tokyo vào tháng sau.","label":[]}
+{"id":767,"text":"3288\tBạn hãy làm việc ở bên kia.","label":[[5,8,"2nd"]]}
+{"id":768,"text":"3289\tCái cốc đó là của bạn.","label":[]}
+{"id":769,"text":"3290\tTôi tự nấu bữa tối hàng ngày.","label":[[5,8,"1st"]]}
+{"id":770,"text":"3291\tNhà vệ sinh ở đây.","label":[]}
+{"id":771,"text":"3292\tĐây là anh Kobayashi.","label":[]}
+{"id":772,"text":"3293\tVì không thể ngồi bên đây nên tôi ngồi bên kia.","label":[[35,38,"1st"]]}
+{"id":773,"text":"3294\tTòa nhà bên kia được xây dựng vào năm bảy trăm chín mươi tư.","label":[]}
+{"id":774,"text":"3295\tKia là anh Yamada.","label":[]}
+{"id":775,"text":"3296\tNhà ăn nằm ở tòa nhà đằng kia.","label":[]}
+{"id":776,"text":"3297\tVì nguy hiểm nên đừng qua bên đó.","label":[]}
+{"id":777,"text":"3298\tĐó là anh Lee.","label":[]}
+{"id":778,"text":"3299\tĐi sang bên đó sẽ có bưu điện và ngân hàng.","label":[]}
+{"id":779,"text":"3300\tTháng trước tôi đã đi du lịch nước ngoài.","label":[[17,20,"1st"]]}
+{"id":780,"text":"3301\tHàng tháng tôi đều gửi tiền vào ngân hàng.","label":[[16,19,"1st"]]}
+{"id":781,"text":"3302\tTháng này cái siêu thị đó sẽ nghỉ vào thứ tư.","label":[]}
+{"id":782,"text":"3303\tTháng này công việc của tôi rất bận.","label":[[29,32,"1st"]]}
+{"id":783,"text":"3305\tTôi đã học tiếng Anh tại Mỹ trong ba tháng.","label":[[5,8,"1st"]]}
+{"id":784,"text":"3306\tSinh nhật anh Matsui là tháng tám.","label":[]}
+{"id":785,"text":"3307\tNgày mai là mồng một tháng tư.","label":[]}
+{"id":786,"text":"3309\tHàng tháng tôi đều viết thư cho bạn bè ở nước ngoài.","label":[[16,19,"1st"]]}
+{"id":787,"text":"3310\tTừ tuần sau anh Hayashi sẽ đi nước ngoài làm việc trong một tháng.","label":[]}
+{"id":788,"text":"3311\tTháng trước tôi có cắt tóc mà đã dài ra mất rồi.","label":[[17,20,"1st"]]}
+{"id":789,"text":"3312\tHàng năm gia đình tôi đều đi du lịch.","label":[[23,26,"1st"]]}
+{"id":790,"text":"3313\tNăm ngoái là một năm tốt.","label":[]}
+{"id":791,"text":"3314\tTôi đã leo lên ngọn núi này vào năm kia.","label":[[5,8,"1st"]]}
+{"id":792,"text":"3315\tAnh Tanaka đã tốt nghiệp đại học vào năm kia.","label":[]}
+{"id":793,"text":"3316\tNăm nay nóng hơn năm ngoái.","label":[]}
+{"id":794,"text":"3317\tTôi sẽ học ghi-ta bắt đầu từ năm nay.","label":[[5,8,"1st"]]}
+{"id":795,"text":"3318\tSang năm tôi định mua một cái ô-tô mới.","label":[[14,17,"1st"]]}
+{"id":796,"text":"3319\tSang năm anh tôi sẽ làm việc cho ngân hàng.","label":[[18,21,"1st"]]}
+{"id":797,"text":"3320\tSang năm sau nữa tôi sẽ về nước.","label":[[22,25,"1st"]]}
+{"id":798,"text":"3321\tHình như sang năm sau nữa một cái thư viện sẽ mở cửa ở đằng kia.","label":[]}
+{"id":799,"text":"3322\tHàng năm tôi đều tặng quà sinh nhật cho mẹ.","label":[[14,17,"1st"]]}
+{"id":800,"text":"3323\tNăm năm trước tôi đã kết hôn cùng vợ mình.","label":[[19,22,"1st"]]}
+{"id":801,"text":"3324\tAnh Lee định ở Nhật Bản ba năm.","label":[]}
+{"id":802,"text":"3326\tTối nay tôi sẽ gặp chị Kimura ở ga.","label":[[13,16,"1st"]]}
+{"id":803,"text":"3327\tNgày mai tôi sẽ gặp anh Lee và đưa anh ấy quà.","label":[[14,17,"1st"]]}
+{"id":804,"text":"3328\tHơi nóng nên tôi sẽ mở cửa sổ ra.","label":[[18,21,"1st"]]}
+{"id":805,"text":"3329\tTôi mở cửa rồi bước vào phòng.","label":[[5,8,"1st"]]}
+{"id":806,"text":"3331\tKhông được mở cái cửa sổ đằng kia vì nguy hiểm.","label":[]}
+{"id":807,"text":"3332\tTôi giơ tay lên cao.","label":[[5,8,"1st"]]}
+{"id":808,"text":"3333\tTôi để những món đồ không dùng nữa lên trên giá sách.","label":[[5,8,"1st"]]}
+{"id":809,"text":"3334\tNgày mai anh Hayashi có việc nên không tới được.","label":[]}
+{"id":810,"text":"3335\tBây giờ tôi không có tiền.","label":[[13,16,"1st"]]}
+{"id":811,"text":"3336\tHôm qua vì bị sốt nên tôi đã không đi học.","label":[[27,30,"1st"]]}
+{"id":812,"text":"3337\tSau khi hết giờ học tôi sẽ tới nhà bạn bè.","label":[[25,28,"1st"]]}
+{"id":813,"text":"3338\tNgày mai tôi sẽ tập viết văn ở lớp nên tôi sẽ cần từ điển.","label":[[14,17,"1st"],[14,17,"1st"]]}
+{"id":814,"text":"3339\tKhi đi tàu điện thì cần vé.","label":[]}
+{"id":815,"text":"3340\tTôi cắm nguồn vào rồi bật đèn lên.","label":[[5,8,"1st"]]}
+{"id":816,"text":"3341\tTôi sẽ bật nguồn máy tính.","label":[[5,8,"1st"]]}
+{"id":817,"text":"3342\tNơi sinh của anh Tanaka là Tokyo.","label":[]}
+{"id":818,"text":"3343\tTôi sinh ngày hai mươi sáu tháng tám.","label":[[5,8,"1st"]]}
+{"id":819,"text":"3344\tCửa hàng đó có bán bánh kẹo ngon.","label":[]}
+{"id":820,"text":"3346\tĐây là loại đồ ăn không được bán tại Nhật.","label":[]}
+{"id":821,"text":"3347\tKhông được để đồ ở đây.","label":[]}
+{"id":822,"text":"3348\tẤn vào đây thì cà phê sẽ chảy ra.","label":[]}
+{"id":823,"text":"3349\tTôi đã không nhớ gì về người đó.","label":[[5,8,"1st"]]}
+{"id":824,"text":"3350\tMỗi ngày tôi đều xem ti-vi để học tiếng Nhật.","label":[[14,17,"1st"]]}
+{"id":825,"text":"3351\tXong việc tôi sẽ đi ăn tối.","label":[[15,18,"1st"]]}
+{"id":826,"text":"3352\tGửi thư bằng đường thủy sẽ tốn rất nhiều thời gian.","label":[]}
+{"id":827,"text":"3353\tĐi từ ga ra bệnh viện bằng xe buýt mất mười phút.","label":[]}
+{"id":828,"text":"3354\tTôi đã gọi điện về nhà nhưng không ai có nhà.","label":[[5,8,"1st"]]}
+{"id":829,"text":"3355\tTối nay tôi sẽ gọi điện cho bạn bè.","label":[[13,16,"1st"]]}
+{"id":830,"text":"3356\tVì lò sưởi tắt nên tôi đã bật ngay lên.","label":[[24,27,"1st"]]}
+{"id":831,"text":"3357\tĐèn trong phòng đã tắt hết mất rồi.","label":[]}
+{"id":832,"text":"3358\tTôi sẽ tắt nguồn máy tính.","label":[[5,8,"1st"]]}
+{"id":833,"text":"3361\tMùa xuân năm tới chị tôi sẽ kết hôn.","label":[[26,29,"1st"]]}
+{"id":834,"text":"3362\tAnh Tanaka kết hôn rồi có con.","label":[]}
+{"id":835,"text":"3363\tỞ công viên có rất nhiều hoa đẹp đang nở rộ.","label":[]}
+{"id":836,"text":"3364\tLoài hoa này thì tới mùa xuân sẽ nở.","label":[]}
+{"id":837,"text":"3365\tTôi đã gặp khó khăn vì làm mất hộ chiếu ở nước ngoài.","label":[[5,8,"1st"]]}
+{"id":838,"text":"3366\tVì trời đang mưa nên tôi sẽ che ô đi đến trường.","label":[[26,29,"1st"]]}
+{"id":839,"text":"3367\tCó một hiệu sách lớn mở cửa ở trước trường đại học.","label":[]}
+{"id":840,"text":"3368\tTôi bước vào phòng rồi đóng cửa lại.","label":[[5,8,"1st"]]}
+{"id":841,"text":"3369\tAnh Kobayashi đã không biết nhà hàng này.","label":[]}
+{"id":842,"text":"3370\tTôi biết số điện thoại của anh Yamada.","label":[[5,8,"1st"]]}
+{"id":843,"text":"3371\tTôi sẽ đứng lên hát một bài.","label":[[5,8,"1st"]]}
+{"id":844,"text":"3372\tChị Kimura đang đứng ở bên kia.","label":[]}
+{"id":845,"text":"3373\tAnh Tanaka được anh Hayashi nhờ giúp việc.","label":[]}
+{"id":846,"text":"3374\tMẹ tôi lúc nào cũng nhờ tôi mua đồ.","label":[[8,11,"1st"],[8,11,"1st"]]}
+{"id":847,"text":"3375\tNhật Bản và nước ngoài thì tiếng nói khác nhau.","label":[]}
+{"id":848,"text":"3376\tĐây là vở của tôi.","label":[[19,22,"1st"]]}
+{"id":849,"text":"3377\tTối nay tôi sẽ ra khỏi công ty sớm và về nhà.","label":[[13,16,"1st"]]}
+{"id":850,"text":"3378\tTôi sẽ lấy bất kỳ đồ ăn gì tôi thích.","label":[[5,8,"1st"],[32,35,"1st"]]}
+{"id":851,"text":"3379\tTôi đã lấy xì dầu cho anh Lee.","label":[[5,8,"1st"]]}
+{"id":852,"text":"3380\tCái thang máy này sẽ dừng từ tầng hai đến tầng chín.","label":[]}
+{"id":853,"text":"3381\tChiếc ô-tô đã dừng lại trước mặt tôi.","label":[[38,41,"1st"]]}
+{"id":854,"text":"3382\tNgày mai tôi sẽ không quên đi trả sách.","label":[[14,17,"1st"]]}
+{"id":855,"text":"3383\tHôm qua tôi đã để quên ô trên tàu điện.","label":[[13,16,"1st"]]}
+{"id":856,"text":"3384\tVì có câu hỏi tôi không hiểu nên tôi sẽ hỏi thầy giáo.","label":[[19,22,"1st"],[19,22,"1st"]]}
+{"id":857,"text":"3385\tAnh Lee hiểu tiếng Nhật.","label":[]}
+{"id":858,"text":"3386\tHôm qua tôi đã đưa cho chị Kimura bản đồ của thị trấn này.","label":[[13,16,"1st"]]}
+{"id":859,"text":"3387\tTôi đã gọi một chiếc taxi.","label":[[5,8,"1st"]]}
+{"id":860,"text":"3388\tThầy giáo đã gọi tên anh Yamada.","label":[]}
+{"id":861,"text":"3389\tVì đã làm việc một lúc lâu nên tôi đã nghỉ một chút.","label":[[36,39,"1st"]]}
+{"id":862,"text":"3390\tTôi đang đợi xe buýt.","label":[[5,8,"1st"]]}
+{"id":863,"text":"3391\tTối nay tôi sẽ đợi anh Kobayashi ở ga.","label":[[13,16,"1st"]]}
+{"id":864,"text":"3392\tChị Kimura cho tôi xem ảnh.","label":[[20,23,"1st"]]}
+{"id":865,"text":"3394\tTôi đã từng leo lên ngọn núi kia.","label":[[5,8,"1st"]]}
+{"id":866,"text":"3395\tCuối tuần tôi sẽ đi leo núi cùng bạn bè.","label":[[15,18,"1st"]]}
+{"id":867,"text":"3396\tTôi học tiếng Nhật từ thầy giáo đó.","label":[[5,8,"1st"]]}
+{"id":868,"text":"3397\tHôm qua anh Lee đã học chữ Hán từ chỗ anh Matsui.","label":[]}
+{"id":869,"text":"3398\tTrường đại học sẽ vào học từ tháng tư.","label":[]}
+{"id":870,"text":"3399\tGiờ học sẽ bắt đầu lúc chín giờ sáng.","label":[]}
+{"id":871,"text":"3402\tCó rất nhiều sách được xếp trên giá.","label":[]}
+{"id":872,"text":"3403\tTôi bày đĩa trên bàn.","label":[[5,8,"1st"]]}
+{"id":873,"text":"3404\tTrước nhà hàng có rất nhiều người đang xếp hàng.","label":[]}
+{"id":874,"text":"3405\tHôm qua tôi đã xếp hàng một tiếng đồng hồ để vào xem phim.","label":[[13,16,"1st"]]}
+{"id":875,"text":"3406\tSau khi tốt nghiệp đại học tôi muốn trở thành bác sỹ.","label":[[32,35,"1st"]]}
+{"id":876,"text":"3407\tĐến mùa hè trời sẽ nóng lên.","label":[]}
+{"id":877,"text":"3408\tSang năm tôi sẽ tốt nghiệp đại học.","label":[[14,17,"1st"]]}
+{"id":878,"text":"3409\tNgày thứ hai tôi đến trường từ sáng.","label":[[18,21,"1st"]]}
+{"id":879,"text":"3410\tHạn trả sách của tôi là ngày thứ ba.","label":[[22,25,"1st"]]}
+{"id":880,"text":"3411\tNgày nghỉ của cái bệnh viện bên kia là thứ tư và chủ nhật.","label":[]}
+{"id":881,"text":"3412\tChiều thứ năm tôi sẽ đi chuyển khoản ở ngân hàng.","label":[[19,22,"1st"]]}
+{"id":882,"text":"3413\tVì ngày kế tiếp là ngày nghỉ nên thứ sáu tôi đều chơi cùng bạn bè.","label":[[46,49,"1st"]]}
+{"id":883,"text":"3414\tThứ bảy tôi sẽ ăn cơm tối ở nhà anh Hayashi.","label":[[13,16,"1st"]]}
+{"id":884,"text":"3415\tTuần trước là sinh nhật mẹ tôi.","label":[[32,35,"1st"]]}
+{"id":885,"text":"3416\tTuần này lớp tiếng Nhật được nghỉ.","label":[]}
+{"id":886,"text":"3417\tTuần sau có bài kiểm tra nên tôi sẽ học bài.","label":[[34,37,"1st"]]}
+{"id":887,"text":"3418\tTuần sau chị gái tôi sẽ kết hôn.","label":[[22,25,"1st"]]}
+{"id":888,"text":"3419\tThứ bảy hàng tuần tôi đều luyện tập bóng đá.","label":[[23,26,"1st"]]}
+{"id":889,"text":"3420\tNăm ngoái tôi đã đi du lịch nước ngoài cùng bạn bè.","label":[[15,18,"1st"]]}
+{"id":890,"text":"3421\tHôm kia tôi đã mua một đôi giày mới ở trung tâm thương mại.","label":[[13,16,"1st"]]}
+{"id":891,"text":"3422\tHôm kia trời lạnh nên tuyết đã rơi.","label":[]}
+{"id":892,"text":"3423\tHôm qua có một nhà hàng mới mở cửa trước ga.","label":[]}
+{"id":893,"text":"3424\tHôm qua tôi đã gửi thư cho mẹ.","label":[[13,16,"1st"]]}
+{"id":894,"text":"3425\tHôm nay tôi đã nghỉ học vì bị cảm.","label":[[13,16,"1st"]]}
+{"id":895,"text":"3426\tHôm nay tôi cùng anh Lee đi xem phim.","label":[[13,16,"1st"]]}
+{"id":896,"text":"3427\tTừ mai tôi sẽ học chữ Hán mỗi ngày.","label":[[12,15,"1st"]]}
+{"id":897,"text":"3428\tNgày mai tôi phải đến đại sứ quán.","label":[[14,17,"1st"]]}
+{"id":898,"text":"3429\tNgày kia tôi định ra biển bơi.","label":[[14,17,"1st"]]}
+{"id":899,"text":"3430\tNgày kia sẽ có trận đấu bóng chày.","label":[]}
+{"id":900,"text":"3431\tTối hôm qua tôi mệt nên ngủ sớm.","label":[[17,20,"1st"]]}
+{"id":901,"text":"3432\tTối hôm qua tôi đã đi ăn cơm cùng chị Kimura.","label":[[17,20,"1st"]]}
+{"id":902,"text":"3433\tTừ tuần sau mỗi ngày đều có bài kiểm tra.","label":[]}
+{"id":903,"text":"3434\tMỗi sáng tôi đọc báo rồi đi làm.","label":[[14,17,"1st"]]}
+{"id":904,"text":"3435\tTôi thức dậy lúc sáu giờ sáng mỗi ngày.","label":[[5,8,"1st"]]}
+{"id":905,"text":"3436\tMỗi tối trước khi ngủ tôi đều đọc sách.","label":[[27,30,"1st"]]}
+{"id":906,"text":"3437\tMỗi tối tôi học tiếng Anh hai tiếng đồng hồ.","label":[[13,16,"1st"]]}
+{"id":907,"text":"3438\tKhách sạn này giá bảy nghìn tám trăm yên cho một ngày.","label":[]}
+{"id":908,"text":"3439\tHôm qua trời mưa nên tôi ở nhà cả ngày.","label":[[26,29,"1st"]]}
+{"id":909,"text":"3441\tMẹ tôi sinh ngày hai mươi chín tháng mười một.","label":[[8,11,"1st"]]}
+{"id":910,"text":"3442\tSáng nay tôi đã ra khỏi nhà mà không ăn cơm.","label":[[14,17,"1st"]]}
+{"id":911,"text":"3443\tSáng nay thời tiết tốt.","label":[]}
+{"id":912,"text":"3444\tTối nay bạn tôi sẽ ngủ lại nhà tôi.","label":[[17,20,"1st"],[17,20,"1st"]]}
+{"id":913,"text":"3445\tTối hôm nay rất lạnh.","label":[]}
+{"id":914,"text":"3446\tHôm nay tôi có giờ học từ sáng tới chiều.","label":[[13,16,"1st"]]}
+{"id":915,"text":"3447\tHôm nào tôi cũng lên tàu lúc tám giờ sáng.","label":[[13,16,"1st"]]}
+{"id":916,"text":"3448\tTrưa hôm qua tôi đã đi cà phê cùng anh Kimura.","label":[[18,21,"1st"]]}
+{"id":917,"text":"3449\tHàng ngày tôi nghỉ một tiếng buổi trưa.","label":[[15,18,"1st"]]}
+{"id":918,"text":"3450\tCho đến hết chiều nay tôi phải làm công việc này.","label":[[27,30,"1st"]]}
+{"id":919,"text":"3451\tChiều nay tôi đã đi dạo ở công viên.","label":[[15,18,"1st"]]}
+{"id":920,"text":"3452\tCái siêu thị đằng kia mở cửa cả vào buổi tối.","label":[]}
+{"id":921,"text":"3453\tĐã mười hai giờ đêm rồi nhưng tôi sẽ học bài.","label":[[35,38,"1st"]]}
+{"id":922,"text":"3454\tBố tôi mỗi ngày đều làm việc từ sáng tới tối.","label":[[8,11,"1st"]]}
+{"id":923,"text":"3455\tTối hôm qua tôi đã học bài tới khuya.","label":[[17,20,"1st"]]}
+{"id":924,"text":"3456\tSáng mai tôi sẽ ở trường.","label":[[14,17,"1st"]]}
+{"id":925,"text":"3457\tBây giờ là bảy giờ sáng.","label":[]}
+{"id":926,"text":"3458\tBây giờ là bảy giờ tối.","label":[]}
+{"id":927,"text":"3459\tSáng nay tôi có thời gian nên tôi đọc báo xong sẽ ra khỏi nhà.","label":[[14,17,"1st"],[14,17,"1st"]]}
+{"id":928,"text":"3460\tCông việc thì bận rộn nên tôi không có thời gian chơi.","label":[[31,34,"1st"]]}
+{"id":929,"text":"3462\tTrong giờ học cần chăm chú nghe thầy cô giảng bài.","label":[]}
+{"id":930,"text":"3463\tTừ nhà đến trường đi hết một tiếng đồng hồ bằng tàu điện.","label":[]}
+{"id":931,"text":"3464\tHôm qua tôi ngủ tám tiếng đồng hồ.","label":[[13,16,"1st"]]}
+{"id":932,"text":"3465\tVề đến nhà tôi đi tắm vòi hoa sen trước.","label":[[16,19,"1st"]]}
+{"id":933,"text":"3466\tKhi chuẩn bị lên tàu cần ưu tiên người xuống trước.","label":[]}
+{"id":934,"text":"3467\tSau khi thêm đường, chúng ta sẽ cho một chút xì dầu vào.","label":[[25,33,"1st"]]}
+{"id":935,"text":"3468\tTiếp theo tôi sẽ cho chị Yamada mượn quyển tạp chí này.","label":[[15,18,"1st"]]}
+{"id":936,"text":"3469\tTôi sẽ đi trả sách cho thư viện sau.","label":[[5,8,"1st"]]}
+{"id":937,"text":"3470\tCòn năm phút nữa giờ học sẽ kết thúc.","label":[]}
+{"id":938,"text":"3472\tNhà hàng này vừa to vừa đẹp.","label":[]}
+{"id":939,"text":"3473\tĐộng vật nhỏ thì rất dễ thương.","label":[]}
+{"id":940,"text":"3474\tNhà tôi vừa nhỏ vừa hẹp.","label":[[9,12,"1st"]]}
+{"id":941,"text":"3476\tBuổi tối thì tối nên nguy hiểm.","label":[]}
+{"id":942,"text":"3477\tTôi học ở nơi sáng sủa.","label":[[5,8,"1st"]]}
+{"id":943,"text":"3478\tPhòng học này vừa sáng sủa vừa sạch sẽ.","label":[]}
+{"id":944,"text":"3479\tChè đen này thì nóng.","label":[]}
+{"id":945,"text":"3480\tTôi muốn uống trà nóng.","label":[[5,8,"1st"]]}
+{"id":946,"text":"3481\tMỗi sáng tôi uống một ly sữa lạnh.","label":[[14,17,"1st"]]}
+{"id":947,"text":"3482\tNước trong bể bơi thì lạnh.","label":[]}
+{"id":948,"text":"3483\tỞ công viên có một cây to.","label":[]}
+{"id":949,"text":"3484\tSáng nào tôi cũng chạy bộ nên tôi đã gầy đi một chút.","label":[[14,17,"1st"],[14,17,"1st"]]}
+{"id":950,"text":"3485\tNgười đó chân vừa thon vừa dài.","label":[]}
+{"id":951,"text":"3486\tCuốn tạp chí này vừa dày vừa nặng.","label":[]}
+{"id":952,"text":"3487\tChiếc bút này cho nét đậm.","label":[]}
+{"id":953,"text":"3488\tTôi sẽ ăn miếng thịt dày.","label":[[5,8,"1st"]]}
+{"id":954,"text":"3489\tTôi đã mua một cuối từ điển nhỏ.","label":[[5,8,"1st"]]}
+{"id":955,"text":"3490\tTường của căn phòng này mỏng nên tôi sẽ nói nhỏ.","label":[[38,41,"1st"]]}
+{"id":956,"text":"3491\tChiếc hộp nặng đang được người đàn ông vác.","label":[]}
+{"id":957,"text":"3492\tCái cặp này vừa to vừa nặng.","label":[]}
+{"id":958,"text":"3493\tTôi muốn một đôi giày nhẹ.","label":[[5,8,"1st"]]}
+{"id":959,"text":"3494\tHành lý của chị Kimura vừa nhỏ vừa nhẹ.","label":[]}
+{"id":960,"text":"3495\tAnh Yamada là người cao nhất lớp.","label":[]}
+{"id":961,"text":"3496\tTôi muốn sống ở trên cao.","label":[[5,8,"1st"]]}
+{"id":962,"text":"3497\tTối nay tôi định học một lúc lâu.","label":[[13,16,"1st"]]}
+{"id":963,"text":"3498\tGiờ học hôm qua thì dài.","label":[]}
+{"id":964,"text":"3499\tCái người thấp đó là chị Kimura.","label":[]}
+{"id":965,"text":"3500\tNgọn núi này thì thấp.","label":[]}
+{"id":966,"text":"3501\tTôi phải làm công việc này trong thời gian ngắn.","label":[[5,8,"1st"]]}
+{"id":967,"text":"3502\tMột ngày là vô cùng ngắn ngủi.","label":[]}
+{"id":968,"text":"3503\tPhim này không hay lắm.","label":[]}
+{"id":969,"text":"3504\tTôi biết một cửa hàng tốt.","label":[[5,8,"1st"]]}
+{"id":970,"text":"3505\tChiếc máy tính này thì đắt nhưng rất tốt.","label":[]}
+{"id":971,"text":"3506\tĐây là đồ ăn gây hại cho sức khỏe.","label":[]}
+{"id":972,"text":"3507\tHôm nay thời tiết xấu.","label":[]}
+{"id":973,"text":"3508\tAnh Yamada là một người thú vị.","label":[]}
+{"id":974,"text":"3509\tGiờ học này rất thú vị.","label":[]}
+{"id":975,"text":"3510\tBữa tiệc hôm qua rất vui.","label":[]}
+{"id":976,"text":"3511\tViệc học tiếng Nhật thì vui.","label":[]}
+{"id":977,"text":"3512\tTôi đã nghe bạn kể lại một câu chuyện chán.","label":[[5,8,"1st"]]}
+{"id":978,"text":"3513\tQuyển sách này thì chán.","label":[]}
+{"id":979,"text":"3514\tHôm qua tôi đã nghe được một chuyện rất không hay.","label":[[13,16,"1st"]]}
+{"id":980,"text":"3515\tTôi không thích dọn dẹp và giặt giũ.","label":[[5,8,"1st"]]}
+{"id":981,"text":"3516\tĐây là món khoái khẩu của anh Kobayashi.","label":[]}
+{"id":982,"text":"3517\tTôi rất yêu động vật.","label":[[5,8,"1st"]]}
+{"id":983,"text":"3518\tTôi muốn đi đến một nơi yên tĩnh và trong lành.","label":[[5,8,"1st"]]}
+{"id":984,"text":"3519\tAnh Matsui đang sống ở một thị trấn yên ả.","label":[]}
+{"id":985,"text":"3520\tĐây là một thị trấn lớn và nhộn nhịp.","label":[]}
+{"id":986,"text":"3521\tPhòng học bên cạnh ồn ào.","label":[]}
+{"id":987,"text":"3522\tChó nhà bên làm ồn khiến tôi không học nổi.","label":[[30,33,"1st"]]}
+{"id":988,"text":"3523\tTrong giờ học người đó bao giờ cũng ồn ào.","label":[]}
+{"id":989,"text":"3524\tAnh Hayashi đang sống ở một thị trấn đông người.","label":[]}
+{"id":990,"text":"3525\tNgôi trường này có nhiều du học sinh.","label":[]}
+{"id":991,"text":"3526\tTôi muốn đi đến một nơi có ít người.","label":[[5,8,"1st"]]}
+{"id":992,"text":"3527\tCái siêu thị bên đó có ít cá.","label":[]}
+{"id":993,"text":"3528\tHôm nay tôi sẽ ra khỏi nhà từ sớm.","label":[[13,16,"1st"]]}
+{"id":994,"text":"3529\tNgày mai tôi sẽ dậy sớm.","label":[[14,17,"1st"]]}
+{"id":995,"text":"3530\tHôm qua tôi đã mệt nên sáng nay ngủ dậy muộn.","label":[[13,16,"1st"]]}
+{"id":996,"text":"3531\tĐã muộn rồi nên tôi sẽ về nhà.","label":[[21,24,"1st"]]}
+{"id":997,"text":"3532\tMỗi sáng tôi đều ăn một quả trứng.","label":[[14,17,"1st"]]}
+{"id":998,"text":"3533\tTôi bày hai lọ hoa trên bàn.","label":[[5,8,"1st"]]}
+{"id":999,"text":"3534\tCâu hỏi này có ba đáp án.","label":[]}
+{"id":1000,"text":"3535\tTôi gọi bốn món ở nhà hàng.","label":[[5,8,"1st"]]}
+{"id":1001,"text":"3536\tAnh Tanaka đã mua năm cái bánh kem.","label":[]}
+{"id":1002,"text":"3537\tTrong phòng có sáu cái hộp.","label":[]}
+{"id":1003,"text":"3538\tChị Kimura đã làm bảy cái bánh.","label":[]}
+{"id":1004,"text":"3539\tTôi phải mua chín món quà du lịch.","label":[[5,8,"1st"]]}
+{"id":1005,"text":"3540\tTrong phòng học này có chín cái cặp sách.","label":[]}
+{"id":1006,"text":"3541\tNghỉ hè bắt đầu từ ngày một tháng tám.","label":[]}
+{"id":1007,"text":"3542\tAnh Tanaka sẽ ra nước ngoài vào ngày mùng hai tháng sau.","label":[]}
+{"id":1008,"text":"3543\tTừ ngày ba đến ngày mùng năm tháng năm, các trường học và công ty sẽ nghỉ.","label":[]}
+{"id":1009,"text":"3544\tTôi phải viết bài tập làm văn tiếng Anh trước ngày mùng năm.","label":[[5,8,"1st"]]}
+{"id":1010,"text":"3545\tSinh nhật bố tôi là ngày mùng năm tháng sáu.","label":[[18,21,"1st"]]}
+{"id":1011,"text":"3546\tCửa hàng bách hóa này bán rẻ vào ngày mùng tám hàng tháng.","label":[]}
+{"id":1012,"text":"3547\tTôi đã gửi bưu kiện ở bưu điện vào ngày mùng sáu.","label":[[5,8,"1st"]]}
+{"id":1013,"text":"3548\tTôi sẽ chuyển khoản trước ngày mùng bảy.","label":[[5,8,"1st"]]}
+{"id":1014,"text":"3549\tNgày mùng chín tháng sau bố mẹ sẽ đến nhà tôi chơi.","label":[[47,50,"1st"]]}
+{"id":1015,"text":"3550\tTôi phải làm công việc này trước ngày mùng mười.","label":[[5,8,"1st"]]}
+{"id":1016,"text":"3551\tNgày hai mươi tháng này tôi sẽ có bài kiểm tra tiếng Nhật.","label":[[29,32,"1st"]]}
+{"id":1017,"text":"3552\tAnh Lee đang sống một mình tại Nhật Bản.","label":[]}
+{"id":1018,"text":"3553\tTrong phòng học có một học sinh.","label":[]}
+{"id":1019,"text":"3554\tNgày mai tôi và anh Kimura sẽ đi bể bơi.","label":[[14,17,"1st"]]}
+{"id":1020,"text":"3555\tTrước nhà có hai người lạ.","label":[]}
+{"id":1021,"text":"3556\tỞ Nhật Bản, những người từ hai mươi tuổi trở lên sẽ được phép uống rượu.","label":[]}
+{"id":1022,"text":"3557\tSang năm em trai tôi sẽ lên hai mươi.","label":[[22,25,"1st"]]}
+{"id":1023,"text":"3558\tMỗi ngày tôi ăn ba bữa.","label":[[14,17,"1st"]]}
+{"id":1024,"text":"3559\tMỗi năm tôi đi nước ngoài một lần.","label":[[13,16,"1st"]]}
+{"id":1025,"text":"3560\tMón ăn này cần dùng hai quả trứng.","label":[]}
+{"id":1026,"text":"3561\tTôi đã ăn một cái bánh mà anh Lee cho.","label":[[5,8,"1st"]]}
+{"id":1027,"text":"3562\tỞ Nhật Bản, những người từ mười tám tuổi trở lên sẽ được phép lái xe.","label":[]}
+{"id":1028,"text":"3563\tEm gái tôi bốn tuổi.","label":[[12,15,"1st"]]}
+{"id":1029,"text":"3564\tTrong phòng học này có bảy chiếc máy vi tính.","label":[]}
+{"id":1030,"text":"3565\tTrước cửa hàng có bốn chiếc ô-tô đang đỗ.","label":[]}
+{"id":1031,"text":"3568\tCho ba thìa đường vào.","label":[]}
+{"id":1032,"text":"3569\tHôm qua tôi đã uống hai ly rượu.","label":[[13,16,"1st"]]}
+{"id":1033,"text":"3570\tMỗi sáng tôi đều uống một cốc sữa bò.","label":[[14,17,"1st"]]}
+{"id":1034,"text":"3571\tHôm qua tôi mua ba con cá ở siêu thị.","label":[[13,16,"1st"]]}
+{"id":1035,"text":"3572\tĐằng kia có hai chú chó.","label":[]}
+{"id":1036,"text":"3573\tNhà anh Hayashi có một chú mèo.","label":[]}
+{"id":1037,"text":"3574\tBao giờ tôi cũng mang ba cây bút chì đi học.","label":[[13,16,"1st"]]}
+{"id":1038,"text":"3575\tTrong vườn nhà có hai cái cây.","label":[]}
+{"id":1039,"text":"3576\tTôi ăn cơm rồi hút một điếu thuốc.","label":[[5,8,"1st"]]}
+{"id":1040,"text":"3577\tHiện giờ tôi đang nặng bốn mươi lăm ki-lô-gam.","label":[[14,17,"1st"]]}
+{"id":1041,"text":"3578\tChỗ hành lý này là năm ki-lô-gam nên nặng.","label":[]}
+{"id":1042,"text":"3579\tGa cách thư viện hai ki-lô-mét.","label":[]}
+{"id":1043,"text":"3580\tMỗi sáng tôi chạy bộ ba ki-lô-mét.","label":[[14,17,"1st"]]}
+{"id":1044,"text":"3581\tCho ba mươi gam đường và mười lăm gam muối vào.","label":[]}
+{"id":1045,"text":"3582\tTôi mua hai trăm gam thịt lợn.","label":[[5,8,"1st"]]}
+{"id":1046,"text":"3583\tCái giá sách này dài một mét, rộng một phẩy năm mét.","label":[]}
+{"id":1047,"text":"3584\tAnh Yamada có thể bơi được một trăm mét.","label":[]}
+{"id":1048,"text":"3585\tTôi thích những động vật nhỏ và dễ thương.","label":[[5,8,"1st"]]}
+{"id":1049,"text":"3586\tChị Kimura rất dễ thương.","label":[]}
+{"id":1050,"text":"3587\tCái người trẻ trung đầy sức sống kia là anh Yamada.","label":[]}
+{"id":1051,"text":"3588\tThầy giáo lớp bên cạnh vẫn còn trẻ.","label":[]}
+{"id":1052,"text":"3589\tỞ bên kia có một cái hộp tròn.","label":[]}
+{"id":1053,"text":"3590\tCái bàn này tròn.","label":[]}
+{"id":1054,"text":"3591\tThứ tôi muốn có nhất bây giờ là máy vi tính.","label":[[9,12,"1st"]]}
+{"id":1055,"text":"3592\tTôi muốn có từ điển tiếng Nhật.","label":[[5,8,"1st"]]}
+{"id":1056,"text":"3593\tAnh Lee đang bị cảm nên không khỏe lắm.","label":[]}
+{"id":1057,"text":"3594\tAnh Yamada là một người khỏe mạnh.","label":[]}
+{"id":1058,"text":"3595\tĂn nhiều cơm sẽ khiến cơ thể khỏe mạnh hơn.","label":[]}
+{"id":1059,"text":"3596\tAnh Yamada rất khỏe mạnh ít đau ốm.","label":[]}
+{"id":1060,"text":"3597\tSang tháng chúng tôi sẽ đi chơi với nhau nên tôi sẽ nói cho anh Lee những ngày tôi rảnh.","label":[[16,25,"1st"],[22,25,"1st"],[22,25,"1st"]]}
+{"id":1061,"text":"3598\tHôm nay thì tôi phải học nhưng ngày mai thì không sao.","label":[[17,20,"1st"]]}
+{"id":1062,"text":"3599\tQuyển sách này rất quan trọng nên đừng làm mất.","label":[]}
+{"id":1063,"text":"3600\tĐây là một bức thư quan trọng.","label":[]}
+{"id":1064,"text":"3603\tAnh Tanaka đang làm một công việc vất vả.","label":[]}
+{"id":1065,"text":"3604\tTôi phải nhớ rất nhiều chữ Hán nên vất vả.","label":[[5,8,"1st"]]}
+{"id":1066,"text":"3605\tĐây là một cuốn từ điển rất nhẹ và tiện lợi.","label":[]}
+{"id":1067,"text":"3606\tMáy bay thì nhanh và tiện lợi.","label":[]}
+{"id":1068,"text":"3607\tĐây là một nơi rất nổi tiếng tại Nhật Bản.","label":[]}
+{"id":1069,"text":"3608\tTrường đại học này lâu đời và nổi tiếng.","label":[]}
+{"id":1070,"text":"3609\tTháng này tôi bận nên không có ngày nào rảnh.","label":[[15,18,"1st"]]}
+{"id":1071,"text":"3610\tMai tôi rảnh nên tôi sẽ chơi với bạn bè.","label":[[9,12,"1st"],[9,12,"1st"]]}
+{"id":1072,"text":"3611\tKhông được phép dùng những món đồ ở bên kia.","label":[]}
+{"id":1073,"text":"3612\tChị Kimura rất thích những món đồ đáng yêu.","label":[]}
+{"id":1074,"text":"3613\tTôi muốn sống ở một nơi yên tĩnh và trong lành.","label":[[5,8,"1st"]]}
+{"id":1075,"text":"3614\tĐây là một nơi rất nhộn nhịp.","label":[]}
+{"id":1076,"text":"3615\tHôm qua tôi đã nghe được một tin thú vị từ bạn mình.","label":[[13,16,"1st"]]}
+{"id":1077,"text":"3616\tSáng nay tôi đã xem tin tức trên ti-vi.","label":[[14,17,"1st"]]}
+{"id":1078,"text":"3617\tTôi mua đồ cho bữa tối ở siêu thị.","label":[[5,8,"1st"]]}
+{"id":1079,"text":"3618\tTiệc cưới chị gái tôi diễn ra vào tuần trước.","label":[[23,26,"1st"]]}
+{"id":1080,"text":"3619\tAnh Yamada mua tặng đồng hồ mừng sinh nhật anh Kobayashi.","label":[]}
+{"id":1081,"text":"3620\tSinh nhật tôi là ngày hai mười sáu tháng tám.","label":[[15,18,"1st"]]}
+{"id":1082,"text":"3621\tQuyển vở này chiều rộng dài hơn chiều dài.","label":[]}
+{"id":1083,"text":"3622\tTôi sẽ cắt tờ giấy này theo chiều dọc.","label":[[5,8,"1st"]]}
+{"id":1084,"text":"3623\tTôi nêm trứng với muối rồi ăn.","label":[[5,8,"1st"]]}
+{"id":1085,"text":"3624\tMỗi sáng tôi đều ăn bánh mì và trứng.","label":[[14,17,"1st"]]}
+{"id":1086,"text":"3625\tKhông được mở cái cổng đằng kia.","label":[]}
+{"id":1087,"text":"3626\tCửa phòng tôi không đóng.","label":[[15,18,"1st"]]}
+{"id":1088,"text":"3627\tCuốn sách này có một trăm hai mươi trang.","label":[]}
+{"id":1089,"text":"3628\tTôi đã mượn điện thoại của chị Kimura.","label":[[5,8,"1st"]]}
+{"id":1090,"text":"3629\tMai tôi sẽ gọi điện cho anh Lee.","label":[[9,12,"1st"]]}
+{"id":1091,"text":"3630\tTôi đã chụp rất nhiều ảnh nên phim hết mất rồi.","label":[[5,8,"1st"]]}
+{"id":1092,"text":"3631\tTôi bỏ cuộn phim vào máy ảnh.","label":[[5,8,"1st"]]}
+{"id":1093,"text":"3632\tĐã mười hai giờ đêm rồi nên tôi sẽ nói nhỏ.","label":[[33,36,"1st"]]}
+{"id":1094,"text":"3633\tAnh Matsui nói thì to.","label":[]}
+{"id":1095,"text":"3634\tXếp hàng từ người thấp đến người cao.","label":[]}
+{"id":1096,"text":"3635\tChiếc áo khoác này có nhiều túi nên tiện lợi.","label":[]}
+{"id":1097,"text":"3636\tTôi bỏ tiền vào túi quần.","label":[[5,8,"1st"]]}
+{"id":1098,"text":"3637\tTôi mang theo khăn tay khi đi ra ngoài.","label":[[5,8,"1st"]]}
+{"id":1099,"text":"3638\tHôm qua tôi đã quên khăn tay trong lớp học.","label":[[13,16,"1st"]]}
+{"id":1100,"text":"3639\tỞ chỗ bồn tắm không có dầu gội đầu.","label":[]}
+{"id":1101,"text":"3640\tTôi rửa tay bằng xà phòng.","label":[[5,8,"1st"]]}
+{"id":1102,"text":"3641\tỞ chỗ bồn tắm không có xà phòng.","label":[]}
+{"id":1103,"text":"3642\tTôi dùng diêm thắp điếu thuốc.","label":[[5,8,"1st"]]}
+{"id":1104,"text":"3643\tTrên bàn có diêm.","label":[]}
+{"id":1105,"text":"3644\tTuần trước tôi cùng anh Lee đã tới rạp xem phim.","label":[[16,19,"1st"]]}
+{"id":1106,"text":"3645\tRạp chiếu phim đó vừa mới lại sạch sẽ.","label":[]}
+{"id":1107,"text":"3646\tTôi cho vở và bút bi vào chiếc hộp.","label":[[5,8,"1st"]]}
+{"id":1108,"text":"3647\tChiếc hộp này rất nặng.","label":[]}
+{"id":1109,"text":"3648\tTôi viết câu trả lời cho đề bài vào tờ giấy này.","label":[[5,8,"1st"]]}
+{"id":1110,"text":"3649\tTrên bàn có giấy và bút chì.","label":[]}
+{"id":1111,"text":"3650\tMột con đường vừa được hoàn thành nên việc đi lại trong ngoài làng cũng thuận tiện hơn.","label":[]}
+{"id":1112,"text":"3651\tNgôi làng này yên tĩnh và xinh đẹp.","label":[]}
+{"id":1113,"text":"3652\tTháng trước có một trung tâm thương mại lớn đã mở cửa ở thị trấn kế bên.","label":[]}
+{"id":1114,"text":"3653\tSang năm tôi sẽ bắt đầu sống ở thị trấn này.","label":[[14,17,"1st"]]}
+{"id":1115,"text":"3654\tTôi nhận được thư từ mẹ tôi ở trong nước.","label":[[5,8,"1st"],[29,32,"1st"]]}
+{"id":1116,"text":"3655\tTôi sẽ về nước vào kỳ nghỉ hè.","label":[[5,8,"1st"]]}
+{"id":1117,"text":"3656\tChú chim đang uống nước.","label":[]}
+{"id":1118,"text":"3657\tTrên cái cây đằng kia có một chú chim.","label":[]}
+{"id":1119,"text":"3658\tNhà anh Hayashi có một chú chó và một chú mèo.","label":[]}
+{"id":1120,"text":"3659\tĐằng kia có một chú mèo đang ngủ.","label":[]}
+{"id":1121,"text":"3660\tTôi đã dẫn chó đi dạo ở công viên hồi chiều.","label":[[5,8,"1st"]]}
+{"id":1122,"text":"3661\tChú chó nhà tôi rất to.","label":[]}
+{"id":1123,"text":"3662\tHôm qua tôi đã chơi đùa với vật nuôi của mình.","label":[[13,16,"1st"]]}
+{"id":1124,"text":"3663\tAnh Kobayashi có nuôi thú cảnh ở nhà.","label":[]}
+{"id":1125,"text":"3664\tNhững động vật nhỏ rất đáng yêu.","label":[]}
+{"id":1126,"text":"3666\tVùng biển đó rất đẹp.","label":[]}
+{"id":1127,"text":"3667\tCha mẹ tôi sống ven biển.","label":[[12,15,"1st"]]}
+{"id":1128,"text":"3668\tTrên ngọn núi đó có nhiều loài động vật.","label":[]}
+{"id":1129,"text":"3669\tTrường học ở gần ngọn núi đó.","label":[]}
+{"id":1130,"text":"3670\tTrong ao có cá.","label":[]}
+{"id":1131,"text":"3671\tTrong công viên có một ao nước lớn.","label":[]}
+{"id":1132,"text":"3672\tBông hoa này đỏ và đẹp.","label":[]}
+{"id":1133,"text":"3673\tChị Kimura thích hoa.","label":[]}
+{"id":1134,"text":"3674\tHôm qua tôi đã chặt cây.","label":[[13,16,"1st"]]}
+{"id":1135,"text":"3675\tVườn nhà anh Tanaka có cây và hoa.","label":[]}
+{"id":1136,"text":"3676\tVùng trời phía đông có nhiều mây.","label":[]}
+{"id":1137,"text":"3677\tBầu trời thì rộng.","label":[]}
+{"id":1138,"text":"3678\tỞ Nhật Bản có tuyết rơi vào mùa đông.","label":[]}
+{"id":1139,"text":"3679\tMùa đông trời lạnh nên tôi bật lò sưởi lên.","label":[[28,31,"1st"]]}
+{"id":1140,"text":"3680\tHè qua thu lại.","label":[]}
+{"id":1141,"text":"3681\tTôi thích mùa thu hơn mùa xuân.","label":[[5,8,"1st"]]}
+{"id":1142,"text":"3682\tVào mùa hè, hàng ngày tôi đều đội mũ khi ra ngoài.","label":[[27,30,"1st"]]}
+{"id":1143,"text":"3683\tMùa hè ở Nhật Bản rất nóng.","label":[]}
+{"id":1144,"text":"3684\tMùa xuân hoa nở rất nhiều.","label":[]}
+{"id":1145,"text":"3685\tỞ Nhật Bản thường có gió lớn vào mùa xuân.","label":[]}
+{"id":1146,"text":"3686\tTuần này tôi có đến bốn bài kiểm tra.","label":[[14,17,"1st"]]}
+{"id":1147,"text":"3687\tSang năm em gái tôi sẽ vào đại học.","label":[[21,24,"1st"]]}
+{"id":1148,"text":"3688\tTôi đi mua sắm cùng bạn rồi vào quán cà phê.","label":[[5,8,"1st"]]}
+{"id":1149,"text":"3689\tTrước khi đi ngủ bao giờ tôi cũng ngâm bồn tắm.","label":[[30,33,"1st"]]}
+{"id":1150,"text":"3690\tTôi đã khóc khi xem phim.","label":[[5,8,"1st"]]}
+{"id":1151,"text":"3691\tEm gái tôi đang khóc trong phòng.","label":[[12,15,"1st"]]}
+{"id":1152,"text":"3692\tNgày mai tôi muốn nghỉ cả ngày nhưng lại phải đi học.","label":[[14,17,"1st"]]}
+{"id":1153,"text":"3693\tNgày nào cũng bận rộn nhưng rất vui.","label":[]}
+{"id":1154,"text":"3694\tNhà hàng đó đồ ăn rẻ nhưng không ngon lắm.","label":[]}
+{"id":1155,"text":"3695\tBữa tiệc hôm qua thì vui. Nhưng tôi hơi mệt.","label":[[37,40,"1st"]]}
+{"id":1156,"text":"3696\tCơm ở nhà ăn rẻ và ngon.","label":[]}
+{"id":1157,"text":"3697\tTám giờ tôi sẽ ra khỏi nhà. Sau đó tôi sẽ đến trường bằng xe buýt.","label":[[13,16,"1st"],[13,16,"1st"]]}
+{"id":1158,"text":"3698\tTôi sẽ mua cái cốc này. Sau đó tôi sẽ mua cái đĩa này nữa.","label":[[5,8,"1st"],[36,39,"1st"]]}
+{"id":1159,"text":"3699\tHôm qua tôi đã xem ti-vi. Sau đó tôi đã học tiếng Nhật.","label":[[13,16,"1st"],[13,16,"1st"]]}
+{"id":1160,"text":"3700\tQuyển từ điển này không tốt lắm.","label":[]}
+{"id":1161,"text":"3701\tChút nữa mình cùng ăn trưa đi.","label":[]}
+{"id":1162,"text":"3702\tAnh Tanaka lúc nào trông cũng bận rộn.","label":[]}
+{"id":1163,"text":"3703\tMọi khi tôi đều mua sắm ở siêu thị này.","label":[[13,16,"1st"]]}
+{"id":1164,"text":"3704\tCảm ơn bạn về mọi thứ.","label":[[12,15,"2nd"]]}
+{"id":1165,"text":"3705\tTrên bàn bày nhiều món ăn.","label":[]}
+{"id":1166,"text":"3706\tCảm ơn, từng này là đủ rồi.","label":[]}
+{"id":1167,"text":"3707\tAnh Kobayashi rất thông minh.","label":[]}
+{"id":1168,"text":"3708\tTôi đọc sách một chút rồi sẽ đi ngủ.","label":[[5,8,"1st"]]}
+{"id":1169,"text":"3709\tHôm qua tôi uống một ít rượu.","label":[[13,16,"1st"]]}
+{"id":1170,"text":"3710\tBây giờ đúng lúc chúng tôi đang ăn cơm tối.","label":[[22,31,"1st"]]}
+{"id":1171,"text":"3711\tBây giờ đúng lúc trận đấu bắt đầu đây.","label":[]}
+{"id":1172,"text":"3712\tTôi sẽ đi làm ngay sau khi tốt nghiệp đại học.","label":[[5,8,"1st"]]}
+{"id":1173,"text":"3713\tVợ tôi sẽ về ngay thôi.","label":[[8,11,"1st"]]}
+{"id":1174,"text":"3714\tHôm nay tôi đã rất vui.","label":[[13,16,"1st"]]}
+{"id":1175,"text":"3715\tPhim điện ảnh này rất thú vị.","label":[]}
+{"id":1176,"text":"3716\tTiếng Nhật của anh Lee đang tiến bộ dần lên.","label":[]}
+{"id":1177,"text":"3717\tTrời bắt đầu nóng dần lên từ tháng bảy.","label":[]}
+{"id":1178,"text":"3718\tB: Xin lỗi. Ngày mai tôi bận chút việc.","label":[[26,29,"1st"]]}
+{"id":1179,"text":"3719\tA: Ngày mai anh cùng đi mua sắm không?","label":[[17,20,"2nd"]]}
+{"id":1180,"text":"3720\tThỉnh thoảng tôi sẽ đi mua sắm ở cửa hàng bách hóa này.","label":[[18,21,"1st"]]}
+{"id":1181,"text":"3721\tThỉnh thoảng chị Kimura sẽ nấu cơm tối.","label":[]}
+{"id":1182,"text":"3722\tNgười bên kia có lẽ là anh Yamada.","label":[]}
+{"id":1183,"text":"3723\tCó lẽ anh Hayashi đã biết tin đó rồi.","label":[]}
+{"id":1184,"text":"3724\tCác bạn học sinh xếp hàng ngay ngắn trên hành lang.","label":[]}
+{"id":1185,"text":"3725\tBạn ra khỏi ga rồi đi thẳng đường đó.","label":[[5,8,"2nd"]]}
+{"id":1186,"text":"3726\tHôm qua là lần đầu tôi học đàn dương cầm.","label":[[24,27,"1st"]]}
+{"id":1187,"text":"3727\tTôi đã gặp anh Hayashi lần đầu tiên.","label":[[5,8,"1st"]]}
+{"id":1188,"text":"3728\tTôi sẽ quay lại sau.","label":[[5,8,"1st"]]}
+{"id":1189,"text":"3729\tTuần sau tôi lại đi chơi với anh Kobayashi.","label":[[14,17,"1st"]]}
+{"id":1190,"text":"3730\tAnh Matsui vẫn chưa làm bài tập về nhà.","label":[]}
+{"id":1191,"text":"3731\tBây giờ mới mười giờ.","label":[]}
+{"id":1192,"text":"3732\tTôi đã ăn bữa trưa ở nhà ăn rồi.","label":[[5,8,"1st"]]}
+{"id":1193,"text":"3733\tEm gái tôi đã đi ngủ rồi.","label":[[12,15,"1st"]]}
+{"id":1194,"text":"3734\tTôi làm thêm một chút rồi sẽ về.","label":[[5,8,"1st"]]}
+{"id":1195,"text":"3735\tTôi sẽ uống thêm một ly nước.","label":[[5,8,"1st"]]}
+{"id":1196,"text":"3736\tBạn nói chậm lại một chút.","label":[[5,8,"2nd"]]}
+{"id":1197,"text":"3737\tVì bị đau chân nên tôi đi chậm rãi.","label":[[24,27,"1st"]]}
+{"id":1198,"text":"3738\tTôi muốn giỏi tiếng Anh hơn nữa.","label":[[5,8,"1st"]]}
+{"id":1199,"text":"3739\tTôi sẽ mua loại quần áo rẻ hơn.","label":[[5,8,"1st"]]}
+{"id":1200,"text":"3740\tBài tập làm văn này được viết tốt.","label":[]}
+{"id":1201,"text":"3741\tBài kiểm tra hôm qua tôi đã làm tốt.","label":[[26,29,"1st"]]}
+{"id":1202,"text":"3742\tHôm nay tôi hay bắt gặp anh Kobayashi.","label":[[13,16,"1st"]]}
+{"id":1203,"text":"3743\tTôi hay đi ra quán cà phê đó với anh Kimura.","label":[[5,8,"1st"]]}
+{"id":1204,"text":"3744\tVề đến nhà tôi bắt tay vào làm bài tập ngay.","label":[[16,19,"1st"]]}
+{"id":1205,"text":"3745\tĐầu tháng sau tôi sẽ về nước.","label":[[19,22,"1st"]]}
+{"id":1206,"text":"3746\tBạn sẽ gặp ai ngày mai?","label":[[5,8,"2nd"]]}
+{"id":1207,"text":"3747\tCó ai đã ở trong phòng bên cạnh à?","label":[]}
+{"id":1208,"text":"3748\tCó ai đang cầm bút bi của tôi không?","label":[[31,34,"1st"]]}
+{"id":1209,"text":"3749\tMọi khi bạn ăn cơm trưa ở đâu?","label":[[13,16,"2nd"]]}
+{"id":1210,"text":"3750\tVì sao bạn học tiếng Nhật?","label":[[12,15,"2nd"]]}
+{"id":1211,"text":"3751\tBạn đến công ty bằng gì?","label":[[5,8,"2nd"]]}
+{"id":1212,"text":"3752\tĐâu là món ngon nhất?","label":[]}
+{"id":1213,"text":"3753\tChị Hayashi đã mua món nào?","label":[]}
+{"id":1214,"text":"3754\tĐó là món ăn như thế nào?","label":[]}
+{"id":1215,"text":"3755\tBạn muốn kết hôn với người như thế nào?","label":[[5,8,"2nd"]]}
+{"id":1216,"text":"3756\tAnh Lee thích loại đồ uống nào?","label":[[5,12,"2nd"]]}
+{"id":1217,"text":"3757\tChị Kimura thích cái nào?","label":[[5,15,"2nd"]]}
+{"id":1218,"text":"3758\tAnh dùng cà phê nhé?","label":[[5,8,"2nd"]]}
+{"id":1219,"text":"3759\tMời anh ăn miếng bánh.","label":[[9,12,"2nd"]]}
+{"id":1220,"text":"3760\tGiờ học của thầy nào là thú vị nhất?","label":[]}
+{"id":1221,"text":"3761\tNgười nào là anh Hayashi?","label":[]}
+{"id":1222,"text":"3762\tAnh Kobayashi là người nào?","label":[]}
+{"id":1223,"text":"3763\tThầy giáo mới là người nào?","label":[]}
+{"id":1224,"text":"3764\tAnh Yamada muốn ăn cái nào?","label":[[5,15,"2nd"]]}
+{"id":1225,"text":"3765\tBạn là người nước nào?","label":[[5,8,"2nd"]]}
+{"id":1226,"text":"3766\tÀ, chào anh Tanaka.","label":[[13,23,"2nd"]]}
+{"id":1227,"text":"3767\tÀ, tốt lắm.","label":[]}
+{"id":1228,"text":"3768\tTôi đã chụp tấm ảnh đó vào tháng trước.","label":[[5,8,"1st"]]}
+{"id":1229,"text":"3769\tNgười đó là anh Kobayashi.","label":[]}
+{"id":1230,"text":"3770\tChẳng biết, tôi cũng không rõ.","label":[[17,20,"1st"]]}
+{"id":1231,"text":"3771\tVào giờ học nào.","label":[]}
+{"id":1232,"text":"3772\tAlô, tôi là Kimura đây.","label":[[10,13,"1st"]]}
+{"id":1233,"text":"3773\tVâng, alô, tôi là Matsui đây.","label":[[16,19,"1st"]]}
+{"id":1234,"text":"3774\tTôi xin lỗi.","label":[[5,8,"1st"]]}
+{"id":1235,"text":"3775\tXin chân thành cảm ơn bạn.","label":[[27,30,"2nd"]]}
+{"id":1236,"text":"3776\tCảm ơn.","label":[]}
+{"id":1237,"text":"3777\tVâng, đúng thế.","label":[]}
+{"id":1238,"text":"3778\tVâng, có việc gì ạ?","label":[]}
+{"id":1239,"text":"3779\tVậy nhờ bạn giúp đỡ.","label":[[13,16,"2nd"]]}
+{"id":1240,"text":"3780\tSau đây giờ học sẽ bắt đầu.","label":[]}
+{"id":1241,"text":"3781\tVậy thì tôi sẽ đi bắt xe buýt tới bệnh viện.","label":[[13,16,"1st"]]}
+{"id":1242,"text":"3782\tĐúng rồi.","label":[]}
+{"id":1243,"text":"3784\tKhông phải.","label":[]}
+{"id":1244,"text":"3785\tĐồ uống tôi yêu thích nhất là trà đen.","label":[[13,16,"1st"]]}
+{"id":1245,"text":"3786\tThịt này là rẻ nhất.","label":[]}
+{"id":1246,"text":"3787\tTôi sẽ gọi món này.","label":[[5,8,"1st"]]}
+{"id":1247,"text":"3788\tTòa nhà này vừa cổ vừa nổi tiếng.","label":[]}
+{"id":1248,"text":"3789\tKhông được phép đi vào căn phòng kia.","label":[]}
+{"id":1249,"text":"3790\tTôi đang tìm một cái ví màu đen như thế này.","label":[[5,8,"1st"]]}
+{"id":1250,"text":"3791\tTôi muốn một cái mũ như thế này.","label":[[5,8,"1st"]]}
+{"id":1251,"text":"3792\tMong được bạn giúp đỡ.","label":[[15,18,"2nd"]]}
+{"id":1252,"text":"3795\tTất cả chúng tôi đã về nhà cùng nhau.","label":[[12,21,"1st"]]}
+{"id":1253,"text":"3796\tTôi cùng học bài với anh Yamada trong thư viện.","label":[[5,8,"1st"]]}
+{"id":1254,"text":"3797\tBạn có muốn cùng đi du lịch với tôi không?","label":[[37,40,"1st"],[5,8,"2nd"]]}
+{"id":1255,"text":"3798\tTúi xách cỡ lớn thì tiện lợi.","label":[]}
+{"id":1256,"text":"3799\tAnh Tanaka đang sống trong một căn nhà lớn.","label":[]}
+{"id":1257,"text":"3800\tTrong phòng tôi có một cái ghế con.","label":[[17,20,"1st"]]}
+{"id":1258,"text":"3801\tTôi sinh ra tại một thị trấn nhỏ.","label":[[5,8,"1st"]]}
+{"id":1259,"text":"3802\tTôi đã cắt hoa quả làm đôi.","label":[[5,8,"1st"]]}
+{"id":1260,"text":"3803\tTôi đã ăn hết một nửa cái bánh mì.","label":[[5,8,"1st"]]}
+{"id":1261,"text":"3804\tMở giúp tôi cái cửa sổ bên kia ra.","label":[[13,16,"1st"]]}
+{"id":1262,"text":"3805\tBệnh viện ở đối diện với ga.","label":[]}
+{"id":1263,"text":"3806\tTất cả hết một nghìn sáu trăm yên.","label":[]}
+{"id":1264,"text":"3807\tTôi đã làm xong tất cả bài tập về nhà.","label":[[5,8,"1st"]]}
+{"id":1265,"text":"3808\tCó rất nhiều người đang bơi ở biển.","label":[]}
+{"id":1266,"text":"3809\tCó rất nhiều người đã tới dự tiệc.","label":[]}
+{"id":1267,"text":"3810\tGiày của tôi và giày của chị Kobayashi giống nhau.","label":[[14,17,"1st"]]}
+{"id":1268,"text":"3811\tAnh Matsui và anh Lee học cùng một lớp.","label":[]}
+{"id":1269,"text":"3812\tTôi cho rất nhiều sữa vào cà phê.","label":[[5,8,"1st"]]}
+{"id":1270,"text":"3813\tHôm nay tôi đã đi bộ rất nhiều.","label":[[13,16,"1st"]]}
+{"id":1271,"text":"3814\tAnh Tanaka có thể vừa đánh đàn ghi-ta vừa hát.","label":[]}
+{"id":1272,"text":"3815\tTôi vừa ăn cơm vừa xem ti-vi.","label":[[5,8,"1st"]]}
+{"id":1273,"text":"3816\tHôm qua tôi mua áo len và chân váy ở trung tâm thương mại.","label":[[13,16,"1st"]]}
+{"id":1274,"text":"3817\tTrong tủ lạnh có trứng, rau, hoa quả....","label":[]}
+{"id":1275,"text":"3818\tNếu học thì tiếng Nhật sẽ dần dần tiến bộ.","label":[]}
+{"id":1276,"text":"3819\tHãy lấy từng tờ giấy một.","label":[]}
+{"id":1277,"text":"3820\tBọn trẻ con đang chơi ở công viên.","label":[]}
+{"id":1278,"text":"3821\tMấy người đó là bạn của nhau.","label":[]}
+{"id":1279,"text":"3822\tTôi tắm vòi hoa sen trước khi ngủ.","label":[[5,8,"1st"]]}
+{"id":1280,"text":"3823\tPhòng học của mọi người ở trên tầng ba.","label":[]}
+{"id":1281,"text":"3824\tNếu mọi người đi thì tôi cũng đi.","label":[[26,29,"1st"]]}
+{"id":1282,"text":"3825\tCả lớp, tuần sau chúng ta sẽ làm có bài kiểm tra chữ Hán.","label":[[22,30,"1st"]]}
+{"id":1283,"text":"3826\tMọi người cùng hát bài hát.","label":[]}
+{"id":1284,"text":"3827\tMọi người đang đợi thầy giáo trong lớp học.","label":[]}
+{"id":1285,"text":"3828\tMọi người ở đây là sinh viên của trường đại học này.","label":[]}
+{"id":1286,"text":"3829\tAnh Hayashi đã từng làm việc một năm rưỡi tại nước ngoài.","label":[]}
+{"id":1287,"text":"3830\tBảy giờ rưỡi rồi, tôi phải ra khỏi nhà thôi.","label":[[23,26,"1st"]]}
+{"id":1288,"text":"3831\tAnh Lee muốn chơi ten-nít.","label":[]}
+{"id":1289,"text":"3832\tCon tôi đòi ăn bánh kẹo.","label":[[9,12,"1st"]]}
+{"id":1290,"text":"3833\tBài tập về nhà tôi đã làm được chừng một nửa.","label":[[20,23,"1st"]]}
+{"id":1291,"text":"3834\tMỗi quả trứng nặng chừng năm mươi gam.","label":[]}
+{"id":1292,"text":"3835\tAnh Tanaka đến ga vào khoảng mười giờ.","label":[]}
+{"id":1293,"text":"3836\tNgày còn bé tôi hay chơi ở công viên đó.","label":[[17,20,"1st"]]}
+{"id":1294,"text":"3837\tGiờ học luôn bắt đầu sau chín giờ.","label":[]}
+{"id":1295,"text":"3838\tĐã quá mười hai giờ rồi.","label":[]}
+{"id":1296,"text":"3839\tChúng ta tạm nghỉ ở đây nhé.","label":[[5,13,"1st"]]}
+{"id":1297,"text":"3840\tỞ khu đó có nhà anh Hayashi.","label":[]}
+{"id":1298,"text":"3841\tPhòng em trai tôi nhỏ hơn phòng tôi.","label":[[19,22,"1st"],[19,22,"1st"]]}
+{"id":1299,"text":"3842\tTôi thích bóng chày hơn bóng đá.","label":[[5,8,"1st"]]}
+{"id":1300,"text":"3843\tTôi đã cắt tóc từ ba hôm trước.","label":[[5,8,"1st"]]}
+{"id":1301,"text":"3844\tThỉnh thoảng tôi có tạt vào hiệu sách đó.","label":[[18,21,"1st"]]}
+{"id":1302,"text":"3845\tCô tôi làm việc ở cửa hàng hoa.","label":[[8,11,"1st"]]}
+{"id":1303,"text":"3846\tChú chó nhà tôi thực sự đáng yêu.","label":[[17,20,"1st"]]}
+{"id":1304,"text":"3847\tChuyện này là sự thật.","label":[]}
+{"id":1305,"text":"3848\tKhông được phép nói chuyện với người khác.","label":[]}
+{"id":1306,"text":"3849\tBạn còn muốn gì nữa không?","label":[[5,8,"2nd"]]}
+{"id":1307,"text":"3850\tTôi muốn đi du lịch vòng quanh Nhật Bản.","label":[[5,8,"1st"]]}
+{"id":1308,"text":"3851\tTôi đã vắng nhà cả ngày hôm qua.","label":[[5,8,"1st"]]}
+{"id":1309,"text":"3852\tTôi đã mượn sách của thư viện về đọc.","label":[[5,8,"1st"]]}
+{"id":1310,"text":"3853\tCó một nhà hàng mới mở gần ga.","label":[]}
+{"id":1311,"text":"3854\tTường của phòng học này thì dày.","label":[]}
+{"id":1312,"text":"3855\tMẹ tôi rất thích bánh ga-tô.","label":[[8,11,"1st"]]}
+{"id":1313,"text":"3856\tTôi ăn bánh ga-tô vào dịp sinh nhật hàng năm.","label":[[5,8,"1st"]]}
+{"id":1314,"text":"3857\tTôi đi nghe hòa nhạc với bạn hôm qua.","label":[[5,8,"1st"]]}
+{"id":1315,"text":"3858\tĐừng lo, tôi không bị ốm.","label":[[14,17,"1st"]]}
+{"id":1316,"text":"3859\tEm gái tôi vẫn chưa về nên mẹ đang lo lắng.","label":[[12,15,"1st"]]}
+{"id":1317,"text":"3860\tTôi dùng máy vi tính trong công việc.","label":[[5,8,"1st"]]}
+{"id":1318,"text":"3861\tTôi sẽ bật ti-vi lên.","label":[[5,8,"1st"]]}
+{"id":1319,"text":"3862\tHôm qua tôi đã đi karaoke nhưng không hát được nhiều.","label":[[13,16,"1st"]]}
+{"id":1320,"text":"3863\tTôi đi karaoke mỗi tuần một lần.","label":[[5,8,"1st"]]}
+{"id":1321,"text":"3864\tTôi cho bạn tôi số điện thoại di động của mình.","label":[[5,8,"1st"],[17,20,"1st"]]}
+{"id":1322,"text":"3865\tĐiện thoại di động nhỏ gọn và rất tiện lợi.","label":[]}
+{"id":1323,"text":"3866\tKhông nên đọc sách ở nơi thiếu ánh sáng.","label":[]}
+{"id":1324,"text":"3867\tTôi đã thôi việc ở công ty tháng trước.","label":[[5,8,"1st"]]}
+{"id":1325,"text":"3868\tTôi đã ăn bánh kẹo anh Tanaka cho.","label":[[5,8,"1st"]]}
+{"id":1326,"text":"3869\tHôm qua tôi nhận được quà đi chơi về của anh Yamada.","label":[[13,16,"1st"]]}
+{"id":1327,"text":"3870\tAnh Kobayashi đã chia cho chị Kimura nửa miếng bánh mì.","label":[]}
+{"id":1328,"text":"3871\tAnh Matsui đã tặng anh Tanaka một chiếc cà vạt hôm sinh nhật.","label":[]}
+{"id":1329,"text":"3872\tGiờ học hôm nay đến đây là kết thúc. Hẹn gặp lại các bạn vào tuần tới.","label":[[54,61,"2nd"]]}
+{"id":1330,"text":"3873\tCác bạn đã làm xong bài kiểm tra chưa? Bây giờ xin hãy nộp bài.","label":[[5,12,"2nd"]]}
+{"id":1331,"text":"3874\tCho hỏi thư viện ở đâu?","label":[]}
+{"id":1332,"text":"3875\tThầy giáo đó là một người rất tuyệt vời.","label":[]}
+{"id":1333,"text":"3876\tTôi muốn trở thành một người lớn đàng hoàng.","label":[[5,8,"1st"]]}
+{"id":1334,"text":"3877\tTổng cộng có mười cái.","label":[]}
+{"id":1335,"text":"3878\tKhông được phép đội mũ trong giờ học.","label":[]}
+{"id":1336,"text":"3879\tTôi sẽ đi du lịch nước ngoài hai tuần bắt đầu từ tuần sau.","label":[[5,8,"1st"]]}
+{"id":1337,"text":"3880\tTôi cho chị Kimura xem ảnh chụp khi đi du lịch.","label":[[5,8,"1st"]]}
+{"id":1338,"text":"3881\tTrong các màu tôi thích màu trắng nhất.","label":[[19,22,"1st"]]}
+{"id":1339,"text":"3882\tỞ đây đang là không độ nên rất lạnh.","label":[]}
+{"id":1340,"text":"3883\tDê-rô là bằng "không".","label":[]}
+{"id":1341,"text":"3884\tTôi sẽ mua một tấm bưu thiếp ở bưu điện.","label":[[5,8,"1st"]]}
+{"id":1342,"text":"3885\tNhà anh Tanaka có hai cái ô-tô.","label":[]}
+{"id":1343,"text":"3886\tNhà tôi có ba cái ti-vi.","label":[[9,12,"1st"]]}
+{"id":1344,"text":"3887\tSố "4" đọc là "bốn".","label":[]}
+{"id":1345,"text":"3888\tNhà tôi có năm người.","label":[[9,12,"1st"]]}
+{"id":1346,"text":"3889\tTôi bày sáu cái đĩa trên bàn.","label":[[5,8,"1st"]]}
+{"id":1347,"text":"3890\tBước vào tháng bảy, thời tiết dần nóng lên.","label":[]}
+{"id":1348,"text":"3891\tỞ đây có tám con tem.","label":[]}
+{"id":1349,"text":"3892\tEm trai tôi chín tuổi.","label":[[13,16,"1st"]]}
+{"id":1350,"text":"3893\tNgày mùng mười tháng mười là sinh nhật anh trai tôi.","label":[[53,56,"1st"]]}
+{"id":1351,"text":"3894\tPhòng học bên cạnh có thể chứa được một trăm người.","label":[]}
+{"id":1352,"text":"3895\tHôm qua tôi mượn của anh Yamada một nghìn yên.","label":[[13,16,"1st"]]}
+{"id":1353,"text":"3896\tCái áo khoác này giá mười nghìn yên.","label":[]}
+{"id":1354,"text":"3898\tBố chị Kimura năm mươi hai tuổi.","label":[]}
+{"id":1355,"text":"3899\tHôm nay em gái tôi vẫn lên cơn sốt liên tục làm tôi lo lắng.","label":[[20,23,"1st"],[20,23,"1st"]]}
+{"id":1356,"text":"3900\tTuần trước, mưa đã kéo dài suốt nhiều ngày.","label":[]}
+{"id":1357,"text":"3901\tTôi kiểm tra lại hành lý trước khi ra khỏi nhà.","label":[[5,8,"1st"]]}
+{"id":1358,"text":"3902\tTôi sẽ kiểm tra lại đáp án bài làm.","label":[[5,8,"1st"]]}
+{"id":1359,"text":"3903\tHôm nay là sinh nhật vợ tôi nên tôi định về nhà sớm.","label":[[29,32,"1st"],[29,32,"1st"]]}
+{"id":1360,"text":"3904\tTôi thấy cuốn sách này rất thú vị.","label":[[5,8,"1st"]]}
+{"id":1361,"text":"3905\tXe buýt đi sân bay sẽ đến ở làn đối diện.","label":[]}
+{"id":1362,"text":"3906\tNgược với "nặng" là "nhẹ".","label":[]}
+{"id":1363,"text":"3907\tKhông được phép vào căn phòng này.","label":[]}
+{"id":1364,"text":"3908\tChỉ cần ấn vào đây sẽ có âm thanh lớn phát ra.","label":[]}
+{"id":1365,"text":"3909\tTôi cùng đội với anh Lee.","label":[[5,8,"1st"]]}
+{"id":1366,"text":"3911\tTrước khi đi ngủ bao giờ tôi cũng đọc sách khoảng ba mươi phút.","label":[[30,33,"1st"]]}
+{"id":1367,"text":"3912\tTôi chỉ ăn mỗi một cái bánh.","label":[[5,8,"1st"]]}
+{"id":1368,"text":"3913\tB: Một, hai, ba, bốn....","label":[]}
+{"id":1369,"text":"3914\tA: Có bao nhiêu?","label":[]}
+{"id":1370,"text":"3915\tTrong tủ lạnh có bảy quả trứng.","label":[]}
+{"id":1371,"text":"3916\tMỗi sáng tôi đến công ty lúc chín giờ.","label":[[14,17,"1st"]]}
