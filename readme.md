@@ -32,15 +32,6 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 
 -----------------------------------
 
-- `data_myn.txt`	Burmese (raw sentences)
-- `data_myn-sound.txt`	Burmese (links to sound files)
-- `data_myn-token.txt`	Burmese (tokenized sentences)
-- `data_myn-ps.txt`	Burmese (POS-tagged sentences)
-- `data_myn-prosub.jsonl`	Burmese (pronoun substitute annotation)
-- `data_myn-prosub.txt`	Burmese (pronoun substitute annotation)
-
------------------------------------
-
 - `data_zsm.txt`	Malay (raw sentences)
 - `data_zsm-sound.txt`	Malay (links to sound files)
 - `data_zsm-token.txt`	Malay (tokenized sentences)
@@ -69,6 +60,12 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 
 -----------------------------------
 
+- `data_jav.txt`	Javanese (raw sentences)
+- `data_jav-prosub.jsonl`	Javanese (pronoun substitute annotation)
+- `data_jav-prosub.txt`	Javanese (pronoun substitute annotation)
+
+-----------------------------------
+
 - `data_tha.txt`	Thai (raw sentences)
 - `data_tha-sound.txt`	Thai (links to sound files)
 - `data_tha-token.txt`	Thai (tokenized sentences)
@@ -91,6 +88,15 @@ Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchi
 - `data_vie-IPLex.csv`	Vietnamese (interpersonal meaning annotation, lexical)
 - `data_vie-prosub.jsonl`	Vietnamese (pronoun substitute annotation)
 - `data_vie-prosub.txt`	Vietnamese (pronoun substitute annotation)
+
+-----------------------------------
+
+- `data_myn.txt`	Burmese (raw sentences)
+- `data_myn-sound.txt`	Burmese (links to sound files)
+- `data_myn-token.txt`	Burmese (tokenized sentences)
+- `data_myn-ps.txt`	Burmese (POS-tagged sentences)
+- `data_myn-prosub.jsonl`	Burmese (pronoun substitute annotation)
+- `data_myn-prosub.txt`	Burmese (pronoun substitute annotation)
 
 -----------------------------------
 
@@ -194,4 +200,4 @@ The sentences were tokenized using the `word_tokenize` function of the [Undersea
 
 ## Notes on pronoun substitute annotation
 - See the pronoun substitute [project page](https://github.com/matbahasa/ProSub).
-- One can modify the annotation, create a summary table and visualize the annotation by feeding the raw sentences and prosub annotation `.txt` files to [ETA: Easy Text Annotator](https://github.com/matbahasa/ETA).
+- One can modify the annotation, create a summary table and visualize the annotation by feeding the raw sentences and pronoun subtitute (prosub) annotation `.txt` files to [ETA: Easy Text Annotator](https://github.com/matbahasa/ETA).

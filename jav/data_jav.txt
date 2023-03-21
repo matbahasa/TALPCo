@@ -1,0 +1,1372 @@
+1176	Mas Tanaka dudu mahasiswa.
+1178	Bapakku pancen guru.
+1180	Sekolahane prei.
+1194	Neng Tokyo kahanan udarane apik.
+1222	Neng kebun ana wit-witan.
+1229	Mas Tanaka lungo menyang endi?
+1233	Aku lagi ora duwe dhuit.
+1244	Ana buku neng dhuwur meja.
+1245	Neng ngisor meja ana tas.
+1246	Neng jero tas, ana buku cathetan.
+1247	Neng sisih tengen mas Tanaka, ana Mas Yamada.
+1248	Neng sisih kiwa mas Tanaka, ana Mas Kimura.
+1249	Neng arep omah, ana kucing.
+1250	Neng buri omah, ana montor.
+1251	Kotak surat pos ana neng seberang dalan seko omah.
+1254	Mas Tanaka ana neng jobo ruang kelas.
+1255	Neng arep omahku ana kebun.
+1257	Sekolahane cedhak karo omah.
+1258	Bukune ana neng jero tas.
+1259	Pen aku pancen iki.
+1264	Ruang kelas basa Jepang ana neng ngendi?
+1268	Kuwi surat kabar kala dhek, iya?
+1274	Neng ruang kelas, ana komputer sing anyar.
+1275	Ana asu cilik neng jero kothak.
+1276	Mas Tanaka pancen wong sing wagas waras.
+1280	Filem sing kepriye?
+1281	Filem sing wis lawas saka Jepang.
+1286	Kowe arep tuku sepatu sing ngendi?
+1291	Kamus cara Jepang pancen kuwi.
+1296	Tase bu Tanaka ana neng kono.
+1297	Neng kono, ana pak guru.
+1299	Buku kuwi duweku.
+1302	Tas sing gedhe kuwi sing duwe aku.
+1305	Nuwun sewu, nggon sing dinggo nyuyuh neng endi?
+1308	Tas kuwi, sing duwe sapa?
+1311	Tas kuwi sing duwe mas Tanaka.
+1312	Montore pak guru ana ing endi?
+1319	Ana pitung kuwih.
+1320	Balpoin iki regane piro?
+1322	Aku tuku sepuluh perangko karo kartu pos cacahe telu.
+1323	Neng dhuwur meja guru ana buku loro karo majalah siji.
+1326	Neng kono ana kacu piro cacahe.
+1330	Saiki, jam lima.
+1333	Saiki, jam piro?
+1334	Jam sepuluh keliwat seked siji menit.
+1335	Dina iki tanggal piro neng wulan apa?
+1341	Televisi ana neng jejer piano.
+1348	Esok kelase sesok arep ramoubg sesok sadrunge awan.
+1349	Saben dina aku sekolah.
+1350	Mas Tanaka sinau neng perpustakaan, yen aku sinau neng omah.
+1356	Kala wingi aku sinau.
+1367	Aku bali neng omah.
+1369	Ora. Aku ora lungo.
+1371	Mas Tanaka ngombe Cola.
+1378	Aku ngirim surat menyang mas Tanaka.
+1379	Aku arep nyilihi dhuit nyang Mas Tanaka.
+1380	Akan ngajari basa Inggris karo mas Kimura.
+1382	Aku arep nyilih nyuwun ngampil dhuit karo Mas Yamada.
+1386	Aku ndeleke bukune neng dhuwur meja.
+1388	Aku tangi jam setengah pitu kepungkur.
+1389	Aku turu neng jam sewelas.
+1392	Aku dolanan tennis ing dina Ahad.
+1393	Kapan mas dolanan tennis?
+1396	Aku nonton filem.
+1397	Aku lelungon nalika prei musim panas.
+1398	Aku kabeh nganake pengetan tanggap warsa mas Tanaka.
+1401	Asu sing neng omahku gedhe.
+1402	Asune tanggaku ora gedhe.
+1403	Dina iki ora adhem.
+1408	Maeman Jepang pedhes ora?
+1409	Ora, ora pedhes.
+1410	Ing jaba, adhem, ora?
+1414	Panganane Jepang kepriye?
+1418	Tas iki larang.
+1419	Panganane pesta ora enak banget.
+1423	Filem kala wingi kepriye?
+1426	Kamar aku ora amba banget.
+1427	Aku kesel banget.
+1428	Aku ora kesel banget.
+1431	Watara kene, ora akeh gedhung sing dhuwur.
+1433	Ing arep stasiun, ana toko sing apik.
+1434	Iki kamar sing tenang banget.
+1435	Klambine ayu.
+1446	Mas Tanaka dhuwur badane.
+1449	Aku saka wingi, sakit tenggorokan.
+1450	Mumet, jenengan?
+1451	Ora, ora mumet.
+1454	Kutha iki, dalane sempit.
+1455	Gambaran iki wernane ayu.
+1457	Aku nembang ala.
+1459	Bapake Mas Yamada nyambut gawe sregep.
+1460	Mas Yamada, Bapake dokter.
+1473	Aja lali wulangan omahe.
+1474	Iso sinau neng kene.
+1476	Aku pikir wong kuwi gurune basa Jepang.
+1477	Iki tape sing aku tuku kala wingi.
+1478	Takonana wae nganggo telepon yen ora ngerti dalane.
+1481	Mas Kobayashi nganggo kemejo werna biru.
+1482	Wis ditulis neng layang.
+1484	Sawise mangan, aku sikatan.
+1485	Tulung ngadeg.
+1491	Saiki Pak Kobayashi lagi maca buku neng perpustakaan.
+1492	Pak Tanaka saiki lagi apa?
+1494	Kowe sinau basa Jepang seka kapan?
+1495	Aku sinau saka taun wingi.
+1501	Jendhelane kebukak.
+1507	Dalanne menggak-menggok.
+1512	Jendhelane wis ditutup.
+1513	Lampune wis dipateni.
+1515	Soale ditulis neng halaman lima las.
+1520	Jendhelane wis dibukak.
+1527	Neng ndhuwur meja ana buku lan buku catetan.
+1528	Aku ana latihan bal-balan dina senen, rebo, karo jumat.
+1530	Aku blanja neng pasar lan toko.
+1531	Neng ngarep kantor pos lan cedhak stasiun ana pos surat.
+1532	Mangan roti lan endhog.
+1533	Neng kamarku ana kasur, televisi, lan liya-liyane.
+1534	Tas ireng sing gedhe kuwi tek ku.
+1535	Aku manggon neng apartemen sing resik lan sepi.
+1537	Kembang kuwi cilik lan wernane abang.
+1542	Kaos kaki iki apik lan murah.
+1544	Buku iki angel soale kanjine akeh.
+1545	Aku ora isa mangkat sekolah merga mriyang.
+1546	Aku dolanan tennis lan renang pas preinan musim panas.
+1547	Adhiku maca buku lan nonton televisi dina minggu.
+1548	Aku biasane nonton televisi lan lungo menyang kolam renang karo kancaku.
+1549	Aku kerep bolak-balik Tokyo lan Osaka numpak pesawat mabur.
+1551	Sesuk aku ketemu kancaku neng stasiun terus mangkat bareng-bareng meyang konser.
+1553	Aku tangi jam pitu esuk, sarapan neng kantin, njur latihan saka jam wolu.
+1556	Ayo lunggoh neng kono lan mangan sega bungkus.
+1557	Saben dina aku mangkat sekolah mlaku.
+1558	Aku sinau basa Jepang saka ngrungoake kaset.
+1562	Sepur mandheg merga ana topan gedhe.
+1586	Aku mlaku saka sekolah tekan omah.
+1588	Aku mangan sega neng kantin.
+1592	Langite biru.
+1599	Aku wis maca buku.
+1601	Aku metu saka omah jam sanga.
+1605	Aku ora melbu sekolah.
+1609	Aku mung mangan roti tok.
+1614	Aku nempel foto neng tembok.
+1619	Aku numpak pesawat mabur.
+1625	Aku nuduhke buku marang Pak Tanaka.
+1630	Televisi ora apik nggo mripat.
+1634	Aku nginep neng hotel.
+1636	Kembang mekar neng pekarangan.
+1637	Aku metu saka omah jam pitu.
+1638	Aku tekan Jepang tahun iki tanggal limo las Maret.
+1640	Aku lungo tuku klambi.
+1645	Pesawate mabur ngidul.
+1646	Preinan musim panas saka tanggal siji Agustus tekan tanggal telung puluh September.
+1647	Wong nomor siji tekan sepuluh, tulung melbu.
+1650	Aku metu saka kelas.
+1654	Pak guru ngei pertanyaan.
+1660	Neng taman ana konser.
+1667	Aku nulis huruf nganggo bolpen.
+1668	Aku mangkat sekolah numpak bis.
+1671	Aku ora mangkat sekolah merga lara.
+1672	Sepur telat merga ana angin topan.
+1675	Aku mesthi sinau dhewe terus.
+1679	Limang menit neh jam lima.
+1682	Sak kelas lungo mlaku-mlaku.
+1683	Gaweane tak garap dhewe.
+1692	Tas kuwi podho karo tas ku.
+1693	Buku catetan kuwi bedha karo buku catetan ku.
+1694	Aku ngucapke "slamet esuk" bar tangi turu.
+1696	Kanji iki diwaca "yama".
+1710	Tulung Coca Colane loro.
+1714	Tulung tulis jeneng mu.
+1715	Yoh, aku ngerti.
+1720	Tulung enteni sedilit.
+1727	Yoh, ora popo.
+1728	Oleh mangan sega bungkus neng ruangan iki.
+1734	Opo aku isa metu?
+1738	Ora oleh nggunake ponsel neng rumah sakit.
+1745	Dina iki ora sah adhus sik yo.
+1748	Komputere lagi tak nggo. Tulung aja dipateni.
+1768	Piye nek awake dhewe dolanan tenis dina Sebtu?
+1778	Piye nek awake dhewe menyang neng kolam renang?
+1794	Barange tak gawake.
+1799	Gaweane tak garapke.
+1801	Aku arep sinau neng perpustakaan tapi tutup.
+1810	Aku bakal resik-resik nek wis bali.
+1811	Adhiku pengen dadi guru basa Jepang.
+1813	Bengi iki aku ora pengen neng endi-endi.
+1817	Aku pengen ngrungoke lagu Jepang.
+1818	Aku pengin ngombe.
+1824	Yoh, ora popo.
+1826	Sakjane aku pengen lungo menyang Universitas neng Tokyo.
+1831	Saiki aku pengen komputer.
+1836	Kowe gelem sing endi?
+1837	Aku gelem sing iki karo kuwi.
+1848	Aku gelem musik.
+1849	Aku ora gelem ulah raga.
+1860	Apa panganan favorit sampeyan?
+1862	Pelajarane nyenengke nggo aku.
+1879	Ora, ora isa.
+1881	Pak Tanaka isa dolanan tenis.
+1883	Opo isa nelpon neng luar negri nganggo telepon kuwi?
+1885	Aku isa nulis kanji.
+1900	Neng kono ana wong. Sapa wong kuwi?
+1919	Jam tangan iki mesthi larang.
+1921	Kantor pos wis mesthi buka mergo saiki wis jam sepuluh.
+1928	Kayane ana sing manggoni omah iki.
+1931	Kayane arep udan.
+1935	Neng pekarangan ora ana mobil. Kayane ibukku lagi metu.
+1942	Krungu-krungu, sasi ngarep ana murid anyar teka.
+1947	Aku krungu saka pak guru, sasi ngarep ana munyir anyar teka.
+1965	Karangan iki sing nulis sapa? Jenenge ora ana.
+1967	Masakane ibu enak.
+1971	Tulung kertas sing wis ana jawabane dikumpulke.
+1974	Aku weruh Pak Tanaka lagi sinau neng perpustakaan.
+1990	Aku weruh Pak Tanaka lagi mlayu.
+1993	Sing lagi mangan roti kuwi Pak Yamada.
+2004	Awaku wes kepenak bar ngombe obat.
+2005	Sesuk aku ora mangkat sekolah merga ora ana pelajaran.
+2007	Kok kowe isa ngerti nomor teleponku?
+2011	Ngapa?
+2017	Ngapa kowe ora melbu kelas?
+2018	Aku ora isa tangi merga demam.
+2019	Dina iki kelase prei merga gurune lagi lara.
+2023	Pak Yamada ben dina sumringah, tapi dina iki tenang.
+2024	Saiki dina minggu tapi aku nyambut gawe.
+2030	Aku manggon neng Tokyo, tapi adhiku manggon neng Kyoto.
+2041	Nek menyang neng universitas kae, luwih praktis numpak pit.
+2042	Ben dina bar tangi turu, Bapakku maca koran.
+2043	Nek tombol iki dipencek, pintune bakal kebuka.
+2047	Aku bakal tuku nek murah.
+2055	Nek cedhak, ayo mlaku wae.
+2056	Nek ora seneng, oleh mandheg.
+2060	Dhuwite bakal entek nek dinggo tuku mobil.
+2061	Nek tuku mobil, isa lungo neng endi wae.
+2064	Piye carane ngapal ke huruf kanji?
+2065	Nek ben dina maca koran, aku isa eling.
+2068	Nek udan salju, aku tetep mangkat sekolah.
+2069	Nek hawane adem, aku tetep renang.
+2079	Pak Yamada ngenehi buku nggo adhiku.
+2086	Aku ngenehi kembang nggo Bapakku.
+2088	Aku oleh buku saka Bapakku.
+2090	Aku nyilihi Pak Kobayashi buku tulis.
+2092	Aku nyilih buku saka Pak Kimura.
+2093	Aku nyilihi adhiku dhuwit.
+2097	Adhiku nggawe sega bungkus nggo Bapakku.
+2099	Aku ngewangi adhiku nggarap PR.
+2100	Pak Kimura nggawa barangku.
+2104	Aku sinau masak saka ibu.
+2115	Aku mlaku tekan stasiun.
+2120	Minggu ngarep pas aku lungo menyang kono, aku arep tuku lan nggawa ombenan.
+2123	Dina iki aku mangan bengi karo kancaku.
+2130	Nyuwun sewu, opo aku oleh nyobo klambi iki?
+2153	Aku murid.
+2154	Film sing aku tonton wingi menarik.
+2158	Aku pelajar, tapi masku pegawai perusahaan.
+2170	Gaweanmu opo?
+2178	Pas aku lagi mangan bengi, kancaku teka neng omah.
+2179	Aku nggawa paspor nek aku menyang luar negri.
+2180	Pas tekan Jepang, aku foto neng bandara.
+2187	Aku nelpon pas aku lagi neng kamar.
+2189	Pas enom, aku kerep renang.
+2192	Aku mangan sega karo ndelok televisi.
+2205	Pas prei musim panas tahun iki, aku lungo menyang laut lan munggah gunung.
+2206	Nek maca neng nggon peteng, mripate isa rusak.
+2213	Pie nek awake dhewe ngombe teh?
+2220	Wes wayahe musim semi tapi hawane durung anget.
+2227	Wingi aku luno menyang universitas.
+2229	Aku wis mandheg ngerokok.
+2232	Dina iki ora ana sing teko.
+2234	Kowe kerjo tenanan.
+2247	Nek the, piye?
+2249	Sing ora gawa bolpen, oleh nganggo pensil.
+2332	Yo, monggo.
+2369	Monggo.
+2383	Muga-muga kowe gelem nampa barang sing ora sepira iki.
+2391	Suwun yo.
+2396	Oh, ngono.
+2409	Regane piro?
+2415	Tulung kerja sama ne.
+2429	Aku mikir meh lungo menyang Eropa karo kanca-kancaku.
+2495	Ana neng lantai telu neng bangunan iki.
+2497	Piye carane isa neng lantai telu?
+2498	Neng kono ana lift.
+2520	Iyo, seneng aku.
+2548	Halo.
+2562	Kapan-kapan ketemu maneh.
+2599	Ana apa?
+2637	Oh, ngono to.
+2651	Isa tak balek ke bar istirahat awan ora?
+2672	Nuwun sewu.
+2734	Aku rencanane arep lungo menyang luar negri.
+2744	Pak guru, iki ibukku.
+2751	Aku ngombe obat merga masuk angin.
+2753	Akeh wong mati.
+2754	Aku sikatan sak uwise mangan sega.
+2755	Mbak Kimura pinter banget.
+2756	Kantor pos ana neng sebelah stasiun.
+2757	Sesuk, barange arep teka.
+2758	Keretane wis meh tekan stasiun.
+2759	Aku nulis jenenge neng amplop.
+2761	Neng mburi staisun ana supermarket.
+2762	Aku masuk angin merga wingi adem banget.
+2763	Aku turu gasik merga mumet.
+2764	Aku melbu rumah sakit merga merga loro weteng.
+2766	Aku ora isa mangan opo-opo merga lara untu.
+2767	Aku lungguh neng kursi teros cerito.
+2769	Neng njero kulkas ora ana opo-opo.
+2771	Aku ngerungoke berita neng radio.
+2772	Awake dhewe isa ngerungoke radio kao lagu nganggo radio kaset.
+2774	Aku disilihi pensil Pak Matsui.
+2775	Minggu ngarep aku lungo menyang agen real estat nggo golek kamar anyar.
+2776	Aku ngeresiki lawang lan koridor.
+2777	Vas kembange diselehke neng ngarep lawang.
+2778	Omah anyare kepenank banget merga pawone jembar.
+2779	Aku mangan bengi, adhus, terus turun.
+2780	Sepatune wes tuwo.
+2781	Merga saka stasiun tekan sekolah adoh, aku numpak bis.
+2782	Omah anyarku gampang dalane merga cedhak saka stasiun.
+2783	Pak Matsui nganggo klambi putih.
+2784	Aku dolan nganggo topi pas panas.
+2785	Aku mbukak sepatu neng ngarep lawang.
+2786	Payungku ketinggaan neng sepur.
+2787	Wingi aku tuku dompet anyar.
+2788	Wong sing nganggo kocomoto kae Pak Matsui.
+2789	Aku tuku majalah neng toko buku.
+2790	Iki lantai loro.
+2791	Aku ngirimi kartu pos nggo Pak Matsui.
+2792	Aku nempelke perangko neng amplop.
+2793	Ono klambi siji.
+2794	Aku njupuk foto loro.
+2795	Bank buka seko jam sanga isuk tekan jam telu sore.
+2796	Aku mbaleke dhuwit neng Mbak Matsui.
+2797	Aku mbaleke buku neng perpustakaan.
+2798	Sawise ngelekobe dhuwit, aku mencet tombol.
+2800	Aku numpak bis nomer limo las seko stasiun.
+2801	Jam iki regane sewu limang atus yen.
+2802	Aku tuku kamera regane telung puluh ewu yen.
+2803	Aku lali jenenge uwong kae.
+2805	Dina iki aku mangan bengi neng restoran.
+2806	Panganan Jepang enak tapi larang.
+2807	Aku doyan roti karo sega.
+2808	Bengi iki aku mangan sega neng omahe kancaku.
+2809	Aku meh nggawe kare nggo mangan bengi.
+2810	Kare iku panganan India.
+2811	Aku ora pathek ngombe arak.
+2812	Aku ngeleboke gulo neng kopi nganggo sendok.
+2813	Aku nganggo garpu nek mangan roti.
+2814	Panganan Prancis dipangan nganggo peso lan garpu.
+2815	Pesone ojo dinggo mergo bahaya.
+2817	Aku arep nganggo piring anyar.
+2818	Aku saran saben isuk.
+2819	Sawise sekolah, aku ngombe kopi neng warung kopi karo kancaku.
+2820	Saben isuk aku ngombe kopi.
+2821	Aku luwih seneng teh ketimbang kopi.
+2822	Aku jarang ngombe susu sapi merga ora seneng.
+2823	Sawise ngombe arak, luwih apik ngombe wedhang putih.
+2824	Sawise ngombe, aku ngumbah gelas ngantek resik.
+2825	Aku oleh gelas lucu seko kancaku.
+2826	Aku ngombe kopi nganggo gulo.
+2828	Aku ngeleboke dhuwit neng dompet.
+2829	Ibu Matsui ngesok ke kopi dinggo aku.
+2830	Sepur iki lungo neng Tokyo.
+2831	Sepur bawah tanah murah, cepet, lan praktis.
+2832	Aku tuku karcis nek arep numpak sepur.
+2833	Aku ora numpak lift, tapi nganggo tangga.
+2834	Toilete ana neng lantai loro.
+2835	Aku wisuh tangan nek metu seko toilet.
+2836	Aku nduduhke karcis neng pintu melbu stasiun.
+2837	Metu seko kene, paling cedhak iku perpustakaan.
+2838	Nek arep lungo menyang kedutaan, medhun neng stasiun bar iki.
+2839	Lungo menyang sekolah aku numpak bis, ora mlaku.
+2840	Merga supermarkete tutup, aku ora isa belonjo.
+2841	Tase ora ketutup.
+2842	Aku sekelas karo Pak Matsui.
+2843	Neng kelas ana meja lan kursi.
+2844	Aku ngeresiki lawang lan koridor.
+2845	Aku ora pathek seneng sinau.
+2846	Minggu wingi aku ora isa sinau mergo sibuk.
+2847	Bocah-bocah sing ana neng kene iku murid-murid seko sekolah sing podo.
+2848	Pas pelajaran, guru nakoni murid.
+2851	Minggu ngarep aku lungo menyang Tokyo karo kancaku.
+2852	Merga sedina wingi aku sinau, dina iki aku dolan.
+2853	Bengi iki aku arep sinau merga sesuk ana ujian.
+2854	Aku maca karangan sing ditulis Pak Matsui.
+2855	Sesuk aku ngumpulke karangan neng pak guru.
+2856	Soale kudu diwaca sing tenanan nek arep nulis jawaban.
+2857	Soal ini gampang banget.
+2858	Neng sekolah saben dina ana ujian kanji.
+2860	Nek sregep latihan, basa Jepangmu isa lancar.
+2861	Wingi ujiane gampang.
+2862	Aku ngajar basa Jepang nggo wong asing.
+2863	Aku ora isa jawab soale merga angel.
+2864	Saben dina sawise sekolah, aku latihan tenis.
+2865	Minggu ngarep rencanane aku meh potong rambut neng salon.
+2866	Aku nyekel sumpit nganggo tangan kiwo.
+2867	Aku menggok tengen neng belokan ngarep.
+2868	Mbak Matsui lunggoh neng ngarepku.
+2869	Akeh uwong baris neng mburiku.
+2870	Pensil iki dadi pendek merga kerep dinggo.
+2871	Aku ngiris roti nganggo peso dadi papat.
+2873	Adhiku awake pendek lan rambute dawa.
+2874	Merga kesel, aku lunggoh.
+2875	Aku nakoke dalan karo polisi neng kantor polisi.
+2876	Neng pos polisi ana peta kota ditempel.
+2877	Neng prapatan ana polisi akeh.
+2878	Aku ditakoni jeneng karo polisi.
+2879	Polisi nuduhke aku daalan tekan stasiun.
+2880	Merga ora ngerati daalan, aku ndelok peta.
+2881	Wingi aku lungo blonjo neng cedhak.
+2882	Aku takon pak Maktsui nomor telepon restoran sing arep ditekani bengi iki.
+2884	Nek menggok kiwo neng bangunan kuwi, ana rumah sakit.
+2885	Ora oleh melbu neng kene merga bahaya.
+2886	Merga wis bengi, nek bali dhewe iku bahaya.
+2887 	Nek lagi pelajaran, ora oleh ngomong karo kancane.
+2888	Warung kopi kae ana neng sebelah toko buku.
+2889	Omahe Pak Matsui ana neng sebelah omahku.
+2890	Aku masrahke tas sing neng sebelahku neng Pak Matsui.
+2891	Aku lungo menyang pos polisi merga kelangan dompet.
+2892	Aku kelangan majalah sing tak silih seko Pak Matsui.
+2893	Aku ngeresiki kamar merga kancaku arep teka.
+2894	Kamar iki ora ana jendhela ne.
+2895	Ana tanggalan neng ndhuwur meja.
+2896	Aku tuku tanggalan tahun ngarep neng toserba.
+2898	Merga kamare peteng, aku nguripke lamp.
+2899	Merga wingi kesel, aku langsung turu.
+2900	Merga ora ngerti jam piro, aku ndelok jam neng kelas.
+2901	Aku nguripke lampu kamar terus sinau.
+2902	Vas kembange diselehke neng ngarep lawang.
+2906	Dalane bahaya merga sempit banget.
+2907	Aku nyebrang prapatan iku terus menggok kiwo.
+2908	Mobil Jepang larang tapi apik.
+2909	Mobil Jepang didol neng luar negri.
+2910	Iki majalah otomotif.
+2911	Seko stasiun tekan perusahaan, aku numpak taksi.
+2912	Aku bali neng omah numpak taksi.
+2913	Aku bonceng mburi pite kancaku.
+2914	Nek udan aku tetep lungo numpak pit.
+2915	Wingi aku lungo dolang neng kali karo kancaku.
+2916	Omahku ana neng sebrang kali iku.
+2917	Sawise nyebrang jembatan, ana taman.
+2918	Saben esuk aku lungo mlaku-mlaku.
+2919	Saben esuk aku mlaku.
+2920	Sawise nyebrang dhalan, ayo mlaku neng sisih kiwo.
+2921	Mergo aku pengen kali, aku nyebrang jembatan.
+2923	Mergo hawane panas, aku renang neng kolam renang.
+2924	Mergo ora isa nyanyi, aku arep latihan.
+2925	Mergo jago, aku diajari adhiku bal-balan.
+2926	Pak Matsui jago masak.
+2927	Aku ora jago gambar.
+2928	Tak pikir sepur luwih cepet ketimbang bis nek tekan sekolah.
+2929	Pak Matsui mlayune cepet.
+2931	Aku mlaku alon banget.
+2933	Merga sikilku lara, ora isa mlaku.
+2934	Manuke mabur neng langit kono.
+2935	Tahun ngarep aku arep lungo menyang luar negri.
+2936	Aku isa basa Inggris.
+2937	Aku sinau basa Inggris saka kamus.
+2939	Sesuk aku ketemu kancaku saka luar negri.
+2940	Menggok tengen neng prapatan, ana gedung kedutaan.
+2941	Aku sesuk arep lungo menyang kedutaan.
+2943	Jepang iku negara cilik.
+2944	Kamar hotel iki apik.
+2946	Mbak Matsui wis manggon neng luar negeri telung taun.
+2947	Taun ngarep aku rencanane arep lungo menyang luar negri.
+2948	Aku tuku buku plesir neng toko buku.
+2949	Dina iki toko daginge murah.
+2950	Neng kono ana akeh toko.
+2951	Aku tuku buah lan sayur neng toko sayur.
+2952	Toko sayur luwih murah ketimbang supermarket.
+2953	Mangan bengi wingi daging.
+2954	Aku luwih seneng iwak ketimbang daging.
+2955	Daging sapi iku daging sing paling larang.
+2956	Aku ora isa mangan daging babi.
+2957	Iwak pithik murah tapi daging sapu luwih enak.
+2958	Panggon sing cedhak laut, iwake enak.
+2959	Neng njero kulkas ana sayur lan endhog.
+2960	Aku ngethok sayur terus ngumbah.
+2961	Aku saben isuk mangan sayur lan buah.
+2962	Mobil larang tapi praktis.
+2965	Aku nyilih telung buku neng perpustakaan.
+2966	Perpustakaan buka saka jam sanga isuk tekan jam wolu bengi.
+2967	Neng perpustakaan akeh rak buku jejer-jejer.
+2968	Kamus ana neng rak buku kono.
+2969	Majalah ora isa disilih neng perpustakaan.
+2970	Majalah iki menarik.
+2971	Kuwi koran dina iki.
+2973	Aku ngopi limang lembar.
+2974	Aku sinau boso Jepang seko ndelok kamus.
+2975	Aku ngopi buku neng perpustkaan.
+2976	Pak guru nyerahke salinan koran kanggo muride.
+2977	Pak Hayashi kerja neng perusahaan komputer.
+2978	Sesuk aku mangkat neng kantor gasik.
+2979	Pas prei aku metu karo kancaku.
+2981	Iki dasi Italia.
+2982	Neng kamar iki ora oleh ngrokok.
+2983	Merga saben dina sibuk, aku ora isa leren.
+2984	Gaweanku sibuk tapi menarik.
+2986	Aku ora ngopo-opo pas preinan minggu wingi.
+2987	Aku kerja neng perusahaan mobil.
+2988	Aku ngrokok.
+2989	Rokok iku ora apik kanggo awak.
+2991	Dina iki aku ora mangkat sekolah mergo lara.
+2992	Aku dina minggu yo nyambut gawe.
+2993	Saben dina aku kerja wolung jam.
+2994	Akeh omah jejer-jejer neng sebrang dalan.
+2995	Sesuk isuk aku kudu ngumbanh klambi.
+2996	Merga panas, aku bali neng omah terus adus.
+2997	Saben bengi bar adus, aku turu.
+2998	Nek wis tekan omah, aku arep resik-resik.
+2999	Sesuk isuk aku kudu ngumbanh klambi.
+3000	Sesuk bengi aku metu merga arep ketemu karo kancaku.
+3001	Wingi aku ora metu neng endi-endi.
+3002	Masakan iki isa digawe neng omah.
+3005	Pak Matsui isa dolanan gitar.
+3006	Saben dina aku latihan piano.
+3007	Kamera iki larang, tapi praktis banget.
+3008	Aku tuku kamera anyar.
+3009	Iki film Jepang lawas.
+3010	Adhiku pinter gambar.
+3011	Mergo ora seneng, Pak Matsui ora ngrokok.
+3012	Aku ora seneng resik-resik lan ngumbah klambi.
+3013	Panganan sing tak senengi iku kare.
+3014	Ibuku seneng masak.
+3015	Aku mesti nyanyi lagu iki neng karaoke.
+3016	Aku maen piano neng konser sasi ngarep.
+3017	Aku jupuk foto akeh pas mlaku-mlaku.
+3018	Aku mesti turu neng kasur.
+3019	Nek kompore diuripke, anget.
+3021	Aku mateni kompor sak durunge turu.
+3022	Aku nulis jawaban ujian nganggo bolpen.
+3023	Sesuk cuacane udan.
+3024	Dina iki cuacane apik.
+3025	Nek sesuk cerah, ayo dolanan tenis.
+3026	Krungu-krungu, sesuk mendung.
+3027	Wingi, mendung terus.
+3028	Nek udan, aku ora metu pas prei.
+3029	Merga sesuk udan, aku arep mangkat sekolah numpak bis.
+3030	Dina iki ora ana angin.
+3034	Musim panas neng Jepang panas.
+3035	Nek uwis mulai musim semi, hawane dadi anget.
+3036	Merga dini iki anget banget, aku arep mlaku-mlaku.
+3037	Mergo sesuk hawane panas, aku arep renang neng kolam renang.
+3038	Nek jendhela dibukak, hawane dadi luwih adhem.
+3039	Musim gugur adhem.
+3040	Isuk mau udan, tapi saiki cerah.
+3041	Nek sesuk cerah, ayo dolanan tenis.
+3042	Tahun wingi saljune ora pathek deres.
+3043	Hawane adhem mergo angine gedhe.
+3044	Jarene sesuk angine gedhe.
+3045	Sesuk panas merga suhune dhuwur tekan telung puluh derajat.
+3046	Merga masuk angin, suhu awakku dadi telung puluh wolu derajat.
+3047	Langite dadi rada mendung.
+3048	Wingi mendung terus.
+3050	Aku paling seneng lagu iki.
+3051	Aku ora metu pas salju.
+3052	Awake dhewe ora isa dolanan tenis nek angine gedhe.
+3053	Mergo nek bengi adhem, aku metu nggawa mantel.
+3056	Aku ngumbah rambut nganggo sampo sakdurunge potong.
+3057	Wong sing rambute ireng kae Pak Matsui.
+3058	Lawang sepure arep tutup.
+3059	Aku nduduhke petugas stasiun karcis.
+3060	Aku wingi potong rambut.
+3062	Salon ana neng sebelah stasiun.
+3063	Bengi iki aku arep garap PR neng perpustakaan.
+3064	Aku arep ulis jawabane neng kene.
+3065	Sasi ngarep murid seko Tiongkok arep teka.
+3066	Wong kae murid asing neng sekolah iki.
+3067	Sesuk aku arep lungo nonton film karo kancaku.
+3068	Ujian wingi angel banget.
+3069	Pelajaran guru kae menarik.
+3070	Wong salon kae kuru lan ayu.
+3071	Sawise rampung sekolah, aku pengen kerja neng salon.
+3072	Kotak iki dhuwur lan dawa.
+3073	Wingi aku ora mangkat kerja, tapi lungo neng rumah sakit.
+3074	Dina iki aku ora lungo merga demam.
+3075	Neng dhuwur meja ana vas kembang.
+3076	Saben dina aku ngrungoake berita neng radio.
+3077	Aku ngandani kancaku nomore Pak Kimura.
+3078	Merga ora ana kabar saka ibu, aku khawatir.
+3079	Wingi aku oleh kabar saka Pak Matsui.
+3080	Tulung kabari perusahaan liwat telpon.
+3081	Aku bakal ngubungi kowe sawise tekan omah.
+3084	Bayar sewa apartemen iki larang.
+3086	Aku arep golek kamar sing luwih murah.
+3087	Merga ora nemokake kunci, aku goleki neng jero tas.
+3088	Nek ngrokok, aku nganggo asbak.
+3089	Neng dhuwur meja ana asbak.
+3091	Aku mesthi mangan menu set iki pas mangan awan.
+3092	Menu set neng kantin kuwi murah lan enak.
+3093	Aku pesen panganan karo pelayan warung.
+3094	Pelayan restoran iki kayane sibuk.
+3095	Aku ngombe kopi ora nganggo susu.
+3096	Saben isuk aku mangan roti karo ngombe susu.
+3097	Panggon sing dodol kaus kaki ana ning lantai siji.
+3098	Tas iki tukune nganggo kertu.
+3099	Aku ngeleboke kertu neng dompet.
+3100	Pas belonjo aku bayar nganggo kertu.
+3102	Pos laut mangan wektu tapi murah.
+3103	Pos udara luwih cepet tekan ketimbang pos laut.
+3104	Wingi aku ngirim barang kanggo ibukku.
+3105	Regane rada luwih larang merga dikirim lewat pos udara.
+3106	Aku ora pengen nganggo jas merga panas pas musim panas.
+3107	Aku nganggo jas nek lungo neng perusahaan.
+3108	Aku oleh klambi saka kancaku pas aku ulang tahun.
+3110	Pak Kimura iku pelajar, tapi pak Tanaka iku pegawai perusahaan.
+3111	Aku lungo belonjo neng supermarket.
+3114	Tuku roti piro?
+3115	Neng ndhuwur meja ana pirang gelas?
+3116	Wong Jepang mangan sega nganggo sumpit.
+3117	Sawise mlaku-mlaku neng taman, aku bali neng omah.
+3118	Saben dina aku latihan tenis.
+3119	Olahraga sing paling tak senengi iku bisbol.
+3120	Pak Matsui luwih jago dolanan bisbol ketimbang bal-balan.
+3121	Merga udan, ora ana pertandingan bal-balan.
+3122	Sesok ana pertandingan tenis.
+3123	Brazil iku negara sing bal-balane kuat banget.
+3124	Aku ora isa olahraga merga ringkih.
+3126	Aku ngeresiki kamar mergo reget.
+3127	Laut ning sekitar kene reget.
+3128	Pas metu, aku lali mateni lampu.
+3129	Aku mateni lampu sadurunge turu.
+3130	Wis wayahe aku bali neng omah dina iki.
+3131	Wingi aku kelangan kunci.
+3132	Iki kunci omahku.
+3133	Neng ngarep pintu pager omah ana kucing.
+3134	Banyu kali iki resik.
+3135	Pak Lee isa basa Jepang.
+3136	Aku nyilih dhuwit ning bank.
+3137	Bapakku pegawai bank.
+3138	Pegawai bank ning loket akeh wong wedhoke.
+3139	Au nyetorke dhuwit ning loket.
+3140	Aku lungo neng bank lan nyetor dhuwit.
+3141	Aku nampa formulir penyetoran dhuwit neng loket.
+3142	Aku nulis jeneng karo alamat ning formulir iki.
+3143	Aku eling nomor sing ditulis ning formulir.
+3144	Aku ngandhani kancaku alamat sing anyar.
+3145	Wong iku guru sekolah iki.
+3146	Ngomong karo wong asing iku nyenengake.
+3147	Aku teka ning negara iki wis telung tahun.
+3148	Neng cedhak kene bandara anyar uwis buka.
+3149	Aku nuduhake pasporku neng bandara.
+3150	Aku kelangan paspor neng stasiun.
+3151	Paspor dibutuhake nek arep lungo neng luar negri.
+3153	Aku lungo belonjo karo kancaku pas prei.
+3154	Pemandu wisata ngandhani awake dhewe tentang kota iki.
+3155	Kancaku kerja dadi pemandu wisata.
+3156	Merga ora ana sepur dinggo bali, aku nginep neng omahe kancaku.
+3157	Bengi iki aku nginep ning hotel.
+3158	Aku nampa oleh-oleh dinggo keluarga.
+3159	Aku tuku oleh-oleh dinggo keluarga.
+3160	Aku nggunake bolpen pas nulis formulir setoran.
+3161	Perushaan iki gawe mobil.
+3162	Aku gae meja dhewe.
+3163	Aku nganggo dasi merga ketemu uwong pas nyambut gawe.
+3165	Saben dina aku sinau basa Jepang tapi aku ora isa apal kanji.
+3167	Bapak Lee nulis layang nganggo basa Jepang.
+3168	Ngomong nganggo basa Inggris angel.
+3169	Pak Matsui lagi ngomong karo Pak Kobayashi.
+3170	Aku arep ngomong karo pak guru tentang hal iki.
+3171	Aku nulis jawaban soal neng kertas iki.
+3172	Wing aku nulis layang kanggo kancaku.
+3173	Aku ora pathek seneng nulis huruf.
+3174	Mbak Matsui jago nulis huruf.
+3175	Aku ngerungoke cerita apik saka pak Hayashi.
+3176	Pak Matsui lagi ngomong karo Pak Kobayashi.
+3177	Aku ora ngerti maksud omongane pak guru.
+3178	Aku ngandani Pak Lee artine omongan iki.
+3179	Ono akeh kata sing ditulis nganggo katakana ning basa Jepang.
+3180	Aku nulis hiragana tapi ora isa nulis katakana.
+3181	Kalimat iki gampang diwaca merga pendek.
+3182	Sinau basa asing angel.
+3183	Aku maca buku sing ditulis nganggo basa Jepang.
+3184	Aku nggunake kamus nek ana arti omongan sing aku ora ngerti.
+3185	Isuk-isuk aku tangi turu terus wisuh rai.
+3186	Aku tuku klambi anyar ning toserba.
+3187	Aku metu gawa mantel.
+3188	Merga neng njobo adhem, aku lungo neng perusahaan nganggo mantel.
+3189	Aku mbukak sweater merga sumuk.
+3190	Aku ora isa nganggo katok dowo merga keciliken.
+3192	Mbak Kobayashi luwih seneng katok dowo ketimbang rok.
+3193	Aku mbukak sepatu terus nganggo sendal.
+3194	Aku nganggo kacamata merga mripate ora ceta.
+3195	Nek melbu neng omah Jepang, sepatune dibukak.
+3196	Aku metu nganggo sepatu anyar.
+3197	Mbak Kimura nganggow rok lucu.
+3198	Merga arep melbu kamar mandi, aku mbukak klambi.
+3199	Jajanan iki rasane legi.
+3201	Masakan iki dipangan ora nganggo bumbu opo-opo.
+3202	Aku mangan sashimi nganggo bumbu kecap.
+3204	Aku ngatur mangkok lan sumpit neng ndhuwur meja.
+3205	Aku mangan sega nganggo mangkok.
+3206	Dina iki aku mangan bengi karo kancaku.
+3207	Aku mesthi mangan awan neng kene.
+3208	Dina iki aku ora sarapan.
+3209	Mbak Kimura menehi aku jajanan.
+3210	Masakan iki ketoke ora enak.
+3211	Warung kuwi murah tur enak.
+3212	Sega bungkuse Pak Hayashi ketoke enak.
+3213	Jajanan iki enak.
+3214	Merga sibuk, aku ora isa mangan awan.
+3215	Kare iki pedes banget.
+3216	Aku mesthi mangan roti pas sarapan.
+3217	Mangan bengi dina iki kare.
+3218	Mangan bengi dina iki kare.
+3219	Aku ngenehi Pak Lee uyah.
+3220	Aku masak nganggo gula karo uyah.
+3221	Awake adhiku kuat.
+3223	Mripatku kesel merga maca buku neng nggon peteng.
+3224	Pak Yamada nganggo kacamata merga mripate ora ceta.
+3225	Asu kuwi kupinge gedhe.
+3226	Adhiku mripate gedhe lan irunge mancung.
+3227	Aku raiso mbukak cangkem merga lara untu.
+3229	Sakdurunge mangan sega, aku wisuh tangan.
+3230	Sikilku kesel merga akeh gawean.
+3231	Wong kae sikile dawa banget.
+3232	Aku adus neng kamar mandi.
+3233	Sakdurunge turu aku mesthi sikatan.
+3234	Merga dina iki sibuk, aku kesel banget.
+3235	Pak Yamada ana neng njero kelas.
+3236	Pak Kobayashi duwe payung biru.
+3237	Wingi aku tuku sepatu werna putih neng toserba.
+3238	Wong sing nganggo klambi kuning kae pak Kabayashi.
+3239	Mobile pak Tanaka wernane putih lan gedhe.
+3240	Aku nganggo jas ireng nek pas lungo neng perusahaan.
+3241	Pak Tanaka nganggo dasi ijo.
+3242	Werna rambut Mbak Kimura coklat.
+3243	Aku luwih seneng warna biru ketimbang abang.
+3244	Werna senenganku biru.
+3245	Werna iki ayu banget.
+3246	Aku entuk sapu tangan kuning pas ulang tahun.
+3247	Aku nyelehke vas kembang neng ndhuwur meja.
+3248	Neng ngisor kursi ana kucing.
+3249	Nek menggok nengen neng belokan kono, ana supermarket.
+3250	Tas iki neng njobone ana sake.
+3251	Toilet ana neng sebelah kiwo koridor.
+3252	Buku tulis ana neng njero tas.
+3253	Neng kelas kuwi ana televisi.
+3254	Neng omahku ana asu lan kucing.
+3255	Pak Lee saiki ana neng perpustakaan.
+3256	Nek pas musim adhem, sisih lor Jepang adhem banget.
+3257	Kamarku padhang merga ana ning sisih kidul.
+3259	Sisih wetan kutha iki alas kabeh.
+3260	Nek saka kene ngulon sithik ana laut.
+3261	Mbake Mbak Kimura wonge ayu banget.
+3262	Saiki wong tuaku lagi ana neng luar negri.
+3263	Aku menehi hadiah ulang tahun nggo ibukku.
+3264	Saiki mbakku urip dhewe neng Tokyo.
+3265	Bojone pak tanaka dosen universitas.
+3266	Minggu ngarep mase Pak Lee dolan neng Jepang.
+3267	Ibuke Pak Yamada jago banget masak.
+3268	Bojone Ibu Hayahi nyambut gawe neng omah sakit.
+3269	Awake adhine Pak Yamada pendek lan lucu.
+3270	Adhine Pak Kobayashi lagi dolanan bal-balan.
+3271	Aku nduwe sedulur lanang loro.
+3272	Wong wedok sing ayu kae Mbak Kimura.
+3273	Bocah-bocah lagi dolanan ning taman.
+3274	Ning kono ana bocah wedok.
+3275	Wong sing ning toko sayur kae mesthi sumringah.
+3276	Budhene Pak Kobayashi urip ning Tokyo.
+3277	Aku nuduhake simbah dalan.
+3278	Simbahe pak hayashi nganggo kacamata.
+3279	Nek wis gedhe oleh ngombe arak.
+3280	Pak Matsui kekancan karo Pak Lee.
+3281	Aku nduwe kanca wong Thailand.
+3282	Wong lanang kae awake dhuwur lan sikile dawa.
+3283	Ning kono ana bocah lanang lagi menek uwit.
+3284	Tulung tunggu rong menit.
+3285	Saiki dina minggu tapi tetep lungo ning perusahaan.
+3287	Krungu-krungu, sasi ngarep Pak Yamada lungo ning Tokyo.
+3288	Tulung nyambut gawe ning kono.
+3289	Gelas kuwi nggon mu.
+3290	Saben dina aku masak mangan bengi dhewe.
+3291	Kamar mandine ana ning kene.
+3292	Iki pak Kobayasahi.
+3293	Merga ora isa lungguh ning kene, aku arep lungguh ning kono.
+3294	Bangunan neng kono dibangun taun 794.
+3295	Kae Pak Yamada.
+3296	Kantin ana neng bangunan kae.
+3297	Ojo lungo neng kono merga bahaya.
+3298	Kae Pak Lee.
+3299	Nek lungo neng kono, ana kantor pos karo bank.
+3300	Sasi wingi aku lungo mlaku-mlaku neng luar negri.
+3301	Saben sasi aku nyinggahke duwit neng bank.
+3302	Sasi iki, dina rebo supermarket kae prei.
+3303	Sasi iki gaweanku akeh.
+3305	Aku sinau basa Inggris telung sasi neng Amerika.
+3306	Ulang tahune Pak Matsui wulan Agustus.
+3307	Sesuk tanggal siji April.
+3309	Saben sasi aku nulis layang kanggo kancaku sing neng luar negri.
+3310	Pak Khayashi lungo nyambut gawe neng luar negri sesasi saka minggu ngarep.
+3311	Sasi wingi cukur rambut tapi saiki wis dawa.
+3312	Saben taun aku lungo mlaku-mlaku karo keluarga.
+3313	Taun wingi taum sing apik.
+3314	Aku munggah gunung iki rong taun wingi.
+3315	Pak Tanaka wis rong taun wingi lulus saka universitas.
+3316	Taun iki luwih panas seka taun wingi.
+3317	Aku sinau dolanan gitar mulai taun iki.
+3318	Taun ngarep aku arep tuku mobil anyar.
+3319	Mulai taun ngarep masku nyambut gawe ning bank.
+3320	Rong taun meneh aku arep bali neng negara asal.
+3321	Krungu-krungu rong taun meneh neng kono arep dibuka perpustakaan.
+3322	Saben taun aku menehi ibu kado.
+3323	Aku wes dadi bojo limang taun.
+3324	Pak Lee rencane arep ana ning Jepang telung taun.
+3326	Bengi iki aku ketemu Mbak Kimura ning stasiun.
+3327	Sesuk aku arep ketemu Pak Lee terus menehi oleh-oleh.
+3328	Merga hawane sumuk, aku mbukak jendhela.
+3329	Aku mbukak lawang terus melbu kamar.
+3331	Ora oleh mbukak jendhela ning kono merga bahaya.
+3332	Aku ngangkat tangan mendhuwur.
+3333	Aku ngangkat barang sing wis ora digunake ning ndhuwur rak buku.
+3334	Sesuk pak Hayashi ana gawean, dadi ora isa teka.
+3335	Aku saiki lagi ora ana duwit.
+3336	Aku ora mangkat sekolah merga wingi demam.
+3337	Aku lungo ning omahe kancau sawise pelajaran rampung.
+3338	Aku butuh kamus merga arep nulis karangan ning pelajaran sesuk.
+3339	Karcis dibutuhke nek arep numpak sepur.
+3340	Aku mejet tombol terus nguripke lampu.
+3341	Aku nguripke komputer.
+3342	Pak Tanaka lair ning Tokyo.
+3343	Aku lair tanggal enem likur Agustus.
+3344	Warung iki dodol roti sing enak.
+3346	Iki panganan sing ora didol ning Jepang.
+3347	Ora oleh nyelehake barang ning kene.
+3348	Nek mejet iki, kopine metu.
+3349	Aku ora kelingan wong kae.
+3350	Aku ngapalke basa Jepang saka nonton televisi saben dina.
+3351	Sawise rampung nyambut gawe, aku lungo mangan bengi.
+3352	Nek ngirim layang lewat pos laut, mangan wektu akeh.
+3353	Seka stasiun tekan omah sakit mangan wktu sepuluh menit numpak bis.
+3354	Aku nelpon omah tapi ora ana sopo-sopo.
+3355	Bengi iki aku arep nelpon kancaku.
+3356	Merga kompore mati, langsung tak uripke.
+3357	Lampu kamar mati.
+3358	Aku mateni komputer.
+3361	Mbakku arep dadi bojo musim semi taun ngarep.
+3362	Pak Tanaka wis dadi bojo lan ndhuwe anak akeh.
+3363	Ning taman akeh kembang sing ayu mekar.
+3364	Kembang iki mekar pas musim semi.
+3365	Aku kangelan merga kelangan pasor ning luar negri.
+3366	Merga udan aku mangkat sekolah nganggo payung.
+3367	Ana toko buku anyar sing bar dibuka ning kampus.
+3368	Sawise melbu kamar, aku nutup lawang.
+3369	Pak Kobayashi ora ngerti restoran kae.
+3370	Aku ngerti nomor telpone Pak Yamada.
+3371	Aku nyanyi karo ngadeg.
+3372	Ning kono Mbak Kimura lagi ngadeg.
+3373	Pak Tanaka dijaluki tulung pak Hayashi ngewangi nyambut gawe.
+3374	Ibukku mesthi njaluk tulung aku belonjo.
+3375	Jepang karo luar negri basane beda.
+3376	Iki buku tulisku.
+3377	Bengi iki aku bali nyambut gawe gasik terus bali.
+3378	Aku njupuk panganan opo wae sing tak senengi.
+3379	Aku njupuk kecap kanggo Pak Lee.
+3380	Lift iki mandheg saka lantai loro tekan lantai sanga.
+3381	Ning ngarepku ana mobil mandheg.
+3382	Sesuk aku ora bakal lali mbaleake buku.
+3383	Wingi payungku ketinggalan ning sepur.
+3384	Merga ana soal sing ora tak ngerteni, aku takon guru.
+3385	Pak Lee ngerti basa Jepang.
+3386	Wingi aku menehake peta kota iki ning Mbak Kimura.
+3387	Aku arep ngundang taksi siji.
+3388	Pak guru ngundang jenenge Pak Yamada.
+3389	Merga kerjane suwi, aku leren sedilit.
+3390	Aku lagi nunggu bisa.
+3391	Bengi iki aku nunggu Pak Kobayashi ning stasiun.
+3392	Mbak Kimura nuduhake aku foto.
+3394	Aku tau munggah gunung kuwi.
+3395	Akhir minggu aku arep munggah gunung karo kancaku.
+3396	Aku lagi sinau basa Jepang saka guru kae.
+3397	Wingi Pak Lee sinau huruf kanji saka Pak Matsui.
+3398	Universitas mulaine sasi April.
+3399	Pelajaran mulai jam sanga.
+3402	Akeh buku ditata ning rak buku.
+3403	Aku nata piring ning meja.
+3404	Ning ngarep restoran akeh uwong antri baris.
+3405	Wingi aku antri baris nonton film sakjam.
+3406	Sawise lulus universitas, aku pengen dadi dokter.
+3407	Pas musim panas, hawane dadi sumuk.
+3408	Taun ngarep aku lulus saka universitas.
+3409	Dina senen aku mangkat sekolah saka isuk.
+3410	Buku iku kudu dibaleake dina selasa.
+3411	Omah sakit kae tutup dina rebo karo minggu.
+3412	Dina kemis awan aku arep transfer dhuwit ning bank.
+3413	Merga sesuke preo, dina jumat aku mesthi dolan karo kancaku.
+3414	Dina sebtu aku mangan bengi ning omahe pak Hayashi.
+3415	Minggu wingi ibuku ulang taun.
+3416	Minggu iki pelajaran basa Jepange prei.
+3417	Aku sinau merga ana ujian minggu ngarep.
+3418	Minggu ngarep mbakku arep dadi bojo.
+3419	Saben sebtu aku latian bal-balan.
+3420	Taun wingi aku lungo mlaku-mlaku ning luar negri karo kancaku.
+3421	Rong dina wingi aku tuku sepatu anyar ning toserba.
+3422	Merga rong dina wingi adem, udan salju.
+3423	Wingi ana restoran anyar buka ning ngarep stasiun.
+3424	Wingi aku ngirim layang kanggo ibukku.
+3425	Dina iki aku ora melbu sekolah merga masuk angin.
+3426	Dina iki Pak Lee lungo nonton film.
+3427	Mulai sesuk, saben dina aku arep sinau kanji.
+3428	Sesuk aku arep lungo ning kedutaan.
+3429	Dina sesuk aku arep lungo renang ning laut.
+3430	Dina sesuk ana pertandingan bisbol.
+3431	Mau bengi aku turu gasik merga kesel.
+3432	Mau bengi aku mangan bengi karo Mbak Kimura.
+3433	Mulai minggu ngarep, saben dina bakal udan.
+3434	Saben isuk aku maca koran terus lungo ning perpustakaan.
+3435	Saben isuk aku tangi jam enem.
+3436	Saben bengi aku maca buku sedurunge turu.
+3437	Saben bengi aku sinau basa Inggris rong jam.
+3438	Hotel iki regane pitung uwu wolong atus yen sewengi.
+3439	Merga wingi udan, sedina aku ning omah.
+3441	Ibuk lahir tanggal sanga likur november.
+3442	Isuk iki aku metu omah durung mangan sega.
+3443	Cuaca isuk iki cerah.
+3444	Bengi iki kancaku nginep ning omah.
+3445	Bengi iki adhem banget.
+3446	Dina iki ana pelajaran saka isuk tekan sore.
+3447	Aku mesthi numpak sepur jam wolu isuk.
+3448	Wingi awan aku lungo neng warung kopi karo Pak Kimura.
+3449	Saben dina pas awan aku leren sakjam.
+3450	Aku kudu garap gawean iki tekan bengi.
+3451	Aku lungo mlaku-mlaku ning taman bengi-bengi.
+3452	Supermarket kae buka tekan bengi.
+3453	Uwis jam rolas bengi tapi aku isih sinau.
+3454	Saben dina Bapak nyambut gawe saka isuk tekan bengi.
+3455	Wingi bengi aku sinau tekan bengi.
+3456	Sesuk sedina aku ana ning sekolah.
+3457	Saiki jam pitu isuk.
+3458	Saiki jam pitu bengi.
+3459	Merga ana wektu, isuk iki aku metu saka ngomah sawise maca koran.
+3460	Aku ora ana wektu dinggo dolanan.
+3462	Nek pas pelajaran, kudu nggatekake pak guru.
+3463	Saka omah tekan sekolah mangan wektu sakjam numpak sepur.
+3464	Wingi aku turu wolung jam.
+3465	Sawise tekan omah, aku adus dhisik.
+3466	Nek pas numpak sepur, sing medun didhisike.
+3467	Sawise ngeleboke gula, tambahi kecap sithik.
+3468	Nek wis rampung, aku bakal nyilihi Pak Yamada majalah iki.
+3469	Aku arep lungo baleke buku ning perpustakaan.
+3470	Limang menit neh pelajarane rampung.
+3472	Restoran iki gedhe lan resik.
+3473	Kewan cilik iki lucu banget.
+3474	Omahku cilik lan sempit.
+3476	Bengi-bengi bahaya merga peteng.
+3477	Aku sinau ning nggon sing padhang.
+3478	Kelas iki padhang lan resik.
+3479	Teh iki panas.
+3480	Aku pengen ngombe teh panas.
+3481	Saben isuk aku ngombe susu adhem sakgelas.
+3482	Banyu kolam renang adhem banget.
+3483	Ning taman ana uwit gedhe.
+3484	Merga saben dina mlayu-mlayu, aku dadi kuru sithik.
+3485	Uwong iki sikile cilik lan dhuwur.
+3486	Majalah iki kandel lan abot.
+3487	Bolpen iki gedhe.
+3488	Aku mangan daging kandel.
+3489	Aku tuku kamus tipis.
+3490	Merga tembok kamar iki tipis, aku ngomong suarane cilik.
+3491	Kotak sing abot ben digawa wong lanang.
+3492	Tas kuwi gedhe lan abot.
+3493	Aku pengen sepatu sing enteng.
+3494	Barange Mbak Kimura cilik lan enteng.
+3495	Pak Yamada paling dhuwur sakelas.
+3496	Aku urip ning ndhuwur.
+3497	Bengi iki aku rencanane arep sinau suwi.
+3498	Pelajaran wingi suwi.
+3499	Uwong sing awake pendek kae Mbak Kimura.
+3500	Gunung iki pendek.
+3501	Aku kudu garap gawean iki cepet.
+3502	Sedina iku cepet.
+3503	Film iki ora pathio apik.
+3504	Aku ngerti toko sing apik.
+3505	Komputer iki larang tapi apik banget.
+3506	Iki panganan sing ora apik kanggo awak.
+3507	Dina iki cuacane elek.
+3508	Pak Yamada uwonge lucu.
+3509	Pelajaran iki menarik.
+3510	Wingi pestane nyenengke.
+3511	Pelajaran basa Jepang nyenengke.
+3512	Aku ngrungoke cerita sing mbosenke saka kancaku.
+3513	Buku iki mbosenke.
+3514	Wingi aku ngrungoke cerita sing ora ngepenake.
+3515	Aku ora seneng resik-resik karo ngumbah klambi.
+3516	Iki panganan sing disenengi Pak Kobayashi.
+3517	Aku seneng banget karo kewan.
+3518	Aku pengen lungo ning nggon sing sepi lan apik.
+3519	Pak Matsui urip ning kutha sing sepi.
+3520	Ning kene kuthane gedhe rame.
+3521	Kelas sebelah rame banget.
+3522	Wingi asune tetangga ribut, aku ora isa sinau.
+3523	Uwong kae mesthi ribut nek pas pelajaran.
+3524	Pak Hayashi urip ning kutha sing uwonge akeh.
+3525	Pelajar asing ning sekolah iki akeh.
+3526	Aku pengen lungo ning nggon sing uwonge sithik.
+3527	Supermarket kae iwake sithik.
+3528	Dina iki metu omah luwih gasik.
+3529	Sesuk isuk aku arep tangi gasik.
+3530	Merga wingi kesel, isuk iki aku tangine awan.
+3531	Merga wis bengi aku bali.
+3532	Saben isuk aku mangan endog siji.
+3533	Aku nata vas kembang loro ning ndhuwur meja.
+3534	Jawaban pertanyaan iki ana telu.
+3535	Aku mesen masakan papat ning restoran.
+3536	Pak Tanaka tuku roti limo.
+3537	Enem kotak diselehke ning kamar.
+3538	Mbak Kimura gawe roti pitu.
+3539	Aku kudu tuku oleh-oleh saka mlaku-mlaku.
+3540	Ning kelas iki ana sangang tas.
+3541	Prei musim panas saka tanggal siji Agustus.
+3542	Pak Tanaka lungo ning luar negri saka tanggal wolung likur.
+3543	Sekolah lan perusahaan prei saka tanggal telu mei tekan tanggal lima mei.
+3544	Aku kudu nulis karangan nganggo basa Inggris paling ora tanggal papat.
+3545	Ulang taune Bapakku tanggal lima juni.
+3546	Saben sasi tanggal wolu, warung sayur iki dodolane murah.
+3547	Aku ngirim barang ning kantor pos tanggal enem.
+3548	Aku nyetor dhuwit paling ora tanggal pitu.
+3549	Uwong tuwaku arep teko dolan ning omahku sasi ngarep tanggal sanga.
+3550	Aku kudu garap gawean iki paling ora tanggal sepuluh.
+3551	Tanggal rong puluh sasi ikiana ujian basa Jepang.
+3552	Pak Lee urip ning Jepang dhewe.
+3553	Ning kelas ana murid siji.
+3554	Sesuk aku lungo ning kolam renang wong loro karo Pak Kimura.
+3555	Ning ngarep omah ana uwong sing ora dikenal loro.
+3556	Ning Jepang arak oleh diombe ssaka umur rong puluh taun.
+3557	Sasi ngarep adhiku sing lanang umure rong puluh taun.
+3558	Saben dina aku mangan sega ping telu.
+3559	Setaun pisan aku lungo ning luar negri.
+3560	Masakan iki nganggo endhog loro.
+3561	Aku mangan roti siji sing dikei Pak Lee.
+3562	Ning Jepang isa numpak mobil saka umur wolu las taun.
+3563	Adhiku sing wedok umur patang taun.
+3564	Ning kelas iki ana pitung komputer.
+3565	Patang mobil mandeg ning ngarep warung.
+3568	Aku ngeleboke telung sendok gula nganggo sendok.
+3569	Wingi aku ngombe rong gelas arak.
+3570	Saben isuk aku ngombe sakgelas susu.
+3571	Wingi aku tuku iwak telu ning supermarket.
+3572	Ning kono ana asu loro.
+3573	Ning omahe pak Hayashi ana kucing siji.
+3574	Aku mesthi gawa telung pensil ning sekolah.
+3575	Ning halaman omah ana batang uwit loro.
+3576	Aku mangan sega terus ngerokok sakbatang.
+3577	Saiki abotku patang puluh lima kilogram.
+3578	Barang iki abot merga bobote limang kilogram.
+3579	Saka stasiun ning perpustakaan jarake rong kilometer.
+3580	Saben isuk aku mlayu-mlayu telung kilometer.
+3581	Aku ngeleboke telung puluh gram gulo karo limo las gram uyah.
+3582	Aku tuku rong ngatus gram daging babi.
+3583	Rak buku iki dhuwure sakmeter lan ambane limang meter.
+3584	Pak Yamada iso renang satus meter.
+3585	Aku seneng kewan cilik lan lucu.
+3586	Mbak Kimura lucu banget.
+3587	Uwong sing enom lan sumringah kae Pak Yamada.
+3588	Guru kelas sebelah isih enom.
+3589	Ning kono ana peti bunder.
+3590	Meja iki bunder.
+3591	Barang sing paling tak pengen ke saiki komputer anyar.
+3592	Aku gelem kamus basa Jepang.
+3593	Pak Lee loro merga masuk angin.
+3594	Pak Yamada uwonge sumrigah banget.
+3595	Nek kakean mangan sega, awake iso dadi kuat.
+3596	Pak Yamada kuat lan sehar.
+3597	Merga sasi ngarep aku arep dolan karo Pak Lee, aku ngandani dina sing aku iso dolan.
+3598	Dina iki aku sinau tapi sesuk ora.
+3599	Bukune aja nganti ilang merga penting banget.
+3600	Iki surat sing penting banget.
+3603	Pak Tanaka lagi akeh gawean.
+3604	Aku kangelan merga kudu ngapalke akeh huruf kanji.
+3605	Iki kamus sing enteng lan praktis.
+3606	Pesawat mabur cepet lan praktis.
+3607	Iki panggon sing paling terkenal ning Jepang.
+3608	Universitas iki two lan terkenal.
+3609	Merga sasi iki sibuk, ora ana prei ne.
+3610	Sesouk aku dolan karo kancaku merga prei.
+3611	Ora oleh nganggo barang sing ana ning kono.
+3612	Mbak Kimura seneng banget barang lucu.
+3613	Aku pengen urip ning nggon sing sepi lan apik.
+3614	Iki nggon sing rame.
+3615	Wingi aku krungu berita menarik saka kancaku.
+3616	Isuk iki aku nonton acara berita ning televisi.
+3617	Aku belonjo nggo mangan bengi ning supermarket.
+3618	Minggu wingi ana kondangane mbakku.
+3619	Pak Yamada ngenehi jam pas ulang taune Pak Kobayashi.
+3620	Ulang taunku tanggal enem likur Agustus.
+3621	Buku tulis iki luwih dawa ambane ketimbang dawa ne.
+3622	Aku ngethok kertas iki saka ngisor tekan ndhuwur.
+3623	Aku mangan endhog sing dikei uyah.
+3624	Saben isuk aku mangan roti karo endhog.
+3625	Ora oleh mbukak lawang ning kono.
+3626	Lawang kamarku ora iso ditutup.
+3627	Buku iki ana satus rong puluh halaman.
+3628	Aku nyilih telepon saka Ibu Kimura.
+3629	Sesuk aku nelpon Pak Lee.
+3630	Merga aku njupuk fotone akeh, aku ora ndhuwe film meneh.
+3631	Aku ngelekobe film ning kamera.
+3632	Merga wis jam rolas bengi, aku ngomonge alon-alon.
+3633	Pak Matsui suarane gedhe.
+3634	Awake dhewe baris saka sing paling pendek.
+3635	Jaket iki praktis merga sake ana akeh.
+3636	Aku ngeleboke dhuwit ning njero sak.
+3637	Aku gawa sapu tangan nek pas metu.
+3638	Wingi sapu tanganku ketinggalan ning kelas.
+3639	Ning kamar mandi ora ana sampo.
+3640	Aku wisuh tangan nganggo sabun.
+3641	Ning Kamar mandi ora ana sabun.
+3642	Aku ngerokok nganggo korek.
+3643	Ning ndhuwur meja ana korek.
+3644	Minggu wingi aku lungo ning bioskop karo Pak Lee terus nonton film.
+3645	Gedung bioskop kae anyar lan apik.
+3646	Aku ngeleboke buku tulis lan bolpen ning njero dosgrip.
+3647	Kotak iki abot banget.
+3648	Aku nulis jawaban soal ning kertas iki.
+3649	Ning ndhuwur meja ana kertas karo pensil.
+3650	Merga dalan anyar wis dadi, desane dadi luwih gampang dijangkau.
+3651	Desa iki tenang lan ayu.
+3652	Sasi wingi ana toserba dibuka ning kota sebelah.
+3653	Aku arep urip ning kutha iki mulai taun ngarep.
+3654	Layang saka ibu sing ana ning negara asal uwis tekan.
+3655	Aku bali ning negara asal pas preinan musim panas.
+3656	Manuk lagi ngombe banyu.
+3657	Ning ndhuwur uwit kono ana manuk.
+3658	Ning omahe Pak Hayashi ana asu karo kucing.
+3659	Ning omah ana kucing lagi turu.
+3660	Aku lungo mlaku-mlaku ning taman karo asuku pas bengi.
+3661	Asuku gedhe banget.
+3662	Wingi aku dolanan karo kewan piaraanku.
+3663	Ning omahe Pak Kobayashi ana kewan piaraan.
+3664	Kewan cilik lucu banget.
+3666	Laut kae ayu tenan.
+3667	Uwing tuwaku urip ning cedak laut.
+3668	Ning gunung kae ana akeh kewan.
+3669	Sekolah ana ning cedak gunung.
+3670	Ning njero kolam ana iwak.
+3671	Ning taman ana kolam gedhe.
+3672	Kembang iki abang lan ayu.
+3673	Mbak Kimura seneng kembang.
+3674	Wingi aku ngethok uwit.
+3675	Ning halaman omahe Pak Tanaka ana uwit lan kembang.
+3676	Langit wetan mendung.
+3677	Langit amba.
+3678	Udan salju pas musim adhem ning Jepang.
+3679	Merga musim adhem, aku nguripke penghangat.
+3680	Musim gugur tekane sawise musim panas.
+3681	Aku luwih seneng musim gugur ketimbang musim semi.
+3682	Saben dina pas musim panas aku metu nganggo topi.
+3683	Musim panas ning Jepang panas banget.
+3684	Akeh kembang mekar pas musim semi.
+3685	Ning Jepang musim semi angine banter.
+3686	Minggu iki ana patang ujian.
+3687	Taun ngarep adhiku sing wedok arep melbu universitas.
+3688	Aku belonjo bareng karo kancaku terus melbu warung kopi.
+3689	Aku mesthi adus sak durunge turu.
+3690	Aku nangis pas nonton film.
+3691	Adhiku sing wedok nangis ning kamar.
+3692	Sesuk aku pengen leren sedina, tapi aku kudu mangkat sekolah.
+3693	Saben dina sibuk tapi nyenengke.
+3694	Restoran kuwi murah. Tapi, ora pathio enak.
+3695	Wingi pestane nyenengke tapi aku rada kesel.
+3696	Sega ning kantin murah lan enak.
+3697	Aku metu saka omah jam wolu terus mangkat sekolah numpak bis.
+3698	Aku arep tuku gelas iki. Bar kuwi, aku yo arep tuku piring iki.
+3699	Wingi aku nonton televisi. Bar kuwi, aku sinau basa Jepang.
+3700	Kamus iki ora pathio apik.
+3701	Bar iki ayo mangan awan bareng-bareng.
+3702	Pak Tanaka mesthi ketok sibuk.
+3703	Aku mesthi belonjo ning supermarket iki.
+3704	Suwun banget yo.
+3705	Ning meja berjejer macem-macem panganan.
+3706	Suwun. Iki wis cukup.
+3707	Pak Kobayashi pinter banget.
+3708	Aku maca buku sedilit terus turu.
+3709	Wingi aku ngombe arak setitik.
+3710	Saiki aku lagi mangan bengi.
+3711	Saiki pertandingane uwis mulai.
+3712	Sawise rampung kuliah, aku arep terus nyambut gawe.
+3713	Bojoku arep bali.
+3714	Dina iki nyenengke tenan.
+3715	Film iki menarik tenan.
+3716	Pak Lee soyo jago basa Jepang.
+3717	Mulai sasi Juli hawane soyo panas.
+3718	B: Wah, ketoke sesuk ora isa....
+3719	A: Piye nek sesuk awake dhewe lungo belonjo?
+3720	Aku kadang-kadang belonjo sayur nig warung iki.
+3721	Mbak Kimura kadang-kadang nggawe mangan bengi.
+3722	Uwong sing ana ning kono kae ketoke Pak Yamada.
+3723	Pak Hayashi ketoke ngerti berita kuwi.
+3724	Muird-murid baris lurus ning koridor.
+3725	Sawise metu saka stasiun, mlaku lurus nurut dalan kuwi.
+3726	Wingi pertama kali aku sinau piano.
+3727	Aku pertama kali ketemu karo Pak Hayashi.
+3728	Aku arep teka meneh mengko.
+3729	Minggu ngarep aku arep dolan meneh karo Pak Kobayashi.
+3730	Pak Matsui durung gawe PR.
+3731	Saiki isih jam sepuluh.
+3732	Aku uwish mangan awan ning kantin.
+3733	Adhiku sing wedok uwis turu.
+3734	Aku arep nyambut gawe sedilit meneh, bar kuwi bali.
+3735	Aku ngombe sakgelas meneh.
+3736	Tulung ngomonge alon-alon.
+3737	Aku mlaku alon-alon merga sikilku lara.
+3738	Aku pengen luwih jago basa Inggris.
+3739	Aku tuku klambi sing luwih murah.
+3740	Karangan iki ditulise apik banget.
+3741	Aku isa nggarap ujian wingi.
+3742	Dina iki aku sering ketemu karo Pak Kobayashi.
+3743	Aku sering lungo ning warung kopi kae karo Pak Kimura.
+3744	Nek uwis bali, pertama-tama aku arep nggarap PR.
+3745	Awal wulan sasi ngarep aku arep bali ning negaraku.
+3746	Arep ketemu karo sopo?
+3747	Ning kamar sebelah ana sopo?
+3748	Ana sing nggowo bolpenku?
+3749	Kowe nek mangan awan ning endi?
+3750	Ngopo kowe sinau basa Jepang?
+3751	Kowe nek mangkat ning perusahaan numpak apa?
+3752	Sing endi sing paling enak?
+3753	Ibu Kobayashi tuku sing endi?
+3754	Kuwi panganan sing kaya ngopo?
+3755	Kowe arep dadi bojo karo uwong sing kaya piye?
+3756	Pak Lee arep ngombe sing endi?
+3757	Mbak Kimura seneng sing endi?
+3758	Kowe gelem kopi?
+3759	Kowe gelem roti siji?
+3760	Pelajaran guru endi sing paling menarik?
+3761	Pak Hayashi uwong endi?
+3762	Sopo Pak Kobayashi?
+3763	Sopo guru anyar e?
+3764	Pak Yamada pengen mangan sing endi?
+3765	Kowe saka negoro endi?
+3766	Pak Tanaka, sugeng sonten.
+3767	Untung yo.
+3768	Foto kae dijupuk sasi wingi.
+3769	Uwong kae Pak Kobayashi.
+3770	Embuh, aku ora ngerti.
+3771	Yo, ayo pelajarane dimulai.
+3772	Halo, iki Kimura.
+3773	Yo, halo, iki Matsui.
+3774	Ngapura.
+3775	Suwun banget yo.
+3776	Suwon.
+3777	Iyo, bener.
+3778	Yo, ana opo?
+3779	Nek ngono, aku njaluk tulung.
+3780	Nek ngono, pelajarane dimulai.
+3781	Nek ngono, aku lungo ning omah sakit numpak bis.
+3782	Oh ngono to.
+3784	Ora.
+3785	Ombenan sing paling tak senengi ki the.
+3786	Daging oki sing paling murah.
+3787	Aku pesen panganan iki.
+3788	Bangunan iki tuwo lan terkenal.
+3789	Ora oleh melbu ning kamar kuwi.
+3790	Aku lagi nggolek dompet ireng sing kaya iki.
+3791	Aku pengen topi sing kaya iki.
+3792	Aku njaluk tulung.
+3795	Aku bali bareng karo liyane.
+3796	Aku sinau bareng karo Pak Yamada ning perpustakaan.
+3797	Piye nek awake dhewe mlaku-mlaku bareng?
+3798	Tas sing gedhe praktis.
+3799	Pak Tanaka urip nng omah gedhe.
+3800	Ning kamarku ana ana kursi cilik.
+3801	Aku lahir ning kutha cilik.
+3802	Aku ngethok buah dadi separo.
+3803	Aku mangan roti separo.
+3804	Tulung jendelane sing ning kono dibuka.
+3805	Omah sakit ning seberang stasiun.
+3806	Kabeh dadi sewi enem atus yen.
+3807	PRe wis rampung kabeh.
+3808	Ning laut akeh uwong sing lagi renang.
+3809	Akeh uwong teka ning pesta.
+3810	Sepatuku karo sepatune Mbak Kobayashi podo.
+3811	Pak Matsui sekelas karo Pak Lee.
+3812	Aku kakean ngeleboke susu ning kopi.
+3813	Dina iki aku akeh mlaku.
+3814	Pak Tanaka isa nyanyi lagu karo dolanan gitar.
+3815	Aku mangan sega karo ndelok televisi.
+3816	Wingi aku tuku sweter, rok, karo liyane ning toserba.
+3817	Ning kulkas ana endhog, sayur, buah, karo liyane.
+3818	Kowe isa dadi luwih jago basa Jepange nek sinau sithik-sithik.
+3819	Jupuk kertase siji-siji.
+3820	Bocah-bocah lagi dolanan ning taman.
+3821	Uwong-uwong kae kancaku.
+3822	Aku adhus sakdurunge turu.
+3823	Kelasmu ning lantai telu.
+3824	Nek podo lungo, aku yo lungo.
+3825	Kowe podo arep ujian kanji minggu ngarep.
+3826	Kabeh nyanyi lagu bareng-bareng.
+3827	Kabeh lagi nunggu guru ning kelas.
+3828	Kabeh mahasiswa universitis iki.
+3829	Pak Hayashi nyambut gawe ning luar negri siji setengah taun.
+3830	Merga wis jam setengah wolu, aku kudu metu.
+3831	Pak Lee pengen dolanan tenis.
+3832	Bocah-bocah pengen roti.
+3833	PRe kira-kira wis rampung separo.
+3834	Endhog siji kira-kira seket gram.
+3835	Pak Tanaka uwis tekan stasiun sekitar jam sepuluh.
+3836	Aku sering dolanan ning taman kuwi pas isih cilik.
+3837	Pelajaran mesthi mulai jam sanga lewat.
+3838	Saiki jam rolas lewat.
+3839	Ayo leren sedhilit ning cedhak kene.
+3840	Ning cedhak kono ana omahe Pak Hayashi.
+3841	Kamare adhiku sing lanang luwih sempit saka kamarku.
+3842	Aku luwih seneng bisbol ketimbang bal-balan.
+3843	Telung dina wingi aku ngethok rambut.
+3844	Aku kadang-kadang lungo ning toko buku kono.
+3845	Bulekku nyambut gawe ning toko kembang.
+3846	Asuku lucu banget.
+3847	Cerito iki tenanan.
+3848	Ora oleh ngomong karo uwong liya.
+3849	Ono barang lain sing kowe gelem?
+3850	Aku pengen mlaku-mlaku ning kabeh panggon ning Jepang.
+3851	Wingi sedina aku ora ning omah.
+3852	Aku nyilih buku saka perpustakaan terus maca.
+3853	Ning cedhak stasiun uwis dibuka restoran anyar.
+3854	Tembok kelas iki kandel.
+3855	Ibukku seneng banget karo roti.
+3856	Saben dina pas ulang taun aku mangan roti.
+3857	Wingi aku lungo ning konser karo kancaku.
+3858	Ojo khawatir merga aku ora lara.
+3859	Ibukku khawatir merga adhiku sing wedok durung bali.
+3860	Aku kerja nganggo komputer.
+3861	Aku ngurupke televisi.
+3862	Wingi aku lungo karaoke tapi ora nyanyi akeh.
+3863	Seminggu pisan aku lungo karaoke.
+3864	Aku ngandani kancaku nomor hpku.
+3865	Hp cilil lan parktis banget.
+3866	Luwih apik nek mandeg maca buku ning panggon sing peteng.
+3867	Sasi wingi aku mandeg le nyambut gawe.
+3868	Aku mangan roti sing dikei Pak Tanaka.
+3869	Aku wingi dikei oleh-oleh Pak Yamada sing saka mlaku-mlaku.
+3870	Pak Kobayashi ngenehi Mbak Kimura rotine separo.
+3871	Pak Matsui ngenehi dasi pas Pak Tanaka ulang taun.
+3872	Pelajaran dina iki tekan kene. Nek ngono, diteruske minggu ngarep.
+3873	Ujiane uwis rampung? Nek uwis, tulung dikumpulke
+3874	Arep takon. Perpustakaane ning endi?
+3875	Guru kuwi uwong sing terhormat banget.
+3876	Aku pengen dadi uwong gedhe sing terhormat.
+3877	Kabeh ana sepuluh.
+3878	Ora oleh nganggo topi pas pelajaran.
+3879	Aku lungo mlaku-mlaku ning luar negri rong minggu mulai minggu ngarep.
+3880	Aku nuduhke Mbak Kimura foto mlaku-mlaku.
+3881	Aku paling seneng warna putih.
+3882	Ning kene adhem merga suhune nol derajat.
+3883	"Kosong" podo karo "nol".
+3884	Aku tuku saklembar kartu pos ning kantor pos.
+3885	Ning omahe Pak Tanaka ana rong mobil.
+3886	Ning omahku ana telung televisi.
+3887	"4" diwaca "papat".
+3888	Keluargaku ana limang uwong.
+3889	Aku njejerke enem piring ning ndhuwur meja.
+3890	Cuacane bakal soyo panas nek uwis melbu sasi Juli.
+3891	Ning kene ana wolung lembar prangko.
+3892	Adhiku sing lanang umure sangang taun.
+3893	Tanggal sepuluh Oktober dina ulang taune masku.
+3894	Kelas sebelah isa dinggo satus uwong.
+3895	Wingi aku nyilih Pak Yamada sewu yen.
+3896	Mantel iki sepuluh ewu yen.
+3898	Bapake Mbak Kimura umure seket taun.
+3899	Aku khawatir merga adhiku sing wedok dina iki awake panas.
+3900	Minggu wingi udan terus.
+3901	Sakdurunge metu saka omah, aku merikso barangku.
+3902	Aku meriksa jawaban ujian.
+3903	Aku arep nali ning omah luwih gasik merga saiki ulang taune bojoku.
+3904	Rasa-rasane buku iki menarik tenan.
+3905	Bisk sing lungo ning bandara arep tekan saka sebrang dalan.
+3906	Lawan kata "abot" kuwi "enteng".
+3907	Ora oleh melbu kamar iki.
+3908	Nek iki dipejet, munine dadi gedhe.
+3909	Aku sekelompok karo Bapak Lee.
+3911	Aku mesthi maca buku telung puluh menit sakdurunge turu.
+3912	Aku mangan roti siji wae.
+3913	B: Siji, loro, telu, papat....
+3914	A: Ana piro?
+3915	Ning njero kulkas ana pitung endhog.
+3916	Saben dina aku lungo ning perpustakaan jam sanga.
