@@ -8,6 +8,8 @@ The TUFS Asian Language Parallel Corpus (TALPCo) is an open parallel corpus cons
 Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. [TUFS Asian Language Parallel Corpus (TALPCo)](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C3-5.pdf). _Proceedings of the Twenty-Fourth Annual Meeting of the Association for Natural Language Processing_, 436-439.
 - (For Thai and Vietnamese translations, and interpersonal meaning annotations)  
 Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta Nomura. 2019. [Interpersonal meaning annotation for Asian language corpora: The case of TUFS Asian Language Parallel Corpus (TALPCo)](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/D4-4.pdf).  _Proceedings of the Twenty-Fifth Annual Meeting of the Association for Natural Language Processing_, 846-849. [Supplement](https://github.com/matbahasa/TALPCo/blob/master/features.pdf)
+- (For Javanese translations)  
+Lestari, Sri Buti and Yoshimi Miyake. 2022. [Jawago ni mirareru taishouhyougen: Shootomuubii karano youreibuseki \[Second person expressions in Javanese: An analysis of examples from short movies\]](https://nihon-indonesia-gakkai.org/wp-content/uploads/2022/08/Journal_HPISJ_No28_2022.pdf). _Indonesia: Gengo to Bunka_ 28: 65-84.
 - (For Malay and Indonesian constituency tree annotations)  
 Nomoto, Hiroki. 2022. [Kyokushoushugi ni motoduku heiretsu tsuriibanku no kouchiku \[Building a parallel treebank based on minimalism\]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E1-4.pdf). _Proceedings of the Twenty-Eighth Annual Meeting of the Association for Natural Language Processing_, 103-107.
 
